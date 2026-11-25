@@ -1,0 +1,22 @@
+﻿domain_name,keyword,reason,status
+Human Resources & Recruitment,recruitment,"tên công ty headhunter (ITviec, OrgScale): tuyển hộ nơi khác, không phải lĩnh vực của việc làm",draft
+Human Resources & Recruitment,ứng viên,"từ mô tả quy trình tuyển dụng trong tin, xuất hiện cả ở tin ngân hàng",draft
+Human Resources & Recruitment,tuyển dụng,như trên,draft
+Human Resources & Recruitment,candidate,như trên,draft
+Transportation & Logistics,delivery,"'Project/Delivery Manager', delivery = giao sản phẩm phần mềm",draft
+Transportation & Logistics,traffic,network traffic / web traffic,draft
+Government & Public Sector,an ninh,'an ninh thông tin' = security,draft
+Government & Public Sector,cán bộ,'cán bộ nhân viên' dùng chung trong tin ngân hàng,draft
+Government & Public Sector,nhà nước,'Ngân hàng Nhà nước' / quy định nhà nước trong tin ngân hàng,draft
+Environment & Energy,environment,'work environment',draft
+Education,đào tạo,"'đào tạo nhân viên mới', 'training' chung trong tin tuyển dụng",draft
+Education,tiếng anh,yêu cầu ngoại ngữ trong tin tuyển dụng không phải lĩnh vực giáo dục,draft
+Education,mentoring,mentoring là văn hóa/phúc lợi công ty,draft
+Education,học tập,học tập và phát triển trong mô tả công ty,draft
+Education,sinh viên,sinh viên mới ra trường/thực tập trong yêu cầu,draft
+Healthcare,sức khỏe,bảo hiểm/khám sức khỏe trong phúc lợi và mô tả công ty,draft
+Environment & Energy,môi trường,môi trường làm việc chung chung (mô tả công ty),draft
+Human Resources & Recruitment,hr,"tên công ty headhunter/agency (RGF HR, HRchannels): đăng tin hộ nơi khác",draft
+News & Media,video,"'video analytics', video game...: không phải lĩnh vực truyền thông (3 tin sai qua 2 vòng chấm)",draft
+News & Media,media,'social media' và tên chung,draft
+E-commerce & Retail,mua sắm,'mua sắm thiết bị CNTT' nội bộ,draft

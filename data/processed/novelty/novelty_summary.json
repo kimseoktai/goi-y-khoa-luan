@@ -1,0 +1,39 @@
+{
+ "n_thesis": 1431,
+ "embedding_model": "intfloat/multilingual-e5-base",
+ "backend": "st",
+ "thresholds": {
+  "similar": 0.88805,
+  "duplicate": 0.93815,
+  "balanced_accuracy": 0.7641679957469432,
+  "recall_by_class": {
+   "Different": 0.7894736842105263,
+   "Similar": 0.6363636363636364,
+   "Duplicate": 0.8666666666666667
+  },
+  "source": "fitted_from_manual_labels",
+  "n_labeled": 100,
+  "class_counts": {
+   "Different": 19,
+   "Similar": 66,
+   "Duplicate": 15
+  },
+  "dataset_note": "ngưỡng khớp trên chính mẫu này (in-sample); mẫu nhỏ nên dùng như hướng dẫn, kiểm tra lại khi có thêm nhãn"
+ },
+ "nn_similarity_quantiles": {
+  "p5": 0.8623,
+  "p25": 0.8926,
+  "p50": 0.913,
+  "p75": 0.933,
+  "p90": 0.9511,
+  "p95": 0.9656,
+  "p99": 0.9847
+ },
+ "status_counts": {
+  "Similar": 849,
+  "Novel": 308,
+  "Duplicate": 274
+ },
+ "created": "2026-10-10T13:32:54",
+ "note": "Ngưỡng tạm chỉ là phân vị của phân phối; cần nhãn tay (novelty_calibration_sample.csv) để hiệu chỉnh."
+}

@@ -1,0 +1,23 @@
+﻿topic,job_count,job_share,job_ci_low,job_ci_high,thesis_count,thesis_share,thesis_ci_low,thesis_ci_high,gap,measurable_in_jobs,gap_status
+Cloud & DevOps,224,0.4308,0.3889,0.4737,22,0.0154,0.0102,0.0232,0.4154,True,demand_exceeds_supply
+Database,162,0.3115,0.2732,0.3526,24,0.0168,0.0113,0.0248,0.2948,True,demand_exceeds_supply
+Software Architecture & Engineering,100,0.1923,0.1607,0.2284,18,0.0126,0.008,0.0198,0.1797,True,demand_exceeds_supply
+Software Testing,76,0.1462,0.1184,0.1791,31,0.0217,0.0153,0.0306,0.1245,True,demand_exceeds_supply
+Data Engineering,75,0.1442,0.1166,0.177,29,0.0203,0.0141,0.029,0.124,True,demand_exceeds_supply
+Cybersecurity,65,0.125,0.0993,0.1562,47,0.0328,0.0248,0.0434,0.0922,True,demand_exceeds_supply
+Computer Networks & Infrastructure,57,0.1096,0.0856,0.1394,30,0.021,0.0147,0.0298,0.0887,True,demand_exceeds_supply
+UI/UX Design,22,0.0423,0.0281,0.0632,3,0.0021,0.0007,0.0061,0.0402,True,demand_exceeds_supply
+Web Development,140,0.2692,0.2329,0.3089,352,0.246,0.2244,0.269,0.0232,True,no_clear_gap
+Data Science & Analytics,40,0.0769,0.057,0.1031,83,0.058,0.047,0.0713,0.0189,True,no_clear_gap
+Mobile Development,33,0.0635,0.0455,0.0878,83,0.058,0.047,0.0713,0.0055,True,no_clear_gap
+Blockchain,8,0.0154,0.0078,0.0301,27,0.0189,0.013,0.0273,-0.0035,True,no_clear_gap
+AR/VR & Spatial Computing,0,0.0,0.0,0.0073,9,0.0063,0.0033,0.0119,-0.0063,False,not_measurable_from_jobs
+Generative AI & LLM,30,0.0577,0.0407,0.0812,92,0.0643,0.0527,0.0782,-0.0066,True,no_clear_gap
+IoT / Embedded,7,0.0135,0.0065,0.0275,31,0.0217,0.0153,0.0306,-0.0082,True,no_clear_gap
+Game Development,6,0.0115,0.0053,0.0249,59,0.0412,0.0321,0.0528,-0.0297,True,supply_exceeds_demand
+Information & Enterprise Systems,69,0.1327,0.1062,0.1646,236,0.1649,0.1466,0.185,-0.0322,True,no_clear_gap
+Computer Vision,23,0.0442,0.0297,0.0655,115,0.0804,0.0674,0.0956,-0.0361,True,supply_exceeds_demand
+Optimization / Operations Research,0,0.0,0.0,0.0073,67,0.0468,0.037,0.059,-0.0468,False,not_measurable_from_jobs
+Recommendation System,0,0.0,0.0,0.0073,106,0.0741,0.0616,0.0888,-0.0741,False,not_measurable_from_jobs
+Natural Language Processing,21,0.0404,0.0266,0.0609,260,0.1817,0.1626,0.2025,-0.1413,True,supply_exceeds_demand
+AI/ML,98,0.1885,0.1572,0.2243,533,0.3725,0.3478,0.3978,-0.184,True,supply_exceeds_demand

@@ -1,0 +1,132 @@
+{
+ "itviec_ld": {
+  "@context": "http://schema.org",
+  "@type": "JobPosting",
+  "industry": "Information Technology",
+  "title": "Senior Cloud Engineer Google Cloud Platform",
+  "datePosted": "2026-10-08",
+  "validThrough": "2026-11-12",
+  "skills": "Cloud, DevOps, English",
+  "description": "Top 3 Reasons To Join Us\r\nAccess to world-class cutting-edge technologies\r\nProfessional environment & great benefits \r\nFully sponsored GCP certifications & bonuses\r\nThe Job\r\n<h2><span style=\"background-color:transparent;color:rgb(0,0,0);\"><strong>About Cloud Ace Vietnam</strong></span></h2><p><span style=\"background-color:transparent;color:rgb(0,0,0);\">Cloud Ace Vietnam, a premier strategic partner of Google Cloud, delivers end-to-end cloud solutions, from consulting to system development and managed services. With a team of certified GCP experts and a strong presence across Asia, we empower businesses in banking, fintech, Web3, and beyond to achieve transformative digital success. Join our innovative, collaborative team to lead the charge in cloud excellence!</span></p><p><span style=\"background-color:transparent;color:rgb(0,0,0);\"><strong>Company website</strong>:</span></p><p><span style=\"background-color:transparent;color:rgb(0,0,0);\"><strong>Location:</strong></span><br><span style=\"background-color:transparent;color:rgb(0,0,0);\">Head Office: H3 Building, 1st Floor, 384 Hoang Dieu Street, Khanh Hoi Ward, HCMC</span></p><p><span style=\"background-color:transparent;color:rgb(0,0,0);\"><strong>Representative Office: 2nd Floor, 25T2, Hoang Dao Thuy Street, Yen Hoa Ward, HanoI&nbsp;</strong></span></p><p><span style=\"background-color:transparent;color:rgb(0,0,0);\"><strong>Apply to</strong>: or&nbsp; &nbsp;</span></p><h2><span style=\"background-color:transparent;color:rgb(0,0,0",
+  "potentialAction": {
+   "@type": "ApplyAction",
+   "target": "https://itviec.com/job/senior-cloud-engineer-google-cloud-platform-cloud-ace-0658/job_applications/new"
+  },
+  "hiringOrganization": {
+   "@type": "Organization",
+   "logo": "",
+   "name": "Cloud Ace",
+   "description": "Cloud Ace - Google Cloud Diamond Partner"
+  },
+  "employmentType": "FULL_TIME",
+  "jobLocation": [
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "Floor 2, Toong Hoang Dao Thuy, Yen Hoa Ward",
+     "addressLocality": "Quận Cầu Giấy",
+     "addressRegion": "Hà Nội",
+     "postalCode": "100000",
+     "addressCountry": "VN"
+    }
+   }
+  ],
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "USD",
+   "value": {
+    "@type": "QuantitativeValue",
+    "minValue": 1500,
+    "maxValue": 3000,
+    "unitText": "MONTH",
+    "value": "1,500 - 3,000 USD"
+   }
+  },
+  "directApply": "TRUE",
+  "jobBenefits": "<p>&nbsp;</p><h2><span style=\"background-color:transparent;color:rgb(0,0,0);\"><strong>Why Join Us?</strong></span></h2><ul><li><span style=\"background-color:transparent;color:rgb(0,0,0);\"><strong>High-Impact Projects:</strong> Lead transformative solutions for banking, fintech, and Web3 clients, dri",
+  "experienceRequirements": {
+   "@type": "OccupationalExperienceRequirements",
+   "monthsOfExperience": 37
+  }
+ },
+ "careerviet_ld": {
+  "@context": "http://schema.org",
+  "@type": "JobPosting",
+  "inLanguage": "vi",
+  "title": "IP Network Engineer",
+  "description": "\n        <p><strong>COMPANY BACKGROUND/CULTURE</strong></p><p>Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices. We have 207,000+ employees and operate in over 170 countries and regions, serving more than three billion people around the world. <strong><em>We are committed to bringing digital to every person, home and organization for a fully connected, intelligent world.</em></strong></p><p><strong>JOB DESCRIPTION</strong></p><p>• Technical solution consultant for customer (IP/Datacom/FTTx).</p><p>• Responsible for designing, implementing and troubleshooting of Huawei Enterprise Networking products and solutions.</p><p>• Enable and supervise Huawei authorized partners on how to test, design, implement and maintain Huawei Enterprise Service products integrated into their solutions.</p><p>• Work closely and proactively with Presales Sales team to ensure early engagement to sales opportunities and bid creation such as Prove of Concept (POC) testing, technical clarification, etc.</p>\n        <p><strong>JOB REQUIREMENTS</strong></p><p>• Bachelor's degree in Telecommunication or related fields.</p><p>• Minimum 2 years of working experience in telecommunication industry hands-on aftersales experience in enterprise services for IT vendors, system integrators or service providers with a proven track record.</p><p>• In-depth knowledge and practical experience in Networking technology such LAN, WLAN, WAN and Security<",
+  "datePosted": "2026-10-18T02:00:13.288Z",
+  "validThrough": "2026-11-15T23:59:00Z",
+  "baseSalary": {
+   "@type": "MonetaryAmount",
+   "currency": "VND",
+   "value": {
+    "@type": "QuantitativeValue",
+    "value": "Cạnh tranh",
+    "unitText": "MONTH"
+   }
+  },
+  "industry": "CNTT - Phần mềm, Bưu chính viễn thông, CNTT - Phần cứng / Mạng",
+  "jobBenefits": "Chế độ bảo hiểm, Du Lịch, Chế độ thưởng, Chăm sóc sức khỏe, Đào tạo, Tăng lương",
+  "experienceRequirements": {
+   "@type": "OccupationalExperienceRequirements",
+   "monthsOfExperience": 24,
+   "description": "Kinh nghiệm 2 Năm"
+  },
+  "educationRequirements": {
+   "@type": "EducationalOccupationalCredential",
+   "credentialCategory": "bachelor degree",
+   "alternateName": "Đại học/Cử nhân"
+  },
+  "directApply": true,
+  "url": "https://careerviet.vn/vi/tim-viec-lam/ip-network-engineer.35C8737C.html",
+  "identifier": {
+   "@type": "PropertyValue",
+   "name": "CÔNG TY TNHH CÔNG NGHỆ HUAWEI VIỆT NAM",
+   "value": "35C8737C"
+  },
+  "hiringOrganization": {
+   "@type": "Organization",
+   "name": "CÔNG TY TNHH CÔNG NGHỆ HUAWEI VIỆT NAM",
+   "url": "https://careerviet.vn/vi/nha-tuyen-dung/cong-ty-tnhh-cong-nghe-huawei-viet-nam.35A9F4CA.html",
+   "sameAs": null,
+   "logo": "",
+   "description": ""
+  },
+  "employmentType": [
+   "\"FULL_TIME\""
+  ],
+  "jobLocation": {
+   "@type": "Place",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15th Floor, Taisei Square Hanoi, 289 Khuat Duy Tien street, Dai Mo Ward, Ha Noi",
+    "addressRegion": "Quận Cầu Giấy",
+    "addressLocality": "Hà Nội",
+    "postalCode": "10000",
+    "addressCountry": "VN"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "21.0024397",
+    "longitude": "105.793831"
+   }
+  },
+  "skills": "IP Network Engineer, Network Administrator, Chuyên viên quản trị mạng, Nhân viên quản trị mạng, Kỹ sư quản trị mạng, IT Admin, IT Administrator",
+  "workHours": "8:00-17:00",
+  "applicantLocationRequirements": {
+   "@type": "Country",
+   "name": "Việt Nam"
+  }
+ },
+ "itviec_list_slugs": [],
+ "careerviet_total": [
+  "583"
+ ],
+ "careerviet_list_links": [
+  "/vi/tim-viec-lam/ip-network-engineer.35C8737C.html",
+  "/vi/tim-viec-lam/transmission-engineer.35C87378.html",
+  "/vi/tim-viec-lam/ip-engineer.35C87374.html"
+ ]
+}

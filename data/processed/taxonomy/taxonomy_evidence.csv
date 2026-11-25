@@ -1,0 +1,40 @@
+﻿type,id,name,status,thesis_hits,thesis_pct,job_hits_desc,job_pct_desc,job_hits_title_skills,job_pct_title_skills,gold_label_support,kw_precision_vs_gold,kw_recall_vs_gold
+technical_topic,T01,AI/ML,draft,168,11.7,131,25.2,111,21.3,106,0.92,0.43
+technical_topic,T02,Natural Language Processing,draft,59,4.1,29,5.6,21,4.0,47,0.88,0.15
+technical_topic,T03,Computer Vision,draft,70,4.9,47,9.0,23,4.4,28,0.73,0.39
+technical_topic,T04,Generative AI & LLM,draft,103,7.2,74,14.2,68,13.1,0,,
+technical_topic,T05,Recommendation System,draft,101,7.1,126,24.2,0,0.0,25,0.95,0.84
+technical_topic,T06,Data Science & Analytics,draft,28,2.0,113,21.7,81,15.6,19,1.0,0.21
+technical_topic,T07,Data Engineering,draft,14,1.0,136,26.2,116,22.3,0,,
+technical_topic,T08,Cloud & DevOps,draft,23,1.6,294,56.5,294,56.5,0,,
+technical_topic,T09,Web Development,draft,288,20.1,258,49.6,234,45.0,71,0.96,0.7
+technical_topic,T10,Mobile Development,draft,79,5.5,76,14.6,50,9.6,31,0.93,0.87
+technical_topic,T11,Cybersecurity,draft,34,2.4,213,41.0,106,20.4,22,0.92,0.5
+technical_topic,T12,Computer Networks & Infrastructure,draft,8,0.6,109,21.0,95,18.3,15,0.75,0.2
+technical_topic,T13,IoT / Embedded,draft,14,1.0,29,5.6,28,5.4,20,0.92,0.55
+technical_topic,T14,Software Testing,draft,30,2.1,226,43.5,153,29.4,30,1.0,0.97
+technical_topic,T15,Database,draft,24,1.7,247,47.5,246,47.3,0,,
+technical_topic,T16,Software Architecture & Engineering,draft,18,1.3,234,45.0,95,18.3,0,,
+technical_topic,T17,Information & Enterprise Systems,draft,235,16.4,177,34.0,49,9.4,28,0.66,0.96
+technical_topic,T18,Game Development,draft,59,4.1,14,2.7,12,2.3,17,0.77,1.0
+technical_topic,T19,Optimization / Operations Research,draft,59,4.1,159,30.6,0,0.0,19,0.68,0.79
+technical_topic,T20,UI/UX Design,candidate,7,0.5,103,19.8,55,10.6,0,,
+technical_topic,T21,Blockchain,candidate,31,2.2,9,1.7,8,1.5,0,,
+technical_topic,T22,AR/VR & Spatial Computing,candidate,9,0.6,3,0.6,0,0.0,0,,
+domain,D01,Finance & Banking,draft,61,4.3,146,28.1,0,0.0,20,0.92,0.6
+domain,D02,Healthcare,draft,39,2.7,15,2.9,0,0.0,21,0.93,0.62
+domain,D03,Education,draft,109,7.6,79,15.2,0,0.0,35,0.96,0.74
+domain,D04,E-commerce & Retail,draft,100,7.0,26,5.0,0,0.0,24,0.92,0.5
+domain,D05,Tourism & Hospitality,draft,84,5.9,11,2.1,0,0.0,19,0.79,1.0
+domain,D06,Transportation & Logistics,draft,29,2.0,124,23.8,24,4.6,0,,
+domain,D07,Agriculture,draft,19,1.3,1,0.2,0,0.0,0,,
+domain,D08,News & Media,draft,50,3.5,24,4.6,0,0.0,22,0.75,0.55
+domain,D09,Entertainment & Gaming,draft,49,3.4,16,3.1,6,1.2,0,,
+domain,D10,Real Estate & Construction,draft,24,1.7,11,2.1,0,0.0,0,,
+domain,D11,Government & Public Sector,draft,9,0.6,47,9.0,0,0.0,0,,
+domain,D12,Manufacturing & Industry,draft,10,0.7,19,3.7,0,0.0,0,,
+domain,D13,Environment & Energy,draft,14,1.0,83,16.0,0,0.0,0,,
+domain,D14,Human Resources & Recruitment,draft,36,2.5,69,13.3,0,0.0,0,,
+domain,D15,Social & Community,candidate,45,3.1,48,9.2,0,0.0,0,,
+domain,D16,Telecommunications,candidate,1,0.1,6,1.2,0,0.0,0,,
+domain,D17,Sports & Fitness,candidate,14,1.0,1,0.2,0,0.0,0,,

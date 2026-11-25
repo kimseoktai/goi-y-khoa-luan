@@ -1,0 +1,25 @@
+﻿item,rank,job_count,share,ci_low,ci_high,n_companies,top_company_share,support_ok,concentrated
+Software Engineer,1,99,0.1011,0.0838,0.1216,82,0.03,True,False
+AI/ML Engineer,2,93,0.095,0.0782,0.115,76,0.054,True,False
+Business Analyst,3,85,0.0868,0.0708,0.1061,81,0.024,True,False
+QA/Tester,4,79,0.0807,0.0652,0.0994,74,0.025,True,False
+IT Support/Operations,5,75,0.0766,0.0616,0.095,66,0.04,True,False
+DevOps/Cloud Engineer,6,58,0.0592,0.0461,0.0758,49,0.086,True,False
+Project/Delivery Manager,7,58,0.0592,0.0461,0.0758,53,0.052,True,False
+Backend Developer,8,48,0.049,0.0372,0.0644,43,0.042,True,False
+Security Engineer,9,48,0.049,0.0372,0.0644,37,0.104,True,False
+Fullstack Developer,10,39,0.0398,0.0293,0.054,36,0.051,True,False
+Solution/System Architect,11,35,0.0358,0.0258,0.0493,28,0.114,True,False
+ERP/IT Consultant,12,34,0.0347,0.025,0.0481,31,0.059,True,False
+Data Analyst,13,30,0.0306,0.0215,0.0434,26,0.067,True,False
+System/Network Engineer,14,30,0.0306,0.0215,0.0434,26,0.1,True,False
+Data Engineer,15,29,0.0296,0.0207,0.0422,26,0.103,True,False
+Embedded Engineer,16,24,0.0245,0.0165,0.0362,13,0.292,True,False
+Data Governance/Quality,17,18,0.0184,0.0117,0.0289,14,0.167,True,False
+IT Risk/Governance/Audit,18,18,0.0184,0.0117,0.0289,15,0.222,True,False
+Database Administrator,19,17,0.0174,0.0109,0.0276,17,0.059,True,False
+Product Owner/Manager,20,17,0.0174,0.0109,0.0276,17,0.059,True,False
+Mobile Developer,21,15,0.0153,0.0093,0.0251,14,0.133,True,False
+Game Developer,22,13,0.0133,0.0078,0.0226,11,0.154,True,False
+Frontend Developer,23,12,0.0123,0.007,0.0213,12,0.083,True,False
+UI/UX Designer,24,5,0.0051,0.0022,0.0119,5,0.2,False,False

@@ -1,0 +1,26 @@
+﻿item,rank,job_count,share,ci_low,ci_high,n_companies,top_company_share,support_ok,concentrated
+Backend Developer,1,55,0.1058,0.0822,0.1352,47,0.055,True,False
+AI/ML Engineer,2,53,0.1019,0.0788,0.1309,34,0.189,True,False
+QA/Tester,3,50,0.0962,0.0737,0.1245,42,0.06,True,False
+Security Engineer,4,38,0.0731,0.0537,0.0987,28,0.079,True,False
+DevOps/Cloud Engineer,5,33,0.0635,0.0455,0.0878,29,0.061,True,False
+Fullstack Developer,6,33,0.0635,0.0455,0.0878,28,0.061,True,False
+Business Analyst,7,32,0.0615,0.0439,0.0856,32,0.031,True,False
+Data Engineer,8,31,0.0596,0.0423,0.0834,20,0.194,True,False
+Project/Delivery Manager,9,24,0.0462,0.0312,0.0678,20,0.125,True,False
+Mobile Developer,10,21,0.0404,0.0266,0.0609,20,0.095,True,False
+System/Network Engineer,11,21,0.0404,0.0266,0.0609,16,0.143,True,False
+Software Engineer,12,19,0.0365,0.0235,0.0564,17,0.105,True,False
+Data Analyst,13,14,0.0269,0.0161,0.0447,10,0.214,True,False
+Solution/System Architect,14,14,0.0269,0.0161,0.0447,10,0.214,True,False
+IT Support/Operations,15,13,0.025,0.0147,0.0423,13,0.077,True,False
+ERP/IT Consultant,16,11,0.0212,0.0119,0.0375,11,0.091,True,False
+Data Governance/Quality,17,10,0.0192,0.0105,0.035,9,0.2,True,False
+Product Owner/Manager,18,9,0.0173,0.0091,0.0326,9,0.111,False,False
+Database Administrator,19,7,0.0135,0.0065,0.0275,5,0.429,False,False
+IT Risk/Governance/Audit,20,7,0.0135,0.0065,0.0275,7,0.143,False,False
+UI/UX Designer,21,7,0.0135,0.0065,0.0275,7,0.143,False,False
+Embedded Engineer,22,6,0.0115,0.0053,0.0249,5,0.333,False,False
+Frontend Developer,23,6,0.0115,0.0053,0.0249,6,0.167,False,False
+Game Developer,24,5,0.0096,0.0041,0.0223,4,0.4,False,False
+Bridge Engineer,25,1,0.0019,0.0003,0.0108,1,1.0,False,False

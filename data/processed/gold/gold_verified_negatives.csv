@@ -1,0 +1,27 @@
+﻿thesis_id,title,label_type,label_name
+1175,Ứng Dụng Trợ Lý Ảo Giao Tiếp Bằng Giọng Nói Dựa Trên ChatGPT,technical_topic,Generative AI & LLM
+17,Xây dựng chatbot song ngữ hỗ trợ tra cứu thông tin môn học dựa trên mô hình RAG,technical_topic,Generative AI & LLM
+53,XD chatbot hỗ trợ học toán lớp 5,technical_topic,Generative AI & LLM
+262,Xây dựng và phát triển website thương mại điện tử bán đồ công nghệ kết hợp với chatbot,technical_topic,Generative AI & LLM
+269,Xây dựng Website bán điện thoại di động tích hợp chatbot,technical_topic,Generative AI & LLM
+293,Xây dựng Website thương mại điện tử và tích hợp chatbot cho cửa hàng thời trang Fashion Style,technical_topic,Generative AI & LLM
+333,Nghiên cứu các kỹ thuật tinh chỉnh mô hình ngôn ngữ lớn hiện đại và ứng dụng xây dựng chatbot cho Đại học Kinh tế Quốc dân,technical_topic,Generative AI & LLM
+370,Xây dựng Website thương mại điện tử có tích hợp Chatbot,technical_topic,Generative AI & LLM
+377,Xây dựng Website tích hợp Chatbot hỗ trợ quản lý đặt phòng khách sạn,technical_topic,Generative AI & LLM
+385,Xây dựng Chatbot trò chuyện và giải các phép toán đơn giản,technical_topic,Generative AI & LLM
+423,Xây dựng hệ thống quản tlys và đặt bàn cafebook tích hợp chatbot AI hộ trợ tư vấn,technical_topic,Generative AI & LLM
+430,XÂY DỰNG HỆ THỐNG ĐẶT VÉ XEM PHIM ĐA RẠP MOVIX TÍCH HỢP CÔNG NGHỆ 3D VIEW VÀ CHATBOT AI,technical_topic,Generative AI & LLM
+435,XÂY DỰNG HỆ THỐNG QUẢN LÝ BÁN QUÀN ÁO TÍCH HỢP CHATBOT AI HỖ TRỢ TƯ VẤN KHÁCH HÀNG,technical_topic,Generative AI & LLM
+444,XÂY DỰNG THƯ VIỆN HỆ THỐNG SỐ TÍCH HỢP CHATBOT AI,technical_topic,Generative AI & LLM
+453,XÂY DỰNG WEBSITE POPCINEMA – HỆ THỐNG QUẢN LÝ ĐẶT VÉ XEM PHIM TRỰC TUYẾN ỨNG DỤNG CHATBOT AI VÀ MÔ PHỎNG PHÒNG CHIẾU 360°,technical_topic,Generative AI & LLM
+457,THIẾT KẾ VÀ TRIỂN KHAI HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ THÔNG MINH ỨNG DỤNG NHẬN DIỆN HÌNH ẢNH VÀ CHATBOT AI TRONG ĐỀ XUẤT SẢN PHẨM GIÀY THỜI TRANG,technical_topic,Generative AI & LLM
+458,Xây dựng hệ thống thương mại điện tử thông minh CentralFashion tích hợp AI Chatbot và cá nhân hóa gợi ý sản phẩm,technical_topic,Generative AI & LLM
+534,HỖ TRỢ GỠ LỖI CI/CD PIPELINE BẢNG PHƯƠNG PHÁP PHÂN TÍCH LOG ỨNG DỤNG AI,technical_topic,Data Engineering
+786,Xây dựng kho dữ liệu cho dịch vụ mua bán trực tuyến và chăm sóc khách hàng,technical_topic,Data Engineering
+802,Xây dựng nền tảng streaming trực tuyến,technical_topic,Data Engineering
+808,Xây dựng và khai thác kho dữ liệu nhằm đề xuất chiến lược kinh doanh cho doanh nghiệp,technical_topic,Data Engineering
+534,HỖ TRỢ GỠ LỖI CI/CD PIPELINE BẢNG PHƯƠNG PHÁP PHÂN TÍCH LOG ỨNG DỤNG AI,technical_topic,Cloud & DevOps
+733,"Xây dựng công cụ thu thập, xử lý, phân tích và truy vấn động hỗ trợ dữ liệu lớn",technical_topic,Database
+720,Website khuyến nghị hỗ trợ học tập Cơ sở dữ liệu,technical_topic,Database
+595,Xây dựng hệ thống tư vấn tìm kiếm nhà cho thuê dựa trên khai phá nhật ký truy vấn,technical_topic,Database
+1319,Phát triển phần mềm chatbot dựa vào mô hình ngôn ngữ lớn để truy xuất thông tin từ cơ sở dữ liệu quan hệ cho nghiệp vụ đào tạo đại học,technical_topic,Database

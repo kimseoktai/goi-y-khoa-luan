@@ -1,0 +1,18 @@
+﻿topic,domain,job_count,share_of_all_jobs,n_companies,support_ok
+Cloud & DevOps,Finance & Banking,86,0.1654,39,True
+Database,Finance & Banking,65,0.125,24,True
+AI/ML,Finance & Banking,58,0.1115,16,True
+Data Engineering,Finance & Banking,45,0.0865,22,True
+Web Development,Finance & Banking,43,0.0827,21,True
+Software Architecture & Engineering,Finance & Banking,38,0.0731,24,True
+Cybersecurity,Finance & Banking,33,0.0635,21,True
+Data Science & Analytics,Finance & Banking,28,0.0538,12,True
+Information & Enterprise Systems,Finance & Banking,22,0.0423,15,True
+Computer Networks & Infrastructure,Finance & Banking,21,0.0404,13,True
+Software Testing,Finance & Banking,19,0.0365,13,True
+Computer Vision,Finance & Banking,17,0.0327,4,True
+Natural Language Processing,Finance & Banking,14,0.0269,2,False
+Generative AI & LLM,Finance & Banking,8,0.0154,5,False
+Mobile Development,Finance & Banking,8,0.0154,7,False
+UI/UX Design,Finance & Banking,5,0.0096,4,False
+Game Development,Entertainment & Gaming,5,0.0096,5,False

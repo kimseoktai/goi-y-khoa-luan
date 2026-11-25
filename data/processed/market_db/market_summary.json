@@ -1,0 +1,14 @@
+{
+ "n_jobs": 979,
+ "n_companies": 517,
+ "top_company": "Ngân Hàng TMCP Quân Đội",
+ "top_company_jobs": 23,
+ "companies_unknown": 0,
+ "top5_company_share": 0.086,
+ "jobs_with_domain": 508,
+ "jobs_without_domain": 471,
+ "n_thesis": 1433,
+ "min_support": 10,
+ "min_companies": 3,
+ "trend_analysis": "không thực hiện: dữ liệu không có ngày đăng"
+}

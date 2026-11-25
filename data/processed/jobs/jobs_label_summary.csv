@@ -1,0 +1,214 @@
+﻿type,label,taxonomy_status,job_count,pct
+technical_topic,AI/ML,active,98,18.8
+technical_topic,Natural Language Processing,active,21,4.0
+technical_topic,Computer Vision,active,23,4.4
+technical_topic,Generative AI & LLM,active,30,5.8
+technical_topic,Recommendation System,active,0,0.0
+technical_topic,Data Science & Analytics,active,40,7.7
+technical_topic,Data Engineering,active,75,14.4
+technical_topic,Cloud & DevOps,active,224,43.1
+technical_topic,Web Development,active,140,26.9
+technical_topic,Mobile Development,active,33,6.3
+technical_topic,Cybersecurity,active,65,12.5
+technical_topic,Computer Networks & Infrastructure,active,57,11.0
+technical_topic,IoT / Embedded,active,7,1.3
+technical_topic,Software Testing,active,76,14.6
+technical_topic,Database,active,162,31.2
+technical_topic,Software Architecture & Engineering,active,100,19.2
+technical_topic,Information & Enterprise Systems,active,69,13.3
+technical_topic,Game Development,active,6,1.2
+technical_topic,Optimization / Operations Research,active,0,0.0
+technical_topic,UI/UX Design,candidate,22,4.2
+technical_topic,Blockchain,active,8,1.5
+technical_topic,AR/VR & Spatial Computing,candidate,0,0.0
+domain,Finance & Banking,active,197,37.9
+domain,Healthcare,active,1,0.2
+domain,Education,active,4,0.8
+domain,E-commerce & Retail,active,8,1.5
+domain,Tourism & Hospitality,active,6,1.2
+domain,Transportation & Logistics,active,5,1.0
+domain,Agriculture,active,0,0.0
+domain,News & Media,active,4,0.8
+domain,Entertainment & Gaming,active,7,1.3
+domain,Real Estate & Construction,active,2,0.4
+domain,Government & Public Sector,active,2,0.4
+domain,Manufacturing & Industry,active,1,0.2
+domain,Environment & Energy,active,1,0.2
+domain,Human Resources & Recruitment,active,0,0.0
+domain,Social & Community,candidate,0,0.0
+domain,Telecommunications,candidate,0,0.0
+domain,Sports & Fitness,candidate,0,0.0
+technology,.NET,,36,6.9
+technology,3D Modeling,,2,0.4
+technology,AI,,210,40.4
+technology,ARM Cortex,,1,0.2
+technology,AUTOSAR,,4,0.8
+technology,AWS,,133,25.6
+technology,Adobe Creative Suite,,6,1.2
+technology,Agentic AI,,20,3.8
+technology,Airflow,,15,2.9
+technology,Android,,25,4.8
+technology,Angular,,18,3.5
+technology,Ansible,,29,5.6
+technology,Appium,,9,1.7
+technology,Application Security,,19,3.7
+technology,Azure,,83,16.0
+technology,Big Data,,36,6.9
+technology,BigQuery,,9,1.7
+technology,Blazor,,3,0.6
+technology,Blockchain,,8,1.5
+technology,Business Intelligence,,5,1.0
+technology,C,,3,0.6
+technology,C#,,35,6.7
+technology,C++,,28,5.4
+technology,CANoe,,2,0.4
+technology,CI/CD,,157,30.2
+technology,CRM,,21,4.0
+technology,Cloud Computing,,188,36.2
+technology,Cloud Security,,15,2.9
+technology,Computer Vision,,23,4.4
+technology,Cybersecurity,,75,14.4
+technology,Cypress,,10,1.9
+technology,Dart,,4,0.8
+technology,Data Analysis,,51,9.8
+technology,Data Governance,,36,6.9
+technology,Data Mining,,2,0.4
+technology,Data Modeling,,20,3.8
+technology,Data Privacy,,17,3.3
+technology,Data Quality,,37,7.1
+technology,Data Science,,51,9.8
+technology,Data Warehouse,,34,6.5
+technology,Database,,133,25.6
+technology,Databricks,,12,2.3
+technology,Deep Learning,,11,2.1
+technology,Design Systems,,14,2.7
+technology,DevOps,,106,20.4
+technology,DevSecOps,,18,3.5
+technology,Digital Forensics,,3,0.6
+technology,Django,,14,2.7
+technology,Docker,,113,21.7
+technology,DynamoDB,,7,1.3
+technology,EDR,,15,2.9
+technology,ERP,,27,5.2
+technology,ETL,,30,5.8
+technology,Elasticsearch,,30,5.8
+technology,Embedded Systems,,21,4.0
+technology,Express.js,,3,0.6
+technology,FastAPI,,22,4.2
+technology,Figma,,22,4.2
+technology,Firebase,,6,1.2
+technology,Firewall,,23,4.4
+technology,Firmware,,5,1.0
+technology,Flask,,15,2.9
+technology,Flutter,,14,2.7
+technology,GCP,,75,14.4
+technology,Game Development,,2,0.4
+technology,Generative AI,,22,4.2
+technology,Git,,140,26.9
+technology,Go,,11,2.1
+technology,Grafana,,32,6.2
+technology,GraphQL,,17,3.3
+technology,HTML/CSS,,25,4.8
+technology,Hadoop,,8,1.5
+technology,Hibernate,,7,1.3
+technology,Hyper-V,,2,0.4
+technology,IAM,,20,3.8
+technology,IDS/IPS,,16,3.1
+technology,ISO 27001,,26,5.0
+technology,Incident Response,,27,5.2
+technology,Infrastructure as Code,,34,6.5
+technology,Integration Testing,,18,3.5
+technology,JMeter,,8,1.5
+technology,Java,,109,21.0
+technology,JavaScript,,42,8.1
+technology,Jenkins,,42,8.1
+technology,Jira,,46,8.8
+technology,Kafka,,54,10.4
+technology,Kotlin,,17,3.3
+technology,Kubernetes,,102,19.6
+technology,LLM,,51,9.8
+technology,Laravel,,4,0.8
+technology,Linux,,77,14.8
+technology,MATLAB,,4,0.8
+technology,MLOps,,22,4.2
+technology,Machine Learning,,105,20.2
+technology,MariaDB,,6,1.2
+technology,Microsoft Dynamics 365,,1,0.2
+technology,Mobile Development,,12,2.3
+technology,MongoDB,,41,7.9
+technology,MySQL,,54,10.4
+technology,NLP,,21,4.0
+technology,NestJS,,7,1.3
+technology,Networking,,48,9.2
+technology,Next.js,,14,2.7
+technology,NoSQL,,31,6.0
+technology,Node.js,,40,7.7
+technology,NumPy,,3,0.6
+technology,OWASP,,18,3.5
+technology,Objective-C,,1,0.2
+technology,Odoo,,6,1.2
+technology,OpenStack,,4,0.8
+technology,Oracle Database,,66,12.7
+technology,PCI DSS,,10,1.9
+technology,PHP,,10,1.9
+technology,PL/SQL,,4,0.8
+technology,Pandas,,7,1.3
+technology,Penetration Testing,,14,2.7
+technology,Performance Testing,,21,4.0
+technology,Playwright,,22,4.2
+technology,PostgreSQL,,71,13.7
+technology,Postman,,20,3.8
+technology,Power BI,,12,2.3
+technology,PowerShell,,16,3.1
+technology,Prometheus,,24,4.6
+technology,Prompt Engineering,,7,1.3
+technology,PyTorch,,17,3.3
+technology,Python,,137,26.3
+technology,RAG,,25,4.8
+technology,REST API,,175,33.7
+technology,RTOS,,4,0.8
+technology,RabbitMQ,,16,3.1
+technology,React,,58,11.2
+technology,React Native,,6,1.2
+technology,Redis,,32,6.2
+technology,Robot Framework,,4,0.8
+technology,Ruby,,7,1.3
+technology,Ruby on Rails,,7,1.3
+technology,Rust,,3,0.6
+technology,SAP,,9,1.7
+technology,SIEM,,23,4.4
+technology,SOAR,,8,1.5
+technology,SQL,,146,28.1
+technology,SQL Server,,40,7.7
+technology,Salesforce,,2,0.4
+technology,Scala,,7,1.3
+technology,Scikit-learn,,9,1.7
+technology,Security Hardening,,1,0.2
+technology,Selenium,,21,4.0
+technology,ServiceNow,,2,0.4
+technology,Shell Scripting,,47,9.0
+technology,Shopify,,5,1.0
+technology,Snowflake,,4,0.8
+technology,Software Testing,,85,16.3
+technology,Spark,,19,3.7
+technology,Spring Boot,,39,7.5
+technology,Swift,,9,1.7
+technology,System Administration,,17,3.3
+technology,Tableau,,9,1.7
+technology,TensorFlow,,18,3.5
+technology,Terraform,,42,8.1
+technology,Test Automation,,56,10.8
+technology,TestComplete,,2,0.4
+technology,TypeScript,,34,6.5
+technology,UI/UX Design,,40,7.7
+technology,Unit Testing,,39,7.5
+technology,Unity,,12,2.3
+technology,VMware,,12,2.3
+technology,Vue.js,,19,3.7
+technology,Vulnerability Management,,8,1.5
+technology,Windows Server,,11,2.1
+technology,Wireframing,,11,2.1
+technology,Zephyr,,2,0.4
+technology,dbt,,6,1.2
+technology,gRPC,,27,5.2
+technology,iOS,,20,3.8

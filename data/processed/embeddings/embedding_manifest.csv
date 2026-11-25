@@ -1,0 +1,8 @@
+﻿set,model,backend,dim,count,created_at
+jobs,intfloat/multilingual-e5-base,st,768,520,2026-10-05
+gold,intfloat/multilingual-e5-base,st,768,586,2026-11-13
+gold_negatives,intfloat/multilingual-e5-base,st,768,26,2026-11-13
+technical_topics,intfloat/multilingual-e5-base,st,768,22,2026-11-13
+domains,intfloat/multilingual-e5-base,st,768,17,2026-11-13
+thesis,intfloat/multilingual-e5-base,st,768,1431,2026-11-13
+jobs_db,intfloat/multilingual-e5-base,st,768,979,2026-11-13

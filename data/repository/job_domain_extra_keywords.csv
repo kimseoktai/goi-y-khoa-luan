@@ -1,0 +1,12 @@
+﻿domain_name,keyword,reason,seen_in_sample,status
+Finance & Banking,financial,tính từ của 'finance' (tin tiếng Anh dùng 'financial'),"MoMo, quant data",draft
+Finance & Banking,sàn giao dịch,sàn giao dịch tài sản/chứng khoán,CAEX,draft
+Finance & Banking,tài sản mã hóa,sàn tài sản mã hóa,CAEX,draft
+Finance & Banking,ví điện tử,ví điện tử/thanh toán di động,,draft
+Finance & Banking,e-wallet,như trên,,draft
+Education,tutor,gia sư/học kèm,,draft
+Education,learner,người học,,draft
+Education,mentoring,kèm cặp học sinh (TeenUp),TeenUp,draft
+Education,edutech,biến thể của edtech,vòng chấm DB 2,draft
+Healthcare,clinic,phòng khám (tên công ty/mô tả tiếng Anh),vòng chấm DB 2,draft
+Healthcare,phòng khám,phòng khám,vòng chấm DB 2,draft

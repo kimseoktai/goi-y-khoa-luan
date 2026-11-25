@@ -1,0 +1,39 @@
+﻿topic,domain,job_count,share_of_all_jobs,n_companies,support_ok
+Information & Enterprise Systems,Finance & Banking,70,0.0715,48,True
+Cloud & DevOps,Finance & Banking,67,0.0684,37,True
+Database,Finance & Banking,49,0.0501,27,True
+Cybersecurity,Finance & Banking,39,0.0398,26,True
+Web Development,Finance & Banking,38,0.0388,26,True
+Data Engineering,Finance & Banking,35,0.0358,19,True
+Computer Networks & Infrastructure,Finance & Banking,31,0.0317,23,True
+AI/ML,Finance & Banking,29,0.0296,20,True
+Data Science & Analytics,Finance & Banking,29,0.0296,12,True
+Software Architecture & Engineering,Finance & Banking,27,0.0276,17,True
+Information & Enterprise Systems,E-commerce & Retail,20,0.0204,18,True
+Information & Enterprise Systems,Manufacturing & Industry,19,0.0194,18,True
+Information & Enterprise Systems,Healthcare,18,0.0184,10,True
+Software Testing,Finance & Banking,14,0.0143,12,True
+Computer Networks & Infrastructure,Manufacturing & Industry,14,0.0143,13,True
+Information & Enterprise Systems,Transportation & Logistics,14,0.0143,14,True
+Data Science & Analytics,E-commerce & Retail,12,0.0123,10,True
+Game Development,Entertainment & Gaming,12,0.0123,10,True
+Database,Healthcare,10,0.0102,6,True
+Generative AI & LLM,Finance & Banking,9,0.0092,8,False
+Cloud & DevOps,Manufacturing & Industry,8,0.0082,7,False
+Mobile Development,Finance & Banking,8,0.0082,7,False
+Information & Enterprise Systems,Tourism & Hospitality,8,0.0082,7,False
+Web Development,Healthcare,8,0.0082,6,False
+Data Science & Analytics,Manufacturing & Industry,7,0.0072,7,False
+Database,Manufacturing & Industry,7,0.0072,7,False
+Cloud & DevOps,Healthcare,6,0.0061,3,False
+Web Development,Real Estate & Construction,6,0.0061,4,False
+Data Engineering,E-commerce & Retail,6,0.0061,6,False
+Computer Networks & Infrastructure,Healthcare,6,0.0061,4,False
+AI/ML,E-commerce & Retail,6,0.0061,6,False
+IoT / Embedded,Transportation & Logistics,6,0.0061,3,False
+AI/ML,Tourism & Hospitality,6,0.0061,5,False
+Cloud & DevOps,E-commerce & Retail,6,0.0061,5,False
+Software Architecture & Engineering,Human Resources & Recruitment,5,0.0051,2,False
+Information & Enterprise Systems,Education,5,0.0051,5,False
+AI/ML,Healthcare,5,0.0051,4,False
+Computer Networks & Infrastructure,E-commerce & Retail,5,0.0051,5,False

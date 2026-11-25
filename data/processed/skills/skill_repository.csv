@@ -1,0 +1,201 @@
+﻿skill_id,skill_raw,skill_normalized
+1,.NET,.net
+2,3D Modeling,3d modeling
+3,Adobe Creative Suite,adobe creative suite
+4,Agentic AI,agentic ai
+5,Agile,agile
+6,AI,ai
+7,Airflow,airflow
+8,Algorithms & Data Structures,algorithms & data structures
+9,Android,android
+10,Angular,angular
+11,Ansible,ansible
+12,Appium,appium
+13,Application Security,application security
+14,ARM Cortex,arm cortex
+15,AUTOSAR,autosar
+16,AWS,aws
+17,Azure,azure
+18,Big Data,big data
+19,BigQuery,bigquery
+20,Blazor,blazor
+21,Blockchain,blockchain
+22,BPMN,bpmn
+23,Business Analysis,business analysis
+24,Business Intelligence,business intelligence
+25,C,c
+26,C#,c#
+27,C++,c++
+28,CANoe,canoe
+29,CI/CD,ci/cd
+30,Cloud Computing,cloud computing
+31,Cloud Security,cloud security
+32,Computer Vision,computer vision
+33,CRM,crm
+34,Cybersecurity,cybersecurity
+35,Cypress,cypress
+36,Dart,dart
+37,Data Analysis,data analysis
+38,Data Governance,data governance
+39,Data Mining,data mining
+40,Data Modeling,data modeling
+41,Data Privacy,data privacy
+42,Data Quality,data quality
+43,Data Science,data science
+44,Data Warehouse,data warehouse
+45,Database,database
+46,Databricks,databricks
+47,dbt,dbt
+48,Deep Learning,deep learning
+49,Design Patterns,design patterns
+50,Design Systems,design systems
+51,DevOps,devops
+52,DevSecOps,devsecops
+53,Digital Forensics,digital forensics
+54,Django,django
+55,Docker,docker
+56,DynamoDB,dynamodb
+57,EDR,edr
+58,Elasticsearch,elasticsearch
+59,Embedded Systems,embedded systems
+60,Enterprise Architecture,enterprise architecture
+61,ERP,erp
+62,ETL,etl
+63,Express.js,express.js
+64,FastAPI,fastapi
+65,Figma,figma
+66,Firebase,firebase
+67,Firewall,firewall
+68,Firmware,firmware
+69,Flask,flask
+70,Flutter,flutter
+71,Game Development,game development
+72,GCP,gcp
+73,Generative AI,generative ai
+74,Git,git
+75,Go,go
+76,Grafana,grafana
+77,GraphQL,graphql
+78,gRPC,grpc
+79,Hadoop,hadoop
+80,Hibernate,hibernate
+81,HTML/CSS,html/css
+82,Hyper-V,hyper-v
+83,IAM,iam
+84,IDS/IPS,ids/ips
+85,Incident Response,incident response
+86,Infrastructure as Code,infrastructure as code
+87,Integration Testing,integration testing
+88,iOS,ios
+89,ISO 27001,iso 27001
+90,IT Audit,it audit
+91,IT Governance,it governance
+92,IT Support,it support
+93,ITIL,itil
+94,Java,java
+95,JavaScript,javascript
+96,Jenkins,jenkins
+97,Jira,jira
+98,JMeter,jmeter
+99,Kafka,kafka
+100,Kanban,kanban
+101,Kotlin,kotlin
+102,Kubernetes,kubernetes
+103,Laravel,laravel
+104,Linux,linux
+105,LLM,llm
+106,Machine Learning,machine learning
+107,MariaDB,mariadb
+108,MATLAB,matlab
+109,Microservices,microservices
+110,Microsoft Dynamics 365,microsoft dynamics 365
+111,MLOps,mlops
+112,Mobile Development,mobile development
+113,MongoDB,mongodb
+114,MVVM,mvvm
+115,MySQL,mysql
+116,NestJS,nestjs
+117,Networking,networking
+118,Next.js,next.js
+119,NLP,nlp
+120,Node.js,node.js
+121,NoSQL,nosql
+122,NumPy,numpy
+123,Objective-C,objective-c
+124,Odoo,odoo
+125,OOP,oop
+126,OpenStack,openstack
+127,Oracle Database,oracle database
+128,OWASP,owasp
+129,Pandas,pandas
+130,PCI DSS,pci dss
+131,Penetration Testing,penetration testing
+132,Performance Testing,performance testing
+133,PHP,php
+134,PL/SQL,pl/sql
+135,Playwright,playwright
+136,PostgreSQL,postgresql
+137,Postman,postman
+138,Power BI,power bi
+139,PowerShell,powershell
+140,Presales,presales
+141,Product Management,product management
+142,Project Management,project management
+143,Prometheus,prometheus
+144,Prompt Engineering,prompt engineering
+145,Python,python
+146,PyTorch,pytorch
+147,RabbitMQ,rabbitmq
+148,RAG,rag
+149,React,react
+150,React Native,react native
+151,Redis,redis
+152,Requirements Documentation,requirements documentation
+153,REST API,rest api
+154,Risk Management,risk management
+155,Robot Framework,robot framework
+156,RTOS,rtos
+157,Ruby,ruby
+158,Ruby on Rails,ruby on rails
+159,Rust,rust
+160,Salesforce,salesforce
+161,SAP,sap
+162,Scala,scala
+163,Scikit-learn,scikit-learn
+164,Scrum,scrum
+165,Security Hardening,security hardening
+166,Selenium,selenium
+167,ServiceNow,servicenow
+168,Shell Scripting,shell scripting
+169,Shopify,shopify
+170,SIEM,siem
+171,Snowflake,snowflake
+172,SOAR,soar
+173,Software Architecture,software architecture
+174,Software Testing,software testing
+175,Solution Architecture,solution architecture
+176,Spark,spark
+177,Spring Boot,spring boot
+178,SQL,sql
+179,SQL Server,sql server
+180,Swift,swift
+181,System Administration,system administration
+182,Tableau,tableau
+183,Technical Writing,technical writing
+184,TensorFlow,tensorflow
+185,Terraform,terraform
+186,Test Automation,test automation
+187,TestComplete,testcomplete
+188,TypeScript,typescript
+189,UI/UX Design,ui/ux design
+190,UML,uml
+191,Unit Testing,unit testing
+192,Unity,unity
+193,User Story,user story
+194,VMware,vmware
+195,Vue.js,vue.js
+196,Vulnerability Management,vulnerability management
+197,Waterfall,waterfall
+198,Windows Server,windows server
+199,Wireframing,wireframing
+200,Zephyr,zephyr

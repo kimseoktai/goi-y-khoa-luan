@@ -1,0 +1,40 @@
+﻿type,label,taxonomy_status,support_full,support_partial,total,training_eligible
+domain,Entertainment & Gaming,active,18,30,48,True
+domain,Education,active,36,0,36,True
+domain,Human Resources & Recruitment,active,4,30,34,True
+domain,Social & Community,candidate,0,30,30,False
+domain,Transportation & Logistics,active,8,21,29,True
+domain,News & Media,active,26,0,26,True
+domain,E-commerce & Retail,active,25,0,25,True
+domain,Tourism & Hospitality,active,24,0,24,True
+domain,Real Estate & Construction,active,3,21,24,True
+domain,Healthcare,active,22,0,22,True
+domain,Finance & Banking,active,21,0,21,True
+domain,Agriculture,active,3,16,19,True
+domain,Environment & Energy,active,5,7,12,False
+domain,Sports & Fitness,candidate,0,12,12,False
+domain,Manufacturing & Industry,active,2,8,10,False
+domain,Government & Public Sector,active,1,8,9,False
+domain,Telecommunications,candidate,0,1,1,False
+technical_topic,AI/ML,active,110,0,110,True
+technical_topic,Web Development,active,73,0,73,True
+technical_topic,Natural Language Processing,active,48,0,48,True
+technical_topic,Information & Enterprise Systems,active,42,0,42,True
+technical_topic,Mobile Development,active,33,0,33,True
+technical_topic,Computer Vision,active,32,0,32,True
+technical_topic,Generative AI & LLM,active,22,8,30,True
+technical_topic,Software Testing,active,30,0,30,True
+technical_topic,Blockchain,active,3,24,27,True
+technical_topic,Recommendation System,active,26,0,26,True
+technical_topic,Optimization / Operations Research,active,26,0,26,True
+technical_topic,Cybersecurity,active,23,0,23,True
+technical_topic,Game Development,active,22,0,22,True
+technical_topic,IoT / Embedded,active,21,0,21,True
+technical_topic,Database,active,0,20,20,True
+technical_topic,Data Science & Analytics,active,19,0,19,True
+technical_topic,Cloud & DevOps,active,4,14,18,True
+technical_topic,Software Architecture & Engineering,active,5,13,18,True
+technical_topic,Data Engineering,active,1,16,17,True
+technical_topic,Computer Networks & Infrastructure,active,16,0,16,True
+technical_topic,AR/VR & Spatial Computing,candidate,0,9,9,False
+technical_topic,UI/UX Design,candidate,0,3,3,False

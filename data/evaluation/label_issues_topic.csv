@@ -1,0 +1,43 @@
+﻿kind,label,title_norm,reason,p
+topic,AI/ML,công nghệ và giải pháp theo dõi chuyển động mắt hỗ trợ trẻ em rối loạn đọc,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.12
+topic,Web Development,xây dựng nền tảng đặt lịch đa dịch vụ tích hợp ai gợi ý dịch vụ thông minh và thanh toán vnpay,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.13
+topic,Web Development,xây dựng hệ thống tư vấn tình yêu và hôn nhân,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.14
+topic,Web Development,xây dựng ứng dụng quản lý quan hệ khách hàng trong lĩnh vực du lịch,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.09
+topic,Web Development,intelligent video sharing system,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.13
+topic,Web Development,phát triển front-end trên nền tảng web cho hệ thống hỗ trợ lập trình iot tích hợp quản lý giáo dục và diễn đàn trao đổi dự án,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.14
+topic,Natural Language Processing,khai thác và tối ưu hóa dịch vụ generative ai cho bài toán xử lý dữ liệu bán cấu trúc,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.08
+topic,Information & Enterprise Systems,building a decentralized data storage system in the logistics sector,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.02
+topic,Mobile Development,xây dựng ứng dụng đặt phòng khách sạn tích hợp phân loại khách hàng sử dụng mô hình rfm,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.08
+topic,Mobile Development,kiểm thử ứng dụng quản lí nhà hàng smart restaurant trên andorid,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.14
+topic,Computer Vision,công nghệ và giải pháp theo dõi chuyển động mắt hỗ trợ trẻ em rối loạn đọc,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.03
+topic,Computer Vision,nghiên cứu và phát triển hệ thống trí tuệ nhân tạo phân loại phông chữ đồ họa dựa trên kỹ thuật học sâu,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.09
+topic,Computer Vision,tích hợp tìm kiếm ảnh và tư vấn sản phẩm vào website thương mại điện tử,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.07
+topic,Computer Vision,xây dựng module phát hiện đuối nước sử dụng deep learning (yolov11),gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.1
+topic,Computer Vision,building a mobile app for fish detection,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.09
+topic,Computer Vision,sử dụng cử chỉ tay để điều khiển thiết bị,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.06
+topic,Generative AI & LLM,xây dựng hệ thống chatbot ai cho quản lý tin nhắn facebook messenger sử dụng kiến trúc rag và quy trình hybrid ai-human,âm đã kiểm chứng nhưng mô hình rất chắc là dương,0.93
+topic,Generative AI & LLM,xây dựng chatbot song ngữ hỗ trợ tra cứu thông tin môn học dựa trên mô hình rag,âm đã kiểm chứng nhưng mô hình rất chắc là dương,0.98
+topic,Generative AI & LLM,xây dựng hệ thống quản lý bán quàn áo tích hợp chatbot ai hỗ trợ tư vấn khách hàng,âm đã kiểm chứng nhưng mô hình rất chắc là dương,0.89
+topic,Generative AI & LLM,xây dựng thư viện hệ thống số tích hợp chatbot ai,âm đã kiểm chứng nhưng mô hình rất chắc là dương,0.93
+topic,Software Testing,xây dựng công cụ sử dụng smt solver để kiểm chứng các mô hình được biểu diễn bằng matlab/simulink,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.13
+topic,Recommendation System,a web application for personalized travel planning and booking,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.02
+topic,Recommendation System,phát triển nền tảng học tập thông minh tích hợp trợ lý ảo ai và cá nhân hoá lộ trình học tập,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.1
+topic,Optimization / Operations Research,simple assembly line balancing with power peak minimization,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.04
+topic,Optimization / Operations Research,encoding for the anti-bandwidth problem,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.12
+topic,Optimization / Operations Research,giải quyết bài toán giao hàng với nhiều trạm máy bay không người lái,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.15
+topic,Cybersecurity,construct a digital signature scheme on a 256-bit elliptic curve with prime points,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.09
+topic,Cybersecurity,tìm hiểu về wso2 identity server,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.06
+topic,Cybersecurity,tích hợp safe exam browser vào hệ thống lập trình trực tuyến codeonline,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.05
+topic,Cybersecurity,spam detection on mobile phone,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.13
+topic,IoT / Embedded,nghiên cứu các kĩ thuật co giãn tài nguyên đa cấp độ chủ động cho ứng dụng smarthome trong môi trường điện toán đám mây,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.06
+topic,IoT / Embedded,lock automation through face recognition,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.08
+topic,IoT / Embedded,ứng dụng công nghệ rfid vào xd hệ thống điểm danh,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.08
+topic,IoT / Embedded,employee time recording system with ibeacon technology on ios platform,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.14
+topic,Data Science & Analytics,real estate forecast in area by recurrent neural network model based on long short-term memory,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.03
+topic,Data Science & Analytics,xây dựng ứng dụng đặt phòng khách sạn tích hợp phân loại khách hàng sử dụng mô hình rfm,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.14
+topic,Data Science & Analytics,xây dựng hệ thống thu thập bài viết và thảo luận từ facebook group và tìm ra những người có ảnh hưởng nhất,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.07
+topic,Data Engineering,"xây dựng công cụ xử lý dữ liệu dựa trên mô hình ngôn ngữ lớn cho các bài toán chuẩn hóa, làm sạch, chuyển đổi định dạng và khôi phục cấu trúc",gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.12
+topic,Computer Networks & Infrastructure,triển khai xapp sử dụng openran gym,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.14
+topic,Computer Networks & Infrastructure,nghiên cứu mô hình cân bằng tải áp dụng lý thuyết hàng đợi cho game online nhiều người chơi,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.08
+topic,Computer Networks & Infrastructure,xây dựng hệ thống private cloud cho doanh nghiệp,gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.03
+topic,Computer Networks & Infrastructure,"giải pháp infrawatch phục vụ quản lý, giám sát và tăng cường bảo mật hạ tầng tính toán cho môi trường đa đám mây",gán dương nhưng mô hình rất không chắc (có thể gán nhầm),0.09

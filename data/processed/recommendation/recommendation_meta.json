@@ -1,0 +1,21 @@
+{
+ "weights": {
+  "job_relevance": 0.25,
+  "topic": 0.2,
+  "domain": 0.1,
+  "semantic": 0.25,
+  "novelty": 0.2
+ },
+ "mmr": 0.0,
+ "top_k": 5,
+ "semantic": true,
+ "semantic_norm": {
+  "lo": 0.7831145375967026,
+  "hi": 0.8496251195669174
+ },
+ "n_jobs_with_candidates": 501,
+ "n_jobs_without_candidates": 19,
+ "embedding_model": "intfloat/multilingual-e5-base",
+ "created": "2026-10-11T00:29:34",
+ "note": "Trọng số mặc định chưa được tuning; novelty là tương đối giữa các hướng; xem ml/recommendation/recommender.py"
+}

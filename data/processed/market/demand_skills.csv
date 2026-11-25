@@ -1,0 +1,201 @@
+﻿item,rank,job_count,share,ci_low,ci_high,n_companies,top_company_share,support_ok,concentrated
+AI,1,210,0.4038,0.3625,0.4466,117,0.071,True,False
+Cloud Computing,2,188,0.3615,0.3214,0.4037,107,0.053,True,False
+REST API,3,175,0.3365,0.2973,0.3782,113,0.046,True,False
+CI/CD,4,157,0.3019,0.264,0.3427,98,0.051,True,False
+SQL,5,146,0.2808,0.2439,0.3209,90,0.048,True,False
+Git,6,140,0.2692,0.2329,0.3089,87,0.071,True,False
+Python,7,137,0.2635,0.2274,0.303,87,0.073,True,False
+AWS,8,133,0.2558,0.2202,0.295,78,0.075,True,False
+Database,9,133,0.2558,0.2202,0.295,85,0.075,True,False
+Agile,10,121,0.2327,0.1984,0.2709,78,0.074,True,False
+Docker,11,113,0.2173,0.184,0.2548,81,0.08,True,False
+Java,12,109,0.2096,0.1768,0.2467,74,0.055,True,False
+DevOps,13,106,0.2038,0.1715,0.2406,67,0.094,True,False
+Machine Learning,14,105,0.2019,0.1697,0.2386,51,0.143,True,False
+Kubernetes,15,102,0.1962,0.1643,0.2325,72,0.059,True,False
+Microservices,16,93,0.1788,0.1483,0.2141,63,0.065,True,False
+Software Testing,17,85,0.1635,0.1342,0.1977,65,0.059,True,False
+Azure,18,83,0.1596,0.1306,0.1936,58,0.06,True,False
+Scrum,19,78,0.15,0.1219,0.1833,58,0.064,True,False
+Linux,20,77,0.1481,0.1201,0.1812,57,0.078,True,False
+Cybersecurity,21,75,0.1442,0.1166,0.177,44,0.16,True,False
+GCP,22,75,0.1442,0.1166,0.177,52,0.053,True,False
+Software Architecture,23,73,0.1404,0.1132,0.1729,60,0.082,True,False
+PostgreSQL,24,71,0.1365,0.1097,0.1687,50,0.085,True,False
+Oracle Database,25,66,0.1269,0.101,0.1583,36,0.152,True,False
+React,26,58,0.1115,0.0873,0.1415,47,0.069,True,False
+Test Automation,27,56,0.1077,0.0839,0.1373,48,0.054,True,False
+Kafka,28,54,0.1038,0.0805,0.133,36,0.111,True,False
+MySQL,29,54,0.1038,0.0805,0.133,43,0.074,True,False
+Data Analysis,30,51,0.0981,0.0754,0.1267,36,0.176,True,False
+Data Science,31,51,0.0981,0.0754,0.1267,22,0.294,True,False
+LLM,32,51,0.0981,0.0754,0.1267,31,0.118,True,False
+Networking,33,48,0.0923,0.0703,0.1203,37,0.083,True,False
+Shell Scripting,34,47,0.0904,0.0687,0.1181,34,0.128,True,False
+Jira,35,46,0.0885,0.067,0.116,38,0.109,True,False
+Project Management,36,46,0.0885,0.067,0.116,37,0.043,True,False
+Business Analysis,37,44,0.0846,0.0636,0.1117,39,0.045,True,False
+JavaScript,38,42,0.0808,0.0603,0.1074,35,0.071,True,False
+Jenkins,39,42,0.0808,0.0603,0.1074,40,0.048,True,False
+Risk Management,40,42,0.0808,0.0603,0.1074,31,0.095,True,False
+Terraform,41,42,0.0808,0.0603,0.1074,30,0.095,True,False
+MongoDB,42,41,0.0788,0.0587,0.1052,26,0.146,True,False
+Node.js,43,40,0.0769,0.057,0.1031,33,0.1,True,False
+OOP,44,40,0.0769,0.057,0.1031,32,0.075,True,False
+SQL Server,45,40,0.0769,0.057,0.1031,30,0.1,True,False
+UI/UX Design,46,40,0.0769,0.057,0.1031,35,0.075,True,False
+Spring Boot,47,39,0.075,0.0553,0.1009,32,0.077,True,False
+Unit Testing,48,39,0.075,0.0553,0.1009,33,0.051,True,False
+Data Quality,49,37,0.0712,0.0521,0.0965,28,0.081,True,False
+.NET,50,36,0.0692,0.0504,0.0944,31,0.083,True,False
+Big Data,51,36,0.0692,0.0504,0.0944,28,0.111,True,False
+Data Governance,52,36,0.0692,0.0504,0.0944,20,0.306,True,False
+C#,53,35,0.0673,0.0488,0.0922,33,0.057,True,False
+Data Warehouse,54,34,0.0654,0.0472,0.09,21,0.206,True,False
+Infrastructure as Code,55,34,0.0654,0.0472,0.09,28,0.088,True,False
+TypeScript,56,34,0.0654,0.0472,0.09,30,0.059,True,False
+Design Patterns,57,32,0.0615,0.0439,0.0856,28,0.062,True,False
+Grafana,58,32,0.0615,0.0439,0.0856,25,0.094,True,False
+Redis,59,32,0.0615,0.0439,0.0856,28,0.062,True,False
+NoSQL,60,31,0.0596,0.0423,0.0834,26,0.097,True,False
+ETL,61,30,0.0577,0.0407,0.0812,25,0.2,True,False
+Elasticsearch,62,30,0.0577,0.0407,0.0812,23,0.133,True,False
+Ansible,63,29,0.0558,0.0391,0.0789,24,0.103,True,False
+User Story,64,29,0.0558,0.0391,0.0789,25,0.069,True,False
+Algorithms & Data Structures,65,28,0.0538,0.0375,0.0767,26,0.071,True,False
+C++,66,28,0.0538,0.0375,0.0767,17,0.179,True,False
+ERP,67,27,0.0519,0.0359,0.0745,22,0.111,True,False
+Incident Response,68,27,0.0519,0.0359,0.0745,22,0.074,True,False
+gRPC,69,27,0.0519,0.0359,0.0745,14,0.222,True,False
+ISO 27001,70,26,0.05,0.0343,0.0723,17,0.154,True,False
+Android,71,25,0.0481,0.0328,0.07,22,0.12,True,False
+HTML/CSS,72,25,0.0481,0.0328,0.07,22,0.08,True,False
+RAG,73,25,0.0481,0.0328,0.07,18,0.12,True,False
+Prometheus,74,24,0.0462,0.0312,0.0678,20,0.125,True,False
+Computer Vision,75,23,0.0442,0.0297,0.0655,10,0.304,True,False
+Firewall,76,23,0.0442,0.0297,0.0655,18,0.087,True,False
+SIEM,77,23,0.0442,0.0297,0.0655,16,0.174,True,False
+FastAPI,78,22,0.0423,0.0281,0.0632,11,0.318,True,False
+Figma,79,22,0.0423,0.0281,0.0632,18,0.182,True,False
+Generative AI,80,22,0.0423,0.0281,0.0632,16,0.136,True,False
+MLOps,81,22,0.0423,0.0281,0.0632,14,0.273,True,False
+Playwright,82,22,0.0423,0.0281,0.0632,18,0.136,True,False
+CRM,83,21,0.0404,0.0266,0.0609,19,0.095,True,False
+Embedded Systems,84,21,0.0404,0.0266,0.0609,17,0.095,True,False
+NLP,85,21,0.0404,0.0266,0.0609,9,0.333,True,False
+Performance Testing,86,21,0.0404,0.0266,0.0609,17,0.19,True,False
+Selenium,87,21,0.0404,0.0266,0.0609,20,0.095,True,False
+Agentic AI,88,20,0.0385,0.025,0.0587,18,0.1,True,False
+Data Modeling,89,20,0.0385,0.025,0.0587,18,0.1,True,False
+IAM,90,20,0.0385,0.025,0.0587,16,0.15,True,False
+Postman,91,20,0.0385,0.025,0.0587,18,0.1,True,False
+iOS,92,20,0.0385,0.025,0.0587,17,0.15,True,False
+Application Security,93,19,0.0365,0.0235,0.0564,14,0.158,True,False
+Spark,94,19,0.0365,0.0235,0.0564,15,0.105,True,False
+Vue.js,95,19,0.0365,0.0235,0.0564,15,0.158,True,False
+Angular,96,18,0.0346,0.022,0.0541,18,0.056,True,False
+DevSecOps,97,18,0.0346,0.022,0.0541,14,0.111,True,False
+Integration Testing,98,18,0.0346,0.022,0.0541,16,0.111,True,False
+OWASP,99,18,0.0346,0.022,0.0541,16,0.167,True,False
+TensorFlow,100,18,0.0346,0.022,0.0541,13,0.222,True,False
+Data Privacy,101,17,0.0327,0.0205,0.0517,10,0.294,True,False
+GraphQL,102,17,0.0327,0.0205,0.0517,14,0.118,True,False
+Kotlin,103,17,0.0327,0.0205,0.0517,13,0.118,True,False
+PyTorch,104,17,0.0327,0.0205,0.0517,12,0.235,True,False
+System Administration,105,17,0.0327,0.0205,0.0517,17,0.059,True,False
+IDS/IPS,106,16,0.0308,0.019,0.0494,15,0.125,True,False
+PowerShell,107,16,0.0308,0.019,0.0494,14,0.125,True,False
+RabbitMQ,108,16,0.0308,0.019,0.0494,10,0.25,True,False
+Requirements Documentation,109,16,0.0308,0.019,0.0494,15,0.125,True,False
+Airflow,110,15,0.0288,0.0176,0.047,15,0.067,True,False
+Cloud Security,111,15,0.0288,0.0176,0.047,12,0.133,True,False
+EDR,112,15,0.0288,0.0176,0.047,13,0.133,True,False
+Flask,113,15,0.0288,0.0176,0.047,6,0.4,True,False
+Design Systems,114,14,0.0269,0.0161,0.0447,12,0.143,True,False
+Django,115,14,0.0269,0.0161,0.0447,6,0.357,True,False
+Flutter,116,14,0.0269,0.0161,0.0447,12,0.143,True,False
+Next.js,117,14,0.0269,0.0161,0.0447,12,0.214,True,False
+Penetration Testing,118,14,0.0269,0.0161,0.0447,12,0.143,True,False
+Enterprise Architecture,119,13,0.025,0.0147,0.0423,11,0.231,True,False
+Databricks,120,12,0.0231,0.0132,0.0399,9,0.167,True,False
+Mobile Development,121,12,0.0231,0.0132,0.0399,11,0.167,True,False
+Power BI,122,12,0.0231,0.0132,0.0399,10,0.167,True,False
+Unity,123,12,0.0231,0.0132,0.0399,10,0.25,True,False
+VMware,124,12,0.0231,0.0132,0.0399,12,0.083,True,False
+Deep Learning,125,11,0.0212,0.0119,0.0375,8,0.273,True,False
+Go,126,11,0.0212,0.0119,0.0375,10,0.182,True,False
+Windows Server,127,11,0.0212,0.0119,0.0375,8,0.182,True,False
+Wireframing,128,11,0.0212,0.0119,0.0375,10,0.182,True,False
+BPMN,129,10,0.0192,0.0105,0.035,10,0.1,True,False
+Cypress,130,10,0.0192,0.0105,0.035,10,0.1,True,False
+ITIL,131,10,0.0192,0.0105,0.035,10,0.1,True,False
+PCI DSS,132,10,0.0192,0.0105,0.035,8,0.3,True,False
+PHP,133,10,0.0192,0.0105,0.035,9,0.2,True,False
+Product Management,134,10,0.0192,0.0105,0.035,10,0.1,True,False
+Appium,135,9,0.0173,0.0091,0.0326,9,0.111,False,False
+BigQuery,136,9,0.0173,0.0091,0.0326,9,0.111,False,False
+Kanban,137,9,0.0173,0.0091,0.0326,7,0.222,False,False
+Presales,138,9,0.0173,0.0091,0.0326,8,0.222,False,False
+SAP,139,9,0.0173,0.0091,0.0326,7,0.222,False,False
+Scikit-learn,140,9,0.0173,0.0091,0.0326,9,0.111,False,False
+Swift,141,9,0.0173,0.0091,0.0326,7,0.222,False,False
+Tableau,142,9,0.0173,0.0091,0.0326,6,0.333,False,False
+Waterfall,143,9,0.0173,0.0091,0.0326,8,0.222,False,False
+Blockchain,144,8,0.0154,0.0078,0.0301,6,0.25,False,False
+Hadoop,145,8,0.0154,0.0078,0.0301,6,0.25,False,False
+JMeter,146,8,0.0154,0.0078,0.0301,8,0.125,False,False
+SOAR,147,8,0.0154,0.0078,0.0301,8,0.125,False,False
+Solution Architecture,148,8,0.0154,0.0078,0.0301,7,0.25,False,False
+UML,149,8,0.0154,0.0078,0.0301,8,0.125,False,False
+Vulnerability Management,150,8,0.0154,0.0078,0.0301,6,0.25,False,False
+DynamoDB,151,7,0.0135,0.0065,0.0275,4,0.571,False,False
+Hibernate,152,7,0.0135,0.0065,0.0275,6,0.286,False,False
+IT Governance,153,7,0.0135,0.0065,0.0275,7,0.143,False,False
+IT Support,154,7,0.0135,0.0065,0.0275,7,0.143,False,False
+NestJS,155,7,0.0135,0.0065,0.0275,7,0.143,False,False
+Pandas,156,7,0.0135,0.0065,0.0275,7,0.143,False,False
+Prompt Engineering,157,7,0.0135,0.0065,0.0275,6,0.286,False,False
+Ruby,158,7,0.0135,0.0065,0.0275,4,0.571,False,False
+Ruby on Rails,159,7,0.0135,0.0065,0.0275,4,0.571,False,False
+Scala,160,7,0.0135,0.0065,0.0275,6,0.286,False,False
+Adobe Creative Suite,161,6,0.0115,0.0053,0.0249,6,0.167,False,False
+Firebase,162,6,0.0115,0.0053,0.0249,6,0.167,False,False
+MariaDB,163,6,0.0115,0.0053,0.0249,5,0.333,False,False
+Odoo,164,6,0.0115,0.0053,0.0249,6,0.167,False,False
+React Native,165,6,0.0115,0.0053,0.0249,6,0.167,False,False
+dbt,166,6,0.0115,0.0053,0.0249,5,0.333,False,False
+Business Intelligence,167,5,0.0096,0.0041,0.0223,4,0.4,False,False
+Firmware,168,5,0.0096,0.0041,0.0223,4,0.4,False,False
+MVVM,169,5,0.0096,0.0041,0.0223,5,0.2,False,False
+Shopify,170,5,0.0096,0.0041,0.0223,4,0.4,False,False
+AUTOSAR,171,4,0.0077,0.003,0.0196,3,0.5,False,False
+Dart,172,4,0.0077,0.003,0.0196,4,0.25,False,False
+Laravel,173,4,0.0077,0.003,0.0196,4,0.25,False,False
+MATLAB,174,4,0.0077,0.003,0.0196,3,0.5,False,False
+OpenStack,175,4,0.0077,0.003,0.0196,4,0.25,False,False
+PL/SQL,176,4,0.0077,0.003,0.0196,3,0.5,False,False
+RTOS,177,4,0.0077,0.003,0.0196,3,0.5,False,False
+Robot Framework,178,4,0.0077,0.003,0.0196,4,0.25,False,False
+Snowflake,179,4,0.0077,0.003,0.0196,3,0.5,False,False
+Blazor,180,3,0.0058,0.002,0.0168,3,0.333,False,False
+C,181,3,0.0058,0.002,0.0168,2,0.667,False,False
+Digital Forensics,182,3,0.0058,0.002,0.0168,3,0.333,False,False
+Express.js,183,3,0.0058,0.002,0.0168,3,0.333,False,False
+IT Audit,184,3,0.0058,0.002,0.0168,3,0.333,False,False
+NumPy,185,3,0.0058,0.002,0.0168,3,0.333,False,False
+Rust,186,3,0.0058,0.002,0.0168,3,0.333,False,False
+3D Modeling,187,2,0.0038,0.0011,0.0139,2,0.5,False,False
+CANoe,188,2,0.0038,0.0011,0.0139,2,0.5,False,False
+Data Mining,189,2,0.0038,0.0011,0.0139,2,0.5,False,False
+Game Development,190,2,0.0038,0.0011,0.0139,2,0.5,False,False
+Hyper-V,191,2,0.0038,0.0011,0.0139,2,0.5,False,False
+Salesforce,192,2,0.0038,0.0011,0.0139,2,0.5,False,False
+ServiceNow,193,2,0.0038,0.0011,0.0139,2,0.5,False,False
+Technical Writing,194,2,0.0038,0.0011,0.0139,2,0.5,False,False
+TestComplete,195,2,0.0038,0.0011,0.0139,2,0.5,False,False
+Zephyr,196,2,0.0038,0.0011,0.0139,2,0.5,False,False
+ARM Cortex,197,1,0.0019,0.0003,0.0108,1,1.0,False,False
+Microsoft Dynamics 365,198,1,0.0019,0.0003,0.0108,1,1.0,False,False
+Objective-C,199,1,0.0019,0.0003,0.0108,1,1.0,False,False
+Security Hardening,200,1,0.0019,0.0003,0.0108,1,1.0,False,False

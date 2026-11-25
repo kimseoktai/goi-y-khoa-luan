@@ -1,0 +1,186 @@
+﻿thesis_id,title,max_similarity,nearest_thesis_id,nearest_thesis_title,novelty_score,novelty_status,threshold_source
+257,Xây dựng ứng dụng học từ vựng và ngữ pháp tiếng anh,0.9889,847,Xây dựng ứng dụng học từ vựng tiếng Anh,0.0,Duplicate,fitted_from_manual_labels
+1036,Xây dựng ứng dụng mạng xã hội việc làm ( Phía Frontend ),0.9882,1039,Xây dựng ứng dụng mạng xã hội việc làm ( Phía Backend ),0.001,Duplicate,fitted_from_manual_labels
+32,XD ứng dụng thi trắc nghiệm trên nền tảng Android,0.9872,106,XD phần mềm thi thử trắc nghiệm trên nền tảng Android,0.003,Duplicate,fitted_from_manual_labels
+282,xây dựng website bán hàng online,0.9867,301,Xây dựng Website bán hàng,0.004,Duplicate,fitted_from_manual_labels
+88,XD website bán hàng thời trang và phụ kiện,0.9865,181,XD website bán quần áo thời trang,0.006,Duplicate,fitted_from_manual_labels
+84,NC đề xuất và cài đặt thử nghiệm mô hinh tóm tắt đơn văn bản tiếng anh kiểu tóm lược,0.9854,85,NC đề xuất và cài đặt thử nghiệm mô hinh tóm tắt đơn văn bản tiếng anh kiểu trích xuất,0.007,Duplicate,fitted_from_manual_labels
+345,Xây dựng hệ thống bán sách trực tuyến,0.9848,373,Xây dựng hệ thống quản lý bán sách trực tuyến,0.008,Duplicate,fitted_from_manual_labels
+124,XD website giới thiệu và bán đồ điện tử trực tuyến,0.9847,146,XD Website bán đồ điện tử,0.01,Duplicate,fitted_from_manual_labels
+460,XÂY DỰNG FOODBEE - HỆ THỐNG ĐẶT VÀ GIAO ĐỒ ĂN ĐA NỀN TẢNG TÍCH HỢP GỢI Ý MÓN ĂN BẰNG AI,0.9846,461,XÂY DỰNG FOODBEE - HỆ THỐNG ĐẶT VÀ GIAO ĐỒ ĂN ĐA NỀN TẢNG TÍCH HỢP GỢI Ý MÓN ĂN BẰNG AI XÂY DỰNG FOODBEE - HỆ THỐNG ĐẶT VÀ GIAO ĐỒ ĂN ĐA NỀN TẢNG TÍCH HỢP GỢI Ý,0.011,Duplicate,fitted_from_manual_labels
+45,NC và cài đặt thử nghiệm các hệ mã hóa dòng trong mã hóa bí mật,0.9839,63,NC và cài đặt thử nghiệm hệ mã hóa dòng trong mã hóa khóa bảo mật,0.013,Duplicate,fitted_from_manual_labels
+382,Xây dựng hệ thống website bán hàng online,0.9839,282,xây dựng website bán hàng online,0.013,Duplicate,fitted_from_manual_labels
+344,Xây dựng Website bán thú cưng và đồ dùng cho thú cưng,0.9831,606,Xây dựng website bán phụ kiện thú cưng,0.015,Duplicate,fitted_from_manual_labels
+800,Xây dựng mạng xã hội âm nhạc,0.983,801,Xây dựng mạng xã hội âm nhạc (Social Music),0.016,Duplicate,fitted_from_manual_labels
+589,Xây dựng website mua bán hàng online shop,0.9828,282,xây dựng website bán hàng online,0.017,Duplicate,fitted_from_manual_labels
+289,Xây dựng hệ thống điểm danh sinh viên bằng nhận diện khuôn mặt,0.9823,378,Xây dựng hệ thống điểm danh người học bằng nhận diện khuôn mặt,0.018,Duplicate,fitted_from_manual_labels
+261,Xây dựng Website quản lý trung tâm tiếng anh,0.9812,830,Xây dựng website quản lý Trung tâm Ngoại ngữ,0.02,Duplicate,fitted_from_manual_labels
+267,Xây dựng website đánh giá phim,0.9807,837,Xây dựng website đánh giá và gợi ý phim,0.021,Duplicate,fitted_from_manual_labels
+1224,Xây dựng hệ thống ERP quản lý quy trình tuyển dụng nhân sự mới cho doanh nghiệp,0.9802,1244,XÂY DỰNG HỆ THỐNG ERP QUẢN LÝ ĐÀO TẠO NHÂN VIÊN MỚI CHO DOANH NGHIỆP,0.022,Duplicate,fitted_from_manual_labels
+814,Xây dựng website bán hàng trực tuyến.,0.979,282,xây dựng website bán hàng online,0.024,Duplicate,fitted_from_manual_labels
+254,Xây dựng Website thương mại điện tử,0.9779,584,Xây dựng Website Sàn Thương mại Điện tử,0.024,Duplicate,fitted_from_manual_labels
+173,XD Website bán điện thoại di động,0.9774,146,XD Website bán đồ điện tử,0.026,Duplicate,fitted_from_manual_labels
+841,Xây dựng ứng dụng di động hỗ trợ học từ vựng tiếng Anh,0.9763,847,Xây dựng ứng dụng học từ vựng tiếng Anh,0.027,Duplicate,fitted_from_manual_labels
+127,Thiết kế và xây dựng website bán sách online,0.9761,617,Xây dựng website bán sách,0.027,Duplicate,fitted_from_manual_labels
+494,Xây dựng website học tiếng Anh trực tuyến tích hợp AI chấm điểm tự động và chatbot hỗ trợ học tập,0.975,549,"XÂY DỰNG HỆ THỐNG HỌC TIẾNG ANH TRỰC TUYẾN, TÍCH HỢP CHATBOT AI VÀ CHẤM ĐIỂM TỰ ĐỘNG",0.029,Duplicate,fitted_from_manual_labels
+33,NC và cài đặt thử nghiệm các hệ mã hóa khóa bảo mật,0.9748,63,NC và cài đặt thử nghiệm hệ mã hóa dòng trong mã hóa khóa bảo mật,0.03,Duplicate,fitted_from_manual_labels
+1172,Lắp ráp và phân tích hệ gen từ dữ liệu đoạn ngắn,0.9746,1420,Lắp ráp và phân tích hệ gen từ dữ liệu đoạn dài,0.031,Duplicate,fitted_from_manual_labels
+180,XD website TMĐT bán đồ điện tử,0.9742,146,XD Website bán đồ điện tử,0.032,Duplicate,fitted_from_manual_labels
+824,Xây dựng website gợi ý phim và đặt vé xem phim,0.9721,837,Xây dựng website đánh giá và gợi ý phim,0.033,Duplicate,fitted_from_manual_labels
+1227,Hệ thống điểm danh bằng nhận diện khuôn mặt cho phòng nhân sự,0.9712,1230,Hệ thống quản lý nhân sự với điểm danh bằng nhận diện khuôn mặt.,0.034,Duplicate,fitted_from_manual_labels
+375,Xây dựng Website của trung tâm dạy tiếng Anh,0.971,261,Xây dựng Website quản lý trung tâm tiếng anh,0.035,Duplicate,fitted_from_manual_labels
+784,Xây dựng hệ thống website quản lý đào tạo tại Khoa Hệ Thống Thông Tin,0.9703,831,Xây dựng website quản lý thực tập của sinh viên khoa Hệ thống Thông tin,0.036,Duplicate,fitted_from_manual_labels
+262,Xây dựng và phát triển website thương mại điện tử bán đồ công nghệ kết hợp với chatbot,0.9701,370,Xây dựng Website thương mại điện tử có tích hợp Chatbot,0.037,Duplicate,fitted_from_manual_labels
+587,Xây dựng hệ thống sàn thương mại điện tử,0.9697,584,Xây dựng Website Sàn Thương mại Điện tử,0.038,Duplicate,fitted_from_manual_labels
+607,Phát triển hệ thống điểm danh trong lớp học sử dụng công nghệ nhận diện khuôn mặt,0.9694,378,Xây dựng hệ thống điểm danh người học bằng nhận diện khuôn mặt,0.04,Duplicate,fitted_from_manual_labels
+64,NC và cài đặt thử nghiệm mã hóa khóa công khai RSA,0.9694,33,NC và cài đặt thử nghiệm các hệ mã hóa khóa bảo mật,0.039,Duplicate,fitted_from_manual_labels
+323,Xây dựng website công thức nấu ăn,0.9691,1144,Xây dựng website tra cứu và chia sẻ công thức nấu ăn,0.041,Duplicate,fitted_from_manual_labels
+818,Xây dựng website bán sách và gợi ý sách cho khách hàng,0.9688,617,Xây dựng website bán sách,0.042,Duplicate,fitted_from_manual_labels
+94,XD website quản lí bán hàng sản phẩm thời trang,0.9686,181,XD website bán quần áo thời trang,0.043,Duplicate,fitted_from_manual_labels
+206,Xây dựng Website học tiếng anh,0.9672,375,Xây dựng Website của trung tâm dạy tiếng Anh,0.045,Duplicate,fitted_from_manual_labels
+219,Xây dựng Website mạng xã hội,0.9672,1113,Xây dựng ứng dụng website mạng xã hội,0.043,Duplicate,fitted_from_manual_labels
+105,XD website giới thiệu sản phẩm và bán sách trực tuyến,0.9669,124,XD website giới thiệu và bán đồ điện tử trực tuyến,0.045,Duplicate,fitted_from_manual_labels
+654,Hệ thống điểm danh bằng nhận dạng khuôn mặt,0.966,1227,Hệ thống điểm danh bằng nhận diện khuôn mặt cho phòng nhân sự,0.046,Duplicate,fitted_from_manual_labels
+333,Nghiên cứu các kỹ thuật tinh chỉnh mô hình ngôn ngữ lớn hiện đại và ứng dụng xây dựng chatbot cho Đại học Kinh tế Quốc dân,0.9659,364,Nghiên cứu và phát triển chatbot dựa trên mô hình ngôn ngữ lớn kết hợp với kỹ thuật tìm kiếm tăng cường dữ liệu: Áp dụng tại Đại học Kinh tế Quốc dân,0.047,Duplicate,fitted_from_manual_labels
+698,Thiết kế và triển khai hệ thống bảng hiệu điện tử thông minh trên nền tảng đám mây,0.9658,699,Thiết kế và triển khai hệ thống quảng cáo điện tử trên nền tảng đám mây,0.048,Duplicate,fitted_from_manual_labels
+392,Xây dựng website tuyển dụng và tư vấn việc làm,0.9656,834,Xây dựng website tìm kiếm việc làm,0.05,Duplicate,fitted_from_manual_labels
+150,XD Hệ thống điểm danh bằng nhận diện khuôn mặt,0.9651,654,Hệ thống điểm danh bằng nhận dạng khuôn mặt,0.052,Duplicate,fitted_from_manual_labels
+42,XD website bán Laptop,0.9651,146,XD Website bán đồ điện tử,0.051,Duplicate,fitted_from_manual_labels
+272,Xây dựng website bán máy tính trực tuyến,0.9641,814,Xây dựng website bán hàng trực tuyến.,0.052,Duplicate,fitted_from_manual_labels
+398,Ứng dụng học tập từ vựng tiếng Anh,0.9638,847,Xây dựng ứng dụng học từ vựng tiếng Anh,0.053,Duplicate,fitted_from_manual_labels
+1255,Ứng dụng điểm danh lớp học sử dụng công nghệ nhận diện khuôn mặt Facenet,0.9636,607,Phát triển hệ thống điểm danh trong lớp học sử dụng công nghệ nhận diện khuôn mặt,0.054,Duplicate,fitted_from_manual_labels
+194,XD website bán hàng văn phòng phẩm và quản lí bán hàng,0.9634,94,XD website quản lí bán hàng sản phẩm thời trang,0.055,Duplicate,fitted_from_manual_labels
+1055,Xây dụng ứng dụng điểm danh dựa trên nhận diện khuôn mặt,0.9631,654,Hệ thống điểm danh bằng nhận dạng khuôn mặt,0.055,Duplicate,fitted_from_manual_labels
+811,Xây dựng website bán hàng nông sản sạch,0.9631,816,Xây dựng website bán nông sản online,0.056,Duplicate,fitted_from_manual_labels
+604,Xây dựng website xem phim,0.9629,267,Xây dựng website đánh giá phim,0.057,Duplicate,fitted_from_manual_labels
+652,Hệ thống truy xuất nguồn gốc trong chăn nuôi bằng công nghệ Blockchain,0.9628,1105,Hệ thống truy xuất nguồn gốc thịt lợn áp dụng công nghệ blockchain,0.058,Duplicate,fitted_from_manual_labels
+351,Xây dựng website học Tiếng anh trực tuyến tích hợp AI,0.9628,1315,"Phân tích, thiết kế và phát triển trang web học Tiếng Anh tích hợp AI",0.059,Duplicate,fitted_from_manual_labels
+825,Xây dựng website hỗ trợ quản lý và bán hàng trực tuyến,0.9627,814,Xây dựng website bán hàng trực tuyến.,0.061,Duplicate,fitted_from_manual_labels
+815,"Xây dựng website bán hàng, dự báo xu hướng mua hàng và tư vấn trang phục trong lĩnh vực thời trang",0.9626,817,Xây dựng website bán quần áo và hệ chuyên gia tư vấn thời trang,0.061,Duplicate,fitted_from_manual_labels
+269,Xây dựng Website bán điện thoại di động tích hợp chatbot,0.9622,370,Xây dựng Website thương mại điện tử có tích hợp Chatbot,0.063,Duplicate,fitted_from_manual_labels
+31,XD Phần mềm thi trắc nghiệm,0.962,106,XD phần mềm thi thử trắc nghiệm trên nền tảng Android,0.064,Duplicate,fitted_from_manual_labels
+339,Xây dựng website bán quần áo thời trang trên nền tảng Laravel Framework,0.9616,827,Xây dựng website kinh doanh sản phẩm thời trang kết hợp đề xuất sản phẩm trên nền tảng Laravel,0.064,Duplicate,fitted_from_manual_labels
+325,Xây dựng website bán hàng trực tuyến shopmall,0.9614,589,Xây dựng website mua bán hàng online shop,0.066,Duplicate,fitted_from_manual_labels
+211,Nghiên cứu và phát triển hệ thống khai thác dữ liệu đa phương thức trong tài liệu tiếng anh và tiếng việt dựa trên mô hình trí tuệ nhân tạo đa tác tử,0.9613,212,Nghiên cứu và xây dựng hệ thống đa phương thức trong xử lý thông minh tài liệu giáo dục dựa trên mô hình trí tuệ nhân tạo đa tác tử,0.066,Duplicate,fitted_from_manual_labels
+284,Xây dựng website bán lẻ đồ điện tử,0.9606,301,Xây dựng Website bán hàng,0.068,Duplicate,fitted_from_manual_labels
+343,Xây dựng ứng dụng phát hiện và nhận diện biển báo giao thông tại Việt Nam,0.9596,843,Xây dựng ứng dụng di động nhận diện biển báo giao thông thời gian thực,0.068,Duplicate,fitted_from_manual_labels
+683,Phát triển công cụ chọn lọc tin hiệu quả trên báo chí online,0.9587,729,Xây dựng công cụ chọn lọc tin tức từ các website,0.07,Duplicate,fitted_from_manual_labels
+89,XD website bán mĩ phẩm,0.9583,146,XD Website bán đồ điện tử,0.071,Duplicate,fitted_from_manual_labels
+293,Xây dựng Website thương mại điện tử và tích hợp chatbot cho cửa hàng thời trang Fashion Style,0.9583,262,Xây dựng và phát triển website thương mại điện tử bán đồ công nghệ kết hợp với chatbot,0.072,Duplicate,fitted_from_manual_labels
+213,Xây dựng hệ thống học tiếng Anh trực tuyến tích hợp AI hỗ trợ học tập thông minh,0.9578,351,Xây dựng website học Tiếng anh trực tuyến tích hợp AI,0.073,Duplicate,fitted_from_manual_labels
+99,NC và cài đặt thử nghiệm kĩ thuật Deep Learning trong tóm tắt đơn văn bản tiếng anh,0.9573,132,NC và cài đặt thử nghiệm mô hình tóm tắt đơn văn bản tiếng việt,0.073,Duplicate,fitted_from_manual_labels
+377,Xây dựng Website tích hợp Chatbot hỗ trợ quản lý đặt phòng khách sạn,0.9572,512,XÂY DỰNG WEBSITE QUẢN LÝ VÀ ĐẶT PHÒNG KÝ TÚC XÁ TÍCH HỢP AI CHATBOT TƯ VẤN,0.075,Duplicate,fitted_from_manual_labels
+315,Xây dựng hệ thống hỗ trợ quản lý chi tiêu cá nhân tích hợp AI,0.9568,536,XÂY DỰNG HỆ THỐNG QUẢN LÝ TÀI CHÍNH CÁ NHÂN TÍCH HỢP CHAT BOT AI HỖ TRỢ TƯ VẤN CHI TIÊU,0.076,Duplicate,fitted_from_manual_labels
+341,Phát triển Website thương mại điện tử tích hợp chatbot AI nâng cao trải nghiệm người dùng,0.9566,370,Xây dựng Website thương mại điện tử có tích hợp Chatbot,0.078,Duplicate,fitted_from_manual_labels
+246,Nghiên cứu và xây dựng hệ thống giao thức ngữ cảnh mô hình tích hợp tăng cường truy xuất thông tin và nhận diện tài liệu dựa trên mô hình trí tuệ nhân tạo đa tác tử,0.9566,211,Nghiên cứu và phát triển hệ thống khai thác dữ liệu đa phương thức trong tài liệu tiếng anh và tiếng việt dựa trên mô hình trí tuệ nhân tạo đa tác tử,0.078,Duplicate,fitted_from_manual_labels
+80,XD website bán phụ kiện máy ảnh trực tuyến,0.9552,88,XD website bán hàng thời trang và phụ kiện,0.079,Duplicate,fitted_from_manual_labels
+232,Xây dựng ứng dụng Web quản lý bán hàng cho cửa hàng tiện ích,0.955,850,Xây dựng ứng dụng quản lý bán hàng,0.08,Duplicate,fitted_from_manual_labels
+600,Xây dựng ứng dụng học tiếng anh thông minh English-learn,0.9549,257,Xây dựng ứng dụng học từ vựng và ngữ pháp tiếng anh,0.081,Duplicate,fitted_from_manual_labels
+55,Xây dựng website chia sẻ video,0.9548,821,Xây dựng website chia sẻ video tích hợp hệ thống khuyến nghị nội dung,0.082,Duplicate,fitted_from_manual_labels
+1246,Referring Multi-Object Tracking,0.9542,1247,Graph-based referring multi-object tracking,0.083,Duplicate,fitted_from_manual_labels
+618,Xây dựng website bán đồ nội thất và gia dụng,0.9541,284,Xây dựng website bán lẻ đồ điện tử,0.085,Duplicate,fitted_from_manual_labels
+75,XD website bán hàng thời trang Since1998,0.9541,181,XD website bán quần áo thời trang,0.085,Duplicate,fitted_from_manual_labels
+610,Tích hợp tìm kiếm ảnh và tư vấn sản phẩm vào website thương mại điện tử,0.9538,832,"Xây dựng website thương mại điện tử, tích hợp chức năng gợi ý sản phẩm và tìm kiếm sản phẩm bằng hình ảnh",0.086,Duplicate,fitted_from_manual_labels
+651,Hệ thống truy xuất nguồn gốc hàng hóa dựa trên công nghệ Blockchain,0.9531,652,Hệ thống truy xuất nguồn gốc trong chăn nuôi bằng công nghệ Blockchain,0.087,Duplicate,fitted_from_manual_labels
+18,Xây dựng trò chơi nhập vai với cơ chế chiến đấu theo lượt,0.953,371,Xây dựng game chiến thuật nhập vai theo lượt (RPG TURN BASED),0.088,Duplicate,fitted_from_manual_labels
+591,Xây dựng website bán thực phẩm và hàng tiêu dùng thiết yếu,0.9526,618,Xây dựng website bán đồ nội thất và gia dụng,0.089,Duplicate,fitted_from_manual_labels
+452,"Xây dựng website hỗ trợ tìm việc làm, tích hợp AI Recommendation",0.9524,835,Xây dựng website tìm kiếm và tuyển dụng việc làm. Tích hợp chức năng gợi ý việc làm phù hợp cho ứng viên,0.09,Duplicate,fitted_from_manual_labels
+285,Xây dựng ứng dụng học từ vựng và luyện thi TOEIC,0.9523,257,Xây dựng ứng dụng học từ vựng và ngữ pháp tiếng anh,0.092,Duplicate,fitted_from_manual_labels
+50,Xd Phần mềm quản lí bán hàng văn phòng phẩm,0.9523,194,XD website bán hàng văn phòng phẩm và quản lí bán hàng,0.092,Duplicate,fitted_from_manual_labels
+1284,Nghiên cứu và phát triển bản đồ lớp phủ sử dụng dữ liệu viễn thám đa nguồn,0.952,1301,Nghiên cứu và xây dựng bản đồ nhận dạng cây trồng sử dụng dữ liệu viễn thám đa nguồn,0.093,Duplicate,fitted_from_manual_labels
+201,Xây dựng website bán giày,0.9518,301,Xây dựng Website bán hàng,0.097,Duplicate,fitted_from_manual_labels
+210,Xây dựng hệ thống website quản lý thông tin khám chữa bệnh,0.9518,783,Xây dựng hệ thống website cẩm nang bệnh viện,0.094,Duplicate,fitted_from_manual_labels
+1183,Develop a web application for Travel Booking and Tour Management,0.9518,1341,A Web Application for Personalized Travel Planning and Booking,0.096,Duplicate,fitted_from_manual_labels
+517,Nghiên cứu và phát triển hệ thống website tự học tiếng anh thông minh có tích hợp Chatbot-AI,0.9513,494,Xây dựng website học tiếng Anh trực tuyến tích hợp AI chấm điểm tự động và chatbot hỗ trợ học tập,0.098,Duplicate,fitted_from_manual_labels
+309,Thiết kế và Xây dựng game 2D,0.9512,372,Xây dựng Game Engine 2D,0.099,Duplicate,fitted_from_manual_labels
+340,Xây dựng website đặt phòng khách sạn,0.9511,377,Xây dựng Website tích hợp Chatbot hỗ trợ quản lý đặt phòng khách sạn,0.1,Duplicate,fitted_from_manual_labels
+221,Phát triển ứng dụng di động học từ vựng tiếng Anh qua nhận diện hình ảnh,0.9503,841,Xây dựng ứng dụng di động hỗ trợ học từ vựng tiếng Anh,0.101,Duplicate,fitted_from_manual_labels
+390,Xây dựng Website theo dõi giá sản phẩm của các sàn thương mại điện tử,0.9503,584,Xây dựng Website Sàn Thương mại Điện tử,0.101,Duplicate,fitted_from_manual_labels
+71,XD Phần mềm quản lí tiền gửi tiết kiệm cho phòng giao dịch Agribank Định Công,0.9498,137,XD phần mềm quản lí vay vốn ngân hàng Agribank,0.102,Duplicate,fitted_from_manual_labels
+244,Xây dựng Website chia sẻ công thức nấu ăn tích hợp điều khiển giọng nói và tường thuật văn bản,0.9498,1144,Xây dựng website tra cứu và chia sẻ công thức nấu ăn,0.103,Duplicate,fitted_from_manual_labels
+287,Xây dựng Website bán đồng hồ,0.9496,301,Xây dựng Website bán hàng,0.104,Duplicate,fitted_from_manual_labels
+1319,Phát triển phần mềm chatbot dựa vào mô hình ngôn ngữ lớn để truy xuất thông tin từ cơ sở dữ liệu quan hệ cho nghiệp vụ đào tạo đại học,0.9495,364,Nghiên cứu và phát triển chatbot dựa trên mô hình ngôn ngữ lớn kết hợp với kỹ thuật tìm kiếm tăng cường dữ liệu: Áp dụng tại Đại học Kinh tế Quốc dân,0.105,Duplicate,fitted_from_manual_labels
+1221,Xây dựng ứng dụng web quản lý các nhà hàng ăn,0.949,1347,Xây dựng ứng dụng web quản lý và đặt phòng khách sạn,0.107,Duplicate,fitted_from_manual_labels
+204,Tìm hiểu về kiểm thử tự động API và xây dựng chương trình kiểm thử tự động API,0.949,1114,Xây dựng công cụ kiểm thử API tự động,0.106,Duplicate,fitted_from_manual_labels
+1232,Xây dựng Website hỗ trợ học ngoại ngữ sử dụng AI,0.9489,351,Xây dựng website học Tiếng anh trực tuyến tích hợp AI,0.108,Duplicate,fitted_from_manual_labels
+579,Xây dựng hệ thống quản lý khám chữa bệnh và đăng ký khám bệnh từ xa cho bệnh viện/phòng khám,0.9487,210,Xây dựng hệ thống website quản lý thông tin khám chữa bệnh,0.109,Duplicate,fitted_from_manual_labels
+1338,Xây dựng công cụ kiểm thử đơn vị tự động thỏa mãn độ phủ vòng lặp và tệp cho dự án sử dụng ngôn ngữ Java,0.9486,1355,Xây dựng công cụ kiểm thử đột biến tự động cho kiểm thử đơn vị dự án sử dụng ngôn ngữ Java,0.11,Duplicate,fitted_from_manual_labels
+273,Xây dựng Website xem phim tích hợp hệ thống gợi ý CineWorld,0.948,824,Xây dựng website gợi ý phim và đặt vé xem phim,0.111,Duplicate,fitted_from_manual_labels
+470,XÂY DỰNG WEBSITE TUYỂN DỤNG THÔNG MINH TÍCH HỢP AI PHÂN TÍCH VÀ ĐÁNH GIÁ CV DỰA TRÊN MÔ TẢ CÔNG VIỆC,0.9478,528,XÂY DỰNG WEBSITE TUYỂN DỤNG TRỰC TUYẾN TÍCH HỢP AI HỖ TRỢ ĐÁNH GIÁ HỒ SƠ ỨNG VIÊN,0.112,Duplicate,fitted_from_manual_labels
+277,Xây dựng website booking homestay,0.9478,340,Xây dựng website đặt phòng khách sạn,0.113,Duplicate,fitted_from_manual_labels
+582,Xây dựng website bán thực phẩm kết hợp tìm kiếm sản phẩm bằng hình thức,0.9477,832,"Xây dựng website thương mại điện tử, tích hợp chức năng gợi ý sản phẩm và tìm kiếm sản phẩm bằng hình ảnh",0.114,Duplicate,fitted_from_manual_labels
+560,Xây dựng hệ thống quản lý và đặt phòng trực tuyến tích hợp Chatbot AI tìm phòng,0.9476,512,XÂY DỰNG WEBSITE QUẢN LÝ VÀ ĐẶT PHÒNG KÝ TÚC XÁ TÍCH HỢP AI CHATBOT TƯ VẤN,0.115,Duplicate,fitted_from_manual_labels
+402,Xây dựng website quản lí quán ăn,0.9473,1221,Xây dựng ứng dụng web quản lý các nhà hàng ăn,0.115,Duplicate,fitted_from_manual_labels
+113,XD Website bán đồ thờ cúng,0.947,146,XD Website bán đồ điện tử,0.116,Duplicate,fitted_from_manual_labels
+338,Thiết kế và xây dựng Game Nông trại 3D bằng Unity Engine,0.9468,400,Thiết kế và xây dựng game Spiderman 3D bằng Unity Engine,0.118,Duplicate,fitted_from_manual_labels
+28,XD phần mềm quản lí tài sản cố định của công ty Tân Tiến,0.9468,66,XD phần mềm quản lí tài sản cố định của công ty TNHH TM&DV Phát An,0.117,Duplicate,fitted_from_manual_labels
+636,Hệ khuyến nghị địa điểm lưu trú dựa trên nhu cầu cá nhân của người dùng,0.9465,736,Xây dựng hệ khuyến nghị địa điểm lưu trú,0.119,Duplicate,fitted_from_manual_labels
+471,Xây dựng Website đặt tour du lịch tích hợp hệ thống gợi ý dựa trên AI,0.9462,476,THIẾT KẾ VÀ XÂY DỰNG HỆ THỐNG ĐẶT TOUR DU LỊCH THÔNG MINH TÍCH HỢP AI,0.121,Duplicate,fitted_from_manual_labels
+47,"XD HT quản lí nhân viên, giảng viên cho Trung tâm đào tạo vừa và nhỏ",0.9461,74,XD hệ thống quản lí học viên trong trung tâm quy mô vừa và nhỏ,0.122,Duplicate,fitted_from_manual_labels
+574,Nghiên Cứu Các Phương Pháp Sinh Dữ Liệu Tấn Công Mạng,0.9455,1259,Nghiên cứu phương pháp phát hiện tấn công mạng sử dụng học sâu,0.124,Duplicate,fitted_from_manual_labels
+198,NC và phát triển hệ thống Student AI giúp quản lí và nhận diện sinh viên bằng điểm danh khuôn mặt,0.9448,289,Xây dựng hệ thống điểm danh sinh viên bằng nhận diện khuôn mặt,0.125,Duplicate,fitted_from_manual_labels
+752,Xây dựng hệ thống gợi ý lịch trình du lịch thông qua các phương pháp học máy và trí tuệ nhân tạo,0.9447,753,"Xây dựng hệ thống gợi ý địa điểm du lịch dựa trên điều kiện thời tiết, chất lượng không khí bằng phương pháp học máy và tích hợp mạng xã hội",0.127,Duplicate,fitted_from_manual_labels
+1166,Analysis of CircRNAs in Acute Myeloid Leukemia,0.9447,1427,A system supporting the analysis of CircRNAs in Acute Myeloid Leukemia (AML).,0.126,Duplicate,fitted_from_manual_labels
+740,Xây dựng hệ thống bán lẻ thời trang trực tuyến,0.9446,382,Xây dựng hệ thống website bán hàng online,0.13,Duplicate,fitted_from_manual_labels
+842,"Xây dựng ứng dụng di động kết nối người dùng có nhu cầu trao đổi, mua bán hàng online",0.9446,868,Xây dựng ứng dụng đề xuất sản phẩm và bán hàng trực tuyến.,0.129,Duplicate,fitted_from_manual_labels
+781,Xây dựng hệ thống tổ chức sự kiện trực tuyến,0.9445,803,Xây dựng nền tảng tổ chức sự kiện ảo cho triển lãm trực tuyến,0.131,Duplicate,fitted_from_manual_labels
+134,XD website chia sẻ phòng trọ,0.9444,139,XD website quản lí hệ thống phòng trọ HomeX,0.133,Duplicate,fitted_from_manual_labels
+1142,Xây dựng mô-đun Liên kết tiếp thị hỗ trợ các sàn thương mại điện tử,0.9444,587,Xây dựng hệ thống sàn thương mại điện tử,0.132,Duplicate,fitted_from_manual_labels
+159,Thiết kế và XD website giới thiệu và bán khóa học online,0.9444,190,Thiết kế và XD website bán máy tính Professor Computer,0.134,Duplicate,fitted_from_manual_labels
+231,Xây dựng Website quản lý cửa hàng điện thoại,0.9443,825,Xây dựng website hỗ trợ quản lý và bán hàng trực tuyến,0.136,Duplicate,fitted_from_manual_labels
+766,Xây dựng hệ thống quản lý thư viện,0.9442,1314,Xây dựng Hệ thống Quản lý Thư viện ứng dụng Mô hình ngôn ngữ lớn,0.137,Duplicate,fitted_from_manual_labels
+131,XD website bán mô hình Anime,0.9442,146,XD Website bán đồ điện tử,0.136,Duplicate,fitted_from_manual_labels
+820,Xây dựng website báo điện tử tích hợp hệ thống khuyến nghị nội dung,0.9441,821,Xây dựng website chia sẻ video tích hợp hệ thống khuyến nghị nội dung,0.138,Duplicate,fitted_from_manual_labels
+413,XÂY DỰNG HỆ THỐNG LẬP KẾ HOẠCH DU LỊCH THÔNG MINH TÍCH HỢP ĐẶT DỊCH VỤ DỰA TRÊN CÔNG NGHỆ AI,0.9437,476,THIẾT KẾ VÀ XÂY DỰNG HỆ THỐNG ĐẶT TOUR DU LỊCH THÔNG MINH TÍCH HỢP AI,0.14,Duplicate,fitted_from_manual_labels
+1275,Developing an Immersive Virtual Reality Application for Autism Education: Supporting Skills and Knowledge Acquisition,0.9437,1277,Designing and Implementing an Immersive Virtual Reality System for Children with Autism Spectrum Disorders,0.141,Duplicate,fitted_from_manual_labels
+465,XÂY DỰNG HỆ THỐNG BOOKINGSPORT – WEBSITE ĐẶT SÂN THỂ THAO TÍCH HỢP CHATBOT AI,0.9437,515,THIẾT KẾ VÀ TRIỂN KHAI HỆ THỐNG QUẢN LÝ - ĐẶT SÂN THỂ THAO TRỰC TUYẾN TÍCH HỢP CHATBOT AI,0.139,Duplicate,fitted_from_manual_labels
+36,NC Kiểm thử phần mềm và ứng dụng công cụ Selenium IDE kiểm thử website,0.9436,38,NC Công cụ kiểm thự tự động Selenium và ứng dụng kiểm thử website hoctestertop.com,0.143,Duplicate,fitted_from_manual_labels
+727,Xây dựng Website kết nối doanh nghiệp với khách hàng trong lĩnh vực thời trang và sản phẩm công nghệ,0.9436,293,Xây dựng Website thương mại điện tử và tích hợp chatbot cho cửa hàng thời trang Fashion Style,0.145,Duplicate,fitted_from_manual_labels
+312,"Thiết kế và xây dựng website bán điện thoại, laptop",0.9436,814,Xây dựng website bán hàng trực tuyến.,0.143,Duplicate,fitted_from_manual_labels
+308,Xây dựng hệ thống quản lý học tập và kiểm tra kỹ năng phân tích nghiệp vụ,0.9434,601,Xây dựng hệ thống quản lý thực tập và đồ án tốt nghiệp,0.148,Duplicate,fitted_from_manual_labels
+296,Xây dựng hệ thống phát hiện sớm tín hiệu biển báo giao thông cho lái xe dựa trên kỹ thuật học sâu,0.9434,1123,THIẾT KẾ HỆ THỐNG NHÚNG NHẬN DIỆN BIỂN BÁO GIAO THÔNG BẰNG HỌC SÂU ỨNG DỤNG CHO XE TỰ HÀNH,0.145,Duplicate,fitted_from_manual_labels
+501,XÂY DỰNG HỆ THỐNG THÔNG TIN XEM PHIM TÍCH HỢP AI GỢI Ý PHIM,0.9434,273,Xây dựng Website xem phim tích hợp hệ thống gợi ý CineWorld,0.147,Duplicate,fitted_from_manual_labels
+51,Thiết kế và XD website bán điện thoại di động đã qua sử dụng,0.9434,173,XD Website bán điện thoại di động,0.147,Duplicate,fitted_from_manual_labels
+616,Mô hình chưng cất đa tác vụ cho nhận dạng giọng nói tiếng Việt,0.9428,793,Xây dựng mô hình nhận diện giọng nói cho tiếng Việt,0.15,Duplicate,fitted_from_manual_labels
+419,XÂY DỰNG HỆ THỐNG TUYỂN DỤNG VÀ TƯ VẤN VIỆC LÀM TÍCH HỢP TRÍ TUỆ NHÂN TẠO,0.9427,392,Xây dựng website tuyển dụng và tư vấn việc làm,0.151,Duplicate,fitted_from_manual_labels
+745,Xây dựng hệ thống dự đoán xu hướng biến đổi giá chứng khoán,0.9425,748,"Xây dựng hệ thống dự đoán, hỗ trợ ra quyết định trong lĩnh vực đầu tư chứng khoán",0.152,Duplicate,fitted_from_manual_labels
+350,Thiết kế và xây dựng hệ thống website đặt lịch khám bệnh online BookingCare,0.9425,210,Xây dựng hệ thống website quản lý thông tin khám chữa bệnh,0.153,Duplicate,fitted_from_manual_labels
+553,Phát triển nền tảng kết nối ứng viên và nhà tuyển dụng ứng dụng có Chatbot AI đề xuất việc làm,0.9424,1092,Xây dựng hệ thống tuyển dụng sử dụng chatbot,0.154,Duplicate,fitted_from_manual_labels
+1064,Nghiên cứu và xây dựng mô hình dự báo mưa ứng dụng học sâu và dữ liệu đa nguồn,0.9422,1282,Nghiên cứu và phát triển hệ thống giám sát mưa ứng dụng trí tuệ nhân tạo,0.155,Duplicate,fitted_from_manual_labels
+788,Xây dựng module bán hàng qua sàn thương mại điện tử Shopee và tích hợp vào hệ thống Odoo,0.9419,789,Xây dựng module hỗ trợ hoạch định và triển khai E-Marketing trên Odoo,0.157,Duplicate,fitted_from_manual_labels
+147,NC công cụ kiểm thử và ứng dụng kiểm thử website SmartWork,0.9419,36,NC Kiểm thử phần mềm và ứng dụng công cụ Selenium IDE kiểm thử website,0.159,Duplicate,fitted_from_manual_labels
+551,Xây dựng hệ thống thương mại điện tử tích hợp Chatbot AI nhầm hỗ trợ tư vấn và tối ưu trải nghiệm khách hàng,0.9419,341,Phát triển Website thương mại điện tử tích hợp chatbot AI nâng cao trải nghiệm người dùng,0.158,Duplicate,fitted_from_manual_labels
+484,Xây Dựng Website Bán Sách Tích Hợp Chatbot AI,0.9416,269,Xây dựng Website bán điện thoại di động tích hợp chatbot,0.159,Duplicate,fitted_from_manual_labels
+426,PHÁT TRIỂN HỆ THỐNG AI PHÂN TÍCH CV VÀ ĐỀ XUẤT VIỆC LÀM PHÙ HỢP,0.9415,456,XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÂN SỰ TÍCH HỢP AI PHÂN TÍCH CV HỖ TRỢ TUYỂN DỤNG,0.16,Duplicate,fitted_from_manual_labels
+479,Xây dựng hệ thống mạng xã hội học tập tích hợp AI Chatbot,0.9414,1128,Xây dựng hệ thống hỗ trợ quản lý học tập dựa trên chatbot.,0.161,Duplicate,fitted_from_manual_labels
+39,NC Kiểm thử tự động Selenium và ứng dụng kiểm thử website May10.vn,0.9413,36,NC Kiểm thử phần mềm và ứng dụng công cụ Selenium IDE kiểm thử website,0.165,Duplicate,fitted_from_manual_labels
+407,Xây dựng hệ thống đặt phòng khách sạn tích hợp Chatbox AI,0.9413,560,Xây dựng hệ thống quản lý và đặt phòng trực tuyến tích hợp Chatbot AI tìm phòng,0.163,Duplicate,fitted_from_manual_labels
+411,XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÀ HÀNG THEO MÔ HÌNH TƯƠNG TÁC SỐ ĐA KÊNH,0.9413,760,Xây dựng hệ thống quản lý chuỗi nhà hàng,0.164,Duplicate,fitted_from_manual_labels
+142,XD website cho thuê nhà trọ sinh viên,0.9412,134,XD website chia sẻ phòng trọ,0.166,Duplicate,fitted_from_manual_labels
+1116,Xây dựng trang web xem phim trực tuyến hỗ trợ gợi ý phim sử dụng chatbot,0.941,824,Xây dựng website gợi ý phim và đặt vé xem phim,0.166,Duplicate,fitted_from_manual_labels
+459,XÂY DỰNG HỆ THỐNG CUNG CẤP SÁCH SỐ TRỰC TUYẾN BOOKNEST TÍCH HỢP CHATBOT AI,0.941,484,Xây Dựng Website Bán Sách Tích Hợp Chatbot AI,0.167,Duplicate,fitted_from_manual_labels
+442,XÂY DỰNG WEBSITE MUA BÁN VÀ TRAO ĐỔI ĐIỆN THOẠI TÍCH HỢP AI HỖ TRỢ ĐỊNH GIÁ SẢN PHẨM,0.9408,269,Xây dựng Website bán điện thoại di động tích hợp chatbot,0.168,Duplicate,fitted_from_manual_labels
+893,"Ứng dụng mô hình học máy, học sâu và các biến thể cho việc dự đoán giá các đồng tiền mã hóa",0.9407,746,Xây dựng hệ thống dự đoán xu hướng biến đổi giá tiền điện tử sử dụng các mô hình máy học,0.17,Duplicate,fitted_from_manual_labels
+746,Xây dựng hệ thống dự đoán xu hướng biến đổi giá tiền điện tử sử dụng các mô hình máy học,0.9407,745,Xây dựng hệ thống dự đoán xu hướng biến đổi giá chứng khoán,0.168,Duplicate,fitted_from_manual_labels
+8,Nghiên cứu và xây dựng hệ thống tự động xử lí và đánh giá hồ sơ ứng viên dựa trên mô hình trí tuệ nhân tạo đa tác tử,0.9407,212,Nghiên cứu và xây dựng hệ thống đa phương thức trong xử lý thông minh tài liệu giáo dục dựa trên mô hình trí tuệ nhân tạo đa tác tử,0.169,Duplicate,fitted_from_manual_labels
+207,Thiết kế và xây dựng Website đặt vé máy bay,0.9404,340,Xây dựng website đặt phòng khách sạn,0.171,Duplicate,fitted_from_manual_labels
+572,"NGHIÊN CỨU, THIẾT KẾ VÀ THỬ NGHIỆM HỆ THỐNG CHUYỂN VĂN BẢN TIẾNG VIỆT THÀNH NGÔN NGỮ KÝ HIỆU SỬ DỤNG MÔ HÌNH 3D HỖ TRỢ NGƯỜI KHIẾM THÍNH",0.9404,677,Nghiên cứu và xây dựng module chuyển đổi ngôn ngữ ký hiệu cho người khiếm thính thông qua công nghệ AI tạo sinh,0.172,Duplicate,fitted_from_manual_labels
+303,Xây dựng website quản lý đặt lịch và bán hàng tiệm cắt tóc,0.9404,825,Xây dựng website hỗ trợ quản lý và bán hàng trực tuyến,0.171,Duplicate,fitted_from_manual_labels
+316,Xây dựng hệ thống giám sát và hiển thị chỉ số không khí theo thời gian thực,0.9399,1211,"Hệ thống hỗ trợ thu thập, phân tích dữ liệu, dự báo chất lượng không khí theo thời gian thực",0.173,Duplicate,fitted_from_manual_labels
+744,Xây dựng hệ thống dự đoán sự biến đổi giá của những mã cổ phiếu vốn hóa thấp,0.9398,745,Xây dựng hệ thống dự đoán xu hướng biến đổi giá chứng khoán,0.175,Duplicate,fitted_from_manual_labels
+304,Xây dựng ứng dụng đặt phòng trực tuyến,0.9396,384,Xây dựng ứng dụng di động đặt đồ ăn trực tuyến,0.175,Duplicate,fitted_from_manual_labels
+115,XD website bán và sửa chữa Laptop An Phát,0.9395,42,XD website bán Laptop,0.177,Duplicate,fitted_from_manual_labels
+122,Xây dựng website quản lí và bán hàng đồ gia dụng cho công ty Seven Home,0.9393,618,Xây dựng website bán đồ nội thất và gia dụng,0.179,Duplicate,fitted_from_manual_labels
+700,Thiết kế và xây dựng hệ thống quản lý bất động sản,0.9393,1367,Xây dựng hệ thống quản lí kinh doanh bất động sản cho doanh nghiệp quy mô nhỏ,0.177,Duplicate,fitted_from_manual_labels
+346,Xây dựng website quản lý bán hàng BIZSUITE,0.9389,825,Xây dựng website hỗ trợ quản lý và bán hàng trực tuyến,0.182,Duplicate,fitted_from_manual_labels
+365,Xây dựng và thiết kế ứng dụng đặt lịch khám bệnh trực tuyến MediCare,0.9389,350,Thiết kế và xây dựng hệ thống website đặt lịch khám bệnh online BookingCare,0.181,Duplicate,fitted_from_manual_labels
+1238,"Nghiên cứu và phát triển ứng dụng di động dự báo, cảnh báo ô nhiễm không khí",0.9389,1288,Nghiên cứu và phát triển hệ thống giám sát ô nhiễm không khí,0.18,Duplicate,fitted_from_manual_labels
+828,Xây dựng website kinh doanh thiết bị điện tử tích hợp khuyến nghị sản phẩm,0.9389,284,Xây dựng website bán lẻ đồ điện tử,0.182,Duplicate,fitted_from_manual_labels
+812,Xây dựng website bán hàng trực tuyến tích hợp với hệ thống hoạch định nguồn lực doanh nghiệp OpenERP,0.9388,825,Xây dựng website hỗ trợ quản lý và bán hàng trực tuyến,0.186,Duplicate,fitted_from_manual_labels
+464,XÂY DỰNG HỆ THỐNG QUẢN LÝ PHÒNG KHÁM THÚ Y TÍCH HỢP CHATBOT AI TƯ VẤN KHÁCH HÀNG,0.9388,507,XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÀ THUỐC TRỰC TUYẾN TÍCH HỢP CHATBOT HỖ TRỢ TƯ VẤN VÀ TRA CỨU THUỐC,0.183,Duplicate,fitted_from_manual_labels
+376,"Xây dựng website phân tích kỹ thuật, khuyến nghị và sử dụng mô hình học máy dự báo giá cổ phiếu trên thị trường chứng khoán Việt Nam",0.9388,823,Xây dựng website dự đoán kết quả chứng khoán,0.184,Duplicate,fitted_from_manual_labels
+463,Xây dựng LearningHub Nền tảng quản lý đào tạo thông minh tích hợp Chatbot AI,0.9387,479,Xây dựng hệ thống mạng xã hội học tập tích hợp AI Chatbot,0.187,Duplicate,fitted_from_manual_labels
+307,Tích hợp trí tuệ nhân tạo trong phân tích học tập vào hệ thống quản lý khóa học,0.9384,443,XÂY DỰNG HỆ THỐNG QUẢN LÝ KHÓA HỌC TRỰC TUYẾN TRÊN NỀN TẢNG WEB TÍCH HỢP TRÍ TUỆ NHÂN TẠO (AI),0.187,Duplicate,fitted_from_manual_labels
+777,Xây dựng hệ thống tóm tắt video và chatbot hỗ trợ học tập trực tuyến thông qua các phương pháp học máy và trí tuệ nhân tạo,0.9384,1128,Xây dựng hệ thống hỗ trợ quản lý học tập dựa trên chatbot.,0.189,Duplicate,fitted_from_manual_labels
+1141,Phát triển ứng dụng học tập tiếng Anh qua chatbot,0.9383,517,Nghiên cứu và phát triển hệ thống website tự học tiếng anh thông minh có tích hợp Chatbot-AI,0.189,Duplicate,fitted_from_manual_labels
+1401,Phát hiện lỗ hổng an ninh trong ứng dụng WordPress bằng kỹ thuật fuzzing,0.9382,1404,Tìm lỗ hổng an ninh trong hệ quản trị cơ sở dữ liệu quan hệ bằng kỹ thuật fuzzing,0.19,Duplicate,fitted_from_manual_labels

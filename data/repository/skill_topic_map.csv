@@ -1,0 +1,165 @@
+﻿skill_name,topic_name,weight,status
+Machine Learning,AI/ML,1.0,draft
+Deep Learning,AI/ML,1.0,draft
+AI,AI/ML,1.0,draft
+PyTorch,AI/ML,1.0,draft
+TensorFlow,AI/ML,1.0,draft
+Scikit-learn,AI/ML,1.0,draft
+MLOps,AI/ML,0.5,draft
+NLP,Natural Language Processing,1.0,draft
+Computer Vision,Computer Vision,1.0,draft
+LLM,Generative AI & LLM,1.0,draft
+Generative AI,Generative AI & LLM,1.0,draft
+RAG,Generative AI & LLM,1.0,draft
+Prompt Engineering,Generative AI & LLM,1.0,draft
+Agentic AI,Generative AI & LLM,1.0,draft
+Data Analysis,Data Science & Analytics,1.0,draft
+Data Science,Data Science & Analytics,1.0,draft
+Data Mining,Data Science & Analytics,1.0,draft
+Power BI,Data Science & Analytics,1.0,draft
+Tableau,Data Science & Analytics,1.0,draft
+Business Intelligence,Data Science & Analytics,1.0,draft
+Pandas,Data Science & Analytics,1.0,draft
+NumPy,Data Science & Analytics,1.0,draft
+Airflow,Data Engineering,1.0,draft
+Big Data,Data Engineering,1.0,draft
+Hadoop,Data Engineering,1.0,draft
+Kafka,Data Engineering,1.0,draft
+Spark,Data Engineering,1.0,draft
+ETL,Data Engineering,1.0,draft
+Data Warehouse,Data Engineering,1.0,draft
+Databricks,Data Engineering,1.0,draft
+dbt,Data Engineering,1.0,draft
+Snowflake,Data Engineering,1.0,draft
+BigQuery,Data Engineering,1.0,draft
+Data Modeling,Data Engineering,1.0,draft
+Data Quality,Data Engineering,1.0,draft
+Data Governance,Data Engineering,1.0,draft
+AWS,Cloud & DevOps,1.0,draft
+Azure,Cloud & DevOps,1.0,draft
+GCP,Cloud & DevOps,1.0,draft
+Docker,Cloud & DevOps,1.0,draft
+Kubernetes,Cloud & DevOps,1.0,draft
+CI/CD,Cloud & DevOps,1.0,draft
+DevOps,Cloud & DevOps,1.0,draft
+Jenkins,Cloud & DevOps,1.0,draft
+Terraform,Cloud & DevOps,1.0,draft
+Ansible,Cloud & DevOps,1.0,draft
+Infrastructure as Code,Cloud & DevOps,1.0,draft
+Cloud Computing,Cloud & DevOps,1.0,draft
+Prometheus,Cloud & DevOps,1.0,draft
+Grafana,Cloud & DevOps,1.0,draft
+OpenStack,Cloud & DevOps,0.5,draft
+MLOps,Cloud & DevOps,0.5,draft
+DevSecOps,Cloud & DevOps,0.5,draft
+React,Web Development,1.0,draft
+Angular,Web Development,1.0,draft
+Vue.js,Web Development,1.0,draft
+Next.js,Web Development,1.0,draft
+Node.js,Web Development,1.0,draft
+Express.js,Web Development,1.0,draft
+NestJS,Web Development,1.0,draft
+Django,Web Development,1.0,draft
+Flask,Web Development,1.0,draft
+FastAPI,Web Development,1.0,draft
+Laravel,Web Development,1.0,draft
+Spring Boot,Web Development,1.0,draft
+Ruby on Rails,Web Development,1.0,draft
+HTML/CSS,Web Development,1.0,draft
+REST API,Web Development,1.0,draft
+GraphQL,Web Development,1.0,draft
+Blazor,Web Development,1.0,draft
+Hibernate,Web Development,1.0,draft
+Android,Mobile Development,1.0,draft
+iOS,Mobile Development,1.0,draft
+Flutter,Mobile Development,1.0,draft
+React Native,Mobile Development,1.0,draft
+Swift,Mobile Development,1.0,draft
+Dart,Mobile Development,1.0,draft
+Objective-C,Mobile Development,1.0,draft
+Mobile Development,Mobile Development,1.0,draft
+Cybersecurity,Cybersecurity,1.0,draft
+Application Security,Cybersecurity,1.0,draft
+Cloud Security,Cybersecurity,1.0,draft
+Penetration Testing,Cybersecurity,1.0,draft
+SIEM,Cybersecurity,1.0,draft
+SOAR,Cybersecurity,1.0,draft
+EDR,Cybersecurity,1.0,draft
+IAM,Cybersecurity,1.0,draft
+IDS/IPS,Cybersecurity,1.0,draft
+Firewall,Cybersecurity,0.5,draft
+Digital Forensics,Cybersecurity,1.0,draft
+Incident Response,Cybersecurity,1.0,draft
+OWASP,Cybersecurity,1.0,draft
+Vulnerability Management,Cybersecurity,1.0,draft
+Security Hardening,Cybersecurity,1.0,draft
+ISO 27001,Cybersecurity,1.0,draft
+PCI DSS,Cybersecurity,1.0,draft
+DevSecOps,Cybersecurity,0.5,draft
+Networking,Computer Networks & Infrastructure,1.0,draft
+Linux,Computer Networks & Infrastructure,1.0,draft
+System Administration,Computer Networks & Infrastructure,1.0,draft
+Windows Server,Computer Networks & Infrastructure,1.0,draft
+VMware,Computer Networks & Infrastructure,1.0,draft
+Hyper-V,Computer Networks & Infrastructure,1.0,draft
+OpenStack,Computer Networks & Infrastructure,0.5,draft
+Firewall,Computer Networks & Infrastructure,0.5,draft
+Embedded Systems,IoT / Embedded,1.0,draft
+Firmware,IoT / Embedded,1.0,draft
+RTOS,IoT / Embedded,1.0,draft
+ARM Cortex,IoT / Embedded,1.0,draft
+AUTOSAR,IoT / Embedded,1.0,draft
+CANoe,IoT / Embedded,1.0,draft
+Software Testing,Software Testing,1.0,draft
+Test Automation,Software Testing,1.0,draft
+Selenium,Software Testing,1.0,draft
+Playwright,Software Testing,1.0,draft
+Cypress,Software Testing,1.0,draft
+Appium,Software Testing,1.0,draft
+JMeter,Software Testing,1.0,draft
+Unit Testing,Software Testing,1.0,draft
+Integration Testing,Software Testing,1.0,draft
+Performance Testing,Software Testing,1.0,draft
+Postman,Software Testing,1.0,draft
+Robot Framework,Software Testing,1.0,draft
+TestComplete,Software Testing,1.0,draft
+Zephyr,Software Testing,1.0,draft
+Database,Database,1.0,draft
+SQL,Database,1.0,draft
+PostgreSQL,Database,1.0,draft
+MySQL,Database,1.0,draft
+MariaDB,Database,1.0,draft
+MongoDB,Database,1.0,draft
+Oracle Database,Database,1.0,draft
+SQL Server,Database,1.0,draft
+NoSQL,Database,1.0,draft
+Redis,Database,1.0,draft
+DynamoDB,Database,1.0,draft
+PL/SQL,Database,1.0,draft
+Elasticsearch,Database,1.0,draft
+Software Architecture,Software Architecture & Engineering,1.0,draft
+Solution Architecture,Software Architecture & Engineering,1.0,draft
+Enterprise Architecture,Software Architecture & Engineering,1.0,draft
+Microservices,Software Architecture & Engineering,1.0,draft
+Design Patterns,Software Architecture & Engineering,1.0,draft
+MVVM,Software Architecture & Engineering,1.0,draft
+UML,Software Architecture & Engineering,1.0,draft
+OOP,Software Architecture & Engineering,1.0,draft
+Algorithms & Data Structures,Software Architecture & Engineering,1.0,draft
+gRPC,Software Architecture & Engineering,1.0,draft
+ERP,Information & Enterprise Systems,1.0,draft
+CRM,Information & Enterprise Systems,1.0,draft
+SAP,Information & Enterprise Systems,1.0,draft
+Odoo,Information & Enterprise Systems,1.0,draft
+Salesforce,Information & Enterprise Systems,1.0,draft
+Microsoft Dynamics 365,Information & Enterprise Systems,1.0,draft
+ServiceNow,Information & Enterprise Systems,1.0,draft
+BPMN,Information & Enterprise Systems,1.0,draft
+Game Development,Game Development,1.0,draft
+Unity,Game Development,1.0,draft
+UI/UX Design,UI/UX Design,1.0,draft
+Figma,UI/UX Design,1.0,draft
+Wireframing,UI/UX Design,1.0,draft
+Design Systems,UI/UX Design,1.0,draft
+Adobe Creative Suite,UI/UX Design,1.0,draft
+Blockchain,Blockchain,1.0,draft

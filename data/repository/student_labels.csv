@@ -1,0 +1,73 @@
+kind,key,label_vi,description_vi
+role,Backend Developer,Lập trình viên Backend,Viết phần xử lý phía máy chủ cho website và ứng dụng.
+role,AI/ML Engineer,Kỹ sư AI / Học máy,Xây dựng mô hình học máy và trí tuệ nhân tạo.
+role,QA/Tester,Kiểm thử phần mềm,Kiểm thử phần mềm và tìm lỗi trước khi ra mắt.
+role,Security Engineer,Kỹ sư An toàn thông tin,Bảo vệ hệ thống và dữ liệu khỏi tấn công.
+role,DevOps/Cloud Engineer,Kỹ sư DevOps / Cloud,Đưa phần mềm lên mạng và giữ cho nó chạy ổn định.
+role,Fullstack Developer,Lập trình viên Fullstack,Làm cả giao diện lẫn phần máy chủ.
+role,Business Analyst,Phân tích nghiệp vụ,Tìm hiểu nhu cầu doanh nghiệp và viết yêu cầu cho đội kỹ thuật.
+role,Data Engineer,Kỹ sư dữ liệu,Xây dựng đường ống thu thập và xử lý dữ liệu lớn.
+role,Project/Delivery Manager,Quản lý dự án,Điều phối dự án giữa khách hàng và đội kỹ thuật.
+role,Mobile Developer,Lập trình viên di động,Làm ứng dụng cho điện thoại Android và iOS.
+role,System/Network Engineer,Kỹ sư hệ thống / mạng,Vận hành máy chủ và hệ thống mạng.
+role,Software Engineer,Kỹ sư phần mềm,Thiết kế và lập trình phần mềm nói chung.
+role,Data Analyst,Phân tích dữ liệu,Phân tích số liệu và làm báo cáo giúp ra quyết định.
+role,Solution/System Architect,Kiến trúc sư giải pháp,Thiết kế kiến trúc tổng thể cho hệ thống lớn.
+role,IT Support/Operations,Hỗ trợ / vận hành CNTT,Hỗ trợ người dùng và vận hành hệ thống hằng ngày.
+role,ERP/IT Consultant,Tư vấn ERP / CNTT,Tư vấn và triển khai hệ thống quản trị cho doanh nghiệp.
+role,Data Governance/Quality,Quản trị chất lượng dữ liệu,Giữ cho dữ liệu của tổ chức chính xác và an toàn.
+role,Nhóm khác,Công việc khác,Các vị trí có ít tin tuyển dụng.
+topic,AI/ML,Trí tuệ nhân tạo và học máy,
+topic,Natural Language Processing,Xử lý ngôn ngữ tự nhiên,
+topic,Computer Vision,Thị giác máy tính,
+topic,Generative AI & LLM,AI tạo sinh và mô hình ngôn ngữ lớn,
+topic,Recommendation System,Hệ thống gợi ý,
+topic,Data Science & Analytics,Khoa học và phân tích dữ liệu,
+topic,Data Engineering,Kỹ thuật dữ liệu,
+topic,Cloud & DevOps,Điện toán đám mây và DevOps,
+topic,Web Development,Phát triển web,
+topic,Mobile Development,Phát triển ứng dụng di động,
+topic,Cybersecurity,An toàn thông tin,
+topic,Computer Networks & Infrastructure,Mạng máy tính và hạ tầng,
+topic,IoT / Embedded,IoT và hệ thống nhúng,
+topic,Software Testing,Kiểm thử phần mềm,
+topic,Database,Cơ sở dữ liệu,
+topic,Software Architecture & Engineering,Kiến trúc và kỹ thuật phần mềm,
+topic,Information & Enterprise Systems,Hệ thống thông tin doanh nghiệp,
+topic,Game Development,Phát triển game,
+topic,Optimization / Operations Research,Tối ưu hóa và vận trù học,
+topic,UI/UX Design,Thiết kế giao diện và trải nghiệm,
+topic,Blockchain,Blockchain,
+topic,AR/VR & Spatial Computing,Thực tế ảo và thực tế tăng cường,
+domain,Finance & Banking,Tài chính và ngân hàng,
+domain,Healthcare,Y tế,
+domain,Education,Giáo dục,
+domain,E-commerce & Retail,Thương mại điện tử và bán lẻ,
+domain,Tourism & Hospitality,Du lịch và khách sạn,
+domain,Transportation & Logistics,Giao thông và vận tải,
+domain,Agriculture,Nông nghiệp,
+domain,News & Media,Báo chí và truyền thông,
+domain,Entertainment & Gaming,Giải trí và game,
+domain,Real Estate & Construction,Bất động sản và xây dựng,
+domain,Government & Public Sector,Cơ quan nhà nước,
+domain,Manufacturing & Industry,Sản xuất và công nghiệp,
+domain,Environment & Energy,Môi trường và năng lượng,
+domain,Human Resources & Recruitment,Nhân sự và tuyển dụng,
+domain,Social & Community,Mạng xã hội và cộng đồng,
+domain,Telecommunications,Viễn thông,
+domain,Sports & Fitness,Thể thao và sức khỏe,
+skill_category,Programming Language,Ngôn ngữ lập trình,
+skill_category,Framework / Library,Framework và thư viện,
+skill_category,Database,Cơ sở dữ liệu,
+skill_category,Data & Analytics,Dữ liệu và phân tích,
+skill_category,AI / ML,Trí tuệ nhân tạo,
+skill_category,Cloud & DevOps,Đám mây và DevOps,
+skill_category,Security,An toàn thông tin,
+skill_category,Testing / QA,Kiểm thử,
+skill_category,Project & Business,Quản lý và nghiệp vụ,
+skill_category,Architecture & Engineering Practice,Kiến trúc và thực hành kỹ thuật,
+skill_category,IT Operations & Networking,Vận hành và mạng,
+skill_category,Enterprise Systems,Hệ thống doanh nghiệp,
+skill_category,Embedded & Hardware,Nhúng và phần cứng,
+skill_category,Design & UX,Thiết kế và trải nghiệm,
+skill_category,Mobile,Di động,

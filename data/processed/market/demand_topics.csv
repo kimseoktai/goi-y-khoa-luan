@@ -1,0 +1,20 @@
+﻿item,rank,job_count,share,ci_low,ci_high,n_companies,top_company_share,support_ok,concentrated
+Cloud & DevOps,1,224,0.4308,0.3889,0.4737,122,0.054,True,False
+Database,2,162,0.3115,0.2732,0.3526,99,0.062,True,False
+Web Development,3,140,0.2692,0.2329,0.3089,92,0.079,True,False
+Software Architecture & Engineering,4,100,0.1923,0.1607,0.2284,71,0.06,True,False
+AI/ML,5,98,0.1885,0.1572,0.2243,50,0.163,True,False
+Software Testing,6,76,0.1462,0.1184,0.1791,60,0.039,True,False
+Data Engineering,7,75,0.1442,0.1166,0.177,47,0.12,True,False
+Information & Enterprise Systems,8,69,0.1327,0.1062,0.1646,57,0.043,True,False
+Cybersecurity,9,65,0.125,0.0993,0.1562,41,0.062,True,False
+Computer Networks & Infrastructure,10,57,0.1096,0.0856,0.1394,42,0.053,True,False
+Data Science & Analytics,11,40,0.0769,0.057,0.1031,24,0.225,True,False
+Mobile Development,12,33,0.0635,0.0455,0.0878,29,0.091,True,False
+Generative AI & LLM,13,30,0.0577,0.0407,0.0812,22,0.133,True,False
+Computer Vision,14,23,0.0442,0.0297,0.0655,10,0.304,True,False
+UI/UX Design,15,22,0.0423,0.0281,0.0632,19,0.136,True,False
+Natural Language Processing,16,21,0.0404,0.0266,0.0609,9,0.333,True,False
+Blockchain,17,8,0.0154,0.0078,0.0301,6,0.25,False,False
+IoT / Embedded,18,7,0.0135,0.0065,0.0275,5,0.286,False,False
+Game Development,19,6,0.0115,0.0053,0.0249,5,0.333,False,False

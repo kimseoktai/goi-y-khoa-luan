@@ -1,0 +1,47 @@
+﻿company_key,company_example,domain,status,source,note
+viettel group,Viettel Group,Telecommunications,draft,claude_knowledge,tập đoàn viễn thông
+mobifone it,MobiFone IT,Telecommunications,draft,claude_knowledge,đơn vị CNTT của MobiFone
+tong ha tang mang vnpt net,Tổng Công Ty Hạ Tầng Mạng (VNPT-Net),Telecommunications,draft,claude_knowledge,hạ tầng mạng VNPT
+vien thong quoc te fpt,CÔNG TY TNHH MỘT THÀNH VIÊN VIỄN THÔNG QUỐC TẾ FPT,Telecommunications,draft,claude_knowledge,viễn thông
+vien thong vtc,Công Ty Cổ Phần Viễn Thông VTC,Telecommunications,draft,claude_knowledge,viễn thông
+cong nghe huawei,CÔNG TY TNHH CÔNG NGHỆ HUAWEI VIỆT NAM,Telecommunications,draft,claude_knowledge,thiết bị viễn thông
+meey land,Công ty Cổ phần Tập đoàn Meey Land,Real Estate & Construction,draft,claude_knowledge,nền tảng bất động sản
+andpad,"ANDPAD VietNam Co., Ltd",Real Estate & Construction,draft,claude_knowledge,phần mềm quản lý thi công xây dựng
+mitek,MiTek Vietnam,Real Estate & Construction,draft,claude_knowledge,sản phẩm cho xây dựng
+simpson strong tie,Simpson Strong-Tie Vietnam,Real Estate & Construction,draft,claude_knowledge,vật liệu/kết cấu xây dựng
+boydens part of sweco,Công Ty TNHH Boydens Vietnam part of Sweco,Real Estate & Construction,draft,claude_knowledge,tư vấn kỹ thuật xây dựng
+money forward,"MONEY FORWARD VIETNAM CO.,LTD",Finance & Banking,draft,claude_knowledge,phần mềm kế toán/tài chính doanh nghiệp (sản phẩm chính)
+shinhan ds,SHINHAN DS,Finance & Banking,draft,claude_knowledge,CNTT của tập đoàn tài chính Shinhan
+nab innovation centre,NAB Innovation Centre Vietnam,Finance & Banking,draft,claude_knowledge,National Australia Bank
+gotymex,GoTymeX,Finance & Banking,draft,claude_knowledge,ngân hàng số GoTyme
+phu hung securities phs,Phu Hung Securities (PHS),Finance & Banking,draft,claude_knowledge,chứng khoán
+ssi securities,SSI Securities Corporation,Finance & Banking,draft,claude_knowledge,chứng khoán
+techcom securities,Techcom Securities,Finance & Banking,draft,claude_knowledge,chứng khoán
+hsc,HSC,Finance & Banking,draft,claude_knowledge,Chứng khoán TP.HCM
+bidv securities bsc,BIDV Securities Company (BSC),Finance & Banking,draft,claude_knowledge,chứng khoán
+tnex,TNEX,Finance & Banking,draft,claude_knowledge,ngân hàng số
+timo,Timo,Finance & Banking,draft,claude_knowledge,ngân hàng số
+f88,F88,Finance & Banking,draft,claude_knowledge,cho vay cầm cố
+kinh doanh f88,CÔNG TY CỔ PHẦN KINH DOANH F88,Finance & Banking,draft,claude_knowledge,cho vay cầm cố
+papaya insurtech,PAPAYA INSURTECH,Finance & Banking,draft,claude_knowledge,bảo hiểm
+daiichi life,Daiichi Life Việt Nam,Finance & Banking,draft,claude_knowledge,bảo hiểm nhân thọ
+mbamc,MBAMC,Finance & Banking,draft,claude_knowledge,quản lý tài sản MB
+cyberlogitec,"CyberLogitec Vietnam Co., Ltd.",Transportation & Logistics,draft,claude_knowledge,phần mềm vận tải biển/logistics
+grab,Grab (Vietnam) Ltd.,Transportation & Logistics,draft,claude_knowledge,gọi xe/giao hàng
+be group,Be Group,Transportation & Logistics,draft,claude_knowledge,gọi xe
+ptsc offshore services pos,PTSC Offshore Services (POS),Environment & Energy,draft,claude_knowledge,dịch vụ dầu khí ngoài khơi
+hella,Hella Vietnam,Manufacturing & Industry,draft,claude_knowledge,linh kiện ô tô
+amkor technology,Amkor Technology Việt Nam,Manufacturing & Industry,draft,claude_knowledge,sản xuất bán dẫn
+panasonic group panasonic r d center prdc,Panasonic Vietnam Group – Panasonic R&D Center Vietnam (PRDC),Manufacturing & Industry,draft,claude_knowledge,điện tử
+red bull,Công Ty TNHH Red Bull (Việt Nam),Manufacturing & Industry,draft,claude_knowledge,sản xuất đồ uống
+karofi holding,Tập Đoàn Karofi Holding,Manufacturing & Industry,draft,claude_knowledge,sản xuất máy lọc nước
+loc troi,Tập Đoàn Lộc Trời,Agriculture,draft,claude_knowledge,nông nghiệp
+nafoods group,Công ty cổ phần Nafoods Group,Agriculture,draft,claude_knowledge,nông sản
+betrimex,Betrimex,Agriculture,draft,claude_knowledge,chế biến dừa xuất khẩu
+betrimex xuat nhap khau ben tre,BETRIMEX - Công Ty Cổ Phần Xuất Nhập Khẩu Bến Tre,Agriculture,draft,claude_knowledge,chế biến dừa xuất khẩu
+phuc sinh,Công Ty Cổ Phần Phúc Sinh,Agriculture,draft,claude_knowledge,nông sản
+con cung,Con Cưng,E-commerce & Retail,draft,claude_knowledge,bán lẻ mẹ và bé
+cellphones,CellphoneS,E-commerce & Retail,draft,claude_knowledge,bán lẻ điện thoại
+amanotes,AMANOTES,Entertainment & Gaming,draft,claude_knowledge,game âm nhạc
+onsen fuji,CÔNG TY CỔ PHẦN TẬP ĐOÀN ONSEN FUJI,Tourism & Hospitality,draft,claude_knowledge,khu nghỉ dưỡng suối khoáng
+everfit,Everfit,Sports & Fitness,draft,claude_knowledge,nền tảng huấn luyện thể hình

@@ -1,0 +1,1432 @@
+﻿thesis_id,title,year,source
+1,Giải quyết bài toán giao hàng với nhiều trạm máy bay không người lái,2025,neu
+2,Ứng dụng học máy trong dự đoán năng suất và khuyến nghị cây trồng tối ưu,2025,neu
+3,Website đọc báo tích hợp chatbot AI,2025,neu
+4,Xây dựng Module phát hiện đuối nước sử dụng Deep Learning (YOLOv11),2025,neu
+5,Chatbot ứng dụng trí tuệ nhân tạo hỗ trợ nhận diện bệnh cây trồng và tư vấn nông nghiệp,2025,neu
+6,Xây dựng tựa game chiến thuật theo lượt bàn cờ trên Unity,2025,neu
+7,Đo lường độ bất định thông qua mạng nơron bayesian “áp dụng dự đoán giá bất động sản”,2025,neu
+8,Nghiên cứu và xây dựng hệ thống tự động xử lí và đánh giá hồ sơ ứng viên dựa trên mô hình trí tuệ nhân tạo đa tác tử,2025,neu
+9,Xây dựng trò chơi hành động - phiêu lưu Chrono Echo,2025,neu
+10,Xây dựng Hệ thống điều hướng tương tác AI,2025,neu
+11,Phân tích và thiết kế hệ thống mạng LAN tại công ty TIG,2025,neu
+12,Ứng dụng trí tuệ nhân tạo trong giám sát mức độ tập trung trong học tập trực tuyến,2025,neu
+13,"Nghiên cứu, xây dựng ứng dụng quản lý thành viên cây Gia phả",2025,neu
+14,Ứng dụng mô hình Pix2Pix trong bài toán tô màu ảnh chân dung đen trắng,2025,neu
+15,Phân tích & dự đoán khả năng tham gia lao động phi nông nghiệp của hộ gia đình Việt Nam từ số liệu VHLSS 2014-2018,2025,neu
+16,Xây dựng ứng dụng chat nội bộ,2025,neu
+17,Xây dựng chatbot song ngữ hỗ trợ tra cứu thông tin môn học dựa trên mô hình RAG,2025,neu
+18,Xây dựng trò chơi nhập vai với cơ chế chiến đấu theo lượt,2025,neu
+19,Nghiên cứu một số thuật toán học máy trong dự đoán khả năng khách hàng ngưng sử dụng dịch vụ viễn thông,2025,neu
+20,"Phân tích dữ liệu học tập và ứng dụng Machine Learning trong dự đoán kết quả, cá nhân hóa lộ trình học tập",2025,neu
+21,Xây dựng Hệ thống Chatbot Tư vấn tuyển sinh và Quy chế đào tạo tại Đại học Kinh tế Quốc dân,2025,neu
+22,Dự đoán nhu cầu thiêu thụ rượu bia của các hộ gia đình Việt Nam sử dụng bộ dữ liệu VHLSS,2025,neu
+23,Xây dựng và phát triển mô hình phát hiện bất thường trên ảnh XQ phổi,2025,neu
+24,Xây dựng hệ thống quản lý dinh dưỡng và luyện tập cá nhân hóa NutriFit,2025,neu
+25,Xây dựng Hệ thống Quản lý nhà gửi xe ô tô tự động,2025,neu
+26,Phát hiện và thay đổi trang phục ảo bằng trí tuệ nhân tạo,2024,neu
+27,Game bắn súng Ace wings,2024,neu
+28,XD phần mềm quản lí tài sản cố định của công ty Tân Tiến,2018,neu
+29,Ứng dụng học máy trong phân loại dữ liệu an toàn cho trẻ em và Xây dựng tiện ích trên Chrome,2024,neu
+30,Xây dựng ứng dụng tìm đường đi ngắn nhất,2018,neu
+31,XD Phần mềm thi trắc nghiệm,2018,neu
+32,XD ứng dụng thi trắc nghiệm trên nền tảng Android,2018,neu
+33,NC và cài đặt thử nghiệm các hệ mã hóa khóa bảo mật,2018,neu
+34,Lập trình Game Engine Unity,2018,neu
+35,NC và XD ứng dụng Game trên Unity Engine,2018,neu
+36,NC Kiểm thử phần mềm và ứng dụng công cụ Selenium IDE kiểm thử website,2018,neu
+37,Tìm hiểu công nghệ kiểm thử và ứng dụng vào kiểm thử website thương mại điện tử,2018,neu
+38,NC Công cụ kiểm thự tự động Selenium và ứng dụng kiểm thử website hoctestertop.com,2018,neu
+39,NC Kiểm thử tự động Selenium và ứng dụng kiểm thử website May10.vn,2018,neu
+40,XD ứng dụng du lịch trên mobile bằng hệ điều hành Android,2018,neu
+41,Tổng quan về phát triển Game và tìm hiểu về Engine Unity trong xây dựng game,2018,neu
+42,XD website bán Laptop,2019,neu
+43,Thiết kế website bán Laptop của công ty cổ phần SKT01Group,2019,neu
+44,XD Website giới thiệu sản phẩm tinh bột nghệ,2019,neu
+45,NC và cài đặt thử nghiệm các hệ mã hóa dòng trong mã hóa bí mật,2019,neu
+46,Thiết kế website thời trang cho shop Thiên Hương,2019,neu
+47,"XD HT quản lí nhân viên, giảng viên cho Trung tâm đào tạo vừa và nhỏ",2019,neu
+48,Thiết kế và XD Game 2D One Piece: The Advanture,2019,neu
+49,NC ứng dụng kiểm thử tự động trong kiểm thử phần mềm,2019,neu
+50,Xd Phần mềm quản lí bán hàng văn phòng phẩm,2019,neu
+51,Thiết kế và XD website bán điện thoại di động đã qua sử dụng,2019,neu
+52,Giải pháp tối ưu hóa công cụ tìm kiếm cho website hoctienganhonline.net,2019,neu
+53,XD chatbot hỗ trợ học toán lớp 5,2019,neu
+54,Ứng dụng công nghệ RFID vào XD hệ thống điểm danh,2019,neu
+55,Xây dựng website chia sẻ video,2019,neu
+56,XD phần mềm đánh giá hiệu quả làm việc của nhân viên theo KPI,2019,neu
+57,XD phần mềm quản lí phòng khám Smart Clinic V1.0,2019,neu
+58,XD HT phần mềm quản lí hồ sơ cán bộ công chức viên chức,2019,neu
+59,NC về tối ưu hóa công cụ tìm kiếm SEO thực nghiệm trên website AuroragardentTamChinh.vn,2019,neu
+60,XD hệ thống phần mềm quản lí học viên tại trung tâm anh ngữ PPSVietNam,2019,neu
+61,XD HT quản lí nhân sự cho công ty Tinh Vân Consulting,2019,neu
+62,NC và thực hiện tối ưu hóa công cụ tìm kiếm trên Website học tiếng anh SkyEnglish,2019,neu
+63,NC và cài đặt thử nghiệm hệ mã hóa dòng trong mã hóa khóa bảo mật,2019,neu
+64,NC và cài đặt thử nghiệm mã hóa khóa công khai RSA,2019,neu
+65,XD HT đăng kí phòng họp trực tuyến tại trường ĐH KTQD,2019,neu
+66,XD phần mềm quản lí tài sản cố định của công ty TNHH TM&DV Phát An,2019,neu
+67,Phân tích và XD bài toán quản lí các dịch vụ của khu chung cư,2019,neu
+68,XD phần mềm đăng kí cấp giấy xác nhận nội dung quảng cáo sản phẩm thực phẩm,2019,neu
+69,Phân tích và XD phần mềm quản lí nhân sự tiền lương của công ty công nghệ Hòa An,2019,neu
+70,Phân tích và XD bài toán quản lí thu chi ở trương THPT,2019,neu
+71,XD Phần mềm quản lí tiền gửi tiết kiệm cho phòng giao dịch Agribank Định Công,2019,neu
+72,XD hệ thống quản lí nhân sự cho công ty Rikkeisoft,2019,neu
+73,XD website công ty cổ phần thương mại dịch vụ NAE và tích hợp Chat bot,2019,neu
+74,XD hệ thống quản lí học viên trong trung tâm quy mô vừa và nhỏ,2019,neu
+75,XD website bán hàng thời trang Since1998,2020,neu
+76,Ứng dụng WordPress vào thiết kế website học tiếng Hàn online,2020,neu
+77,XD HT quản lí giường bệnh cho bệnh nhân nội trú,2020,neu
+78,XD Website bán thực phầm chay An Lạc,2020,neu
+79,"NC và thiết kế phần mềm ghép ảnh áo thun ""Render Mockup""",2020,neu
+80,XD website bán phụ kiện máy ảnh trực tuyến,2020,neu
+81,XD website giới thiệu sản phẩm cho công ty ống thép 190 Hải Phòng,2020,neu
+82,Ưng dụng dịch vụ Amazon Sagemarker để gợi ý phim dựa trên thuật toán học máy,2020,neu
+83,Triển khai thử nghiệm HT quản lí giảng dạy trên nền tảng Moodle,2020,neu
+84,NC đề xuất và cài đặt thử nghiệm mô hinh tóm tắt đơn văn bản tiếng anh kiểu tóm lược,2020,neu
+85,NC đề xuất và cài đặt thử nghiệm mô hinh tóm tắt đơn văn bản tiếng anh kiểu trích xuất,2020,neu
+86,XD website đặt đồ ăn trực tuyến HaLong food,2020,neu
+87,Thiết kế cổng thông tin diện tử thành phố Hải Phòng,2020,neu
+88,XD website bán hàng thời trang và phụ kiện,2020,neu
+89,XD website bán mĩ phẩm,2020,neu
+90,Thiết kế và XD HT bán sách trực tuyến,2020,neu
+91,Thiết kế website giới thiệu sản phẩm và bán hàng cho cửa hàng xăm nghệ thuật,2020,neu
+92,XD website chia sẻ công thưc nấu ăn Đậu Đậu,2020,neu
+93,NC thuật toán Random Forest trong hỗ trợ chuẩn đoán bệnh,2020,neu
+94,XD website quản lí bán hàng sản phẩm thời trang,2020,neu
+95,XD HT quản lí vận tải GoNow,2020,neu
+96,XD Chức năng thanh toán tiền thưởng trên HT Oracle Netsuite,2020,neu
+97,"Nghiên cứu, phát triển ứng dụng đặt đồ ăn FoodDeli trên nền tảng Android",2020,neu
+98,XD bài toán ghép đôi không trọng số,2020,neu
+99,NC và cài đặt thử nghiệm kĩ thuật Deep Learning trong tóm tắt đơn văn bản tiếng anh,2020,neu
+100,Kiểm thử ứng dụng quản lí nhà hàng Smart Restaurant trên Andorid,2020,neu
+101,XD HT PM QL an toàn vệ sinh lao động thông qua hình ảnh cho tập đoàn xây dựng Delta,2020,neu
+102,XD HTTT quản lí bài viết tại thời báo kinh tế VN,2020,neu
+103,XD Bài toán quản lí khóa học ngắn hạn của cơ sở đào tạo về CNTT,2020,neu
+104,Xây dựng ứng dụng mua bán đồ ăn trên nền tảng Android,2020,neu
+105,XD website giới thiệu sản phẩm và bán sách trực tuyến,2020,neu
+106,XD phần mềm thi thử trắc nghiệm trên nền tảng Android,2020,neu
+107,XD ứng dụng quản lí cửa hàng Mystore trên nền tảng Android,2020,neu
+108,Kiểm thử hệ thống website thi trực tuyến,2020,neu
+109,XD ứng dụng cứu hộ xe máy Hà Nội,2020,neu
+110,XD Website nghe nhạc trực tuyến,2020,neu
+111,XD và phát triển hệ thống hỗ trợ giảng dạy và học thực hành RealLabs,2020,neu
+112,XD ứng dụng QL đặt hàng cho CT CP sản xuất TLG VN,2020,neu
+113,XD Website bán đồ thờ cúng,2020,neu
+114,XD website TMĐT cho cửa hàng Nông sản sạch Tomita,2020,neu
+115,XD website bán và sửa chữa Laptop An Phát,2021,neu
+116,XD phần mềm đánh giá và đặt đồ ăn của công ty TNHH An Phước Hải,2021,neu
+117,Phân tích và thiết kế website Overthink,2021,neu
+118,Xây dựng PM quản lí bệnh nhân Bệnh viện đa khoa huyện Hoa Lư,2021,neu
+119,Bài toán QL kí túc xá trường Đại học Công nghiệp HN,2021,neu
+120,Mô hình mạng nơ ron tích chập cho bài toán phân loại quần áo,2021,neu
+121,XD website dịch vụ môi giới việc làm,2021,neu
+122,Xây dựng website quản lí và bán hàng đồ gia dụng cho công ty Seven Home,2021,neu
+123,Xây dựng App mobile bán bánh ngọt,2021,neu
+124,XD website giới thiệu và bán đồ điện tử trực tuyến,2021,neu
+125,XD website Review nhà hàng,2021,neu
+126,XD Hệ thống quản lí quán café Times Coffee,2021,neu
+127,Thiết kế và xây dựng website bán sách online,2021,neu
+128,Cài đặt thử nghiệm hai thuật toán phân mảnh ngang và phân mảnh dọc trong CSLD phân tán,2021,neu
+129,"Thiết kế, XD hệ thống website quản lí công việc",2021,neu
+130,Nhận dạng biển số xe ô tô,2021,neu
+131,XD website bán mô hình Anime,2021,neu
+132,NC và cài đặt thử nghiệm mô hình tóm tắt đơn văn bản tiếng việt,2021,neu
+133,XD và QL website đặt tour du lịch,2021,neu
+134,XD website chia sẻ phòng trọ,2021,neu
+135,XD website sự kiện,2021,neu
+136,XD Hệ thống quản lí thông tin tuyển dụng cho ngành CNTT,2021,neu
+137,XD phần mềm quản lí vay vốn ngân hàng Agribank,2021,neu
+138,XD website Scan Party quản lí khách mời sự kiện,2021,neu
+139,XD website quản lí hệ thống phòng trọ HomeX,2021,neu
+140,XD Website bất động sản Thuận Thành Land,2021,neu
+141,XD Websiter kết nói các công ty du lịch theo hướng Single Page Application,2021,neu
+142,XD website cho thuê nhà trọ sinh viên,2021,neu
+143,XD Hệ thống quản lí khách sạn trên Window,2021,neu
+144,NC ứng dụng công nghệ BlockChain để XD sàn giao dịch NFT,2022,neu
+145,NC Phát triển hệ thống chấm thi trắc nghiệm trên giấy TDMaker,2022,neu
+146,XD Website bán đồ điện tử,2022,neu
+147,NC công cụ kiểm thử và ứng dụng kiểm thử website SmartWork,2022,neu
+148,XD Game Graphic Adventure Evil Bunny,2022,neu
+149,NC và XD hệ thống bán cây giống cây cảnh,2022,neu
+150,XD Hệ thống điểm danh bằng nhận diện khuôn mặt,2022,neu
+151,Ứng dụng mô hình Bert cho bài toán trích xuất thực thể tiếng Việt,2022,neu
+152,XD website quản lí chung cư,2022,neu
+153,NC hình thức thi trắc nghiệm khách quan và XD website thi trắc nghiệm trực tuyến ExaEdu,2022,neu
+154,XD Tệp thông tin khách hàng bằng bài toán NER,2022,neu
+155,Thiết kế máy hút bụi thông minh,2022,neu
+156,XD HT quản lí tài liệu dự án bằng công nghệ BlockChain,2022,neu
+157,XD phần mềm hỗ trợ gọi món bằng giọng nói,2022,neu
+158,Áp dụng Xử lí ngôn ngữ tự nhiên XD hệ thống tóm tắt văn bản tự động,2022,neu
+159,Thiết kế và XD website giới thiệu và bán khóa học online,2022,neu
+160,XD website bán mỹ phẩm sử dụng Laravel và MySQL,2022,neu
+161,XD và phát triển ứng dụng tra cứu thông tin dịch bệnh Covid 19 tại VN trên nền tảng Android,2022,neu
+162,NC về thiết kế trải nghiệm người dùng,2022,neu
+163,"XD HT web ôn luyện và thi trắc nghiệm trực tuyến dành cho học sinh, sinh viên",2022,neu
+164,NC và XD website bán sách online,2022,neu
+165,Ứng dụng TensorFlow và Tesseract cho việc nhận diện biển số xe từ nguồn ảnh động,2022,neu
+166,XD Phần mềm QL nhà hàng đồ uống,2022,neu
+167,XD Website quản lí lớp học tích hợp Module điểm danh tự động bằng vân tay,2022,neu
+168,Xây dựng HT ôn tập và hỗ trợ học tập Learn4U,2022,neu
+169,NC ứng dụng CN chuỗi khối trong HT QL văn bằng tốt nghiệp tại trường ĐH KTQD,2022,neu
+170,XD Website bán giày thể thao cho cửa hàng Dragon Shop,2022,neu
+171,Công cụ kiểm thử tự động AKAAT studio và ứng dụng vào kiểm thử website Iquiz,2022,neu
+172,Ứng dụng công nghệ NFT và đồng tiền điện tử trong XD hệ thống TMĐT,2022,neu
+173,XD Website bán điện thoại di động,2022,neu
+174,XD HT phát hiện buồn ngủ của người lái ô tô và xe máy,2022,neu
+175,XD ứng dụng đặt đồ ăn trên nền tảng Android,2022,neu
+176,NC và XD HT tóm tắt đơn văn bản tiếng Việt theo hướng trích rút sử dụng TF-IDF,2022,neu
+177,XD HT hỗ trợ luyện thi chứng chỉ Tiếng Anh,2022,neu
+178,XD HT hỗ trợ học tập Flashcard trên nền tảng Java Spring Framework,2022,neu
+179,NC và Phát triển website bán thực phẩm hữu cơ Organic shop trên nền tảng CN Laravel,2022,neu
+180,XD website TMĐT bán đồ điện tử,2022,neu
+181,XD website bán quần áo thời trang,2022,neu
+182,NC về ASP.net core và ứng dụng xây dưng website bán hàng,2022,neu
+183,XD Website QL khóa học tiếng anh cho công ty VTI,2022,neu
+184,XD HT website bán kính mát,2022,neu
+185,"XD phần mềm QL tài chính cá nhân sử dụng React Native, Firebase",2022,neu
+186,XD Hệ thống website học tập trực tuyến,2022,neu
+187,XD hệ thống dự báo giá nhà đất dựa trên các mô hình học máy và học sâu,2023,neu
+188,NC và phát triển hệ thống nhận dạng chữ viết tay sử dụng kĩ thuật học sâu,2023,neu
+189,XD và phát triển Game Mememakeover trên nền tảng Android,2023,neu
+190,Thiết kế và XD website bán máy tính Professor Computer,2023,neu
+191,"NC và XD website bán quần áo thời trang cho các cửa hàng, trường hợp cửa hàng Tyne",2023,neu
+192,XD trò chơi giới thiệu về trường ĐH kinh tế quốc dân,2023,neu
+193,Phát triển Game học từ vựng tiếng anh,2023,neu
+194,XD website bán hàng văn phòng phẩm và quản lí bán hàng,2023,neu
+195,"NC và XD website quản lí chia sẻ tài tài liệu giảng dạy, học tập",2023,neu
+196,NC và ứng dụng công nghệ RPA trong kiểm thứ tự động tại công ty giải pháp BE EDU,2023,neu
+197,"NC, XD phần mềm quản lí nhân sự tại công ty cổ phần Ichiba VN",2023,neu
+198,NC và phát triển hệ thống Student AI giúp quản lí và nhận diện sinh viên bằng điểm danh khuôn mặt,2023,neu
+199,NC và XD Data Warehouse và trực quan hóa dữ liệu cho nền tảng khóa học trực tuyến Noron Academy,2023,neu
+200,Thiết kế và XD trang web đăng kí hiến máu nhân tạo,2023,neu
+201,Xây dựng website bán giày,2023,neu
+202,Tìm hiểu kiểm thử tự động và ứng dụng công cụ Selenium web driver để kiểm thử web Guardian.com.vn,2023,neu
+203,Xây dựng ứng dụng tổng hợp tin tức tích hợp mô hình khuyến nghị nội dung,2024,neu
+204,Tìm hiểu về kiểm thử tự động API và xây dựng chương trình kiểm thử tự động API,2024,neu
+205,Nghiên cứu và phát triển hệ thống trí tuệ nhân tạo phân loại phông chữ đồ họa dựa trên kỹ thuật học sâu,2024,neu
+206,Xây dựng Website học tiếng anh,2025,neu
+207,Thiết kế và xây dựng Website đặt vé máy bay,2025,neu
+208,Phân tích nghiệp vụ hệ thống quản lý quy trình vay (LOS) cho ngân hàng,2025,neu
+209,Nghiên cứu mô hình học máy để dự báo điểm tín dụng,2025,neu
+210,Xây dựng hệ thống website quản lý thông tin khám chữa bệnh,2025,neu
+211,Nghiên cứu và phát triển hệ thống khai thác dữ liệu đa phương thức trong tài liệu tiếng anh và tiếng việt dựa trên mô hình trí tuệ nhân tạo đa tác tử,2025,neu
+212,Nghiên cứu và xây dựng hệ thống đa phương thức trong xử lý thông minh tài liệu giáo dục dựa trên mô hình trí tuệ nhân tạo đa tác tử,2025,neu
+213,Xây dựng hệ thống học tiếng Anh trực tuyến tích hợp AI hỗ trợ học tập thông minh,2025,neu
+214,Phát triển mô hình tự động trực quan hoá dữ liệu,2025,neu
+215,Phân tích dữ liệu và dự đoán chi tiêu thực phẩm sử dụng dữ liệu Khảo sát hộ gia đình Việt Nam,2025,neu
+216,Xây dựng game lịch sử Đinh Bộ Lĩnh dẹp loạn 12 xứ quân,2025,neu
+217,Thiết kế và triển khai hệ thống dự báo nhu cầu và tối ưu tồn kho đa điểm phân phối ứng dụng Machine Learning,2025,neu
+218,Xây dựng website phòng tranh trực tuyến tích hợp trí tuệ nhân tạo – ArtNoir,2025,neu
+219,Xây dựng Website mạng xã hội,2025,neu
+220,Xây dựng Website thời trang Adidas,2025,neu
+221,Phát triển ứng dụng di động học từ vựng tiếng Anh qua nhận diện hình ảnh,2025,neu
+222,Xây dựng hệ thống quản lý học tập nội bộ cho công ty Aladin,2025,neu
+223,Xây dựng website quản lý sân cầu lông tại địa bàn thành phố hà nội,2025,neu
+224,Xây dựng website ôn tập câu hỏi trắc nghiệm,2025,neu
+225,Xây dựng hệ thống thu thập và phân tích thông tin tình báo mối đe dọa,2025,neu
+226,Phát triển hệ thống chấm điểm thực hành thể thao dựa trên công nghệ ước lượng tư thế,2025,neu
+227,Xây dựng hệ thống hỗ trợ phỏng vấn bằng AI cho trường đại học,2025,neu
+228,Hệ thống y bạ điện tử,2025,neu
+229,Xây dựng hệ thống chatbot AI cho quản lý tin nhắn Facebook Messenger sử dụng kiến trúc RAG và quy trình hybrid AI-Human,2025,neu
+230,Sử dụng học máy phân tích cảm xúc cộng đồng về lộ trình chuyển đổi xe xăng sang xe điện,2025,neu
+231,Xây dựng Website quản lý cửa hàng điện thoại,2025,neu
+232,Xây dựng ứng dụng Web quản lý bán hàng cho cửa hàng tiện ích,2025,neu
+233,Xây dựng Website bán đồ gỗ mỹ nghệ cho xưởng sản xuất mộc Thiên Long,2025,neu
+234,Xây dựng ứng dụng phát hiện và phân loại hình ảnh rác thải,2025,neu
+235,Xây dựng ứng dụng học ngoại ngữ Lingoverse tích hợp AI Assistant,2025,neu
+236,Nghiên cứu - Ứng dụng sự kết hợp giữa thuật toán học sâu và học tăng cường trong giao dịch chứng khoán tại Việt Nam,2025,neu
+237,Ứng dụng công nghệ thực tế ảo trong giảng dạy và thực hành thí nghiệm sắc ký lớp mỏng,2025,neu
+238,"Xây dựng hệ thống phỏng vấn tự động ứng dụng mô hình ngôn ngữ lớn, tạo sinh có truy xuất và phỏng vấn thích ứng",2025,neu
+239,Hệ thống nhận diện và biên dịch ngôn ngữ ký hiệu chính tả,2025,neu
+240,Ứng dụng RAG-LLM trong phân tích xu hướng thị trường chứng khoán Việt Nam với dữ liệu Near Realtime,2025,neu
+241,"Xây dựng hệ thống quản lý nhà hàng, quán ăn Laklu",2025,neu
+242,Thiết kế và phát triển hệ thống quản lý nhà hàng (Restaurant POS) trên nền tảng web,2025,neu
+243,Xây dựng Web nhắn tin và gọi điện thời gian thực,2025,neu
+244,Xây dựng Website chia sẻ công thức nấu ăn tích hợp điều khiển giọng nói và tường thuật văn bản,2025,neu
+245,Áp dụng Machine Learning trong phát hiện giao dịch thẻ tín dụng gian lận,2025,neu
+246,Nghiên cứu và xây dựng hệ thống giao thức ngữ cảnh mô hình tích hợp tăng cường truy xuất thông tin và nhận diện tài liệu dựa trên mô hình trí tuệ nhân tạo đa tác tử,2025,neu
+247,Tích hợp mô hình CNN và MediaPipe trong ứng dụng học ngôn ngữ kí hiệu VieSLang,2025,neu
+248,Thiết kế và xây dựng hệ thống chatbot phân tích báo cáo tài chính,2025,neu
+249,Làm game 2D giải đố bằng Unity,2025,neu
+250,Thiết kế và phát triển nền tảng chấm bài và tổ chức thi lập trình trực tuyến NEU OJ,2025,neu
+251,Nghiên cứu và xây dựng ứng dụng trí tuệ nhân tạo tự động giao dịch đa cổ phiếu dựa trên kiến trúc tác tử SAC cải tiến với mạng Nơron lượng tử kết hợp kỹ thuật học tăng cường sâu,2025,neu
+252,Xây dựng ứng dụng hệ thống quản lí xưởng gỗ,2025,neu
+253,Xây dựng ứng dụng quản lý dự án theo cách tiếp cận Agile,2025,neu
+254,Xây dựng Website thương mại điện tử,2025,neu
+255,Xây dựng hệ thống quản lý giáo dục cho công ty CP phát triển giáo dục & đào tạo Odin,2025,neu
+256,Thiết kế và xây dựng App Quản lý Chấm công cho Công ty NCC+,2025,neu
+257,Xây dựng ứng dụng học từ vựng và ngữ pháp tiếng anh,2025,neu
+258,Xây dựng Hệ thống Private Cloud cho Doanh nghiệp,2025,neu
+259,Hệ thống quản lý danh mục chứng khoán,2025,neu
+260,Hiệu quả của mô hình ngôn ngữ lớn và học máy trong phát hiện xâm nhập mạng,2025,neu
+261,Xây dựng Website quản lý trung tâm tiếng anh,2025,neu
+262,Xây dựng và phát triển website thương mại điện tử bán đồ công nghệ kết hợp với chatbot,2025,neu
+263,Nghiên cứu và phát triển ứng dụng giấu tin trong ảnh phục vụ lưu trữ ảnh số an toàn,2025,neu
+264,Phát triển ứng dụng di động kết hợp mạng xã hội và trò chơi,2025,neu
+265,Hệ thống xác thực tài liệu ứng dụng Blockchain,2025,neu
+266,Ứng dụng đặt số khám viện K qua bộ phận cơ thể và triệu chứng,2025,neu
+267,Xây dựng website đánh giá phim,2025,neu
+268,Phát triển trò chơi bắn súng góc nhìn thứ nhất,2025,neu
+269,Xây dựng Website bán điện thoại di động tích hợp chatbot,2025,neu
+270,Xây dựng ứng dụng quản lý quy trình sản xuất cho Đài Phát thanh Truyền hình Hải Phòng,2025,neu
+271,Phân tích nghiệp vụ và xây dựng website giao đồ ăn,2025,neu
+272,Xây dựng website bán máy tính trực tuyến,2025,neu
+273,Xây dựng Website xem phim tích hợp hệ thống gợi ý CineWorld,2025,neu
+274,Xây dựng Game Escape From Maze trên nền tảng Unity 2D,2025,neu
+275,Xây dựng game 2D RIFT OF LYRA,2025,neu
+276,Nghiên cứu và phát triển mô hình học máy để phát hiện tin nhắn spam,2025,neu
+277,Xây dựng website booking homestay,2025,neu
+278,Phân tích dữ liệu học tập và xây dựng bài toán dự báo kết quả học tập của sinh viên,2025,neu
+279,XD website đánh giá an toàn thông tin dành cho doanh nghiệp nhỏ và vừa,2025,neu
+280,Xây dựng Hệ thống website bán trang phục múa.,2025,neu
+281,Thiết kế và xây dựng phần mềm quản lý sinh viên,2025,neu
+282,xây dựng website bán hàng online,2025,neu
+283,Xây dựng ứng dụng di động hỗ trợ chăm sóc sức khoẻ cá nhân,2025,neu
+284,Xây dựng website bán lẻ đồ điện tử,2025,neu
+285,Xây dựng ứng dụng học từ vựng và luyện thi TOEIC,2025,neu
+286,Xây dựng hệ thống tóm tắt văn bản tiếng Việt sử dụng mô hình học sâu,2025,neu
+287,Xây dựng Website bán đồng hồ,2025,neu
+288,Phân tích nghiệp vụ và xây dựng hệ thống quản lý trường mầm non,2025,neu
+289,Xây dựng hệ thống điểm danh sinh viên bằng nhận diện khuôn mặt,2025,neu
+290,Phát triển game 2D có yếu tố thần thoại Việt Nam,2025,neu
+291,Nghiên cứu khả năng suy luận của trí tuệ nhân tạo tạo sinh: Áp dụng cho hỗ trợ tìm kiếm việc làm cho sinh viên Đại học Kinh tế quốc dân,2025,neu
+292,Nghiên cứu và phát triển hệ thống phát hiện đường đi tránh ùn tắc sử dụng kỹ thuật phân cụm dựa trên mật độ kết hợp tìm kiếm tối ưu,2025,neu
+293,Xây dựng Website thương mại điện tử và tích hợp chatbot cho cửa hàng thời trang Fashion Style,2025,neu
+294,Nghiên cứu và xây dựng mô hình nhà thông minh dựa trên công nghệ IoT,2025,neu
+295,Nghiên cứu và phát triển ứng dụng biến đổi ảnh 2D dựa trên mạng nơ ron nhân tạo và các kỹ thuật xử lý ảnh hỗ trợ trong thiết kế đồ họa,2025,neu
+296,Xây dựng hệ thống phát hiện sớm tín hiệu biển báo giao thông cho lái xe dựa trên kỹ thuật học sâu,2025,neu
+297,Xây dựng website bán hàng thể thao tích hợp hệ thống gợi ý,2025,neu
+298,Xây dựng và phát triển ứng dụng ôn luyện IELTS,2025,neu
+299,Xây dựng hệ thống quản lý phòng tập thể hình,2025,neu
+300,Phân tích giá nhà đất ở Việt Nam sử dụng mô hình học máy,2025,neu
+301,Xây dựng Website bán hàng,2025,neu
+302,"Xây dựng website booking MC ""Find MC'",2025,neu
+303,Xây dựng website quản lý đặt lịch và bán hàng tiệm cắt tóc,2025,neu
+304,Xây dựng ứng dụng đặt phòng trực tuyến,2025,neu
+305,Tích hợp hệ thống chấm điểm tự động và kiểm tra đạo văn cho bài tập lập trình vào nền tảng module,2025,neu
+306,Xây dựng hệ thống nền tảng học trực tuyến tích hợp công nghệ chuyển đổi video thành văn bản và tóm tắt nội dung bài giảng,2025,neu
+307,Tích hợp trí tuệ nhân tạo trong phân tích học tập vào hệ thống quản lý khóa học,2025,neu
+308,Xây dựng hệ thống quản lý học tập và kiểm tra kỹ năng phân tích nghiệp vụ,2025,neu
+309,Thiết kế và Xây dựng game 2D,2025,neu
+310,Xây dựng ứng dụng quản lý và tìm kiếm sự kiện trên điện thoại,2025,neu
+311,Xây dựng hệ thống quản trị học tập dựa trên kiến trúc Microservice,2025,neu
+312,"Thiết kế và xây dựng website bán điện thoại, laptop",2025,neu
+313,Xây dựng website mạng xã hội tích hợp trí tuệ nhân tạo AI,2025,neu
+314,Hệ thống E-learning tích hợp công nghệ NFC trong xác thực thông tin người dùng và AI hỗ trợ quản lý tài liệu cho Giáo viên,2025,neu
+315,Xây dựng hệ thống hỗ trợ quản lý chi tiêu cá nhân tích hợp AI,2025,neu
+316,Xây dựng hệ thống giám sát và hiển thị chỉ số không khí theo thời gian thực,2025,neu
+317,Xây dựng hệ thống quản lý lớp học thông minh dựa trên Internet of Things,2025,neu
+318,Xây dựng website sử dụng kiến trúc microservices trong lĩnh vực du lịch,2025,neu
+319,Phân tích nghiệp vụ và xây dựng hệ thống hỗ trợ học tập môn toán lớp 10,2025,neu
+320,Ứng dụng di động IcarP và hệ thống bãi gửi xe thông minh IcarP,2025,neu
+321,Phân tích nghiệp vụ và xây dụng hệ thống dịch vụ Web quản lý nhà trọ,2025,neu
+322,Xây dựng hệ thống đo nhịp tim dựa trên cảm biến và Internet of Things.,2025,neu
+323,Xây dựng website công thức nấu ăn,2025,neu
+324,Nghiên cứu về mô hình học sâu LSTM và áp dụng vào dự báo doanh số bán hàng,2025,neu
+325,Xây dựng website bán hàng trực tuyến shopmall,2025,neu
+326,Thiết kế và xây dựng Website hệ thống nhà hàng cao cấp ở Hà Nội,2025,neu
+327,Xây dựng ứng dụng bán sách tích hợp công nghệ chuyển đổi văn bản sang giọng nói bằng Flutter,2025,neu
+328,Xây dựng Website cho trung tâm Piano có tích hợp Chatbot trong việc tự động giao tiếp và đào tạo nhân sự,2025,neu
+329,Hệ thống thu thập và phân tích dữ liệu Reddit cho Lĩnh vực Data Engineering,2025,neu
+330,Trò chơi nhập vai RPG 2D SoulSeeker,2025,neu
+331,Nghiên cứu các phương pháp học máy với bài toán phân loại cảm xúc,2025,neu
+332,Nghiên cứu tối ưu hệ thống Frontend và áp dụng thực tế,2025,neu
+333,Nghiên cứu các kỹ thuật tinh chỉnh mô hình ngôn ngữ lớn hiện đại và ứng dụng xây dựng chatbot cho Đại học Kinh tế Quốc dân,2025,neu
+334,MNC Game - Trò chơi giải đố ảo ảnh thị giác trong không gian 3 chiều,2025,neu
+335,Xây dựng ứng dụng quản lý cửa hàng cà phê Pao Coffee trên nền tảng Mobile,2025,neu
+336,Xây dựng website cho thuê xe ô tô trực tuyến Recars,2025,neu
+337,Xây dựng hệ thống ứng dụng gọi xe thông minh,2025,neu
+338,Thiết kế và xây dựng Game Nông trại 3D bằng Unity Engine,2025,neu
+339,Xây dựng website bán quần áo thời trang trên nền tảng Laravel Framework,2025,neu
+340,Xây dựng website đặt phòng khách sạn,2025,neu
+341,Phát triển Website thương mại điện tử tích hợp chatbot AI nâng cao trải nghiệm người dùng,2025,neu
+342,Thiết kế và phát triển hệ thống cho thuê xe ô tô trực tuyến ứng dụng công nghệ web,2025,neu
+343,Xây dựng ứng dụng phát hiện và nhận diện biển báo giao thông tại Việt Nam,2025,neu
+344,Xây dựng Website bán thú cưng và đồ dùng cho thú cưng,2025,neu
+345,Xây dựng hệ thống bán sách trực tuyến,2025,neu
+346,Xây dựng website quản lý bán hàng BIZSUITE,2025,neu
+347,Nghiên cứu và áp dụng các mô hình học sau trong phân loại tổn thương da,2025,neu
+348,Nghiên cứu một số phương pháp xử lý việc mất cân bằng dữ liệu trong bài toán khách hàng rời bỏ sử dụng các mô hình học máy,2025,neu
+349,Phát triển bộ công cụ phân tích rủi ro và dự báo giá cổ phiếu,2025,neu
+350,Thiết kế và xây dựng hệ thống website đặt lịch khám bệnh online BookingCare,2025,neu
+351,Xây dựng website học Tiếng anh trực tuyến tích hợp AI,2025,neu
+352,Thiết kế game Ai là triệu phú,2025,neu
+353,Thiết kế và xây dựng ứng dụng hỗ trợ nấu ăn - dinh dưỡng Natritionist,2025,neu
+354,Nghiên cứu và cài đặt thử nghiệm mô hình phát hiện gian lận thẻ tín dụng,2025,neu
+355,"Dự báo doanh số bán lẻ từ dữ liệu chuỗi thời gian bằng mô hình thống kê, học máy và mạng nơ-ron",2025,neu
+356,Xây dựng mạng xã hội cải thiện sức khoẻ tinh thần - Zental,2025,neu
+357,Xây dựng hệ thống cấp chứng nhận tự động (CIM) tại Đại học Kinh tế quốc dân,2025,neu
+358,Thiết kế và đánh giá hệ thống gia sư AI dựa trên RAG: Ứng dụng lý thuyết giáo dục hỗ trợ học tập từ tài liệu gốc,2025,neu
+359,Phát triển ứng dụng bản đồ du lịch XploreVN cho khách du lịch nước ngoài,2025,neu
+360,Phát triển ứng dụng quản lý tài chính cá nhân tích hợp Chatbot và Minigame sử dụng nền tảng Flutter,2025,neu
+361,Xây dựng hệ thống chia sẻ tài liệu DocSharing,2025,neu
+362,"Xây dựng hệ thống Website quản lý, chỉnh sửa trực tuyến tài liệu cá nhân và tổ chức",2025,neu
+363,Xây dựng hệ thống chia sẻ bài hát trực tuyến Groovie kết hợp thanh toán điện tử và thuật toán phân cụm đề xuất bài hát,2025,neu
+364,Nghiên cứu và phát triển chatbot dựa trên mô hình ngôn ngữ lớn kết hợp với kỹ thuật tìm kiếm tăng cường dữ liệu: Áp dụng tại Đại học Kinh tế Quốc dân,2024,neu
+365,Xây dựng và thiết kế ứng dụng đặt lịch khám bệnh trực tuyến MediCare,2024,neu
+366,Nguyên cứu và triển khai hệ thống DevOps cho nền tảng website,2024,neu
+367,Xây dừng website thương mại điện tử mua bán và cho tặng đồ cũ,2024,neu
+368,Cá nhân hoá hệ thống nhận diện khuôn mặt bằng mạng nơ ron nhân tạo,2024,neu
+369,DENOTES: Ứng dụng học ghitar,2024,neu
+370,Xây dựng Website thương mại điện tử có tích hợp Chatbot,2024,neu
+371,Xây dựng game chiến thuật nhập vai theo lượt (RPG TURN BASED),2024,neu
+372,Xây dựng Game Engine 2D,2024,neu
+373,Xây dựng hệ thống quản lý bán sách trực tuyến,2024,neu
+374,Xây dựng hệ thống bán cây cảnh tích hợp trí tuệ nhân tạo,2024,neu
+375,Xây dựng Website của trung tâm dạy tiếng Anh,2024,neu
+376,"Xây dựng website phân tích kỹ thuật, khuyến nghị và sử dụng mô hình học máy dự báo giá cổ phiếu trên thị trường chứng khoán Việt Nam",2024,neu
+377,Xây dựng Website tích hợp Chatbot hỗ trợ quản lý đặt phòng khách sạn,2024,neu
+378,Xây dựng hệ thống điểm danh người học bằng nhận diện khuôn mặt,2024,neu
+379,Xây dựng blog lịch sử Việt Nam,2024,neu
+380,Thử nghiệm một số mô hình phân tích cảm xúc văn bản và ứng dụng vào website bán lẻ đi động,2024,neu
+381,Xây dựng website quản lý nội dung đa người dùng với kiến trúc multi-tenancy,2024,neu
+382,Xây dựng hệ thống website bán hàng online,2024,neu
+383,Phân tích nghiệp vụ và xây dựng module quản trị quan hệ khách hàng,2024,neu
+384,Xây dựng ứng dụng di động đặt đồ ăn trực tuyến,2024,neu
+385,Xây dựng Chatbot trò chuyện và giải các phép toán đơn giản,2024,neu
+386,Xây dựng ứng dụng học tập trực tuyến với Flutter,2024,neu
+387,Nghiên cứu và tích hợp các plugin hỗ trợ phân tích và đánh giá học tập với hệ thống Moodle,2024,neu
+388,Nghiên cứu và xây dựng giải pháp devops trong phát triển phần mềm: áp dụng với bài toán cân bằng tải và tích hợp triển khai tự động ci/cd của hệ thống quản lý kết nối gia sư tutor-connect,2024,neu
+389,Xây dựng ứng dụng hỗ trợ tìm kiếm việc làm thời vụ,2024,neu
+390,Xây dựng Website theo dõi giá sản phẩm của các sàn thương mại điện tử,2024,neu
+391,Xây dựng website bán quần áo trực tuyến cho cửa hàng thời trang STARBORN,2024,neu
+392,Xây dựng website tuyển dụng và tư vấn việc làm,2024,neu
+393,"Nghiên cứu về thuật toán phân lớp Naive Bayes, SVM và ứng dụng vào việc phân loại Emails rác",2024,neu
+394,Đề xuất và cài đặt thử nghiệm mô hình học sâu nhận diện cảm xúc theo thời gian gian thực,2024,neu
+395,Website học tập đa môn học thông qua các trò chơi,2024,neu
+396,Xây dựng ứng dụng mạng xã hội Zingo,2024,neu
+397,Xây dựng hệ thống mô phỏng hành vi lựa chọn của khách hàng BehavQuest,2024,neu
+398,Ứng dụng học tập từ vựng tiếng Anh,2024,neu
+399,Trò chơi Sinh tồn 3D,2024,neu
+400,Thiết kế và xây dựng game Spiderman 3D bằng Unity Engine,2024,neu
+401,Xây dựng hệ thống luyện tập giải thuật,2024,neu
+402,Xây dựng website quản lí quán ăn,2024,neu
+403,Hỗ trợ quá trình viết nội dung SEO bằng hệ thống đa tác nhân mô hình ngôn ngữ lớn,2024,neu
+404,Xây dựng Game Online theo lượt Adventure From Beyond,2024,neu
+405,Xây dựng trò chơi điện tử “Eat to Evolve”,2024,neu
+406,ỨNG DỤNG ĐỀ XUẤT LỊCH TRÌNH DU LỊCH VÀ TỐI ƯU NGÂN SÁCH BẰNG AI TẠI ĐÀ NẴNG,2026,duytan
+407,Xây dựng hệ thống đặt phòng khách sạn tích hợp Chatbox AI,2026,duytan
+408,Xây dựng Website xem phim trực tuyến tích hợp FFmpeg và Content Delivery nhằm nâng cao hiệu suất truyễn dẫn và bảo mật nội dung kết hợp AI hỗ trợ người dùng,2026,duytan
+409,XÂY DỰNG HỆ THỐNG HỖ TRỢ KINH DOANH NÔNG SẢN TÍCH HỢP AI,2026,duytan
+410,Xây dựng nền tảng đặt lịch đa dịch vụ tích hợp AI gợi ý dịch vụ thông minh và thanh toán VNPay,2026,duytan
+411,XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÀ HÀNG THEO MÔ HÌNH TƯƠNG TÁC SỐ ĐA KÊNH,2026,duytan
+412,XÂY DỰNG HỆ THỐNG QUẢN LÝ CĂN HỘ CHO THUÊ TÍCH HỢP CHATBOT AI GỢI Ý VÀ TƯ VẤN CHO KHÁCH HÀNG,2026,duytan
+413,XÂY DỰNG HỆ THỐNG LẬP KẾ HOẠCH DU LỊCH THÔNG MINH TÍCH HỢP ĐẶT DỊCH VỤ DỰA TRÊN CÔNG NGHỆ AI,2026,duytan
+414,WEBSITE HỌC VÀ LUYỆN LẬP TRÌNH THEO KHÓA HỌC TÍCH HỢP HỆ THỐNG CHẤM BÀI TỰ ĐỘNG (CODEMASTER AI),2026,duytan
+415,XÂY DỰNG WEBSITE HỖ TRỢ LUYỆN PHÁT ÂM TIẾNG VIỆT CHO TRẺ EM BỊ RỐI LOẠN NGÔN NGỮ,2026,duytan
+416,XÂY DỰNG WEBSITE FOODXPRESS TÍCH HỢP CHATBOT AI,2026,duytan
+417,Xây dựng nền tảng BeautyCare ứng dụng trí tuệ nhân tạo cho phân tích da và Recommendation sản phẩm,2026,duytan
+418,"Phát triển hệ thống đăng tin, mua bán bất động sản tích hợp Chatbot AI và hệ thống gợi ý thông minh",2026,duytan
+419,XÂY DỰNG HỆ THỐNG TUYỂN DỤNG VÀ TƯ VẤN VIỆC LÀM TÍCH HỢP TRÍ TUỆ NHÂN TẠO,2026,duytan
+420,Xây dựng AI FoodCare - Website kinh doanh món ăn ứng dụng AI Recommendation Engine cho cá nhân hoá khẩu phần,2026,duytan
+421,SMART TRAVEL PLANNER - WEBSITE LẬP KẾ HOẠCH DU LỊCH THÔNG MINH ỨNG DỤNG AI,2026,duytan
+422,XÂY DỰNG WEBSITE ĐẶT BÀN VÀ GỌI MÓN BẰNG MÃ QR CHO NHÀ HÀNG TÍCH HỢP AI GỢI Ý MÓN ĂN,2026,duytan
+423,Xây dựng hệ thống quản tlys và đặt bàn cafebook tích hợp chatbot AI hộ trợ tư vấn,2026,duytan
+424,XÂY DỰNG HOMELINK AI - NỀN TẢNG QUẢN LÝ CĂN HỘ THÔNG MINH TÍCH HỢP TRỢ LÝ CHATBOT AI và REALTIME COMMUNICATION,2026,duytan
+425,XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÂN SỰ CHO DOANH NGHIỆP NHỎ TÍCH HỢP CHATBOT AI HỖ TRỢ TRA CỨU THÔNG TIN,2026,duytan
+426,PHÁT TRIỂN HỆ THỐNG AI PHÂN TÍCH CV VÀ ĐỀ XUẤT VIỆC LÀM PHÙ HỢP,2026,duytan
+427,Xây dựng hẹ thống luyện thi THPT Quốc gia trực tuyến dựa trên AI và phân tích hành vi học tập,2026,duytan
+428,Hệ thống hỗ trợ khẩn cấp cộng đồng thời gian thực hiện trên nền tảng Web tích hợp AI,2026,duytan
+429,"Xây dựng hệ thống SmartF&B - Nền tảng quản lý chuỗi F&B đa chi nhánh tích hợp kho nguyên liệu, sử dụng AI để dự báo tồn kho",2026,duytan
+430,XÂY DỰNG HỆ THỐNG ĐẶT VÉ XEM PHIM ĐA RẠP MOVIX TÍCH HỢP CÔNG NGHỆ 3D VIEW VÀ CHATBOT AI,2026,duytan
+431,"Xây dựng hệ thống quản lý và xử lý báo cáo cơ sở hạ tầng đô thị, xác thực hình ảnh bằng AI",2026,duytan
+432,HỆ THỐNG ĐIỀU PHỐI CỨU HỘ THÔNG MINH TRONG THIÊN TAI DỰA TRÊN PHÂN TÍCH MỨC ĐỘ KHẨN CẤP,2026,duytan
+433,XÂY DỰNG HỆ THỐNG ĐẶT VÀ QUẢN LÝ BÃI ĐỖ XE TÍCH HỢP AI TRỢ LÝ ẢO CHO NGƯỜI DÙNG VÀ CHỦ BÃI,2026,duytan
+434,XÂY DỰNG TRỢ LÝ ẢO GERMANYGPT HỘ TRỢ TƯƠNG TÁC ĐA DỊCH VỤ KẾT NỐI - DI CHUYỂN - LƯU TRÚ CHO SINH VIÊN ĐẠI HỌC DUY TÂN,2026,duytan
+435,XÂY DỰNG HỆ THỐNG QUẢN LÝ BÁN QUÀN ÁO TÍCH HỢP CHATBOT AI HỖ TRỢ TƯ VẤN KHÁCH HÀNG,2026,duytan
+436,HỆ THỐNG HỒ SƠ HỌC TẬP SỐ PHI TẬP TRUNG TRÊN NỀN TẢNG BLOCKCHAIN,2026,duytan
+437,Xây dựng hệ thống quản lý vận chuyển hàng hóa Speedyship tích hợp AI hỗ trợ khách hàng,2026,duytan
+438,ỨNG DỤNG TRÍ TUỆ NHÂN VÀO VÀO VÀO GIÁM SÁT VÀ DỰ BÁO CHẤT LƯỢNG KHÔNG KHÍ,2026,duytan
+439,"XÂY DỰNG HỆ THỐNG QUẢN LÝ PHÒNG GYM THÔNG MINH, TÍCH HỢP AI HỖ TRỢ RA QUYẾT ĐỊNH KINH DOANH",2026,duytan
+440,Xây dựng SmartDonate – Website thiện nguyện thông minh sử dụng trí tuệ nhân tạo trong ghép nối và định hướng nhu cầu,2026,duytan
+441,XÂY DỰNG HỆ THỐNG HỖ TRỢ ÔN TẬP LỊCH SỬ VIỆT NAM TÍCH HỢP TRỢ LÝ TRÍ TUỆ NHÂN TẠO (AI),2026,duytan
+442,XÂY DỰNG WEBSITE MUA BÁN VÀ TRAO ĐỔI ĐIỆN THOẠI TÍCH HỢP AI HỖ TRỢ ĐỊNH GIÁ SẢN PHẨM,2026,duytan
+443,XÂY DỰNG HỆ THỐNG QUẢN LÝ KHÓA HỌC TRỰC TUYẾN TRÊN NỀN TẢNG WEB TÍCH HỢP TRÍ TUỆ NHÂN TẠO (AI),2026,duytan
+444,XÂY DỰNG THƯ VIỆN HỆ THỐNG SỐ TÍCH HỢP CHATBOT AI,2026,duytan
+445,<Sinh viên sẽ cập nhật tên đề tài vào đây sau khi đã được duyệt>,2026,duytan
+446,PHÁT TRIỂN GIẢI PHÁP CỔNG THÔNG TIN QUẢN LÝ VÀ TÍCH HỢP DỮ LIỆU TỪ NHIỀU NGUỒN SỬ DỤNG,2026,duytan
+447,XÂY DỰNG HỆ THỐNG GHÉP ĐÔI NGƯỜI DÙNG TÍCH HỢP MÔ HÌNH HỌC MÁY ĐỂ PHÁT HIỆN TÀI KHOẢN LỪA ĐẢO,2026,duytan
+448,Xây dựng website FreeWork - Nền tảng kết nối Freelancer và nhà tuyển dụng tích hợp kí gửi Escrow và AI hỗ trợ tư vấn,2026,duytan
+449,Xây dựng nền tảng quản lý xe khách thông minh tích hợp cơ chế cảnh báo an toàn,2026,duytan
+450,Xây dựng hệ thống DishNet - Nền tảng mạng xã hội kinh doanh ẩm thực.,2026,duytan
+451,Nghiên cứu và Xây dựng Hệ thống Đặt lịch Dịch vụ và Dọn dẹp với Định giá Tự động dựa trên Trí tuệ Nhân tạo,2026,duytan
+452,"Xây dựng website hỗ trợ tìm việc làm, tích hợp AI Recommendation",2026,duytan
+453,XÂY DỰNG WEBSITE POPCINEMA – HỆ THỐNG QUẢN LÝ ĐẶT VÉ XEM PHIM TRỰC TUYẾN ỨNG DỤNG CHATBOT AI VÀ MÔ PHỎNG PHÒNG CHIẾU 360°,2026,duytan
+454,HỆ THỐNG TELEMEDICINE HỖ TRỢ ĐẶT LỊCH VÀ TƯ VẤN AI,2026,duytan
+455,NGHIÊN CỨU VÀ PHÁT TRIỂN NỀN TẢNG SỐ HÓA QUY TRÌNH PHỤC VỤ VÀ THANH TOÁN TRONG QUẢN LÝ QUÁN CAFE TÍCH HỢP AI HỖ TRỢ NGƯỜI QUẢN LÝ,2026,duytan
+456,XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÂN SỰ TÍCH HỢP AI PHÂN TÍCH CV HỖ TRỢ TUYỂN DỤNG,2026,duytan
+457,THIẾT KẾ VÀ TRIỂN KHAI HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ THÔNG MINH ỨNG DỤNG NHẬN DIỆN HÌNH ẢNH VÀ CHATBOT AI TRONG ĐỀ XUẤT SẢN PHẨM GIÀY THỜI TRANG,2026,duytan
+458,Xây dựng hệ thống thương mại điện tử thông minh CentralFashion tích hợp AI Chatbot và cá nhân hóa gợi ý sản phẩm,2026,duytan
+459,XÂY DỰNG HỆ THỐNG CUNG CẤP SÁCH SỐ TRỰC TUYẾN BOOKNEST TÍCH HỢP CHATBOT AI,2026,duytan
+460,XÂY DỰNG FOODBEE - HỆ THỐNG ĐẶT VÀ GIAO ĐỒ ĂN ĐA NỀN TẢNG TÍCH HỢP GỢI Ý MÓN ĂN BẰNG AI,2026,duytan
+461,XÂY DỰNG FOODBEE - HỆ THỐNG ĐẶT VÀ GIAO ĐỒ ĂN ĐA NỀN TẢNG TÍCH HỢP GỢI Ý MÓN ĂN BẰNG AI XÂY DỰNG FOODBEE - HỆ THỐNG ĐẶT VÀ GIAO ĐỒ ĂN ĐA NỀN TẢNG TÍCH HỢP GỢI Ý,2026,duytan
+462,MÓN ĂN BẰNG AI,2026,duytan
+463,Xây dựng LearningHub Nền tảng quản lý đào tạo thông minh tích hợp Chatbot AI,2026,duytan
+464,XÂY DỰNG HỆ THỐNG QUẢN LÝ PHÒNG KHÁM THÚ Y TÍCH HỢP CHATBOT AI TƯ VẤN KHÁCH HÀNG,2026,duytan
+465,XÂY DỰNG HỆ THỐNG BOOKINGSPORT – WEBSITE ĐẶT SÂN THỂ THAO TÍCH HỢP CHATBOT AI,2026,duytan
+466,XÂY DỰNG HỆ THỐNG ĐẶT PHÒNG VÀ QUẢN LÝ HOMESTAY THÔNG MINH TÍCH HỢP AI DỰ ĐOÁN GIÁ THEO THỜI GIAN,2026,duytan
+467,Phát triển nền tảng học tập thông minh tích hợp trợ lý ảo AI và cá nhân hoá lộ trình học tập,2026,duytan
+468,PHÒNG HỌP TRỰC TUYẾN VÀ ỨNG DỤNG NHẬN DIỆN KHUÔN MẶT BẰNG AI,2026,duytan
+469,DANATRIP - HỆ THỐNG DU LỊCH THÔNG MINH TÍCH HỢP THỰC TẾ ẢO CHO THÀNH PHỐ ĐÀ NẴNG,2026,duytan
+470,XÂY DỰNG WEBSITE TUYỂN DỤNG THÔNG MINH TÍCH HỢP AI PHÂN TÍCH VÀ ĐÁNH GIÁ CV DỰA TRÊN MÔ TẢ CÔNG VIỆC,2026,duytan
+471,Xây dựng Website đặt tour du lịch tích hợp hệ thống gợi ý dựa trên AI,2026,duytan
+472,HỆ THỐNG QUẢN LÝ TRUNG TÂM TIẾNG ANH TÍCH HỢP ĐIỂM DANH NHẬN DIỆN KHUÔN MẶT BẰNG AI,2026,duytan
+473,XÂY DỰNG ỨNG DỤNG QUẢN LÝ VÀ CHO THUÊ PHÒNG TRỌ TÍCH HỢP AI PHÂN TÍCH RỦI RO ĐIỆN NƯỚC,2026,duytan
+474,Xây dựng website mua bán thuỷ hải sản tích hợp Chatbot AI hỗ trợ khách hàng,2026,duytan
+475,XÂY DỰNG HỆ THỐNG QUẢN LÝ VÀ GIẢM LÃNG PHÍ THỰC PHẨM TRONG KHÁCH SẠN - NHÀ HÀNG BẰNG AI DỰ ĐOÁN NHU CẦU.,2026,duytan
+476,THIẾT KẾ VÀ XÂY DỰNG HỆ THỐNG ĐẶT TOUR DU LỊCH THÔNG MINH TÍCH HỢP AI,2026,duytan
+477,XÂY DỰNG HỆ THỐNG QUẢN LÝ CHẾ ĐỘ DINH DƯỠNG VÀ ĐÁNH GIÁ TÌNH TRẠNG SỨC KHỎE NGƯỜI DÙNG TÍCH HỢP AI HỖ TRỢ TƯ VẤN,2026,duytan
+478,Xây dựng hệ thống đăng tin cho thuê căn hộ đa nền tảng tích hợp ai hỗ trợ người dùng,2026,duytan
+479,Xây dựng hệ thống mạng xã hội học tập tích hợp AI Chatbot,2026,duytan
+480,HỆ THỐNG DỰ BÁO NHU CẦU VÀ TÔI SƯU HOÁ QUY TRÌNH QUẢN LÝ KHO CHO DOANH NGHIỆP F&B DỰA TRÊN TRÍ TUỆ NHÂN TẠO,2026,duytan
+481,SmartRescue: Hệ thống tiếp nhận yêu cầu và điều phối cứu hộ khẩn cấp thông minh sử dụng AI phân loại mức độ khẩn cấp,2026,duytan
+482,Xây dựng Kindlink - Hệ thống gây quỹ từ thiện minh bạch ứng dụng Smart Contract trên nền tảng Blockchain,2026,duytan
+483,"Xây dựng nền tảng Marketplace hỗ trợ dịch vụ khách hàng, ứng dụng AI kiểm duyệt nội dung",2026,duytan
+484,Xây Dựng Website Bán Sách Tích Hợp Chatbot AI,2026,duytan
+485,XÂY DỰNG WEBSITE QUẢN LÝ CỬA HÀNG BÁN ĐỒ ĂN VÀ THỨC UỐNG TÍCH HỢP CHATBOT AI GỢI Ý SẢN PHẨM VÀ THANH TOÁN TRỰC TUYẾN BẰNG VNPAY,2026,duytan
+486,XÂY DỰNG WEBSITE ĐÁNH GIÁ TÍNH CÁCH & ĐỀ XUẤT NGHỀ NGHIỆP THEO MÔ HINFHMBTI + AI,2026,duytan
+487,WEBSITE TRA CỨU LỊCH THI DTU TÍCH HỢP AI,2026,duytan
+488,THIẾT KẾ VÀ XÂY DỰNG HỆ THỐNG SMARTRIDE - NỀN TẢNG ĐẶT XE THÔNG MINH TÍCH HỢP AI,2026,duytan
+489,"Xây dựng website hẹn hò trực tuyến, sử dụng ai gợi ý kết bạn và đề phòng giả mao",2026,duytan
+490,HỆ THỐNG BÁN LINH KIỆN MÁY TÍNH TÍCH HỢP AI TƯ VẤN CẤU HÌNH THIẾT BỊ,2026,duytan
+491,"XÂY DỰNG HỆ THỐNG CỔNG KẾT NỐI TRƯỜNG HỌC, PHỤ HUYNH VÀ HỌC SINH TÍCH HỢP AI HỖ TRỢ CÁC CÔNG VIỆC QUẢN LÝ, TRA CỨU THÔNG TIN",2026,duytan
+492,Xây dựng hệ thống website tin túc tích hợp Chatbox AI hộ trợ tìm kiếm thông minh và cá nhân hoá nội dung cho người dùng,2026,duytan
+493,WEBSITE MẠNG XÃ HỘI DU LỊCH KHÁM PHÁ MIỀN TRUNG TÍCH HỢP AI VÀ CHECK- IN/CHECK-OUT ĐIỆN TỬ.,2026,duytan
+494,Xây dựng website học tiếng Anh trực tuyến tích hợp AI chấm điểm tự động và chatbot hỗ trợ học tập,2026,duytan
+495,WEBSITE HỖ TRỢ TRA CỨU TUYẾN XE BUÝT NỘI THÀNH SỬ DỤNG AI CHATBOT,2026,duytan
+496,Xây dựng hệ thống Smart Hotel tích hợp Chatbot AI gợi ý phòng thông minh,2026,duytan
+497,Xây dựng website quản lý tour du tịch tích hợp AI,2026,duytan
+498,XÂY DỰNG WEBSITE BÁN ĐỒ THỂ THAO TÍCH HỢP CÁ NHÂN HOÁ SẢN PHẨM VÀ CHATBOX AI,2026,duytan
+499,Xây dựng hệ thống quản lý tài chính gia đình tích hợp phân tích chi tiêu và cảnh báo,2026,duytan
+500,Xây dựng hệ thống thương mại điện tử mỹ phẫm Hamoni Cosmetic và chatbox AI tư vấn khách hàng,2026,duytan
+501,XÂY DỰNG HỆ THỐNG THÔNG TIN XEM PHIM TÍCH HỢP AI GỢI Ý PHIM,2026,duytan
+502,Xây dựng hệ thống đặt lịch khám số tích hợp trí tuệ nhân tạo hỗ trợ chẩn đoán sơ bộ,2026,duytan
+503,Quillo - Nền tảng chia sẻ tài liệu học tập tích hợp trí thuệ nhân tạo hỗ trợ học tập,2026,duytan
+504,"Xây dựng hệ thống quản lý phòng khám nha khoa thông minh tích hợp AI tư vấn, phân tích hình ảnh răng, hàm, mặt.",2026,duytan
+505,HỆ THỐNG QUẢN LÝ VÀ ĐIỀU PHỐI NGUỒN LỰC TÌNH NGUYỆN VIÊN TRỰC TUYẾN TÍCH HỢP MÔ HÌNH HỖ TRỢ RA QUYẾT ĐỊNH,2026,duytan
+506,Thiết kế và xây dựng website mua bán nông sản tích hợp AI gợi ý mua sắm và phân tích dữ liệu kinh doanh.,2026,duytan
+507,XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÀ THUỐC TRỰC TUYẾN TÍCH HỢP CHATBOT HỖ TRỢ TƯ VẤN VÀ TRA CỨU THUỐC,2026,duytan
+508,"Hệ thống quản lý bệnh viện sử dụng AI hỗ trợ việc đặt lịch khám cho bệnh nhân, phân tích thống kê bệnh án cho bác sĩ và thanh toán online, quảng cáo",2026,duytan
+509,HỆ THỐNG QUẢN LÝ TÀI LIỆU NỘI BỘ CÓ KIỂM SOÁT PHIÊN BẢN VÀ CỘNG TÁC THEO WORKSPACE,2026,duytan
+510,XÂY DỰNG HỆ THỐNG QUẢN LÝ CANH TÁC TÍCH HỢP AI HỖ TRỢ CHẨN ĐOÁN BỆNH VÀ CHĂM SÓC CÂY TRỒNG,2026,duytan
+511,XÂY DỰNG NỀN TẢNG MẠNG XÃ HỘI EDUCONNECT LIVE HỖ TRỢ GIAO TIẾP THỜI GIAN THỰC CHO SINH VIÊN TÍCH HỢP AI VỚI CHỨC NĂNG KIỂM DUYỆT NỘI DUNG,2026,duytan
+512,XÂY DỰNG WEBSITE QUẢN LÝ VÀ ĐẶT PHÒNG KÝ TÚC XÁ TÍCH HỢP AI CHATBOT TƯ VẤN,2026,duytan
+513,Xây dựng hệ thống tạo và đánh giá CV ứng dụng trí tuệ nhân tạo tích hợp thanh toán trực tuyến,2026,duytan
+514,THIẾT KẾ VÀ XÂY DỰNG HỆ THỐNG QUẢN LÝ CÔNG VIỆC THEO MÔ HÌNH KANBAN TÍCH HỢP HỖ TRỢ TỰ ĐỘNG BẰNG AI QUA WHATSAPP,2026,duytan
+515,THIẾT KẾ VÀ TRIỂN KHAI HỆ THỐNG QUẢN LÝ - ĐẶT SÂN THỂ THAO TRỰC TUYẾN TÍCH HỢP CHATBOT AI,2026,duytan
+516,Xây dựng website tư vấn trường đại học tại Việt Nam tích hợp AI định hướng nghề nghiệp,2026,duytan
+517,Nghiên cứu và phát triển hệ thống website tự học tiếng anh thông minh có tích hợp Chatbot-AI,2026,duytan
+518,XÂY DỰNG HỆ THỐNG QUẢN LÝ TRƯỜNG HỌC TÍCH HỢP AI SẮP XẾP THỜI KHÓA BIỂU,2026,duytan
+519,"XÂY DỰNG HỆ THỐNG HỖ TRỢ PHÁP LÝ VÀ RÀ SOÁT VĂN BẢN, HỢP ĐỒNG ỨNG DỤNG TRÍ TUỆ NHÂN TẠO",2026,duytan
+520,XÂY DỰNG HỆ THÓNG KẾT NỐI VIỆC LÀM FREELANCE TÍCH HỢP AI PHÂN TÍCH VÀ ĐÁNH GIÁ KỸ NĂNG CÁ NHÂN HÓA,2026,duytan
+521,Hệ thống Matching Freelancer với AI Recommendation,2026,duytan
+522,"Xây dựng hệ thống web ViVu Travel hộ trợ đặt dịch vụ du lịch trực tuyến, gợi ý điểm đến theo mùa và thanh toán VNPAY",2026,duytan
+523,"XÂY DỰNG WEBSITE QUẢN LÝ BÁO CÁO VẤN ĐỀ DÂN SINH THÀNH PHỐ TÍCH HỢP AI PHÂN TÍCH HÌNH ẢNH, SÀN KỌC BÁO CÁO VÀ CHATBOT AI",2026,duytan
+524,Hệ thống thi đấu lập trình trực tuyến tích hợp AI phát triển gian lận,2026,duytan
+525,XÂY DỰNG ỨNG DỤNG CHAT VỚI NGƯỜI LẠ TRÊN THIẾT BỊ DI ĐỘNG TÍCH HỢP CHATBOT AI,2026,duytan
+526,Xây dựng AutoHub AI - Website Đặt thuê xe tự lái tích hợp Chatbot tư vấn,2026,duytan
+527,"XÂY DỰNG WEBSITE CỬA HÀNG THỜI TRANG, THANH TOÁN ONLINE KẾT HỢP AI GỢI Ý MUA SĂM THÔNG MINH",2026,duytan
+528,XÂY DỰNG WEBSITE TUYỂN DỤNG TRỰC TUYẾN TÍCH HỢP AI HỖ TRỢ ĐÁNH GIÁ HỒ SƠ ỨNG VIÊN,2026,duytan
+529,"Phân tích, thiết kế và xây dựng hệ thống quản lý bán hàng trực tuyến cho cửa hàng nhỏ ứng dụng kiến trúc MVC",2026,duytan
+530,XÂY DỰNG NỀN TẢNG E-LEARNING CHO TRUNG TÂM ANH NGỮ TÍCH HỢP LUYỆN THI TOEIC VÀ ỨNG DỤNG AI HỖ TRỢ CÁ NHÂN HÓA LỘ TRÌNH HỌC TẬP.,2026,duytan
+531,XÂY DỰNG ỨNG DỤNG VÍ ĐIỆN TỬ SINH VIÊN HỖ TRỢ THANH TOÁN PHÍ NỘI BỘ TRƯỜNG HỌC VÀ TÍCH HỢP AI QUẢN LÝ CHI TIÊU,2026,duytan
+532,AI Marketer Pro – Giải pháp chuyển đổi số toàn diện cho doanh nghiệp trong quản trị Marketing thông minh dựa trên trí tuệ nhân tạo và phân tích dữ liệu,2026,duytan
+533,XÂY DỰNG HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ TÍCH HỢP AI CÁ NHÂN HÓA TRẢI NGHIỆM MUA SẮM CỦA NGƯỜI DÙNG,2026,duytan
+534,HỖ TRỢ GỠ LỖI CI/CD PIPELINE BẢNG PHƯƠNG PHÁP PHÂN TÍCH LOG ỨNG DỤNG AI,2026,duytan
+535,SmartOps F&B Hệ thống quản lý nhà hàng tích hợp AI và thanh toán VNPAY,2026,duytan
+536,XÂY DỰNG HỆ THỐNG QUẢN LÝ TÀI CHÍNH CÁ NHÂN TÍCH HỢP CHAT BOT AI HỖ TRỢ TƯ VẤN CHI TIÊU,2026,duytan
+537,XÂY DỰNG HẾ THỐNG QUẢN LÝ GIA PHẢ TRỤC TUYẾN TÍCH HỢP CHATBOT AI HỖ TRỢ NGƯỜI DÙNG,2026,duytan
+538,PHÁT TRIỂN HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ SÁCH TRỰC TUYẾN TÍCH HỢP AI CHATBOT HỖ TRỢ TÌM KIẾM VÀ GỢI Ý CÁ NHÂN HÓA,2026,duytan
+539,XÂY DỰNG HỆ THỐNG THU GOM RÁC TÁI CHẾ THÔNG MINH TÍCH HỢP AI HỖ TRỢ PHÂN LOẠI VÀ CƠ CHẾ TÍCH ĐIỂM ĐỔI THƯỞNG,2026,duytan
+540,WEBSITE HỆ THỐNG THÔNG TIN QUẢN LÝ CẦM CỐ TÀI SẢN TRỰC TUYẾN KẾT HỢP AI,2026,duytan
+541,Xây dựng hệ thống quản lý công việc và tác vụ trược tuyến cho nhóm làm việc sử dụng cho ReactJS và Node.js,2026,duytan
+542,Xây dựng Gymverse AI - Website Quản lý Fitness thông minh và Chatbot tư vấn tập luyện,2026,duytan
+543,"XÂY DỰNG HỆ THÓNG BÁN VÉ SỰ KIỆN ỨNG DỤNG CÔNG NGHỆ BLOCKCHAIN VÀ TRÍ TUỆ NHÂN TẠO (AI) NHẰM PHÁT HIỆN, NGĂN CHẶN HÀNH VI TỰ ĐỘNG (BOT)",2026,duytan
+544,RIO CINEMA - XÂY DỰNG VÀ PHÁT TRIỂN WEBSITE ĐẶT VÉ XEM PHIM TRỰC TUYẾN TÍCH HỢP AI HỖ TRỢ,2026,duytan
+545,THIẾT KẾ HỆ THỐNG THI TRỰC TUYẾN VỚI CƠ CHẾ GIÁM SÁT VÀ PHÁT HIỆN GIAN LẬN THÔNG MINH,2026,duytan
+546,HỆ THỐNG HỖ TRỢ TỰ HỌC LẬP TRÌNH TRỤC TUYẾN TÍCH HỢP GENAI CHO VIỆC CÁC NHÂN HOÁ LỘ TRÌNH VÀ ĐÁNH GIÁ NĂNG LỤC NGƯỜI HỌC,2026,duytan
+547,Xây dựng BilliardsClub – Hệ thống Quản lý Billiards tích hợp AI Virtual Assistant.,2026,duytan
+548,Ridenow - Ứng dụng đặt xe tích hợp AI hỗ trợ tư vấn khách hàng.,2026,duytan
+549,"XÂY DỰNG HỆ THỐNG HỌC TIẾNG ANH TRỰC TUYẾN, TÍCH HỢP CHATBOT AI VÀ CHẤM ĐIỂM TỰ ĐỘNG",2026,duytan
+550,"Xây dựng hệ thống quản lý và tổ chức thi trực tuyến, ứng dụng AI tích hợp chức năng sinh câu hỏi tự động",2026,duytan
+551,Xây dựng hệ thống thương mại điện tử tích hợp Chatbot AI nhầm hỗ trợ tư vấn và tối ưu trải nghiệm khách hàng,2026,duytan
+552,XÂY DỰNG WEBSITE KÊU GỌI VỐN TÍCH HỢP AI TƯ VẤN CHO NHÀ ĐẦU TƯ,2026,duytan
+553,Phát triển nền tảng kết nối ứng viên và nhà tuyển dụng ứng dụng có Chatbot AI đề xuất việc làm,2026,duytan
+554,Hệ thống nha khoa thông minh tích hợp chat bot AI tư vấn cho bệnh nhân,2026,duytan
+555,XÂY DỰNG WEBSITE WRStudios ĐỂ CHO THUÊ CĂN HỘ TÍCH HƠP HỆ THỐNG BẢN ĐỒ SỐ MAPBOX VÀ AI HƯỚNG DẪN ĐƯỜNG ĐI ĐẾN CĂN HỘ,2026,duytan
+556,"XÂY DỰNG WEBSITE BOOKGO BÁN SÁCH VÀ ĐỌC SÁCH TRỰC TUYẾN TÍCH HỢP CHATBOT AI HỖ TRỢ TƯ VẤN VIỆC MUA SÁCH, ĐỌC SÁCH VÀ THANH TOÁN TRỰC TUYẾN",2026,duytan
+557,XÂY DỰNG HỆ THỐNG QUẢN LÝ QUÁN ĂN TÍCH HỢP AI GỌI MÓN & ĐẶT BÀN,2026,duytan
+558,Xây dựng SportHub AI - Nền tảng Quản lý Sân thể thai cà Bán hàng với AI tìm sân trống thông minh,2026,duytan
+559,WEBSITE TÌM KIẾM VIỆC LÀM (dùng Chatbox AI hỗ trợ người dùng tìm kiếm và hiển thị danh sách các việc làm phù hợp với nhu cầu tìm kiếm),2026,duytan
+560,Xây dựng hệ thống quản lý và đặt phòng trực tuyến tích hợp Chatbot AI tìm phòng,2026,duytan
+561,XÂY DỰNG HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ BÁN THIẾT BỊ CÔNG NGHỆ TÍCH HỢP TRỢ LÝ MUA SẮM THÔNG MINH SỬ DỤNG AI VÀ KÝ THUẬT RETIEVAL-AUMENTED GENERATION (RAG),2026,duytan
+562,"XÂY DỰNG VÀ PHÁT TRIỂN GAME NHẬP VAI GIẢI ĐỐ 3D CÓ CỐT TRUYỆN ""PROJECT NOIR"" TRÊN UNITY ENGINE",2026,duytan
+563,XÂY DỰNG VÀ PHÁT TRIỂN GAME 2D GIÁO DỤC TOÁN HỌC ONLINE TÍCH HỢP MULTIPLAYER,2026,duytan
+564,XÂY DỰNG VÀ PHÁT TRIỂN TỰA GAME ĐUA XE 2D: STREET RACER,2026,duytan
+565,SHADOW WARIOR - PHÁT TRIỂN GAME BẮN SUNG 2D PIXEL THỂ LOẠI TOP DOWN,2026,duytan
+566,Phát triển game kinh dị 3D với cơ chế Escape Room: Slient Escape,2026,duytan
+567,"NGHIÊN CỨU, XÂY DỰNG HỆ THỐNG ĐÁNH GIÁ ĐỀ THI HỖ TRỢ VIỆC CÁ NHÂN HÓA CHO NGƯỜI HỌC TẠI CÁC CƠ SỞ GIÁO DỤC",2025,ptit
+568,NGHIÊN CỨU MÔ HÌNH CÂN BẰNG TẢI ÁP DỤNG LÝ THUYẾT HÀNG ĐỢI CHO GAME ONLINE NHIỀU NGƯỜI CHƠI,2025,ptit
+569,PHÁT TRIỂN CÔNG CỤ ỨNG DỤNG AI TRONG VIỆC CHUYỂN ĐỔI NGÔN NGỮ TỰ NHIÊN THÀNH CÂU TRUY VẤN SQL NHẰM HỖ TRỢ TRA CỨU NHANH THÔNG TIN,2025,ptit
+570,NGHIÊN CỨU VÀ PHÁT TRIỂN HỆ THỐNG NHẬN DẠNG NGÔN NGỮ KÝ HIỆU NGƯỜI CÂM ĐIẾC ỨNG DỤNG TRONG THƯ VIỆN SỐ,2025,ptit
+571,ĐỀ ÁN NGHIÊN CỨU VÀ ĐÁNH GIÁ CÁC MÔ HÌNH KÝ SỐ ĐA BÊN HẬU LƯỢNG TỬ TRÊN NỀN THUẬT TOÁN CRYSTALS-DILITHIUM,2025,ptit
+572,"NGHIÊN CỨU, THIẾT KẾ VÀ THỬ NGHIỆM HỆ THỐNG CHUYỂN VĂN BẢN TIẾNG VIỆT THÀNH NGÔN NGỮ KÝ HIỆU SỬ DỤNG MÔ HÌNH 3D HỖ TRỢ NGƯỜI KHIẾM THÍNH",2025,ptit
+573,NGHIÊN CỨU ỨNG DỤNG HỌC MÁY TRONG PHÁT HIỆN VÀ DỰ ĐOÁN LỖI HỆ THỐNG ĐIỀU KHIỂN UAV THÔNG QUA LOG BAY,2025,ptit
+574,Nghiên Cứu Các Phương Pháp Sinh Dữ Liệu Tấn Công Mạng,2025,ptit
+575,Sử dụng cử chỉ tay để điều khiển thiết bị,2021,ptit
+576,Áp dụng phobert cho phân loại bình luận và xây dựng chatbox trong mua sắm quần áo trực tuyến,2023,ptit
+577,tạo ảnh người từ mô tả tiếng việt sử dụng mô hình khuếch tán ổn định,2023,ptit
+578,Nghiên cứu giải pháp DEVSECOPS trong hỗ trợ phát triển phần mềm,2023,ptit
+579,Xây dựng hệ thống quản lý khám chữa bệnh và đăng ký khám bệnh từ xa cho bệnh viện/phòng khám,2023,ptit
+580,Nhận dạng hoạt động của người bằng học thích nghi,2023,ptit
+581,Xây dựng website hỗ trợ du lịch,2024,ptit
+582,Xây dựng website bán thực phẩm kết hợp tìm kiếm sản phẩm bằng hình thức,2023,ptit
+583,Áp dụng kỹ thuật lọc công tác cho tư vấn trong hệ thống quản lý bán sách online,2023,ptit
+584,Xây dựng Website Sàn Thương mại Điện tử,2023,ptit
+585,Nghiên cứu về Devops và xây dựng hệ thống CI/CD,2023,ptit
+586,Áp dụng mô hình học máy xây dựng ứng dụng dự đoán chứng khoán Việt Nam,2024,ptit
+587,Xây dựng hệ thống sàn thương mại điện tử,2023,ptit
+588,Xây dựng ứng dụng: Dạy Tiếng Việt cho người nước ngoài,2023,ptit
+589,Xây dựng website mua bán hàng online shop,2022,ptit
+590,Kiểm thử tự động chức năng và hiệu năng cho hệ thống Website Velocity,2022,ptit
+591,Xây dựng website bán thực phẩm và hàng tiêu dùng thiết yếu,2022,ptit
+592,QC-StyleGAN2: Mô hình sinh đối nghịch với tùy biến chất lượng đầu ra,2021,ptit
+593,Xây dựng website đặt lịch khám bệnh trực tuyến sử dụng laravel framework,2022,ptit
+594,Ứng dụng thuật toán Neighborhood-based Collaborative Filtering vào website gợi ý xem phim online,2022,ptit
+595,Xây dựng hệ thống tư vấn tìm kiếm nhà cho thuê dựa trên khai phá nhật ký truy vấn,2021,ptit
+596,"Nghiên cứu, xây dựng hệ thống thi trực tuyến cho hình thức thi trắc nghiệm",2022,ptit
+597,Phân tích ý kiến bình luận của người dùng trực tuyến sử dụng mô hình BERT,2022,ptit
+598,Giải pháp cung cấp dịch vụ quản lý bán hàng trên mạng xã hội,2021,ptit
+599,Xây dựng chức năng gợi ý bài hát cho website nghe nhạc trực tuyến sử dụng thuật toán Apriori,2022,ptit
+600,Xây dựng ứng dụng học tiếng anh thông minh English-learn,2021,ptit
+601,Xây dựng hệ thống quản lý thực tập và đồ án tốt nghiệp,2021,ptit
+602,Nghiên cứu xây dựng hệ thống hỗ trợ xác định một số luồng dư luận về trường đại học trên mạng xã hội,2022,ptit
+603,Xây dựng trang web bán các sản phẩm tại Bắc Giang,2022,ptit
+604,Xây dựng website xem phim,2021,ptit
+605,Phần mềm thu nhận và chấm điểm ảnh,2022,ptit
+606,Xây dựng website bán phụ kiện thú cưng,2021,ptit
+607,Phát triển hệ thống điểm danh trong lớp học sử dụng công nghệ nhận diện khuôn mặt,2022,ptit
+608,Xây dựng hệ thống đặt tour du lịch trực tuyến,,ptit
+609,Dự đoán giá tiền ảo ngắn hạn sử dụng mạng LSTM,2021,ptit
+610,Tích hợp tìm kiếm ảnh và tư vấn sản phẩm vào website thương mại điện tử,2021,ptit
+611,Xây dựng ứng dụng học tập Drimlearn bằng Unity,2021,ptit
+612,Xây dựng diễn đàn trao đổi công nghệ sử dụng spring framework,2021,ptit
+613,Tích hợp hệ thống gợi ý theo nội dung vào trang web bán hàng online,2022,ptit
+614,Xây dựng hệ thống sinh mô hình MATLAB/Simulink tự động,2022,ptit
+615,Tư vấn khách sạn dựa trên quan điểm và đánh giá người dùng,2021,ptit
+616,Mô hình chưng cất đa tác vụ cho nhận dạng giọng nói tiếng Việt,2022,ptit
+617,Xây dựng website bán sách,2021,ptit
+618,Xây dựng website bán đồ nội thất và gia dụng,2022,ptit
+619,ADSNETWORK – Hệ thống mạng quảng cáo di động,,uit
+620,Advertisement system in Mobile platform with Augmented Reality,,uit
+621,An expert system approach in stock selection attractive for investment,,uit
+622,Auto-Pricing for Airlines ticket system,,uit
+623,Building an Application Provide Real Estate Agent Features,,uit
+624,Bảo vệ quyền riêng tư cho quá trình thu thập dữ liệu,,uit
+625,Bảo vệ tính riêng tư của dữ liệu cho mô hình học phân tán,,uit
+626,Bổ sung chức năng và cải tiến quy trình cho sàn thương mại điện tử FuniMart,,uit
+627,Chẩn đoán các bất thường trên điện tâm đồ sử dụng các phương pháp học sâu,,uit
+628,Công cụ tập hợp tin tự động từ các website,,uit
+629,"Dự báo khả năng hủy chuyến, trễ chuyến của chuyến bay nội địa ViệtNam",,uit
+630,Dự đoán chỉ số thị trường chứng khoán dựa vào sự kết hợp các kỹ thuật máy học,,uit
+631,Dự đoán xu hướng chứng khoán trong rổ VN30 tại sàn HOSE dựa trên tin tức tài chính,,uit
+632,Dựa trên phân tích cảm xúc và học máy xây dựng mô hình dự báo tiền mã hóa và chứng khoán,,uit
+633,Employee time recording system with Ibeacon technology on IOS platform,,uit
+634,Hệ hỗ trợ hoạt động tiếp thị trong ngân hàng,,uit
+635,Hệ hỗ trợ đánh giá website đặt phòng trực tuyến,,uit
+636,Hệ khuyến nghị địa điểm lưu trú dựa trên nhu cầu cá nhân của người dùng,,uit
+637,Hệ thống Test Management,,uit
+638,Hệ thống chia sẻ thông tin bệnh nhân và cảnh báo trong chăm sóc sức khỏe.,,uit
+639,Hệ thống giám sát giao thông tự động hỗ trợ đếm xe và đo tốc độ,,uit
+640,Hệ thống gợi ý video sử dụng phương pháp học sâu.,,uit
+641,Hệ thống hỏi đáp dựa trên bộ dữ liệu câu hỏi tự nhiên,,uit
+642,"Hệ thống hỗ trợ học tập, ôn thi trực tuyến sử dụng thư viện hệ thống gợi ý mã nguồn mở MyMediaLite",,uit
+643,Hệ thống hỗ trợ quản lý chuỗi sản xuất theo tiêu chuẩn VIETGAP,,uit
+644,Hệ thống khuyến nghị phim,,uit
+645,Hệ thống lưu trữ và phân tích hình ảnh dựa trên các mô hình máy học,,uit
+646,Hệ thống phát hiện bất thường trên ảnh X quang lồng ngực,,uit
+647,Hệ thống phân tích cảm xúc khách hàng dựa trên bình luận tiếng Việt,,uit
+648,Hệ thống quản lý bán và giao hàng trực tuyến,,uit
+649,Hệ thống quản lý kinh doanh chuỗi cửa hàng cà phê,,uit
+650,Hệ thống quản lý nhà hàng và cho phép gọi món từ thiết bị di động,,uit
+651,Hệ thống truy xuất nguồn gốc hàng hóa dựa trên công nghệ Blockchain,,uit
+652,Hệ thống truy xuất nguồn gốc trong chăn nuôi bằng công nghệ Blockchain,,uit
+653,Hệ thống đánh giá rủi ro tín dụng khách hàng,,uit
+654,Hệ thống điểm danh bằng nhận dạng khuôn mặt,,uit
+655,Hệ thống đánh giá và gợi ý sản phẩm dựa trên bình luận sử dụng BERT,,uit
+656,Hệ thống đề xuất thực đơn,,uit
+657,Hệ tư vấn hỗ trợ mua hàng Online,,uit
+658,Hỗ trợ sửa lỗi chính tả cho tiếng Việt,,uit
+659,Interactive tour recommendation system on android platform using association rule mining,,uit
+660,Khai phá một số quan điểm từ mạng xã hội,,uit
+661,Khai thác thông tin người dùng trên mạng xã hội,,uit
+662,Khuyến nghị tin tức dựa trên session của người dùng,,uit
+663,Learning and proposing BI system for decision support in human resourses,,uit
+664,Nghiên cứu chuỗi thời gian và xây dựng website dự báo giá vàng,,uit
+665,Nghiên cứu các mô hình dự báo giá vàng và cài đặt ứng dụng,,uit
+666,Nghiên cứu các phương pháp dự đoán liên kết trong mạng xã hội dựa trên đồ thị mạng nơ-ron,,uit
+667,Nghiên cứu cơ sở dữ liệu NoSQL và chuyển đổi lược đồ cơ sở dữ liệu sang NoSQL,,uit
+668,Nghiên cứu hệ thống quản lý quy trình BPM – Ứng dụng vào quy trình phê duyệt và cấp tín dụng tại ngân hàng.,,uit
+669,"Nghiên cứu kết hợp mô hình ARIMA, SARIMA và khai thác dữ liệu trong mô hình dữ báo chuỗi thời gian",,uit
+670,Nghiên cứu mô hình dự báo thời điểm mua bán chứng khoán bằng kỹ thuật phân đoạn xu hướng kết hợp với hồi quy máy học,,uit
+671,Nghiên cứu mô hình phát hiện bất thường trong giao dịch tài chính,,uit
+672,Nghiên cứu phương pháp phân rã ma trận (matrix factorization) và ứng dụng vào hệ khuyến nghị sản phẩm,,uit
+673,Nghiên cứu phương pháp tối ưu hoá cây Merkle trong công nghệ chuỗi khối,,uit
+674,Nghiên cứu thuật toán khuyến nghị và xây dựng hệ thống minh họa,,uit
+675,Nghiên cứu trải nghiệm của khách hàng trong quản trị mối quan hệ khách hàng và ứng dụng,,uit
+676,Nghiên cứu và xây dựng hệ thống tư vấn lập lịch thi tại trường ĐH Công nghệ thông tin,,uit
+677,Nghiên cứu và xây dựng module chuyển đổi ngôn ngữ ký hiệu cho người khiếm thính thông qua công nghệ AI tạo sinh,,uit
+678,Nhận dạng chữ số viết tay,,uit
+679,Nâng cao công tác điều hành doanh nghiệp thông qua phân tích dữliệu và báo cáo quản trị trên thiết bị di động,,uit
+680,Nâng cao hiệu quả quản lý và hỗ trợ lập kế hoạch sản xuất trong chăn nuôi,,uit
+681,Nâng cao trải nghiệm người dùng thương mại điện tử ứng dụng thực tại tăng cường,,uit
+682,Phát hiện gian lận thẻ tín dụng dựa trên học cộng tác,,uit
+683,Phát triển công cụ chọn lọc tin hiệu quả trên báo chí online,,uit
+684,Phát triển nền tảng gamification marketing cho thị trường Việt Nam,,uit
+685,"Phát triển ứng dụng di động tích hợp lên hệ thống CRM cho trường mầm non, tiểu học",,uit
+686,Phát triển ứng dụng quản lý trường mẫu giáo có hỗ trợ điểm danh khuôn mặt,,uit
+687,Phân lớp các giai đoạn giấc ngủ sử dụng phương pháp học sâu,,uit
+688,Phân lớp hình ảnh cắt lớp quang học võng mạc sử dụng các phương pháp học sâu,,uit
+689,Phân tích chuỗi thời gian và cài đặt ứng dụng minh họa,,uit
+690,Phân tích hành vi của người tiêu dùng trong thị trường bằng thuật toán tìm luật kết hợp cơ bản và cải tiến,,uit
+691,Phần mềm quản lí quán Café,,uit
+692,Quản lý căn hộ chung cư-kết nối cư dân và ban quản lý,,uit
+693,So sánh hiệu quả của mô hình học sâu và học liên kết trong phát hiện phần mềm độc hại,,uit
+694,So sánh hiệu suất một số front-end framework trong việc phát triển các UI,,uit
+695,Sử dụng thuật toán khuyến nghị phù hợp để khai phá dữ liệu cho doanh nghiệp,,uit
+696,Thiết kế và triển khai chức năng khuyến nghị cho sàn giao dịch trực tuyến Sendo,,uit
+697,Thiết kế và triển khai dịch vụ nhận dạng khuôn mặt trên nền tảng đám mây,,uit
+698,Thiết kế và triển khai hệ thống bảng hiệu điện tử thông minh trên nền tảng đám mây,,uit
+699,Thiết kế và triển khai hệ thống quảng cáo điện tử trên nền tảng đám mây,,uit
+700,Thiết kế và xây dựng hệ thống quản lý bất động sản,,uit
+701,Tìm hiểu salesforce và triển khai cho doanh nghiệp điện lạnh bán lẻ,,uit
+702,Trực quan hóa dữ liệu cho hệ thống giám sát môi trường trực tuyến.,,uit
+703,"Tìm hiểu Alfresco ECM, áp dụng vào việc quản lý và lưu trữ văn bản hành chính tại trường ĐH CNTT",,uit
+704,Tìm hiểu Bussiness Intelligence và xây dựng hệ thống hỗ trợ hoạch định nguồn nhân lực trong doanh nghiệp,,uit
+705,Tìm hiểu Google Cloud Dialogflow – và xây dựng ứng dụng chatbot minh họa,,uit
+706,Tìm hiểu công nghệ Deep Speech và xây dựng ứng dụng quản lí chi tiêu trên thiết bị di động,,uit
+707,Tìm hiểu mạng Nơ-ron tích chập và ứng dụng chuyển đổi phong cách nghệ thuật,,uit
+708,Tìm hiểu thuật toán ACO và xây dựng ứng dụng lập kế hoạch du lịch hoàn hảo trực tuyến.,,uit
+709,Tìm hiểu và xây dựng hệ thống CRM cho trung tâm anh ngữ trẻ em,,uit
+710,Tìm hiểu và xây dựng website chia sẻ thông tin về business card,,uit
+711,Tìm hiểu và xây dựng website rao vặt,,uit
+712,Tìm hiểu và áp dụng thuật toán tìm đường đi ngắn nhất trên dữ liệu bản đồ,,uit
+713,Tích hợp giọng nói và lịch vào trang web bán quần áo,,uit
+714,Tăng cường bảo mật và tích hợp công nghệ chuỗi khối trong học cộng tác cho bài toán phân loại mã độc,,uit
+715,Tối ưu hóa công cụ tìm kiếm cho website thương mại điện tử,,uit
+716,Tối ưu lộ trình tham quan các địa điểm du lịch,,uit
+717,Web hỗ trợ dịch vụ sửa chữa nhà cửa,,uit
+718,Web-Based tour recommendation system using matrix factorization approach,,uit
+719,Website dinh dưỡng và tư vấn sức khỏe,,uit
+720,Website khuyến nghị hỗ trợ học tập Cơ sở dữ liệu,,uit
+721,Website quản lý công văn tại trường Đại học Công nghệ thông tin,,uit
+722,Website quản lý cửa hàng xe đạp,,uit
+723,Website quản lý và tìm kiếm phòng trọ online,,uit
+724,Website tra cứu thuật ngữ chuyên ngành Công nghệ thông tin,,uit
+725,Xây dựng Hệ thống hỗ trợ tra cứu nơi khám chữa bệnh trong TP.HCM,,uit
+726,Xây dựng Website Thương mạiShopMart với ASP.NET Core,,uit
+727,Xây dựng Website kết nối doanh nghiệp với khách hàng trong lĩnh vực thời trang và sản phẩm công nghệ,,uit
+728,Xây dựng chương trình hỗ trợ người đi xe Bus công cộng tại địa bàn TP Hồ Chí Minh,,uit
+729,Xây dựng công cụ chọn lọc tin tức từ các website,,uit
+730,Xây dựng công cụ hỗ trợ tìm việc từ các website việc làm khác,,uit
+731,Xây dựng công cụ phân loại các bình luận tiêu cực trên Wikipedia,,uit
+732,Xây dựng công cụ phân tích sự biến động của Covid-19,,uit
+733,"Xây dựng công cụ thu thập, xử lý, phân tích và truy vấn động hỗ trợ dữ liệu lớn",,uit
+734,Xây dựng game lấy bối cảnh đại dịch Covid 19,,uit
+735,Xây dựng hệ khuyến nghị cho website rao vặt,,uit
+736,Xây dựng hệ khuyến nghị địa điểm lưu trú,,uit
+737,Xây dựng hệ thống CRM trong mô hình kinh doanh vé máy bay,,uit
+738,"Xây dựng hệ thống E-learning tích hợp trí tuệ nhân tạo, hỗ trợ cá nhân hoá quá trình học tập trong lĩnh vực công nghệ thông tin",,uit
+739,"Xây dựng hệ thống WebGIS hỗ trợ tra cứu thông tin đất đai tại thành phố Đà Lạt, Tỉnh Lâm Đồng",,uit
+740,Xây dựng hệ thống bán lẻ thời trang trực tuyến,,uit
+741,Xây dựng hệ thống câu hỏi và thi trắc nghiệm trực tuyến theo thang đo nhận thức Bloom,,uit
+742,Xây dựng hệ thống dạy và học trực tuyến sử dụng WebRTC,,uit
+743,Xây dựng hệ thống dự báo giá và khuyến nghị giao dịch mua bán tiền mã hóa,,uit
+744,Xây dựng hệ thống dự đoán sự biến đổi giá của những mã cổ phiếu vốn hóa thấp,,uit
+745,Xây dựng hệ thống dự đoán xu hướng biến đổi giá chứng khoán,,uit
+746,Xây dựng hệ thống dự đoán xu hướng biến đổi giá tiền điện tử sử dụng các mô hình máy học,,uit
+747,Xây dựng hệ thống dự đoán độ hit bài hát và thể hiện xu hướng đặc trưng âm nhạc của các bài hát hit,,uit
+748,"Xây dựng hệ thống dự đoán, hỗ trợ ra quyết định trong lĩnh vực đầu tư chứng khoán",,uit
+749,Xây dựng hệ thống email marketing,,uit
+750,Xây dựng hệ thống end-to-end chatbot sử dụng mô hình học sâu,,uit
+751,Xây dựng hệ thống gợi ý cho website review nhà hàng/quán ăn,,uit
+752,Xây dựng hệ thống gợi ý lịch trình du lịch thông qua các phương pháp học máy và trí tuệ nhân tạo,,uit
+753,"Xây dựng hệ thống gợi ý địa điểm du lịch dựa trên điều kiện thời tiết, chất lượng không khí bằng phương pháp học máy và tích hợp mạng xã hội",,uit
+754,Xây dựng hệ thống học trực tuyến sử dụng các mô hình máy học nhận diện cảm xúc và theo dõi ánh nhìn của học viên,,uit
+755,Xây dựng hệ thống hồ sơ cá nhân và hỗ trợ tuyển dụng cho doanh nghiệp thông qua công nghệ blockchain và trí tuệ nhân tạo,,uit
+756,Xây dựng hệ thống khuyến nghị khách sạn phù hợp cho người dùng,,uit
+757,Xây dựng hệ thống lưu trữ và tìm kiếm văn bản trên nền tảng Apache Spark,,uit
+758,Xây dựng hệ thống phát hiện các bình luận spam trên website chia sẻ video,,uit
+759,Xây dựng hệ thống phát hiện và phân loại bệnh trên lá cây bằng kỹ thuật xử lý ảnh,,uit
+760,Xây dựng hệ thống quản lý chuỗi nhà hàng,,uit
+761,Xây dựng hệ thống quản lý doanh nghiệp hải sản,,uit
+762,Xây dựng hệ thống quản lý hành trình xe buýt,,uit
+763,Xây dựng hệ thống quản lý hỗ trợ chăm sóc sức khỏe bệnh nhân tim mạch,,uit
+764,Xây dựng hệ thống quản lý quy trình tuyển dụng,,uit
+765,Xây dựng hệ thống quản lý sản xuất thiết bị điện tích hợp kỹ thuật khai phá quy trình,,uit
+766,Xây dựng hệ thống quản lý thư viện,,uit
+767,Xây dựng hệ thống quản lý và tư vấn luyện thi TOEIC trực tuyến,,uit
+768,Xây dựng hệ thống quản lý điểm rèn luyện tại UIT,,uit
+769,"Xây dựng hệ thống quản lý, theo dõi thời gian nội bộ của nhân viên công ty vừa và nhỏ",,uit
+770,"Xây dựng hệ thống quản trị quan hệ khách hàng cho đại lý đặt vé máy bay, tour du lịch và khách sạn trên nền tảng SugarCRM",,uit
+771,Xây dựng hệ thống theo dõi sức khỏe người già bằng cảm biến,,uit
+772,Xây dựng hệ thống thu thập bài viết và thảo luận từ Facebook group và tìm ra những người có ảnh hưởng nhất,,uit
+773,"Xây dựng hệ thống thu thập, lưu trữ và tìm kiếm trên nền tảng HADOOP",,uit
+774,Xây dựng hệ thống tiếp thị nội dung trực tuyến,,uit
+775,Xây dựng hệ thống trích xuất nhật ký sự kiện từ cơ sở dữ liệu và ứng dụng web khai phá quy trình,,uit
+776,"Xây dựng hệ thống tìm kiếm, tư vấn và cung cấp dịch vụ làm đẹp",,uit
+777,Xây dựng hệ thống tóm tắt video và chatbot hỗ trợ học tập trực tuyến thông qua các phương pháp học máy và trí tuệ nhân tạo,,uit
+778,Xây dựng hệ thống tư vấn tình yêu và hôn nhân,,uit
+779,Xây dựng hệ thống tư vấn và đặt món ăn trực tuyến,,uit
+780,Xây dựng hệ thống tạo thực đơn dinh dưỡng tự động và quản lý thông tin trẻ mầm non,,uit
+781,Xây dựng hệ thống tổ chức sự kiện trực tuyến,,uit
+782,Xây dựng hệ thống tự động tổng hợp tin tức và phân tích nội dung,,uit
+783,Xây dựng hệ thống website cẩm nang bệnh viện,,uit
+784,Xây dựng hệ thống website quản lý đào tạo tại Khoa Hệ Thống Thông Tin,,uit
+785,Xây dựng hệ thống website sàn giao dịch hỗ trợ chuyển giao công nghệ,,uit
+786,Xây dựng kho dữ liệu cho dịch vụ mua bán trực tuyến và chăm sóc khách hàng,,uit
+787,Xây dựng module bán hàng qua Lazada trên nền hệ thống mã nguồn mở Odoo,,uit
+788,Xây dựng module bán hàng qua sàn thương mại điện tử Shopee và tích hợp vào hệ thống Odoo,,uit
+789,Xây dựng module hỗ trợ hoạch định và triển khai E-Marketing trên Odoo,,uit
+790,Xây dựng mô hình dự báo giá chứng khoán Việt Nam bằng phương pháp học sâu cho chuỗi thời gian đa biến,,uit
+791,Xây dựng mô hình dự báo số lượng ca nhiễm bệnh nhiệt đới dựa trên mạng liên kết giữa các tỉnh thành Việt Nam,,uit
+792,Xây dựng mô hình dự báo số lượng ca nhiễm và thời điểm bùng phát bệnh nhiệt đới bị lãng quên,,uit
+793,Xây dựng mô hình nhận diện giọng nói cho tiếng Việt,,uit
+794,Xây dựng mô hình phân loại sớm bất thường tim mạch dựa trên tín hiệu điện tâm đồ,,uit
+795,Xây dựng mạng kỹ năng nghề nghiệp và hỗ trợ tìm kiếm ứng viên tối ưu,,uit
+796,Xây dựng mạng mua bán sản phẩm và kết nối người dùng,,uit
+797,Xây dựng mạng xã hội du lịch BIGS cho thiết bị di động,,uit
+798,Xây dựng mạng xã hội du lịch và ẩm thực ZESS,,uit
+799,Xây dựng mạng xã hội hỏi đáp dành cho cộng đồng IT,,uit
+800,Xây dựng mạng xã hội âm nhạc,,uit
+801,Xây dựng mạng xã hội âm nhạc (Social Music),,uit
+802,Xây dựng nền tảng streaming trực tuyến,,uit
+803,Xây dựng nền tảng tổ chức sự kiện ảo cho triển lãm trực tuyến,,uit
+804,Xây dựng nền tảng ứng dụng web giúp kết nối người tổ chức hoạt động trải nghiệm với khách tham gia,,uit
+805,Xây dựng quy trình quản lý bán hàng trên nền tảng Odoo,,uit
+806,Xây dựng sàn giao dịch NFT,,uit
+807,Xây dựng sàn thương mại điện tử B2C để kinh doanh themes tại Việt Nam,,uit
+808,Xây dựng và khai thác kho dữ liệu nhằm đề xuất chiến lược kinh doanh cho doanh nghiệp,,uit
+809,Xây dựng web map phục vụ du lịch thành phố Hồ Chí Minh,,uit
+810,Xây dựng website Khoa Hệ thống Thông tin dựa trên nền tảng Drupal,,uit
+811,Xây dựng website bán hàng nông sản sạch,,uit
+812,Xây dựng website bán hàng trực tuyến tích hợp với hệ thống hoạch định nguồn lực doanh nghiệp OpenERP,,uit
+813,"Xây dựng website bán hàng trực tuyến, phân lớp khách hàng bằng thuật toán Bayes",,uit
+814,Xây dựng website bán hàng trực tuyến.,,uit
+815,"Xây dựng website bán hàng, dự báo xu hướng mua hàng và tư vấn trang phục trong lĩnh vực thời trang",,uit
+816,Xây dựng website bán nông sản online,,uit
+817,Xây dựng website bán quần áo và hệ chuyên gia tư vấn thời trang,,uit
+818,Xây dựng website bán sách và gợi ý sách cho khách hàng,,uit
+819,"Xây dựng website bán điện thoại, laptop và gom cụm khách hàng bằng mạng Kohonen",,uit
+820,Xây dựng website báo điện tử tích hợp hệ thống khuyến nghị nội dung,,uit
+821,Xây dựng website chia sẻ video tích hợp hệ thống khuyến nghị nội dung,,uit
+822,Xây dựng website diễn đàn chia sẽ bài viết và sử dụng kỹ thuật tìm kiếm toàn văn,,uit
+823,Xây dựng website dự đoán kết quả chứng khoán,,uit
+824,Xây dựng website gợi ý phim và đặt vé xem phim,,uit
+825,Xây dựng website hỗ trợ quản lý và bán hàng trực tuyến,,uit
+826,Xây dựng website kinh doanh hạt điều trực tuyến.,,uit
+827,Xây dựng website kinh doanh sản phẩm thời trang kết hợp đề xuất sản phẩm trên nền tảng Laravel,,uit
+828,Xây dựng website kinh doanh thiết bị điện tử tích hợp khuyến nghị sản phẩm,,uit
+829,Xây dựng website mai mối Heart Berry,,uit
+830,Xây dựng website quản lý Trung tâm Ngoại ngữ,,uit
+831,Xây dựng website quản lý thực tập của sinh viên khoa Hệ thống Thông tin,,uit
+832,"Xây dựng website thương mại điện tử, tích hợp chức năng gợi ý sản phẩm và tìm kiếm sản phẩm bằng hình ảnh",,uit
+833,Xây dựng website trao đổi đồ chơi trẻ em,,uit
+834,Xây dựng website tìm kiếm việc làm,,uit
+835,Xây dựng website tìm kiếm và tuyển dụng việc làm. Tích hợp chức năng gợi ý việc làm phù hợp cho ứng viên,,uit
+836,Xây dựng website vận hành chung cư,,uit
+837,Xây dựng website đánh giá và gợi ý phim,,uit
+838,Xây dựng webstie gợi ý điểm du lịch áp dụng thuật toán K láng giềng gần nhất,,uit
+839,Xây dựng ứng dụng SmartChef tích hợp khuyến nghị trên thiết bị di động,,uit
+840,Xây dựng ứng dụng cổng thông tin khách hàng trên điện thoại thông minh cho doanh nghiệp,,uit
+841,Xây dựng ứng dụng di động hỗ trợ học từ vựng tiếng Anh,,uit
+842,"Xây dựng ứng dụng di động kết nối người dùng có nhu cầu trao đổi, mua bán hàng online",,uit
+843,Xây dựng ứng dụng di động nhận diện biển báo giao thông thời gian thực,,uit
+844,Xây dựng ứng dụng di động tích hợp camera giám sát tại nhà nhằm phát hiện những nguy cơ tiềm ẩn nguy hiểm thông qua mô hình học sâu,,uit
+845,"Xây dựng ứng dụng dự đoán, phát hiện sự bất thường và gợi ý giao dịch chứng khoán trong tương lai thông qua sự kết hợp các mô hình học máy và mô hình học tăng cường",,uit
+846,"Xây dựng ứng dụng gửi xe và đặt món canteen, tích hợp thanh toán qua ứng dụng di động",,uit
+847,Xây dựng ứng dụng học từ vựng tiếng Anh,,uit
+848,Xây dựng ứng dụng nhận dạng khuôn mặt trên smartphone,,uit
+849,Xây dựng ứng dụng phân loại tin tức Covid-19 trên mạng xã hội Twitter,,uit
+850,Xây dựng ứng dụng quản lý bán hàng,,uit
+851,Xây dựng ứng dụng quản lý chuỗi cung ứng trên nền tảng blockchain và hệ hỗ trợ quyết định bằng phương pháp máy học và học sâu,,uit
+852,Xây dựng ứng dụng quản lý gia sư tích hợp trợ giảng AI chatbot,,uit
+853,Xây dựng ứng dụng quản lý làm việc nhóm trên môi trường Windows UWP,,uit
+854,Xây dựng ứng dụng quản lý quan hệ khách hàng trong lĩnh vực du lịch,,uit
+855,Xây dựng ứng dụng quản lý quy trình sản xuất phần mềm dựa trên mô hình SCRUM,,uit
+856,Xây dựng ứng dụng quản lý trồng trọt và chăn nuôi,,uit
+857,Xây dựng ứng dụng thương mại điện tử trên nền tảng công nghệ chuỗi khối,,uit
+858,Xây dựng ứng dụng tra từ điển bằng Camera trên Android,,uit
+859,Xây dựng ứng dụng trò chuyện video nhóm trực tuyến,,uit
+860,Xây dựng ứng dụng tìm kiếm món ăn cân bằng dinh dưỡng trên Android,,uit
+861,Xây dựng ứng dụng tìm kiếm trên mobile,,uit
+862,Xây dựng ứng dụng tích hợp tổng đài điện thoại vào quản trị mối quan hệ khách hàng trên thiết bị di động,,uit
+863,Xây dựng ứng dụng tối ưu hóa hành trình khách hàng dành cho các trung tâm đào tạo,,uit
+864,Xây dựng ứng dụng web phát hiện bất thường trên ảnh X-Quang cột sống,,uit
+865,Xây dựng ứng dụng web thuê nhà dựa trên kiến trúc microservices,,uit
+866,Xây dựng ứng dụng website bán văn phòng phẩm và sử dụng thuật toán Apriori để gợi ý mua hàng,,uit
+867,Xây dựng ứng dụng đặt phòng khách sạn tích hợp phân loại khách hàng sử dụng mô hình RFM,,uit
+868,Xây dựng ứng dụng đề xuất sản phẩm và bán hàng trực tuyến.,,uit
+869,Xây dựng chỉ mục đồ thị và ứng dụng trong Cơ sở dữ liệu Protein,,uit
+870,Áp dụng riêng tư vi phân chống lại cuộc tấn công suy diễn thành viên,,uit
+871,Áp dụng tổng hợp chuyển đổi độ tuổi khuôn mặt vào công nghệ làm phim,,uit
+872,Đánh giá mô hình học liên kết trong tập dữ liệu mất cân bằng,,uit
+873,Đánh giá nhà cung cấp trên webiste thương mại điện tử Tiki.vn,,uit
+874,Đề xuất các phương pháp tự động hoá thiết kế cơ sở dữ liệu và sinh ra câu lệnh truy vấn từ mô tả bằng ngôn ngữ tự nhiên,,uit
+875,Đọc và tư vấn sách điện tử trên ứng dụng di động,,uit
+876,Ứng dụng Android nhận dạng chữ viết tay,,uit
+877,Ứng dụng Android quản lý tài chính và khai phá luật kết hợp dữ liệu người dùng,,uit
+878,Ứng dụng Business Automation Framework (BAF) để tự động hóa các quy trình nghiệp vụ tại bộ phận nhân sự trong các công ty dịch vụ công ích,,uit
+879,Ứng dụng CSDL đồ thị trong hệ thống lưu trữ và tìm kiếm thông tin âm nhạc,,uit
+880,Ứng dụng Data warehouse vào khai thác dữ liệu bán lẻ,,uit
+881,Ứng dụng IoT xây dựng hệ thống thuỷ canh tự động,,uit
+882,Ứng dụng Kết nối Nhà cung cấp và Cộng tác viên trên Sàn Thương Mại Điện Tử,,uit
+883,Ứng dụng blockchain vào hệ thống quản lý bệnh án điện tử,,uit
+884,Ứng dụng công nghệ chuỗi khối trong việc xây dựng hệ thống bầu cử,,uit
+885,Ứng dụng di động android quản lý thời gian và công việc,,uit
+886,Ứng dụng hỗ trợ tự tập gym dựa trên trí tuệ nhân tạo,,uit
+887,"Ứng dụng khai phá dữ liệu phân tán để xây dựng hệ thống phân tích, đánh giá năng suất và hỗ trợ ra quyết định trong chăn nuôi.",,uit
+888,Ứng dụng khai thác dữ liệu Web để xây dựng hệ thống cẩm nang hướng nghiệp,,uit
+889,Ứng dụng kĩ thuật học máy vào hệ khuyến nghị và xây dựng website minh họa,,uit
+890,Ứng dụng máy học cải tiến đánh giá trắc nghiệm tâm lý MMPI – 2,,uit
+891,Ứng dụng mô hình XLNET để xây dựng hệ thống hỏi đáp,,uit
+892,Ứng dụng mô hình deep learning để phát triển công cụ tự động dịch truyện tranh song ngữ Anh-Việt,,uit
+893,"Ứng dụng mô hình học máy, học sâu và các biến thể cho việc dự đoán giá các đồng tiền mã hóa",,uit
+894,Ứng dụng mô hình học sâu cho bài toán phân loại các bất thường trên ảnh chụp X-Quang vùng ngực,,uit
+895,Ứng dụng mô hình mạng phân tích sự tương tác các proteins,,uit
+896,Ứng dụng nhận diện khuôn mặt trong thanh toán hóa đơn,,uit
+897,Ứng dụng phương pháp học sâu trong hỗ trợ chẩn đoán bệnh ngoài da,,uit
+898,Ứng dụng quản lý giáo dục kết hợp CRM,,uit
+899,A JOB Matching System for internship management,,uit
+900,A mobile-based application for smart tiny parking lot,,uit
+901,A mobile-based system for managing the apartment guests for security,,uit
+902,A new Vietnamese dataset for image captioning,,uit
+903,A semantics-based approach for emotion detection in textual conversations,,uit
+904,A solution for self-checkout system in smart shopping,,uit
+905,A stolen vehicle locator system via dash cam,,uit
+906,A warehouse sharing platform,,uit
+907,A web-based management system for real estate properties,,uit
+908,A web-based recommendation system for flight ticket,,uit
+909,AI-based hairstyle application for barbershop,,uit
+910,Air quality monitoring and predicting application,,uit
+911,An Embedded based electronic album for worship,,uit
+912,An Image Annotation Tool for Machine Learning,,uit
+913,An approach for fraud detection in financial transactions using machine learning methods,,uit
+914,An artificial intelligence-based chatbot for UIT Facebook page,,uit
+915,An automatic system for questions management and multiple-choice test generation,,uit
+916,An automation support tool for deploying infrastructure to the cloud using Terraform and CICD,,uit
+917,An information system for the conservation of Vietnam’s biodiversity,,uit
+918,An intelligent flight booking system using data mining techniques,,uit
+919,An intelligent mobile application for music recommendation,,uit
+920,Analyzing and forecasting Wikipedia web traffic,,uit
+921,Analyzing and forecasting the unit sales of Walmart retail goods,,uit
+922,Application of face recognition in payment,,uit
+923,Apply a blockchain platform in building smart contracts for crowdfunding projects,,uit
+924,Applying AI to forecast Saigon river water level,,uit
+925,Applying IoT technology for monitoring environment,,uit
+926,Applying deep learning in solving arithmetic word problems in Vietnamese,,uit
+927,Applying graph database for searching the most trending topics on e-journal,,uit
+928,Applying knowledge graph and bert for Vietnamese triple classification,,uit
+929,Applying neural network models to classification of skin diseases and building applications for diagnosing skin diseases,,uit
+930,Applying prediction models to forecast the real estate price in Ho Chi Minh city,,uit
+931,Applying satellite data with ground-based air quality monitoring stations to predict hourly air quality of Ho Chi Minh,,uit
+932,Applying text mining in restaurant recommendation based on customer reviews,,uit
+933,Artificial Intelligent in market segmentation and application,,uit
+934,Artificial Intelligent voice assistant system in real life,,uit
+935,Aspects identification using variational autoencoder,,uit
+936,Augmented reality application for interior furniture design – research and development,,uit
+937,Automatic Topic Labelling,,uit
+938,Automatic news classification for social publishing system,,uit
+939,Bert integration for image captioning in Vietnamese,,uit
+940,Book selling website with built-in recommender system,,uit
+941,Building a blood donation application,,uit
+942,Building a cloud based quiz system for student studying,,uit
+943,Building a hotel management and check-in application using facial recognition,,uit
+944,Building a mobile app for fish detection,,uit
+945,Building a mobile application for detecting and recognizing information of drugs,,uit
+946,Building a mobile application to suggest a price action trading for Crypto investment,,uit
+947,Building a mobile based multiple-choice test grading system,,uit
+948,Building a mobile-based restaurant management system,,uit
+949,Building a smart document scanner application on mobile,,uit
+950,Building a social bookmark system,,uit
+951,Building a software application for coffee shop business managements.,,uit
+952,Building a supporting system for prediction of fake news,,uit
+953,Building a web portal for archiving the Vietnamese festivals,,uit
+954,Building a web-based online exam system,,uit
+955,Building an automated workflow tool for business data analysis in retail,,uit
+956,Building an internet-based application using blockchain technology in financial services,,uit
+957,Building an online audio book system,,uit
+958,Building human resource management system for real estate company,,uit
+959,Business management system of a coffee production company,,uit
+960,Classification of satellite images for Vietnam’s infrastructure.,,uit
+961,Clustering and visualizing the text stream of document using topic model and graph database,,uit
+962,Compare query performance on non-relational database (NOSQL),,uit
+963,Considering Google trend as an external data for retail sales forecasting,,uit
+964,Constructing a knowledge graph from text,,uit
+965,Constructing a knowledge graph with fact checking about Vietnamese cuisine,,uit
+966,Constructing an affiliate marketing model for cosmetics,,uit
+967,Constructing knowledge graphs with triple extraction techniques,,uit
+968,Credit card fraud detection using machine learning and deep learning algorithms,,uit
+969,Deep learning for traffic sign recognition,,uit
+970,Deploying a face recognition web application on Kubernetes,,uit
+971,Design and implementation of a cloud-based Metaverse system,,uit
+972,Design and implementation of the property management system for university,,uit
+973,Detecting sources using YouTube original videos to manipulate contents with other purposes,,uit
+974,Develop an online tutoring website with microservices architecture,,uit
+975,"Development of an AI-based weather forecasting system, and mobile app",,uit
+976,Development of an E-Commerce website supporting intelligent recommendation,,uit
+977,Development of an application to process house ownership certificate,,uit
+978,Face recognition for contactless checking in for multiple services,,uit
+979,Facial recognition technology in gym management.,,uit
+980,Forecasting gold price trend based on machine learning,,uit
+981,High performance search and verification system for Covid-19 information,,uit
+982,Hybrid music recommendation in music web application,,uit
+983,Image colorization using deep neural network,,uit
+984,Improve the K-Means algorithm and apply to customer segmentation clustering,,uit
+985,Improving association rules by using fuzzy weighted association rule weighted support,,uit
+986,Intelligent video sharing system,,uit
+987,Item-exchange mobile application using voice recognition technique,,uit
+988,Key phrases extraction for social media monitoring system,,uit
+989,Lock automation through face recognition,,uit
+990,Lung cancer prediction using convolutional neural network and machine learning algorithms,,uit
+991,Machine learning methods for cancer classification using gene expression data,,uit
+992,Mapping relational and object relational databases NoSQL MongoDB,,uit
+993,Mobile Application for Health Diagnosis,,uit
+994,Natural language question-answering system about tourism location,,uit
+995,Pet shop management system,,uit
+996,Predict stock prices using ARCH and GARCH models,,uit
+997,Predicting Cryptocurrency Price using Time Series Model,,uit
+998,Predicting Protein-Ligand binding affinity using atomic-level descriptors and convolutional networks,,uit
+999,Predicting rainfall using multiple data sources,,uit
+1000,Query optimization in distributed database system,,uit
+1001,Question answering over knowledge graphs for Covid-19,,uit
+1002,Question answering system for regulations of University of Information Technology,,uit
+1003,Real estate forecast in area by recurrent neural network model based on long short-term memory,,uit
+1004,Real estate management and posting website,,uit
+1005,Real-time customer reviews analysis using machine learning on big data framework,,uit
+1006,Rent me – a web-based platform for the game player community,,uit
+1007,Research automatic speech recognition and building a tool for converting the audio format in English language to text,,uit
+1008,Research facial emotion recognition method applying to mood tracking diary,,uit
+1009,Research into facial emotion recognition and building an application for facial emotion recognition of customer.,,uit
+1010,Research on Technology used by PayPal and Implement an application,,uit
+1011,Research on Watermark and Implementing an application on NoSQL database,,uit
+1012,Restaurant management system,,uit
+1013,Semantic Path based Personalized Recommendation System (SecRec) in Weighted Heterogeneous Information Networks (WHIN),,uit
+1014,Sentiment analysis of user’s Vietnamese movie reviews using Support Vector Machine,,uit
+1015,Sentiment analysist for a web-based hotel management system,,uit
+1016,Similar Document Retrieval using graph model,,uit
+1017,Spam Detection on mobile phone,,uit
+1018,Student dormitory management system,,uit
+1019,Study on exam invigilator assignment algorithms,,uit
+1020,Testament Management Service,,uit
+1021,Towards AI-powered talent acquisition,,uit
+1022,Tracking in-situ human behavior by using smartphone,,uit
+1023,Traffic jams prediction using machine learning,,uit
+1024,Use machine learning to determine which factors are crucial in long-term love,,uit
+1025,Use of machine learning to create a credit scoring model,,uit
+1026,Using NLP sentiment analysis to detect emotion through by Online Reviews,,uit
+1027,Using face recognition for checking attendance on android enviroment,,uit
+1028,Visualization of Topic Influences in Citation Network,,uit
+1029,Web application for building assets and services management system,,uit
+1030,Wildland fire detection using machine learning and deep learning,,uit
+1031,Self-Adaptive Background Model for Exemplar-Free Continual Learning,2025,uet_chuan
+1032,Học máy giải thích được cho phát hiện xâm nhập mạng,2025,uet_chuan
+1033,Enhancing Multimodal Relation Extraction via a Mixture of Hierarchical Visual Context Learners with Back Translation,2025,uet_chuan
+1034,"Hệ thống hỗ trợ thu thập, phân tích, dự báo hành vi của khách du lịch",2025,uet_chuan
+1035,Enhancing Legal Document Retrieval with Hierarchy and Context Awareness,2025,uet_chuan
+1036,Xây dựng ứng dụng mạng xã hội việc làm ( Phía Frontend ),2025,uet_chuan
+1037,Ứng dụng mô hình ngôn ngữ lớn hoàn thiện đồ thị tri thức đa phương thức,2025,uet_chuan
+1038,Xây dựng chatbot sử dụng RAG kết hợp LLM,2025,uet_chuan
+1039,Xây dựng ứng dụng mạng xã hội việc làm ( Phía Backend ),2025,uet_chuan
+1040,Xây dựng ứng dụng Podcast tích hợp trợ lý ảo bằng giọng nói,2025,uet_chuan
+1041,Enhancing Multimodal Aspect-Based Sentiment Analysis via Syntactic-Semantic Graphs and Textual-Visual Alignment,2025,uet_chuan
+1042,Improving Multimodal Intent Recognition through Commonsense Knowledge Extraction,2025,uet_chuan
+1043,Automated Highlight Generation for Soccer Matches Using Machine Learning Techniques,2025,uet_chuan
+1044,Phát triển ứng dụng mobile hỗ trợ giải bài,2025,uet_chuan
+1045,Nghiên cứu phương pháp dự báo hành vi khách du lịch,2025,uet_chuan
+1046,Detecting misleading information with large language models and explainable answer set programming,2025,uet_chuan
+1047,Hệ thống quản lý kết nối các nhà phân phối phụ tùng ô tô và người mua,2025,uet_chuan
+1048,Leveraging Large Language Models to Improve Problem Solving in Answer Set Programming,2025,uet_chuan
+1049,Xây dựng ứng dụng đặt chỗ ngồi trong chuỗi nhà hàng trên nền tảng mobile,2025,uet_chuan
+1050,Enhancing Emotional Support Conversations with Controllable Generation Strategies and Dialogue Augmentation Using Large Language Models,2025,uet_chuan
+1051,Applying OCR and Spelling Correction in Vietnamese Contracts,2025,uet_chuan
+1052,Xây dựng ứng dụng giải toán dựa trên AI,2025,uet_chuan
+1053,Ứng dụng sinh bộ kiểm thử tự động dựa trên AI,2025,uet_chuan
+1054,Tìm hiểu ứng dụng Multimodal LLM trong trích xuất thông tin từ ảnh,2025,uet_chuan
+1055,Xây dụng ứng dụng điểm danh dựa trên nhận diện khuôn mặt,2025,uet_chuan
+1056,Xây dựng ứng dụng chỉnh sửa ảnh dựa trên kỹ thuật Inpainting,2025,uet_chuan
+1057,Graph-Based Sentence Representation with Fusion Techniques and Application in Vietnamese Multi-Document Summarization,2025,uet_chuan
+1058,Tìm hiểu về WSO2 Identity Server,2025,uet_chuan
+1059,Building a Knowledge Graph for the Vietnamese Legal Domain with Diverse Hierarchical Entities and Relationships,2025,uet_chuan
+1060,Xây dựng ứng dụng di động học ngoại ngữ dựa trên AI,2025,uet_chuan
+1061,Tìm hiểu hệ thống Data Warehouse mã nguồn mở Apache Doris,2025,uet_chuan
+1062,Named Entity Recognition,2025,uet_chuan
+1063,A Knowledge Distillation Approach to Cross-Client Learning in Federated Learning with Label-Exclusive Datasets,2025,uet_chuan
+1064,Nghiên cứu và xây dựng mô hình dự báo mưa ứng dụng học sâu và dữ liệu đa nguồn,2025,uet_chuan
+1065,Áp dụng mô hình học sâu cho bài toán số hóa và phân loại hình ảnh điện tâm đồ,2025,uet_chuan
+1066,Phân đoạn và phân loại nốt trong ảnh y tế 2D: Phát triển mô hình end-to-end tích hợp,2025,uet_chuan
+1067,Body-face Landmark Joint Detection,2025,uet_chuan
+1068,Effects of neutral losses in data-independent acquisition mass spectrometry-based proteomics,2025,uet_chuan
+1069,Enhancing Multimodal Recommendation Systems Using Mixture of Experts Approach,2025,uet_chuan
+1070,Apply Transformer Models in Machine Translation for Buddhist Scripture Interpretation,2025,uet_chuan
+1071,SwiftControl: Conditional one-step image generation for diffusion model.,2025,uet_chuan
+1072,Improving Bundle Recommendation with instructional Generation Model,2025,uet_chuan
+1073,Encoding of phosphorylated peptides for deep neural networks,2025,uet_chuan
+1074,Ứng dụng học sâu hỗ trợ phân tích hình ảnh xạ hình tuyến giáp,2025,uet_chuan
+1075,Phương pháp điền thiếu sử dụng mô hình học sâu kết hợp véc- tơ pháp tuyến áp dụng cho mộc bản 3D,2025,uet_chuan
+1076,Text processing techniques for Text-to-3D Animation in Vietnamese Sign Language Translation,2025,uet_chuan
+1077,3D Reconstruction and Language-based Semantic Segmentation,2025,uet_chuan
+1078,Mô hình học sâu hỗ trợ chuẩn đoán nhồi máu cơ tim dựa trên điện tâm đồ.,2025,uet_chuan
+1079,SportSORT: Overcoming Challenges of Multi-Object Tracking in Sports through Domain-Specific Features and Out of view Re-Association,2025,uet_chuan
+1080,Triển khai hệ thống nhận dạng tiêu chuẩn ngoại hình tiếp viên hàng không,2025,uet_chuan
+1081,Công nghệ và giải pháp theo dõi chuyển động mắt hỗ trợ trẻ em rối loạn đọc,2025,uet_chuan
+1082,Ứng dụng thực tế ảo tăng cường trong trải nghiệm làm khảm trai truyền thống Việt Nam,2025,uet_chuan
+1083,"Ứng dụng phân tích và đánh giá tính cách, tâm lý của người dùng qua bài test - Phần backend dịch vụ tương tác với người dùng và trang quản trị viên.",2025,uet_chuan
+1084,Ứng dụng học sâu cải thiện phân vùng cơ thể người cho bài toán thử đồ ảo,2025,uet_chuan
+1085,Xây Dựng Nền Tảng Hỗ Trợ Kết Nối Và Phát Triển Cộng Đồng Sinh Viên Trong Trường Đại Học,2025,uet_chuan
+1086,Ứng dụng học sâu trong nhận biết nói dối qua biểu hiện khuôn mặt và chuyển động cơ thể,2025,uet_chuan
+1087,Xây dựng hệ thống quản lý chấm công tự động dựa trên nhận dạng khuôn mặt tích hợp các mô hình học máy và cơ sở dữ liệu vector,2025,uet_chuan
+1088,Ứng dụng thực tế ảo tăng cường trong trải nghiệm làm mặt nạ giấy bồi truyền thống Việt Nam,2025,uet_chuan
+1089,ỨNG DỤNG MÔ HÌNH NGÔN NGỮ TRONG DỰ BÁO GIÁ CỔ PHIẾU,2025,uet_chuan
+1090,Phát triển nền tảng đào tạo mô hình học sâu tích hợp Active Learning cho bài toán nhận diện chữ Hán Nôm,2025,uet_chuan
+1091,Áp dụng phương pháp đánh chỉ mục lưới cho ứng dụng du lịch trong thành phố,2025,uet_chuan
+1092,Xây dựng hệ thống tuyển dụng sử dụng chatbot,2025,uet_chuan
+1093,Phát triển mô-đun trên hệ thống hoclieu.vn giúp giáo viên tạo đề thi,2025,uet_chuan
+1094,Hệ thống hỗ trợ tìm và đỗ xe tự động,2025,uet_chuan
+1095,"Phân tích, thiết kế và xây dựng hệ thống kinh doanh và khai thác dịch vụ sân thể thao",2025,uet_chuan
+1096,Phát triển game Thế giới bí ẩn,2025,uet_chuan
+1097,"Phân tích, thiết kế và xây dựng hệ thống hỗ trợ luyện thi",2025,uet_chuan
+1098,Giải pháp tối ưu tìm kiếm liên nền tảng thương mại điện tử,2025,uet_chuan
+1099,Phát triển ứng dụng di động chấm điểm bài tập thể dục sử dụng mô hình học máy,2025,uet_chuan
+1100,Kiểm chứng xung đột lợi ích trong phân quyền truy cập phần mềm,2025,uet_chuan
+1101,"GIẢI PHÁP THU THẬP, XỬ LÝ VÀ PHÂN TÍCH DỮ LIỆU HÀNH VI CHO HỆ THỐNG MICROSERVICE",2025,uet_chuan
+1102,Tự động nhận diện và xác định vị trí phần tử cho kiểm thử tự động giao diện các ứng dụng Web,2025,uet_chuan
+1103,Phát triển mô đun sinh tự động biểu đồ UML từ đặc tả chức năng FRSL,2025,uet_chuan
+1104,Giải pháp bảo mật phân tích tĩnh đối với RBAC và các ràng buộc ủy quyền trong ứng dụng web,2025,uet_chuan
+1105,Hệ thống truy xuất nguồn gốc thịt lợn áp dụng công nghệ blockchain,2025,uet_chuan
+1106,OptiLog Framework và Ứng dụng,2025,uet_chuan
+1107,Phương pháp cải thiện chất lượng nhận diện khuôn mặt bằng cách kết hợp nhiều mô hình,2025,uet_chuan
+1108,Trò chơi ô chữ bản tiếng Việt cho ứng dụng di động,2025,uet_chuan
+1109,Ứng dụng trí tuệ nhân tạo trong phát hiện xâm nhập và malware trên nền tảng Android,2025,uet_chuan
+1110,Giải pháp tự động hóa viết nhật ký thay đổi bằng xử lý ngôn ngữ tự nhiên,2025,uet_chuan
+1111,Xây dựng mô-đun tạo bằng chứng ZK cho Layer 2 trên chuỗi khối Aptos dựa trên Starknet,2025,uet_chuan
+1112,Phát triển ứng dụng web để quản lý sân Golf,2025,uet_chuan
+1113,Xây dựng ứng dụng website mạng xã hội,2025,uet_chuan
+1114,Xây dựng công cụ kiểm thử API tự động,2025,uet_chuan
+1115,Ứng dụng WebAssembly xây dựng web Tìm đồ thất lạc,2025,uet_chuan
+1116,Xây dựng trang web xem phim trực tuyến hỗ trợ gợi ý phim sử dụng chatbot,2025,uet_chuan
+1117,Thiết kế nội thất tích hợp công nghệ AR,2025,uet_chuan
+1118,Xây dựng hệ thống bán sách tự động phát hiện bình luận độc hại,2025,uet_chuan
+1119,Ứng dụng di động kể chuyện thông minh tích hợp giọng đọc AI cá nhân hóa,2025,uet_chuan
+1120,Phương pháp giải bài toán Knapsack Packing bằng SAT,2025,uet_chuan
+1121,Phương pháp mô hình hóa và kiểm chứng các vấn đề an ninh phần mềm,2025,uet_chuan
+1122,Tìm hiểu các phương pháp phát hiện lỗi phần mềm dựa trên học máy và xây dựng công cụ tích hợp vào quy trình CI/CD,2025,uet_chuan
+1123,THIẾT KẾ HỆ THỐNG NHÚNG NHẬN DIỆN BIỂN BÁO GIAO THÔNG BẰNG HỌC SÂU ỨNG DỤNG CHO XE TỰ HÀNH,2025,uet_chuan
+1124,Thiết kế và xây dựng website luyện đề dành cho học sinh tích hợp hệ thống gợi ý,2025,uet_chuan
+1125,Phương pháp sinh mã kiểm thử tự động cho giao diện ứng dụng Web sử dụng học máy,2025,uet_chuan
+1126,Xây dựng hệ thống tư vấn đặt lịch khám bệnh,2025,uet_chuan
+1127,Ứng dụng học máy trong tự động phân loại và gán nhãn cho câu hỏi,2025,uet_chuan
+1128,Xây dựng hệ thống hỗ trợ quản lý học tập dựa trên chatbot.,2025,uet_chuan
+1129,Xây dựng ứng dụng quản lý thư viện ảnh tích hợp AI tạo video,2025,uet_chuan
+1130,Phát triển hệ thống chăm sóc sức khoẻ tinh thần thời gian thực và kết nối dịch vụ trị liệu,2025,uet_chuan
+1131,Xây dựng hệ thống xác định địa chỉ các địa điểm trên bản đồ số,2025,uet_chuan
+1132,Giải pháp hỗ trợ tra cứu và gỡ lỗi bằng học máy,2025,uet_chuan
+1133,Ứng dụng trợ lý ảo hỗ trợ học tập,2025,uet_chuan
+1134,Xây dựng ứng dụng di động thẻ vé giao thông cho hệ thống thẻ vé điện tử liên thông,2025,uet_chuan
+1135,Website hỗ trợ ôn luyện bài thi Đánh giá năng lực,2025,uet_chuan
+1136,Game Blockchain,2025,uet_chuan
+1137,Xây dựng ứng dụng thương mại điện tử tích hợp AI,2025,uet_chuan
+1138,Xây dựng ứng dụng web quản lý sàn giao dịch thương mại điện tử,2025,uet_chuan
+1139,"Hệ thống kết nối cộng đồng du lịch, tích hợp AI tổng hợp lịch trình từ hội thoại",2025,uet_chuan
+1140,Xây dựng hệ thống bán vé hòa nhạc trên web tích hợp tính năng bảo mật mã QR và trao đổi vé,2025,uet_chuan
+1141,Phát triển ứng dụng học tập tiếng Anh qua chatbot,2025,uet_chuan
+1142,Xây dựng mô-đun Liên kết tiếp thị hỗ trợ các sàn thương mại điện tử,2025,uet_chuan
+1143,Khám phá tính khả thi của thuật toán MuZero trong điều khiển xe tự hành,2025,uet_chuan
+1144,Xây dựng website tra cứu và chia sẻ công thức nấu ăn,2025,uet_chuan
+1145,Nghiên cứu mã hoá đầu cuối trong ứng dụng nhắn tin,2025,uet_chuan
+1146,Xây dựng mạng xã hội về truyện tranh,2025,uet_chuan
+1147,Tối ưu và đảm bảo hệ thống Cơ sở dữ liệu của OpenStack hoạt động ổn định,2025,uet_chuan
+1148,Phát triển Front-end trên nền tảng web cho hệ thống hỗ trợ lập trình IoT tích hợp quản lý giáo dục và diễn đàn trao đổi dự án,2025,uet_chuan
+1149,"Hệ thống lập trình kéo thả IoT trực quan dành cho học sinh, sinh viên",2025,uet_chuan
+1150,Sử dụng các độ đo mức độ tương đồng phù hợp để tổng hợp các cảnh báo an ninh với các định dạng khác nhau,2025,uet_chuan
+1151,Khai thác và tối ưu hóa dịch vụ Generative AI cho bài toán xử lý dữ liệu bán cấu trúc,2025,uet_chuan
+1152,Phân tích các luồng gói tin để phát hiện botnet ngang hàng,2025,uet_chuan
+1153,Phân loại quan hệ giữa các thực thể trong các nguồn tài liệu văn bản về thông tin hiểm họa an ninh,2025,uet_chuan
+1154,Xây dựng quy trình pipeline DevSecOps cho dự án,2025,uet_chuan
+1155,Ứng dụng nhận diện hình ảnh và văn bản trong kiểm thử phần mềm tự động,2025,uet_chuan
+1156,Deep Learning Enabled Semantic Communication Systems,2025,uet_chuan
+1157,Sử dụng các phương pháp mật mã và công nghệ chuỗi khối tiên tiến để quản lý một cách hiệu quả các chứng cứ trong pháp lý số,2025,uet_chuan
+1158,Triển khai xApp sử dụng OpenRAN Gym,2025,uet_chuan
+1159,Phát triển XApps cho hạ tầng O-RAN trong mạng di động 6G,2025,uet_chuan
+1160,Phát triển chức năng nhận diện người dùng trên hệ thống Jitsi,2025,uet_chuan
+1161,Ứng dụng Deep Reinforcement Learning trong phát hiện xâm nhập mạng,2025,uet_chuan
+1162,Các thuật toán xây dựng đồ thị tái tổ hợp di truyền trên dữ liệu dịch bệnh,2025,uet_chuan
+1163,Phát triển ứng dụng di động đa nền tảng tích hợp với hệ thống giám sát cây trồng trong nhà màng,2025,uet_chuan
+1164,Ứng dụng mô hình ngôn ngữ lớn trong xây dựng nhân vật trò chơi,2025,uet_chuan
+1165,Lập lịch theo mô hình tín chỉ ở trường phổ thông theo Chương trình GDPT 2018,2025,uet_chuan
+1166,Analysis of CircRNAs in Acute Myeloid Leukemia,2025,uet_chuan
+1167,Xây dựng ứng dụng học tiếng Nhật có tích hợp trí tuệ nhân tạo trên nền tảng iOS,2025,uet_chuan
+1168,Xây dựng website phát trực tuyến video theo yêu cầu,2025,uet_chuan
+1169,LANTERN: Large Language Models And Transformer For Biomedical Molecular Interaction Prediction,2025,uet_chuan
+1170,Bài toán dự báo sản lượng cho cây trồng,2025,uet_chuan
+1171,Xây dựng chatbot thông minh hỗ trợ sử dụng phần mềm IQ-TREE,2025,uet_chuan
+1172,Lắp ráp và phân tích hệ gen từ dữ liệu đoạn ngắn,2025,uet_chuan
+1173,Phát triển ứng dụng web tra cứu thông tin di truyền của cây lương thực,2025,uet_chuan
+1174,Xây dựng hệ thống chữ số bằng Sơ đồ chữ ký ECGDSA,2025,uet_chuan
+1175,Ứng Dụng Trợ Lý Ảo Giao Tiếp Bằng Giọng Nói Dựa Trên ChatGPT,2025,uet_clc
+1176,Tích hợp Safe Exam Browser vào hệ thống lập trình trực tuyến CodeOnline,2025,uet_clc
+1177,Nghiên cứu nền tảng lưu trữ dữ liệu Delta Lake,2025,uet_clc
+1178,Xây dựng pipeline ETL sử dụng Mage Ai,2025,uet_clc
+1179,A decentralized financial application for peer-to-peer lending and borrowing using blockchain technology,2025,uet_clc
+1180,An email system integrated with Blockchain and Zero-knowledge Proof technology to send Web3 assets,2025,uet_clc
+1181,Building a tool for detecting MEV on Ethereum,2025,uet_clc
+1182,Develop a trading system for a stock company,2025,uet_clc
+1183,Develop a web application for Travel Booking and Tour Management,2025,uet_clc
+1184,Phát triển ứng dụng truy xuất CSDL dựa trên AI,2025,uet_clc
+1185,Develop a Business Intelligence System for Healthcare,2025,uet_clc
+1186,Building a decentralized data storage system in the logistics sector,2025,uet_clc
+1187,DeCoRA: Definition and Context Reasoning in Argumentation,2025,uet_clc
+1188,Enhancing Early Depression Risk Prediction with Deep Learning Models,2025,uet_clc
+1189,Enhanced Techniques in Legal Document Processing,2025,uet_clc
+1190,Deep Learning-Based Multimodal Approaches for Drug-Drug Interaction Prediction,2025,uet_clc
+1191,"Phát triển Hệ thống tổng hợp và tóm tắt tin tức, cá nhân hóa cho người dùng, sử dụng mô hình Ngôn ngữ lớn",2025,uet_clc
+1192,Data Augmentation Strategies for Improving Generative Models and Application in Vietnamese Comparative Opinion Mining,2025,uet_clc
+1193,Aspect-based Contrastive Summarization for Explainable Comparative Opinion Mining and Application in Hotel Reviews,2025,uet_clc
+1194,Enhancing Persona-Consistent and Coherent Dialogues with Persona-Aware Commonsense Knowledge Graphs,2025,uet_clc
+1195,Enhancing Fine-Tuning Efficiency in Natural Language Understanding with Swift Cross-Dataset Pruning,2025,uet_clc
+1196,Event-Based Trend Detection and Analysis in Vietnamese News,2025,uet_clc
+1197,A Holistic Approach to Legal Warning Detection in Vietnamese Contracts: From Rule-Based to Deep Learning Models,2025,uet_clc
+1198,Enhancing uMentor by Using Knowledge Graph and RAG,2025,uet_clc
+1199,Enhancing the UET Security Risk Assessment System,2025,uet_clc
+1200,Phát hiện trôi khái niệm và ứng dụng,2025,uet_clc
+1201,Xây dựng Chatbot AI hỗ trợ thi đánh giá năng lực ĐHQGHN,2025,uet_clc
+1202,Phục dựng Avatar 3D từ ảnh 2D,2025,uet_clc
+1203,Xây dựng Triển lãm trực tuyến bằng công nghệ VR: Thử nghiệm ở tỉnh Hà Tĩnh,2025,uet_clc
+1204,Building a Scalable Multi-Tenant Chatbot Management Platform,2025,uet_clc
+1205,Building an Insight Component for a University Data Platform,2025,uet_clc
+1206,Building a Knowledge Graph-based Data Platform for Intelligent Analytics,2025,uet_clc
+1207,ƯỚC LƯỢNG DÂN SỐ BAN NGÀY VÀ THU NHẬP BẰNG PHÂN TÍCH KHÔNG GIAN: NGHIÊN CỨU ĐIỂN HÌNH TẠI HÀ NỘI,2025,uet_clc
+1208,Phát triển module chấm điểm tự động cho hệ thống CodeOnline,2025,uet_clc
+1209,Phát triển ứng dụng trên nền tảng Low-code NocoBase,2025,uet_clc
+1210,Enhancing Adversarial Effectiveness Against AI-Powered Intrusion Detection Systems,2025,uet_clc
+1211,"Hệ thống hỗ trợ thu thập, phân tích dữ liệu, dự báo chất lượng không khí theo thời gian thực",2025,uet_clc
+1212,"Xây dựng kho dữ liệu về giao thông đô thị và phân tích, tối ưu hóa tuyến đường",2025,uet_clc
+1213,Leveraging BERT-Based Models and Large Language Models for Legal Question Answering,2025,uet_clc
+1214,Integrating Cause-Awareness for Improving Emotional Support in Conversational AI,2025,uet_clc
+1215,GAN+CFM-powered Data Augmentation and GBT Ensemble Learning for Improving Diabetes Mellitus Prediction,2025,uet_clc
+1216,Ứng dụng kiến trúc Multitenant và Event-Driven trong Hệ thống đặt vé trực tuyến,2025,uet_clc
+1217,A Dual-Module Denoising Approach with Curriculum Learning for Enhancing Multimodal Aspect-Based Sentiment Analysis,2025,uet_clc
+1218,Develop a Learning Management System,2025,uet_clc
+1219,Xây dựng hệ thống quản lý và triển khai các mô hình học máy,2025,uet_clc
+1220,Phát triển trò chơi 3D Rolling Ball trên nền tảng Unity,2025,uet_clc
+1221,Xây dựng ứng dụng web quản lý các nhà hàng ăn,2025,uet_clc
+1222,Improve Enterprise Workforce Rentention with Data Mining,2025,uet_clc
+1223,Tích hợp OCR trong quản lý giao dịch tài chính của doanh nghiệp,2025,uet_clc
+1224,Xây dựng hệ thống ERP quản lý quy trình tuyển dụng nhân sự mới cho doanh nghiệp,2025,uet_clc
+1225,Xây dựng Website Quản lý lớp học ngoại khoá,2025,uet_clc
+1226,Develop an E-commerce web application,2025,uet_clc
+1227,Hệ thống điểm danh bằng nhận diện khuôn mặt cho phòng nhân sự,2025,uet_clc
+1228,Xây dựng phần mềm nhận diện và phiên dịch văn bản tiếng Nhật qua ảnh chụp màn hình,2025,uet_clc
+1229,Xây dựng hệ thống quản lí kho hàng,2025,uet_clc
+1230,Hệ thống quản lý nhân sự với điểm danh bằng nhận diện khuôn mặt.,2025,uet_clc
+1231,PlanMaster a Project management system,2025,uet_clc
+1232,Xây dựng Website hỗ trợ học ngoại ngữ sử dụng AI,2025,uet_clc
+1233,Application of Deep Learning-Based Polyp Segmentation in Colonoscopy Images for Early Detection of Colorectal Cancer,2025,uet_clc
+1234,A Dynamic System to Automate Human-AI Interview Processes,2025,uet_clc
+1235,Patent Analysis and Investigation Tool,2025,uet_clc
+1236,EduTech Chatbot for Personalized Learning,2025,uet_clc
+1237,KidGames: Trò chơi giáo dục dành cho học sinh lớp 1,2025,uet_clc
+1238,"Nghiên cứu và phát triển ứng dụng di động dự báo, cảnh báo ô nhiễm không khí",2025,uet_clc
+1239,Xây dựng hệ thống quản lý lịch giảng dạy sử dụng DotNet và Tailwind CSS,2025,uet_clc
+1240,Automated Paper-based Multiple Choice Scoring System,2025,uet_clc
+1241,2D Nut and Bolt: Trò chơi sắp xếp ốc và bu lông dựa trên Construct 3,2025,uet_clc
+1242,Inventory Check-out Management System with AI Camera,2025,uet_clc
+1243,A Small Language Model for Vietnamese: Beyond Chat – A Versatile AI Assistant,2025,uet_clc
+1244,XÂY DỰNG HỆ THỐNG ERP QUẢN LÝ ĐÀO TẠO NHÂN VIÊN MỚI CHO DOANH NGHIỆP,2025,uet_clc
+1245,Intervertebral discs deformity diagnosis,2025,uet_clc
+1246,Referring Multi-Object Tracking,2025,uet_clc
+1247,Graph-based referring multi-object tracking,2025,uet_clc
+1248,Online Multi-Target Multi-Camera Pedestrian Tracking,2025,uet_clc
+1249,MyMessage - A message application for enhancing the user experience,2025,uet_clc
+1250,Ứng dụng di động đánh giá tính cách,2025,uet_clc
+1251,3DCarConnect: Nền tảng thương mại điện tử ô tô tích hợp đồ hoạ ba chiều.,2025,uet_clc
+1252,Hệ thống chỉnh sửa hình ảnh trực tuyến tích hợp công nghệ AI,2025,uet_clc
+1253,Automating Question Generation from Textbook Content for Self-Study,2025,uet_clc
+1254,Continual training on multiple domains with Vietnamese LLMs,2025,uet_clc
+1255,Ứng dụng điểm danh lớp học sử dụng công nghệ nhận diện khuôn mặt Facenet,2025,uet_clc
+1256,Các phương pháp tạo lời nhắc (prompt engineering) hiệu quả để xây dựng bộ dữ liệu hỏi đáp lĩnh vực đào tạo,2025,uet_clc
+1257,Research on using machine learning to support foreigners learning Vietnamese,2025,uet_clc
+1258,A Study on Large Language Models for Text Understanding,2025,uet_clc
+1259,Nghiên cứu phương pháp phát hiện tấn công mạng sử dụng học sâu,2025,uet_clc
+1260,Layer-based pruning for Vietnamese Large Language models,2025,uet_clc
+1261,Website bán tranh tích hợp AI,2025,uet_clc
+1262,Tích hợp trí tuệ nhân tạo vào ứng dụng tìm kiếm và quản lý thuê nhà cho sinh viên,2025,uet_clc
+1263,Deep Learning-Based Approaches for 3D Medical Image Segmentation,2025,uet_clc
+1264,Applying transformer architecture to the problem of predicting peptide collisional cross-section values,2025,uet_clc
+1265,Xây dựng Chatbot AI về doanh nghiệp và sản phẩm: Thử nghiệm ở tỉnh Hà Tĩnh.,2025,uet_clc
+1266,Early prediction of learners at risk using deep learning approach,2025,uet_clc
+1267,Phương pháp tái tạo giọng nói tiếng Việt,2025,uet_clc
+1268,A Robust Approach to Micro-Expression Recognition Through Motion Magnification,2025,uet_clc
+1269,Ứng dụng quảng bá và mô phỏng nghệ thuật sơn mài truyền thống Việt Nam,2025,uet_clc
+1270,Developing an AI-Powered Video Transcription and Summarization System,2025,uet_clc
+1271,Virtual ChemLab: Giả lập phòng thí nghiệm hóa học ảo,2025,uet_clc
+1272,Research and Proposal of an Effective Micro-Expression Recognition Method Based on Optical Flow,2025,uet_clc
+1273,Uniform and Appearance Standards Monitoring Using Deep Learning Algorithms,2025,uet_clc
+1274,Ứng dụng học liên tục vào ước lượng nồng độ ô nhiễm không khí PM2.5,2025,uet_clc
+1275,Developing an Immersive Virtual Reality Application for Autism Education: Supporting Skills and Knowledge Acquisition,2025,uet_clc
+1276,"Visual SLAM, 3D Reconstruction of Dynamic Scene",2025,uet_clc
+1277,Designing and Implementing an Immersive Virtual Reality System for Children with Autism Spectrum Disorders,2025,uet_clc
+1278,Leveraging VR for Cultural Preservation and Promotion: The Case of Bat Trang Pottery Village,2025,uet_clc
+1279,Developing a VR-BCI system to aid rehabilitation in stroke patients,2025,uet_clc
+1280,Vietnamese BCI-vSpeller: An innovative spelling system using brain-computer interface,2025,uet_clc
+1281,Research and Proposal of an Effective Method for Automatic Recognition of Posed and Spontaneous Facial Expressions of Emotion.,2025,uet_clc
+1282,Nghiên cứu và phát triển hệ thống giám sát mưa ứng dụng trí tuệ nhân tạo,2025,uet_clc
+1283,ỨNG DỤNG HỌC MÁY VÀ LÝ THUYẾT DANH MỤC ĐẦU TƯ HIỆN ĐẠI TRONG TỐI ƯU HOÁ DANH MỤC ĐẦU TƯ,2025,uet_clc
+1284,Nghiên cứu và phát triển bản đồ lớp phủ sử dụng dữ liệu viễn thám đa nguồn,2025,uet_clc
+1285,Weakly-supervised Anomaly Detection in Video with Noisy-label,2025,uet_clc
+1286,Runtime Prediction for DNN Operations on GPU Libraries,2025,uet_clc
+1287,Real-Life Emotion Recognition Using EDA Signals and Machine Learning,2025,uet_clc
+1288,Nghiên cứu và phát triển hệ thống giám sát ô nhiễm không khí,2025,uet_clc
+1289,ỨNG DỤNG MÔ HÌNH HỌC MÁY DỰ ĐOÁN THỊ TRƯỜNG CỔ PHIẾU DỰA TRÊN DỮ LIỆU LỊCH SỬ,2025,uet_clc
+1290,NHẬN DIỆN MẪU NẾN VÀ DỰ BÁO XU HƯỚNG THỊ TRƯỜNG CHỨNG KHOÁN,2025,uet_clc
+1291,Semi-supervised Action Classification from Complex Indoor-Scene Surveillance Camera,2025,uet_clc
+1292,An Efficient Agentic Workflow for Text-to-SQL,2025,uet_clc
+1293,Research and Development of Rainfall Maps for Southeast Asia Using Deep Learning,2025,uet_clc
+1294,AI-Enhanced Interactive Game Storytelling,2025,uet_clc
+1295,Context Attribution Scoring Model in Querying Long Documents,2025,uet_clc
+1296,OOD Intent detection with Large Language Models,2025,uet_clc
+1297,Fine-Tuning LLMs for Educational Question-Answering,2025,uet_clc
+1298,Nghiên cứu RAG cho bài toán hỏi đáp trong đào tạo,2025,uet_clc
+1299,A robust method to leverage Well-Lit Images for Guiding Human Pose Estimation in Low-Light Conditions,2025,uet_clc
+1300,Enhancing Multimodal Bundle Construction by Intergration of Category-wise Information and Item-level User Feedbac,2025,uet_clc
+1301,Nghiên cứu và xây dựng bản đồ nhận dạng cây trồng sử dụng dữ liệu viễn thám đa nguồn,2025,uet_clc
+1302,Tiền xử lý dữ liệu tự động sử dụng AI Agent,2025,uet_clc
+1303,A Multimodal Method for Identifying Foul Situations in Football Matches,2025,uet_clc
+1304,Xác định lỗi trong một trận bóng đá theo thời gian thực,2025,uet_clc
+1305,Mitigating Popularity Bias in Recommendation System,2025,uet_clc
+1306,Adversarial attacks on LLM-based code vulnerability classification,2025,uet_clc
+1307,A Two-Stage Method for Vietnamese Spoken Language Understanding,2025,uet_clc
+1308,Enhance Exploration in Safe Reinforcement Learning with Contrastive Representation Learning,2025,uet_clc
+1309,Exploiting well-lit data to guide models in low-light environments,2025,uet_clc
+1310,Nghiên cứu về triển khai mô hình ngôn ngữ lớn,2025,uet_clc
+1311,Balanced Multimodal Learning via Expert-guided Gradient Modulation,2025,uet_clc
+1312,Nghiên cứu các phương pháp dự đoán tỷ giá hối đoái giữa một số cặp ngoại tệ,2025,uet_clc
+1313,"Analyze, design and develop a Pickleball management and booking website",2025,uet_clc
+1314,Xây dựng Hệ thống Quản lý Thư viện ứng dụng Mô hình ngôn ngữ lớn,2025,uet_clc
+1315,"Phân tích, thiết kế và phát triển trang web học Tiếng Anh tích hợp AI",2025,uet_clc
+1316,Xây dựng công cụ hỗ trợ nâng cao chất lượng mã nguồn,2025,uet_clc
+1317,Sử dụng học tăng cường trong việc sinh kịch bản kiểm thử nguy hiểm cho hệ thống xe tự hành,2025,uet_clc
+1318,A platform for enhancing the API management and collaboration,2025,uet_clc
+1319,Phát triển phần mềm chatbot dựa vào mô hình ngôn ngữ lớn để truy xuất thông tin từ cơ sở dữ liệu quan hệ cho nghiệp vụ đào tạo đại học,2025,uet_clc
+1320,Phương pháp giải kiểu dữ liệu sử dụng cây cú pháp trừu tượng cho sinh dữ liệu kiểm thử tự động các dự án C/C++,2025,uet_clc
+1321,illumina: A tool for visual exploration of source code,2025,uet_clc
+1322,Xây dựng hệ thống giới thiệu và bán sản phẩm chè trực tuyến,2025,uet_clc
+1323,"Phát triển hệ thống giao dịch tiền điện tử dựa trên trí tuệ nhân tạo đa tác nhân: Tích hợp phân tích kỹ thuật, cơ bản và tâm lý.",2025,uet_clc
+1324,Ứng dụng AI cho công nghệ quản lý nhà hàng,2025,uet_clc
+1325,Constructing an Analytical Tool for Account Monitoring in the EVM Blockchain Environment,2025,uet_clc
+1326,Resource-Constrained Project Scheduling Problems by SMT solving,2025,uet_clc
+1327,Phần mềm ứng dụng giải trí dựa trên cảm xúc: Nâng cao trải nghiệm và an toàn cho người lái xe,2025,uet_clc
+1328,A Tool for Analyzing Shop and Product Reputation on E-commerce Platforms,2025,uet_clc
+1329,"Phân tích, thiết kế và xây dựng Hệ thống phân phối và quản lý vé sự kiện với kiến trúc vi dịch vụ",2025,uet_clc
+1330,SAT encoding for the Hamiltonian Cycle Problem,2025,uet_clc
+1331,Tận dụng thông tin nội sinh để đánh giá tính đúng đắn của mã nguồn sinh ra bởi mô hình ngôn ngữ lớn,2025,uet_clc
+1332,Employee scheduling for Car rental company by SAT solving,2025,uet_clc
+1333,Xây dựng ứng dụng Web tư vấn học tập với sự hỗ trợ từ AI,2025,uet_clc
+1334,Xây dựng công cụ phát hiện kháng sinh trong thực phẩm và tối ưu thông số cho việc phát triển cảm biến điện hoá,2025,uet_clc
+1335,A Secure-by-Design Approach to CI/CD: Integrating Automated DevSecOps with GitLab and Open-Source Tools,2025,uet_clc
+1336,Application of Agentic AI for Recommending Safe Cosmetics to Pregnant Women,2025,uet_clc
+1337,Tạo kịch bản kiểm thử cho hệ thống xe tự hành sử dụng thuật toán di truyền đa mục tiêu,2025,uet_clc
+1338,Xây dựng công cụ kiểm thử đơn vị tự động thỏa mãn độ phủ vòng lặp và tệp cho dự án sử dụng ngôn ngữ Java,2025,uet_clc
+1339,CGRA Mapping,2025,uet_clc
+1340,Phương pháp kiểm thử hồi quy đơn vị tự động hiệu quả cho dự án sử dụng ngôn ngữ Java,2025,uet_clc
+1341,A Web Application for Personalized Travel Planning and Booking,2025,uet_clc
+1342,Xây dựng hệ thống thống kê xuất bản khoa học,2025,uet_clc
+1343,AI-Driven Content Sharing Platform: Real-Time Summarization for Social Video and Voice,2025,uet_clc
+1344,Method for Improving the Coverage of Generated User Interface Test Suites for Web Applications,2025,uet_clc
+1345,Xây dựng ứng dụng Web hỗ trợ quản lý lịch làm việc,2025,uet_clc
+1346,Hệ thống hỗ trợ kiểm thử khả năng chịu tải API,2025,uet_clc
+1347,Xây dựng ứng dụng web quản lý và đặt phòng khách sạn,2025,uet_clc
+1348,Cải tiến hiệu suất kiểm thử Concolic bằng tối ưu hoá quá trình thực thi dựa trên CMake,2025,uet_clc
+1349,Xây dựng hệ thống giám sát thay đổi thông tin trên trang web,2025,uet_clc
+1350,A Support Tool to Specify and Verify Temporal Properties in OCL,2025,uet_clc
+1351,Development of a Microservices-Based Shipping Management System Integrated with E-Commerce Platforms,2025,uet_clc
+1352,Tìm hiểu Strapi và ứng dụng để xây dựng hệ thống quản lý nhà hàng.,2025,uet_clc
+1353,SAT encodings for Resource-Constrained Project Scheduling Problems,2025,uet_clc
+1354,Cosmetic Recognition and Safety Analysis System for Pregnant Women,2025,uet_clc
+1355,Xây dựng công cụ kiểm thử đột biến tự động cho kiểm thử đơn vị dự án sử dụng ngôn ngữ Java,2025,uet_clc
+1356,Phương pháp gợi ý mã nguồn dựa trên LLM,2025,uet_clc
+1357,Phương pháp sinh dữ liệu kiểm thử giao diện tự động cho các dự án C++ sử dụng Qt Framework,2025,uet_clc
+1358,Phát triển hệ thống tạo lập và quản lý giao dịch đồng tiền điện tử phi tập trung trên nền tảng đa chuỗi khối,2025,uet_clc
+1359,A System for Knowledge Enhancement Using RAG Technique,2025,uet_clc
+1360,Hệ thống gợi ý lộ trình và kỹ năng phát triển dựa trên nghề nghiệp mong muốn,2025,uet_clc
+1361,Công cụ sinh câu hỏi dạng TFNG cho bài đọc IELTS,2025,uet_clc
+1362,Phát triển tính năng trực quan hoá độ phủ của các ca kiểm thử sử dụng đồ thị dòng điều khiển nhằm tăng hiệu quả của quá trình kiểm thử tự động cho các dự án C/C++,2025,uet_clc
+1363,Đánh giá các mẫu giao tiếp trong kiến trúc vi dịch vụ,2025,uet_clc
+1364,Developing a recommendation system based on customers' shopping habits,2025,uet_clc
+1365,Xây dựng công cụ sử dụng SMT Solver để kiểm chứng các mô hình được biểu diễn bằng Matlab/Simulink,2025,uet_clc
+1366,Nearby Exploration - Hệ thống đề xuất và lập lịch trải nghiệm dịch vụ địa phương cho khách du lịch,2025,uet_clc
+1367,Xây dựng hệ thống quản lí kinh doanh bất động sản cho doanh nghiệp quy mô nhỏ,2025,uet_clc
+1368,Nghiên cứu mẫu di động cho dịch vụ đi chung dựa theo ngữ cảnh,2025,uet_clc
+1369,Xây dựng ứng dụng di động gợi ý địa điểm ăn uống - vui chơi,2025,uet_clc
+1370,Phương pháp kiểm thử tự động cho các dự án C++ sử dụng kiểu dữ liệu con trỏ thông minh,2025,uet_clc
+1371,AI-powered Slide and Lecture generation platform,2025,uet_clc
+1372,Phương pháp tự động hoàn thiện mã nguồn cấp độ dự án dựa trên Tạo sinh tăng cường truy xuất,2025,uet_clc
+1373,Simple Assembly Line Balancing with Power Peak Minimization,2025,uet_clc
+1374,Encoding for the Anti-bandwidth Problem,2025,uet_clc
+1375,Solving The Nurse Rostering Problem by SAT,2025,uet_clc
+1376,A System for Monitoring and Preventing Plagiarism in University Student Submissions,2025,uet_clc
+1377,CNF encoding in solving Strip Packing Problem with rotation,2025,uet_clc
+1378,Xây dựng ứng dụng giao hàng áp dụng thuật toán được tối ưu hoá,2025,uet_clc
+1379,An AI-Based System for Educating Children through Animal Engagement,2025,uet_clc
+1380,UALBP - U line Assembly Line Balancing Problem,2025,uet_clc
+1381,Logic Locking: attacking and defending with SAT attack and SARLock,2025,uet_clc
+1382,Spendy: Ứng dụng đơn giản hóa quản lý chi tiêu,2025,uet_clc
+1383,Phương pháp encoding mới cho tập hợp ràng buộc AMONG có dạng bậc thang và Ứng dụng trong bài toán Lập lịch,2025,uet_clc
+1384,Solving Car sequencing problem,2025,uet_clc
+1385,Multi-Agent Path Finding with Objective Functions by SAT-based Approach,2025,uet_clc
+1386,Ứng dụng mô hình ngôn ngữ lớn vào dịch tiểu thuyết,2025,uet_clc
+1387,Xây dựng công cụ tạo Stub tự động cho các hàm thư viện trong quá trình sinh dữ liệu kiểm thử đơn vị cho dự án sử dụng ngôn ngữ Java,2025,uet_clc
+1388,Xây dựng hệ thống hỗ trợ lập thời khóa biểu cho Trường Đại học Công Nghệ,2025,uet_clc
+1389,Phát triển ứng dụng quản lý quy trình kinh doanh ảnh phim​,2025,uet_clc
+1390,Nghiên cứu mô phỏng đa tác tử phân tán cho mô hình chăn nuôi lợn chính xác quy mô lớn,2025,uet_clc
+1391,Nghiên cứu các kĩ thuật co giãn tài nguyên đa cấp độ chủ động cho ứng dụng SmartHome trong môi trường điện toán đám mây,2025,uet_clc
+1392,Xây dựng giải pháp PaaS hỗ trợ triển khai backend trò chơi dựa trên kiến trúc serverless,2025,uet_clc
+1393,"Giải pháp InfraWatch phục vụ quản lý, giám sát và tăng cường bảo mật hạ tầng tính toán cho môi trường đa đám mây",2025,uet_clc
+1394,Xây dựng ứng dụng cung cấp dịch vụ phi máy chủ (serverless service provisioning) cho môi trường K8s trong đám mây riêng,2025,uet_clc
+1395,"Xây dựng công cụ xử lý dữ liệu dựa trên mô hình ngôn ngữ lớn cho các bài toán chuẩn hóa, làm sạch, chuyển đổi định dạng và khôi phục cấu trúc",2025,uet_clc
+1396,Hỗ trợ phát triển các ứng dụng bảng dữ liệu (dashboard) với thư viện My Dashboarding Toolkit,2025,uet_clc
+1397,Tối ưu hoá lưu trữ trong giải pháp Ceph bằng cơ chế tự động hiệu chỉnh nhãn storage class của các đối tượng dữ liệu,2025,uet_clc
+1398,Nghiên Cứu và Phát Triển Hệ Thống Reverse Proxy Tích Hợp Bảo Mật Zero Trust Trên Nền Tảng Nginx,2025,uet_clc
+1399,Development of mobile application for plant disease detection in agricultural IoT systems,2025,uet_clc
+1400,Improving Federated Learning On Non-IID Data: A Comparative Study Of Optimization Algorithms,2025,uet_clc
+1401,Phát hiện lỗ hổng an ninh trong ứng dụng WordPress bằng kỹ thuật fuzzing,2025,uet_clc
+1402,A Cooperative Multi-agent Deep Reinforcement Learning Anti-jamming Method in Backscatter Communications Networks,2025,uet_clc
+1403,Phát hiện lỗ hổng an ninh trong cơ sở dữ liệu NoSQL,2025,uet_clc
+1404,Tìm lỗ hổng an ninh trong hệ quản trị cơ sở dữ liệu quan hệ bằng kỹ thuật fuzzing,2025,uet_clc
+1405,Triển khai hệ thống giả lập hướng tác tử phân tán với cụm máy tính hiệu năng cao,2025,uet_clc
+1406,Building a platform for training and assessment of knowledge in web application security,2025,uet_clc
+1407,NGHIÊN CỨU PHÁT TRIỂN HỆ THỐNG AI DỰ ĐOÁN VÀ ĐIỀU CHỈNH THÔNG SỐ MÔI TRƯỜNG TRONG TRANG TRẠI CHĂN NUÔI LỢN,2025,uet_clc
+1408,Detection of security vulnerabilities in WebGPU by fuzzing method,2025,uet_clc
+1409,A Novel Approach for Detecting Vulnerabilities in JavaScript Just-in-Time Compilers Using Guided Fuzzing,2025,uet_clc
+1410,Adversarial Attacks and Defenses for Network Intrusion Detection Systems,2025,uet_clc
+1411,Học liên hợp thích nghi với đảm bảo hoàn toàn về tính riêng tư,2025,uet_clc
+1412,Sử dụng học sâu để phát hiện các lỗ hổng trong mã nguồn phần mềm,2025,uet_clc
+1413,Phát hiện Botnet ngang hàng dựa vào các biểu hiện đặc trưng,2025,uet_clc
+1414,Phát hiện lỗ hổng an ninh PHP Object Injection,2025,uet_clc
+1415,Nghiên cứu và triển khai thử nghiệm thuật toán đảm bảo tính liên tục của dịch vụ trong mạng ảo hoá chức năng,2025,uet_clc
+1416,Ứng dụng trí tuệ nhân tạo vào học tăng cường trong CTF và kiểm thử thâm nhập,2025,uet_clc
+1417,Định tuyến đa đường trong mạng ad hoc di động,2025,uet_clc
+1418,Autoencoders and Variational Autoencoders for Binary Sensor Anomaly Detection in Smart Homes,2025,uet_clc
+1419,Thuật toán chia bằng chứng không kiến thức STARK cho layer2 Zk-Rollup trên blockchain Aptos,2025,uet_clc
+1420,Lắp ráp và phân tích hệ gen từ dữ liệu đoạn dài,2025,uet_clc
+1421,Tìm hiểu nền tảng công nghệ bầu cử điện tử ở Estonia,2025,uet_clc
+1422,Xây dựng hệ thống chữ ký số cho Đại học Công Nghệ,2025,uet_clc
+1423,Investigating simulated annealing for improving the tree search performance in IQ-TREE,2025,uet_clc
+1424,Xây dựng hệ thống người xác minh cho mạng lớp hai trên mạng Aptos dựa trên kiến trúc của Starknet,2025,uet_clc
+1425,Construct a digital signature scheme on a 256-bit elliptic curve with prime points,2025,uet_clc
+1426,Phân tích tác động của nhiễu lượng tử đối với thuật toán QAOA cho bài toán tập độc lập cực đại,2025,uet_clc
+1427,A system supporting the analysis of CircRNAs in Acute Myeloid Leukemia (AML).,2025,uet_clc
+1428,Phân tích kiểu gene từ dữ liệu NIPT,2025,uet_clc
+1429,Thuật toán CatBoost cho một bài toán dự đoán trong tin sinh,2025,uet_clc
+1430,Suy luận tiến hóa theo tiêu chuẩn parsimony trong MPBoot cho dữ liệu nhiều gen,2025,uet_clc
+1431,Development of a simulator for the raw data of high-throughput scRNA-seq protocol,2025,uet_clc

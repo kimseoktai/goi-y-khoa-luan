@@ -1,0 +1,21 @@
+﻿label,precision,recall,f1,support,n_rows,n_pos,n_neg_verified,n_neg_assumed,status
+AI/ML,0.691,0.855,0.764,110,311,110,201,0,evaluated
+Blockchain,0.893,0.926,0.909,27,335,27,0,308,evaluated
+Cloud & DevOps,0.75,0.5,0.6,18,327,18,2,307,evaluated
+Computer Networks & Infrastructure,0.833,0.312,0.455,16,311,16,295,0,evaluated
+Computer Vision,0.769,0.625,0.69,32,311,32,279,0,evaluated
+Cybersecurity,0.875,0.609,0.718,23,311,23,288,0,evaluated
+Data Engineering,0.786,0.647,0.71,17,331,17,4,310,evaluated
+Data Science & Analytics,0.722,0.684,0.703,19,311,19,292,0,evaluated
+Database,0.846,0.55,0.667,20,335,20,4,311,evaluated
+Game Development,1.0,0.818,0.9,22,311,22,289,0,evaluated
+Generative AI & LLM,0.568,0.833,0.676,30,341,30,22,289,evaluated
+Information & Enterprise Systems,0.927,0.905,0.916,42,311,42,269,0,evaluated
+IoT / Embedded,0.556,0.238,0.333,21,311,21,290,0,evaluated
+Mobile Development,0.794,0.818,0.806,33,311,33,278,0,evaluated
+Natural Language Processing,0.756,0.708,0.731,48,311,48,263,0,evaluated
+Optimization / Operations Research,0.842,0.615,0.711,26,311,26,285,0,evaluated
+Recommendation System,0.75,0.577,0.652,26,311,26,285,0,evaluated
+Software Architecture & Engineering,0.917,0.611,0.733,18,324,18,0,306,evaluated
+Software Testing,1.0,0.967,0.983,30,311,30,281,0,evaluated
+Web Development,0.847,0.836,0.841,73,311,73,238,0,evaluated

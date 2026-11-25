@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+goi_nop/
+models/embeddings/
+data/db/accounts.sqlite
+.env

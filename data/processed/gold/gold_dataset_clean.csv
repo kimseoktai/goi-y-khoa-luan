@@ -1,0 +1,587 @@
+﻿gold_id,title,source,technical_topics,domains,added_topics,added_domains,label_status,verified_labels,review_flag,thesis_id
+1,CGRA Mapping,uet_clc,"[""IoT / Embedded""]",[],"[""IoT / Embedded""]",[],labelled,all,no_technical_topic|suggested_topic,
+2,An Embedded based electronic album for worship,uit,"[""IoT / Embedded""]",[],[],[],labelled,all,,
+3,Nghiên cứu về Devops và xây dựng hệ thống CI/CD,ptit,"[""Cloud & DevOps""]",[],"[""Cloud & DevOps""]",[],labelled,all,no_technical_topic|suggested_topic,
+4,Xây dựng ứng dụng quản lý bán hàng,uit,"[""Information & Enterprise Systems""]","[""E-commerce & Retail""]",[],"[""E-commerce & Retail""]",labelled,all,information_management_split|suggested_domain,
+5,Xây dựng website bán đồ nội thất và gia dụng,ptit,"[""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+6,Constructing an affiliate marketing model for cosmetics,uit,[],"[""E-commerce & Retail""]",[],[],needs_review,all,no_technical_topic,
+7,Xây dựng hệ thống tiếp thị nội dung trực tuyến,uit,"[""Web Development""]","[""News & Media""]",[],[],labelled,all,,
+8,Using NLP sentiment analysis to detect emotion through by Online Reviews,uit,"[""AI/ML"", ""Natural Language Processing""]",[],[],[],labelled,all,,
+9,Xây dựng hệ thống website sàn giao dịch hỗ trợ chuyển giao công nghệ,uit,"[""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+10,Ứng dụng thuật toán Neighborhood-based Collaborative Filtering vào website gợi ý xem phim online,ptit,"[""Optimization / Operations Research"", ""Recommendation System"", ""Web Development""]","[""News & Media""]","[""Optimization / Operations Research""]","[""News & Media""]",labelled,all,suggested_topic|suggested_domain,
+11,"Phân tích, thiết kế và xây dựng hệ thống quản lý bán hàng trực tuyến cho cửa hàng nhỏ ứng dụng kiến trúc MVC",duytan,"[""Information & Enterprise Systems"", ""Software Architecture & Engineering"", ""Web Development""]","[""E-commerce & Retail""]","[""Software Architecture & Engineering"", ""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+12,Xây dựng ứng dụng học tập trực tuyến với Flutter,neu,"[""Mobile Development""]","[""Education""]",[],[],labelled,all,,
+13,Xây dựng pipeline ETL sử dụng Mage Ai,uet_clc,"[""Data Engineering""]",[],"[""Data Engineering""]",[],labelled,all,no_technical_topic|suggested_topic,
+14,Xây dựng website học Tiếng anh trực tuyến tích hợp AI,neu,"[""AI/ML"", ""Natural Language Processing"", ""Web Development""]","[""Education""]",[],"[""Education""]",labelled,all,suggested_domain,
+15,Ứng dụng di động kể chuyện thông minh tích hợp giọng đọc AI cá nhân hóa,uet_chuan,"[""AI/ML"", ""Mobile Development"", ""Natural Language Processing"", ""Recommendation System""]",[],"[""Recommendation System""]",[],labelled,all,suggested_topic,
+16,Xây dựng nền tảng đặt lịch đa dịch vụ tích hợp AI gợi ý dịch vụ thông minh và thanh toán VNPay,duytan,"[""AI/ML"", ""Recommendation System"", ""Web Development""]","[""Finance & Banking""]",[],"[""Finance & Banking""]",labelled,all,suggested_domain,
+17,Công nghệ và giải pháp theo dõi chuyển động mắt hỗ trợ trẻ em rối loạn đọc,uet_chuan,"[""AI/ML"", ""Computer Vision""]","[""Education""]",[],[],labelled,all,,
+18,Xây dựng nền tảng BeautyCare ứng dụng trí tuệ nhân tạo cho phân tích da và Recommendation sản phẩm,duytan,"[""AI/ML"", ""Recommendation System""]",[],[],[],labelled,all,,
+19,Nghiên cứu và xây dựng module chuyển đổi ngôn ngữ ký hiệu cho người khiếm thính thông qua công nghệ AI tạo sinh,uit,"[""AI/ML"", ""Natural Language Processing""]",[],[],[],labelled,all,,
+20,Xây dựng hệ thống đặt phòng khách sạn tích hợp Chatbox AI,duytan,"[""AI/ML"", ""Natural Language Processing""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+21,XÂY DỰNG WEBSITE FOODXPRESS TÍCH HỢP CHATBOT AI,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Natural Language Processing"", ""Web Development""]",[],"[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+22,Xây dựng chatbot thông minh hỗ trợ sử dụng phần mềm IQ-TREE,uet_chuan,"[""Generative AI & LLM"", ""Natural Language Processing""]",[],"[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+23,XÂY DỰNG HỆ THỐNG CUNG CẤP SÁCH SỐ TRỰC TUYẾN BOOKNEST TÍCH HỢP CHATBOT AI,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Natural Language Processing""]","[""E-commerce & Retail""]","[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+24,Xây dựng Gymverse AI - Website Quản lý Fitness thông minh và Chatbot tư vấn tập luyện,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Information & Enterprise Systems"", ""Natural Language Processing"", ""Web Development""]",[],"[""Generative AI & LLM"", ""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+25,Xây dựng Hệ thống Chatbot Tư vấn tuyển sinh và Quy chế đào tạo tại Đại học Kinh tế Quốc dân,neu,"[""Generative AI & LLM"", ""Natural Language Processing""]","[""Education""]","[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+26,XÂY DỰNG HOMELINK AI - NỀN TẢNG QUẢN LÝ CĂN HỘ THÔNG MINH TÍCH HỢP TRỢ LÝ CHATBOT AI và REALTIME COMMUNICATION,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Information & Enterprise Systems"", ""Natural Language Processing""]","[""Real Estate & Construction""]","[""Generative AI & LLM""]","[""Real Estate & Construction""]",labelled,all,information_management_split|suggested_topic|suggested_domain,
+27,XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÂN SỰ CHO DOANH NGHIỆP NHỎ TÍCH HỢP CHATBOT AI HỖ TRỢ TRA CỨU THÔNG TIN,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Information & Enterprise Systems"", ""Natural Language Processing""]","[""Human Resources & Recruitment""]","[""Generative AI & LLM""]","[""Human Resources & Recruitment""]",labelled,all,information_management_split|suggested_topic|suggested_domain,
+28,Xây dựng website bán nông sản online,uit,"[""Web Development""]","[""Agriculture"", ""E-commerce & Retail""]",[],"[""Agriculture""]",labelled,all,suggested_domain,
+29,Xây dựng ứng dụng web quản lý các nhà hàng ăn,uet_clc,"[""Information & Enterprise Systems"", ""Web Development""]","[""Tourism & Hospitality""]",[],"[""Tourism & Hospitality""]",labelled,all,information_management_split|suggested_domain,
+30,Phát triển XApps cho hạ tầng O-RAN trong mạng di động 6G,uet_chuan,"[""Computer Networks & Infrastructure"", ""Mobile Development""]",[],"[""Mobile Development""]",[],labelled,all,suggested_topic,
+31,Phân tích nghiệp vụ và xây dựng website giao đồ ăn,neu,"[""Information & Enterprise Systems"", ""Web Development""]","[""E-commerce & Retail""]","[""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+32,Building a decentralized data storage system in the logistics sector,uet_clc,"[""Information & Enterprise Systems""]","[""Transportation & Logistics""]",[],"[""Transportation & Logistics""]",labelled,all,information_management_split|suggested_domain,
+33,Phân tích nghiệp vụ và xây dụng hệ thống dịch vụ Web quản lý nhà trọ,neu,"[""Information & Enterprise Systems"", ""Web Development""]","[""Real Estate & Construction""]",[],"[""Real Estate & Construction""]",labelled,all,information_management_split|suggested_domain,
+34,Xây dựng ứng dụng di động tích hợp camera giám sát tại nhà nhằm phát hiện những nguy cơ tiềm ẩn nguy hiểm thông qua mô hình học sâu,uit,"[""AI/ML"", ""Computer Vision"", ""Mobile Development""]",[],[],[],labelled,all,,
+35,Phát triển ứng dụng di động đa nền tảng tích hợp với hệ thống giám sát cây trồng trong nhà màng,uet_chuan,"[""IoT / Embedded"", ""Mobile Development""]","[""Agriculture""]",[],"[""Agriculture""]",labelled,all,suggested_domain,
+36,XD website bán Laptop,neu,"[""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+37,XD website bán mĩ phẩm,neu,"[""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+38,Xd Phần mềm quản lí bán hàng văn phòng phẩm,neu,"[""Information & Enterprise Systems""]","[""E-commerce & Retail""]",[],[],labelled,all,information_management_split,
+39,XD website bán và sửa chữa Laptop An Phát,neu,"[""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+40,Thiết kế website bán Laptop của công ty cổ phần SKT01Group,neu,"[""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+41,XD HT phần mềm quản lí hồ sơ cán bộ công chức viên chức,neu,"[""Information & Enterprise Systems""]","[""Government & Public Sector""]",[],"[""Government & Public Sector""]",labelled,all,information_management_split|suggested_domain,
+42,XD phần mềm quản lí tài sản cố định của công ty TNHH TM&DV Phát An,neu,"[""Information & Enterprise Systems""]",[],[],[],labelled,all,information_management_split,
+43,XD Phần mềm quản lí tiền gửi tiết kiệm cho phòng giao dịch Agribank Định Công,neu,"[""Information & Enterprise Systems""]","[""Finance & Banking""]",[],[],labelled,all,information_management_split,
+44,Xây dựng hệ thống quản lý hành trình xe buýt,uit,"[""Information & Enterprise Systems""]",[],[],[],labelled,all,information_management_split,
+45,Xây dựng HT ôn tập và hỗ trợ học tập Learn4U,neu,[],"[""Education""]",[],[],needs_review,all,no_technical_topic,
+46,Website tra cứu thuật ngữ chuyên ngành Công nghệ thông tin,uit,"[""Web Development""]",[],[],[],labelled,all,,
+47,XD Bài toán quản lí khóa học ngắn hạn của cơ sở đào tạo về CNTT,neu,"[""Information & Enterprise Systems""]","[""Education""]","[""Information & Enterprise Systems""]",[],labelled,all,no_technical_topic|suggested_topic,
+48,Xây dựng hệ thống website quản lý đào tạo tại Khoa Hệ Thống Thông Tin,uit,"[""Information & Enterprise Systems"", ""Web Development""]","[""Education""]","[""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+49,"XD HT web ôn luyện và thi trắc nghiệm trực tuyến dành cho học sinh, sinh viên",neu,"[""Web Development""]","[""Education""]",[],[],labelled,all,,
+50,Xây dựng hệ thống quản lý sản xuất thiết bị điện tích hợp kỹ thuật khai phá quy trình,uit,"[""Data Science & Analytics"", ""Information & Enterprise Systems""]","[""Manufacturing & Industry""]",[],"[""Manufacturing & Industry""]",labelled,all,information_management_split|suggested_domain,
+51,Xây dựng hệ thống quản lý giáo dục cho công ty CP phát triển giáo dục & đào tạo Odin,neu,"[""Information & Enterprise Systems""]","[""Education""]",[],[],labelled,all,information_management_split,
+52,Nghiên cứu mô hình học máy để dự báo điểm tín dụng,neu,"[""AI/ML"", ""Data Science & Analytics""]","[""Finance & Banking""]",[],[],labelled,all,,
+53,Xây dựng website dự đoán kết quả chứng khoán,uit,"[""AI/ML"", ""Data Science & Analytics"", ""Web Development""]","[""Finance & Banking""]",[],[],labelled,all,,
+54,Áp dụng Machine Learning trong phát hiện giao dịch thẻ tín dụng gian lận,neu,"[""AI/ML""]","[""Finance & Banking""]",[],[],labelled,all,,
+55,Nghiên cứu các mô hình dự báo giá vàng và cài đặt ứng dụng,uit,"[""AI/ML"", ""Data Science & Analytics""]","[""Finance & Banking""]","[""AI/ML""]",[],labelled,all,suggested_topic,
+56,Nghiên cứu về mô hình học sâu LSTM và áp dụng vào dự báo doanh số bán hàng,neu,"[""AI/ML"", ""Data Science & Analytics""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+57,An approach for fraud detection in financial transactions using machine learning methods,uit,"[""AI/ML""]","[""Finance & Banking""]",[],[],labelled,all,,
+58,Nghiên cứu - Ứng dụng sự kết hợp giữa thuật toán học sâu và học tăng cường trong giao dịch chứng khoán tại Việt Nam,neu,"[""AI/ML"", ""Optimization / Operations Research""]","[""Finance & Banking""]","[""Optimization / Operations Research""]",[],labelled,all,suggested_topic,
+59,Real estate forecast in area by recurrent neural network model based on long short-term memory,uit,"[""AI/ML"", ""Computer Networks & Infrastructure"", ""Data Science & Analytics""]","[""Real Estate & Construction""]","[""Computer Networks & Infrastructure""]","[""Real Estate & Construction""]",labelled,all,suggested_topic|suggested_domain,
+60,Enhanced Techniques in Legal Document Processing,uet_clc,"[""AI/ML"", ""Natural Language Processing""]",[],[],[],labelled,all,,
+61,A System for Knowledge Enhancement Using RAG Technique,uet_clc,"[""AI/ML"", ""Generative AI & LLM"", ""Natural Language Processing""]",[],"[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+62,Enhancing Early Depression Risk Prediction with Deep Learning Models,uet_clc,"[""AI/ML""]","[""Healthcare""]",[],[],labelled,all,,
+63,Simple Assembly Line Balancing with Power Peak Minimization,uet_clc,"[""Optimization / Operations Research""]","[""Manufacturing & Industry""]",[],"[""Manufacturing & Industry""]",labelled,all,suggested_domain,
+64,Xây dựng Triển lãm trực tuyến bằng công nghệ VR: Thử nghiệm ở tỉnh Hà Tĩnh,uet_clc,"[""Web Development""]",[],[],[],labelled,all,,
+65,Construct a digital signature scheme on a 256-bit elliptic curve with prime points,uet_clc,"[""Cybersecurity""]",[],[],[],labelled,all,,
+66,A Holistic Approach to Legal Warning Detection in Vietnamese Contracts: From Rule-Based to Deep Learning Models,uet_clc,"[""AI/ML"", ""Natural Language Processing""]",[],[],[],labelled,all,,
+67,A Cooperative Multi-agent Deep Reinforcement Learning Anti-jamming Method in Backscatter Communications Networks,uet_clc,"[""AI/ML"", ""Computer Networks & Infrastructure"", ""Generative AI & LLM""]",[],"[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+68,Xây dựng hệ thống tư vấn tình yêu và hôn nhân,uit,"[""Recommendation System"", ""Web Development""]",[],[],[],labelled,all,,
+69,Xây dựng Website xem phim tích hợp hệ thống gợi ý CineWorld,neu,"[""Recommendation System"", ""Web Development""]","[""News & Media""]",[],"[""News & Media""]",labelled,all,suggested_domain,
+70,XÂY DỰNG HỆ THỐNG QUẢN LÝ QUÁN ĂN TÍCH HỢP AI GỌI MÓN & ĐẶT BÀN,duytan,"[""AI/ML"", ""Information & Enterprise Systems""]",[],[],[],labelled,all,information_management_split,
+71,Xây dựng hệ thống DishNet - Nền tảng mạng xã hội kinh doanh ẩm thực.,duytan,"[""Web Development""]","[""E-commerce & Retail"", ""Tourism & Hospitality""]",[],"[""Tourism & Hospitality""]",labelled,all,suggested_domain,
+72,Xây dựng website kinh doanh sản phẩm thời trang kết hợp đề xuất sản phẩm trên nền tảng Laravel,uit,"[""Recommendation System"", ""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+73,ỨNG DỤNG HỌC MÁY VÀ LÝ THUYẾT DANH MỤC ĐẦU TƯ HIỆN ĐẠI TRONG TỐI ƯU HOÁ DANH MỤC ĐẦU TƯ,uet_clc,"[""AI/ML"", ""Optimization / Operations Research""]","[""Finance & Banking""]",[],[],labelled,all,,
+74,Xây dựng ứng dụng quản lý chuỗi cung ứng trên nền tảng blockchain và hệ hỗ trợ quyết định bằng phương pháp máy học và học sâu,uit,"[""AI/ML"", ""Information & Enterprise Systems""]","[""Transportation & Logistics""]",[],"[""Transportation & Logistics""]",labelled,all,information_management_split|suggested_domain,
+75,Nghiên cứu các kĩ thuật co giãn tài nguyên đa cấp độ chủ động cho ứng dụng SmartHome trong môi trường điện toán đám mây,uet_clc,"[""Cloud & DevOps"", ""IoT / Embedded""]","[""Environment & Energy""]","[""Cloud & DevOps""]","[""Environment & Energy""]",labelled,all,suggested_topic|suggested_domain,
+76,Phát triển Game học từ vựng tiếng anh,neu,"[""Game Development""]","[""Education"", ""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+77,Trò chơi nhập vai RPG 2D SoulSeeker,neu,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+78,XD trò chơi giới thiệu về trường ĐH kinh tế quốc dân,neu,"[""Game Development""]","[""Education"", ""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+79,Xây dựng trò chơi điện tử “Eat to Evolve”,neu,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+80,Xây dựng Game Escape From Maze trên nền tảng Unity 2D,neu,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+81,XÂY DỰNG VÀ PHÁT TRIỂN TỰA GAME ĐUA XE 2D: STREET RACER,duytan,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+82,"XÂY DỰNG VÀ PHÁT TRIỂN GAME NHẬP VAI GIẢI ĐỐ 3D CÓ CỐT TRUYỆN ""PROJECT NOIR"" TRÊN UNITY ENGINE",duytan,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+83,"NGHIÊN CỨU, THIẾT KẾ VÀ THỬ NGHIỆM HỆ THỐNG CHUYỂN VĂN BẢN TIẾNG VIỆT THÀNH NGÔN NGỮ KÝ HIỆU SỬ DỤNG MÔ HÌNH 3D HỖ TRỢ NGƯỜI KHIẾM THÍNH",ptit,"[""AI/ML"", ""Game Development"", ""Natural Language Processing""]",[],"[""Game Development""]",[],labelled,all,suggested_topic,
+84,Phần mềm thu nhận và chấm điểm ảnh,ptit,"[""Computer Vision""]",[],[],[],labelled,all,,
+85,Xây dựng ứng dụng phát hiện và phân loại hình ảnh rác thải,neu,"[""AI/ML"", ""Computer Vision""]","[""Environment & Energy""]","[""AI/ML""]","[""Environment & Energy""]",labelled,all,suggested_topic|suggested_domain,
+86,Xây dựng hệ thống đo nhịp tim dựa trên cảm biến và Internet of Things.,neu,"[""IoT / Embedded""]",[],[],[],labelled,all,,
+87,Ứng dụng phương pháp học sâu trong hỗ trợ chẩn đoán bệnh ngoài da,uit,"[""AI/ML""]","[""Healthcare""]",[],[],labelled,all,,
+88,Áp dụng mô hình học sâu cho bài toán số hóa và phân loại hình ảnh điện tâm đồ,uet_chuan,"[""AI/ML"", ""Computer Vision""]","[""Healthcare""]",[],[],labelled,all,,
+89,Tìm hiểu mạng Nơ-ron tích chập và ứng dụng chuyển đổi phong cách nghệ thuật,uit,"[""AI/ML""]",[],[],[],labelled,all,,
+90,Nghiên cứu và phát triển hệ thống trí tuệ nhân tạo phân loại phông chữ đồ họa dựa trên kỹ thuật học sâu,neu,"[""AI/ML"", ""Computer Vision"", ""Game Development""]",[],"[""Game Development""]",[],labelled,all,suggested_topic,
+91,Phương pháp điền thiếu sử dụng mô hình học sâu kết hợp véc- tơ pháp tuyến áp dụng cho mộc bản 3D,uet_chuan,"[""AI/ML"", ""Game Development""]",[],"[""Game Development""]",[],labelled,all,suggested_topic,
+92,NC và cài đặt thử nghiệm các hệ mã hóa khóa bảo mật,neu,"[""Cybersecurity""]",[],[],[],labelled,all,,
+93,Encoding for the Anti-bandwidth Problem,uet_clc,"[""Optimization / Operations Research""]",[],[],[],labelled,all,,
+94,NC và cài đặt thử nghiệm hệ mã hóa dòng trong mã hóa khóa bảo mật,neu,"[""Cybersecurity""]",[],[],[],labelled,all,,
+95,Học liên hợp thích nghi với đảm bảo hoàn toàn về tính riêng tư,uet_clc,"[""Cybersecurity""]",[],[],[],labelled,all,,
+96,Xây dựng hệ thống bán vé hòa nhạc trên web tích hợp tính năng bảo mật mã QR và trao đổi vé,uet_chuan,"[""Cybersecurity"", ""Web Development""]",[],[],[],labelled,all,,
+97,Leveraging BERT-Based Models and Large Language Models for Legal Question Answering,uet_clc,"[""AI/ML"", ""Natural Language Processing""]",[],[],[],labelled,all,,
+98,Enhancing Emotional Support Conversations with Controllable Generation Strategies and Dialogue Augmentation Using Large Language Models,uet_chuan,"[""AI/ML"", ""Natural Language Processing""]",[],[],[],labelled,all,,
+99,Tăng cường bảo mật và tích hợp công nghệ chuỗi khối trong học cộng tác cho bài toán phân loại mã độc,uit,"[""AI/ML"", ""Cybersecurity""]",[],[],[],labelled,all,,
+100,Xây dựng hệ thống tư vấn đặt lịch khám bệnh,uet_chuan,[],"[""Healthcare""]",[],[],needs_review,all,no_technical_topic,
+101,Xây dựng ứng dụng Web hỗ trợ quản lý lịch làm việc,uet_clc,"[""Information & Enterprise Systems"", ""Web Development""]",[],[],[],labelled,all,information_management_split,
+102,Xây dựng ứng dụng quản lý quan hệ khách hàng trong lĩnh vực du lịch,uit,"[""Information & Enterprise Systems"", ""Web Development""]","[""Tourism & Hospitality""]","[""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+103,A Web Application for Personalized Travel Planning and Booking,uet_clc,"[""Recommendation System"", ""Web Development""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+104,Xây dựng Website đặt tour du lịch tích hợp hệ thống gợi ý dựa trên AI,duytan,"[""AI/ML"", ""Recommendation System"", ""Web Development""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+105,Xây dựng hệ thống quản lý lịch giảng dạy sử dụng DotNet và Tailwind CSS,uet_clc,"[""Information & Enterprise Systems"", ""Web Development""]","[""Education""]","[""Web Development""]",[],labelled,all,information_management_split|suggested_topic,
+106,Lập lịch theo mô hình tín chỉ ở trường phổ thông theo Chương trình GDPT 2018,uet_chuan,"[""Optimization / Operations Research""]","[""Education""]",[],[],labelled,all,,
+107,Nearby Exploration - Hệ thống đề xuất và lập lịch trải nghiệm dịch vụ địa phương cho khách du lịch,uet_clc,"[""Optimization / Operations Research"", ""Recommendation System""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+108,Tìm hiểu về WSO2 Identity Server,uet_chuan,"[""Cybersecurity""]",[],[],[],labelled,all,,
+109,NC và cài đặt thử nghiệm mã hóa khóa công khai RSA,neu,"[""Cybersecurity""]",[],[],[],labelled,all,,
+110,Tích hợp Safe Exam Browser vào hệ thống lập trình trực tuyến CodeOnline,uet_clc,"[""Cybersecurity""]","[""Education""]",[],[],labelled,all,,
+111,Phát triển mô đun sinh tự động biểu đồ UML từ đặc tả chức năng FRSL,uet_chuan,"[""Software Architecture & Engineering""]",[],"[""Software Architecture & Engineering""]",[],labelled,all,no_technical_topic|suggested_topic,
+112,Cải tiến hiệu suất kiểm thử Concolic bằng tối ưu hoá quá trình thực thi dựa trên CMake,uet_clc,"[""Optimization / Operations Research"", ""Software Testing""]",[],"[""Optimization / Operations Research""]",[],labelled,all,suggested_topic,
+113,Giải pháp tự động hóa viết nhật ký thay đổi bằng xử lý ngôn ngữ tự nhiên,uet_chuan,"[""Natural Language Processing""]",[],[],[],labelled,all,,
+114,Xây dựng công cụ sử dụng SMT Solver để kiểm chứng các mô hình được biểu diễn bằng Matlab/Simulink,uet_clc,"[""Software Testing""]",[],[],[],labelled,all,,
+115,Tự động nhận diện và xác định vị trí phần tử cho kiểm thử tự động giao diện các ứng dụng Web,uet_chuan,"[""Computer Vision"", ""Software Testing"", ""Web Development""]",[],"[""Computer Vision""]",[],labelled,all,suggested_topic,
+116,Lock automation through face recognition,uit,"[""Computer Vision"", ""IoT / Embedded""]",[],[],[],labelled,all,,
+117,Body-face Landmark Joint Detection,uet_chuan,"[""AI/ML"", ""Computer Vision""]",[],[],[],labelled,all,,
+118,Face recognition for contactless checking in for multiple services,uit,"[""Computer Vision""]",[],[],[],labelled,all,,
+119,Hệ thống điểm danh bằng nhận diện khuôn mặt cho phòng nhân sự,uet_clc,"[""Computer Vision""]","[""Human Resources & Recruitment""]",[],"[""Human Resources & Recruitment""]",labelled,all,suggested_domain,
+120,Using face recognition for checking attendance on android enviroment,uit,"[""Computer Vision"", ""Mobile Development""]",[],[],[],labelled,all,,
+121,Ứng dụng điểm danh lớp học sử dụng công nghệ nhận diện khuôn mặt Facenet,uet_clc,"[""Computer Vision""]","[""Education""]",[],[],labelled,all,,
+122,Phát triển nền tảng đào tạo mô hình học sâu tích hợp Active Learning cho bài toán nhận diện chữ Hán Nôm,uet_chuan,"[""AI/ML"", ""Computer Vision""]","[""Education""]","[""Computer Vision""]",[],labelled,all,suggested_topic,
+123,THIẾT KẾ HỆ THỐNG NHÚNG NHẬN DIỆN BIỂN BÁO GIAO THÔNG BẰNG HỌC SÂU ỨNG DỤNG CHO XE TỰ HÀNH,uet_chuan,"[""AI/ML"", ""Computer Vision"", ""IoT / Embedded"", ""Software Architecture & Engineering""]","[""Transportation & Logistics""]","[""Software Architecture & Engineering""]","[""Transportation & Logistics""]",labelled,all,suggested_topic|suggested_domain,
+124,Automatic Topic Labelling,uit,"[""AI/ML"", ""Natural Language Processing""]",[],[],[],labelled,all,,
+125,Intelligent video sharing system,uit,"[""Computer Vision"", ""Web Development""]","[""News & Media""]","[""Computer Vision""]",[],labelled,all,suggested_topic,
+126,Xây dựng ứng dụng mạng xã hội việc làm ( Phía Backend ),uet_chuan,"[""Web Development""]","[""Human Resources & Recruitment""]",[],"[""Human Resources & Recruitment""]",labelled,all,suggested_domain,
+127,Nghiên cứu mã hoá đầu cuối trong ứng dụng nhắn tin,uet_chuan,"[""Cybersecurity""]",[],[],[],labelled,all,,
+128,Ứng dụng khai thác dữ liệu Web để xây dựng hệ thống cẩm nang hướng nghiệp,uit,"[""Data Science & Analytics"", ""Web Development""]","[""Human Resources & Recruitment""]",[],"[""Human Resources & Recruitment""]",labelled,all,suggested_domain,
+129,Xây dựng hệ thống phát hiện các bình luận spam trên website chia sẻ video,uit,"[""Computer Vision"", ""Natural Language Processing"", ""Web Development""]","[""News & Media""]","[""Computer Vision""]","[""News & Media""]",labelled,all,suggested_topic|suggested_domain,
+130,"Phát triển Hệ thống tổng hợp và tóm tắt tin tức, cá nhân hóa cho người dùng, sử dụng mô hình Ngôn ngữ lớn",uet_clc,"[""Natural Language Processing"", ""Recommendation System""]","[""News & Media""]",[],[],labelled,all,,
+131,Tận dụng thông tin nội sinh để đánh giá tính đúng đắn của mã nguồn sinh ra bởi mô hình ngôn ngữ lớn,uet_clc,"[""AI/ML"", ""Natural Language Processing""]",[],[],[],labelled,all,,
+132,Xây dựng Website mạng xã hội,neu,"[""Web Development""]",[],[],[],labelled,all,,
+133,Xây dựng mạng xã hội cải thiện sức khoẻ tinh thần - Zental,neu,"[""Web Development""]",[],[],[],labelled,all,,
+134,Phát triển ứng dụng di động kết hợp mạng xã hội và trò chơi,neu,"[""Game Development"", ""Mobile Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+135,Sử dụng các phương pháp mật mã và công nghệ chuỗi khối tiên tiến để quản lý một cách hiệu quả các chứng cứ trong pháp lý số,uet_chuan,"[""Cybersecurity"", ""Information & Enterprise Systems""]",[],"[""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+136,Học máy giải thích được cho phát hiện xâm nhập mạng,uet_chuan,"[""AI/ML"", ""Cybersecurity""]",[],[],[],labelled,all,,
+137,Spam Detection on mobile phone,uit,"[""Cybersecurity"", ""Mobile Development""]",[],[],[],labelled,all,,
+138,Kiểm thử hệ thống website thi trực tuyến,neu,"[""Software Testing"", ""Web Development""]",[],[],[],labelled,all,,
+139,Sử dụng học tăng cường trong việc sinh kịch bản kiểm thử nguy hiểm cho hệ thống xe tự hành,uet_clc,"[""AI/ML"", ""Software Testing""]","[""Transportation & Logistics""]",[],"[""Transportation & Logistics""]",labelled,all,suggested_domain,
+140,NC Kiểm thử phần mềm và ứng dụng công cụ Selenium IDE kiểm thử website,neu,"[""Software Testing"", ""Web Development""]",[],[],[],labelled,all,,
+141,Phát triển game kinh dị 3D với cơ chế Escape Room: Slient Escape,duytan,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+142,Lập trình Game Engine Unity,neu,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+143,MNC Game - Trò chơi giải đố ảo ảnh thị giác trong không gian 3 chiều,neu,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+144,"Hệ thống lập trình kéo thả IoT trực quan dành cho học sinh, sinh viên",uet_chuan,"[""IoT / Embedded""]","[""Education""]",[],[],labelled,all,,
+145,Development of mobile application for plant disease detection in agricultural IoT systems,uet_clc,"[""IoT / Embedded"", ""Mobile Development""]","[""Agriculture""]",[],"[""Agriculture""]",labelled,all,suggested_domain,
+146,Autoencoders and Variational Autoencoders for Binary Sensor Anomaly Detection in Smart Homes,uet_clc,"[""AI/ML"", ""IoT / Embedded""]",[],[],[],labelled,all,,
+147,A decentralized financial application for peer-to-peer lending and borrowing using blockchain technology,uet_clc,"[""Blockchain""]","[""Finance & Banking""]",[],[],labelled,all,no_technical_topic,
+148,Apply a blockchain platform in building smart contracts for crowdfunding projects,uit,"[""Blockchain""]","[""Finance & Banking""]",[],[],labelled,all,no_technical_topic,
+149,Xây dựng Kindlink - Hệ thống gây quỹ từ thiện minh bạch ứng dụng Smart Contract trên nền tảng Blockchain,duytan,"[""Blockchain""]","[""Finance & Banking""]",[],[],labelled,all,no_technical_topic,
+150,Xây dựng website đánh giá và gợi ý phim,uit,"[""Recommendation System"", ""Web Development""]","[""News & Media""]",[],"[""News & Media""]",labelled,all,suggested_domain,
+151,Xây dựng website bán quần áo và hệ chuyên gia tư vấn thời trang,uit,"[""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+152,Phát triển Website thương mại điện tử tích hợp chatbot AI nâng cao trải nghiệm người dùng,neu,"[""AI/ML"", ""Generative AI & LLM"", ""Natural Language Processing"", ""Web Development""]","[""E-commerce & Retail""]","[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+153,XD và phát triển Game Mememakeover trên nền tảng Android,neu,"[""Game Development"", ""Mobile Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+154,Xây dựng ứng dụng tra từ điển bằng Camera trên Android,uit,"[""Computer Vision"", ""Mobile Development""]",[],[],[],labelled,all,,
+155,Phát triển ứng dụng mobile hỗ trợ giải bài,uet_chuan,"[""Mobile Development""]",[],[],[],labelled,all,,
+156,"Xây dựng ứng dụng dự đoán, phát hiện sự bất thường và gợi ý giao dịch chứng khoán trong tương lai thông qua sự kết hợp các mô hình học máy và mô hình học tăng cường",uit,"[""AI/ML"", ""Data Science & Analytics"", ""Recommendation System""]","[""Finance & Banking""]",[],[],labelled,all,,
+157,ỨNG DỤNG MÔ HÌNH HỌC MÁY DỰ ĐOÁN THỊ TRƯỜNG CỔ PHIẾU DỰA TRÊN DỮ LIỆU LỊCH SỬ,uet_clc,"[""AI/ML"", ""Data Science & Analytics""]","[""Finance & Banking""]",[],[],labelled,all,,
+158,Thiết kế và xây dựng hệ thống chatbot phân tích báo cáo tài chính,neu,"[""Generative AI & LLM"", ""Natural Language Processing""]","[""Finance & Banking""]","[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+159,Xây dựng ứng dụng đặt phòng khách sạn tích hợp phân loại khách hàng sử dụng mô hình RFM,uit,"[""AI/ML"", ""Data Science & Analytics"", ""Mobile Development""]","[""Tourism & Hospitality""]","[""AI/ML""]",[],labelled,all,suggested_topic,
+160,"Hệ thống kết nối cộng đồng du lịch, tích hợp AI tổng hợp lịch trình từ hội thoại",uet_chuan,"[""AI/ML"", ""Natural Language Processing""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+161,XD Websiter kết nói các công ty du lịch theo hướng Single Page Application,neu,"[""Web Development""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+162,XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÀ THUỐC TRỰC TUYẾN TÍCH HỢP CHATBOT HỖ TRỢ TƯ VẤN VÀ TRA CỨU THUỐC,duytan,"[""Generative AI & LLM"", ""Information & Enterprise Systems"", ""Natural Language Processing""]","[""Healthcare""]","[""Generative AI & LLM""]",[],labelled,all,information_management_split|suggested_topic,
+163,Chẩn đoán các bất thường trên điện tâm đồ sử dụng các phương pháp học sâu,uit,"[""AI/ML""]","[""Healthcare""]",[],[],labelled,all,,
+164,NC thuật toán Random Forest trong hỗ trợ chuẩn đoán bệnh,neu,"[""AI/ML"", ""Optimization / Operations Research""]","[""Healthcare""]","[""Optimization / Operations Research""]",[],labelled,all,suggested_topic,
+165,Thử nghiệm một số mô hình phân tích cảm xúc văn bản và ứng dụng vào website bán lẻ đi động,neu,"[""AI/ML"", ""Natural Language Processing"", ""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+166,Tích hợp tìm kiếm ảnh và tư vấn sản phẩm vào website thương mại điện tử,ptit,"[""Computer Vision"", ""Recommendation System"", ""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+167,XÂY DỰNG HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ TÍCH HỢP AI CÁ NHÂN HÓA TRẢI NGHIỆM MUA SẮM CỦA NGƯỜI DÙNG,duytan,"[""AI/ML"", ""Recommendation System"", ""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+168,"XÂY DỰNG HỆ THỐNG CỔNG KẾT NỐI TRƯỜNG HỌC, PHỤ HUYNH VÀ HỌC SINH TÍCH HỢP AI HỖ TRỢ CÁC CÔNG VIỆC QUẢN LÝ, TRA CỨU THÔNG TIN",duytan,"[""AI/ML"", ""Information & Enterprise Systems""]","[""Education""]",[],[],labelled,all,information_management_split,
+169,Xây dựng hệ thống hỗ trợ lập thời khóa biểu cho Trường Đại học Công Nghệ,uet_clc,[],"[""Education""]",[],[],needs_review,all,no_technical_topic,
+170,"XD HT quản lí nhân viên, giảng viên cho Trung tâm đào tạo vừa và nhỏ",neu,"[""Information & Enterprise Systems""]","[""Education""]",[],[],labelled,all,information_management_split,
+171,Xây dựng hệ thống mạng xã hội học tập tích hợp AI Chatbot,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Natural Language Processing""]","[""Education""]","[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+172,"Xây dựng hệ thống gợi ý địa điểm du lịch dựa trên điều kiện thời tiết, chất lượng không khí bằng phương pháp học máy và tích hợp mạng xã hội",uit,"[""AI/ML"", ""Recommendation System""]","[""Environment & Energy"", ""Tourism & Hospitality""]",[],"[""Environment & Energy""]",labelled,all,suggested_domain,
+173,Phân tích dữ liệu học tập và xây dựng bài toán dự báo kết quả học tập của sinh viên,neu,"[""AI/ML"", ""Data Science & Analytics""]","[""Education""]","[""AI/ML""]",[],labelled,all,suggested_topic,
+174,Xây dựng hệ thống Smart Hotel tích hợp Chatbot AI gợi ý phòng thông minh,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Natural Language Processing"", ""Recommendation System""]","[""Tourism & Hospitality""]","[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+175,Development of an E-Commerce website supporting intelligent recommendation,uit,"[""Recommendation System"", ""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+176,Xây dựng hệ khuyến nghị cho website rao vặt,uit,"[""Recommendation System"", ""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+177,Giải quyết bài toán giao hàng với nhiều trạm máy bay không người lái,neu,"[""Optimization / Operations Research""]","[""Transportation & Logistics""]",[],"[""Transportation & Logistics""]",labelled,all,suggested_domain,
+178,NC về tối ưu hóa công cụ tìm kiếm SEO thực nghiệm trên website AuroragardentTamChinh.vn,neu,"[""Optimization / Operations Research"", ""Web Development""]",[],"[""Optimization / Operations Research""]",[],labelled,all,suggested_topic,
+179,Khai thác và tối ưu hóa dịch vụ Generative AI cho bài toán xử lý dữ liệu bán cấu trúc,uet_chuan,"[""AI/ML"", ""Generative AI & LLM"", ""Natural Language Processing"", ""Optimization / Operations Research""]",[],"[""Generative AI & LLM"", ""Optimization / Operations Research""]",[],labelled,all,suggested_topic,
+180,Dự đoán giá tiền ảo ngắn hạn sử dụng mạng LSTM,ptit,"[""AI/ML"", ""Data Science & Analytics""]","[""Finance & Banking""]",[],[],labelled,all,,
+181,Xây dựng hệ thống dự đoán xu hướng biến đổi giá tiền điện tử sử dụng các mô hình máy học,uit,"[""AI/ML"", ""Data Science & Analytics""]","[""Finance & Banking""]",[],[],labelled,all,,
+182,"Xây dựng hệ thống dự đoán, hỗ trợ ra quyết định trong lĩnh vực đầu tư chứng khoán",uit,"[""AI/ML"", ""Data Science & Analytics""]","[""Finance & Banking""]",[],[],labelled,all,,
+183,Xây dựng hệ thống dự báo giá và khuyến nghị giao dịch mua bán tiền mã hóa,uit,"[""AI/ML"", ""Cybersecurity"", ""Data Science & Analytics"", ""Recommendation System""]","[""Finance & Banking""]","[""Cybersecurity""]",[],labelled,all,suggested_topic,
+184,Website đọc báo tích hợp chatbot AI,neu,"[""AI/ML"", ""Generative AI & LLM"", ""Natural Language Processing"", ""Web Development""]","[""News & Media""]","[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+185,Phát triển ứng dụng di động học từ vựng tiếng Anh qua nhận diện hình ảnh,neu,"[""Computer Vision"", ""Mobile Development""]","[""Education""]",[],[],labelled,all,,
+186,Xây dựng Module phát hiện đuối nước sử dụng Deep Learning (YOLOv11),neu,"[""AI/ML"", ""Computer Vision""]",[],[],[],labelled,all,,
+187,HỆ THỐNG QUẢN LÝ TRUNG TÂM TIẾNG ANH TÍCH HỢP ĐIỂM DANH NHẬN DIỆN KHUÔN MẶT BẰNG AI,duytan,"[""AI/ML"", ""Computer Vision"", ""Information & Enterprise Systems""]","[""Education""]",[],[],labelled,all,information_management_split,
+188,Xây dựng hệ thống điểm danh sinh viên bằng nhận diện khuôn mặt,neu,"[""Computer Vision""]","[""Education""]",[],[],labelled,all,,
+189,Xây dựng hệ thống hỗ trợ quản lý học tập dựa trên chatbot.,uet_chuan,"[""Generative AI & LLM"", ""Information & Enterprise Systems"", ""Natural Language Processing""]","[""Education""]","[""Generative AI & LLM"", ""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+190,Xây dựng Hệ thống Quản lý nhà gửi xe ô tô tự động,neu,"[""Information & Enterprise Systems""]","[""Transportation & Logistics""]",[],"[""Transportation & Logistics""]",labelled,all,information_management_split|suggested_domain,
+191,Xây dựng hệ thống quản lý và đặt phòng trực tuyến tích hợp Chatbot AI tìm phòng,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Information & Enterprise Systems"", ""Natural Language Processing""]","[""Tourism & Hospitality""]","[""Generative AI & LLM""]","[""Tourism & Hospitality""]",labelled,all,information_management_split|suggested_topic|suggested_domain,
+192,Ứng dụng di động đánh giá tính cách,uet_clc,"[""Mobile Development""]",[],[],[],labelled,all,,
+193,Xây dựng hệ thống câu hỏi và thi trắc nghiệm trực tuyến theo thang đo nhận thức Bloom,uit,"[""Web Development""]","[""Education""]",[],[],labelled,all,,
+194,XÂY DỰNG HỆ THỐNG QUẢN LÝ PHÒNG KHÁM THÚ Y TÍCH HỢP CHATBOT AI TƯ VẤN KHÁCH HÀNG,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Information & Enterprise Systems"", ""Natural Language Processing""]","[""Healthcare""]","[""Generative AI & LLM""]",[],labelled,all,information_management_split|suggested_topic,
+195,Xây dựng ứng dụng đặt chỗ ngồi trong chuỗi nhà hàng trên nền tảng mobile,uet_chuan,"[""Mobile Development""]","[""Tourism & Hospitality""]",[],"[""Tourism & Hospitality""]",labelled,all,suggested_domain,
+196,Phát triển nền tảng học tập thông minh tích hợp trợ lý ảo AI và cá nhân hoá lộ trình học tập,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Recommendation System""]","[""Education""]","[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+197,Applying OCR and Spelling Correction in Vietnamese Contracts,uet_chuan,"[""AI/ML"", ""Computer Vision"", ""Natural Language Processing""]",[],[],[],labelled,all,,
+198,"XÂY DỰNG WEBSITE ĐÁNH GIÁ TÍNH CÁCH & ĐỀ XUẤT NGHỀ NGHIỆP THEO MÔ HINFHMBTI, AI",duytan,"[""AI/ML"", ""Recommendation System"", ""Web Development""]",[],[],[],labelled,all,,
+199,Xây dựng website quản lý thực tập của sinh viên khoa Hệ thống Thông tin,uit,"[""Information & Enterprise Systems"", ""Web Development""]","[""Education""]","[""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+200,Xây dựng ứng dụng tối ưu hóa hành trình khách hàng dành cho các trung tâm đào tạo,uit,"[""Optimization / Operations Research""]","[""Education""]",[],[],labelled,all,,
+201,Phân tích và thiết kế hệ thống mạng LAN tại công ty TIG,neu,"[""Computer Networks & Infrastructure"", ""Information & Enterprise Systems"", ""Software Architecture & Engineering""]",[],"[""Software Architecture & Engineering"", ""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+202,Định tuyến đa đường trong mạng ad hoc di động,uet_clc,"[""Computer Networks & Infrastructure"", ""Mobile Development""]",[],"[""Mobile Development""]",[],labelled,all,suggested_topic,
+203,Nghiên cứu và triển khai thử nghiệm thuật toán đảm bảo tính liên tục của dịch vụ trong mạng ảo hoá chức năng,uet_clc,"[""Computer Networks & Infrastructure"", ""Optimization / Operations Research""]",[],"[""Optimization / Operations Research""]",[],labelled,all,suggested_topic,
+204,Triển khai xApp sử dụng OpenRAN Gym,uet_chuan,"[""Computer Networks & Infrastructure""]",[],[],[],labelled,all,,
+205,NGHIÊN CỨU MÔ HÌNH CÂN BẰNG TẢI ÁP DỤNG LÝ THUYẾT HÀNG ĐỢI CHO GAME ONLINE NHIỀU NGƯỜI CHƠI,ptit,"[""Computer Networks & Infrastructure"", ""Game Development""]","[""Entertainment & Gaming""]","[""Game Development""]","[""Entertainment & Gaming""]",labelled,all,suggested_topic|suggested_domain,
+206,Xây dựng Hệ thống Private Cloud cho Doanh nghiệp,neu,"[""Cloud & DevOps"", ""Computer Networks & Infrastructure""]",[],"[""Cloud & DevOps""]",[],labelled,all,suggested_topic,
+207,Hiệu quả của mô hình ngôn ngữ lớn và học máy trong phát hiện xâm nhập mạng,neu,"[""AI/ML"", ""Computer Networks & Infrastructure"", ""Cybersecurity""]",[],[],[],labelled,all,,
+208,Nghiên Cứu Các Phương Pháp Sinh Dữ Liệu Tấn Công Mạng,ptit,"[""Computer Networks & Infrastructure"", ""Cybersecurity""]",[],[],[],labelled,all,,
+209,Ứng dụng Deep Reinforcement Learning trong phát hiện xâm nhập mạng,uet_chuan,"[""AI/ML"", ""Computer Networks & Infrastructure"", ""Cybersecurity""]",[],[],[],labelled,all,,
+210,Nghiên cứu phương pháp phát hiện tấn công mạng sử dụng học sâu,uet_clc,"[""AI/ML"", ""Computer Networks & Infrastructure"", ""Cybersecurity""]",[],[],[],labelled,all,,
+211,Adversarial Attacks and Defenses for Network Intrusion Detection Systems,uet_clc,"[""AI/ML"", ""Computer Networks & Infrastructure"", ""Cybersecurity""]",[],[],[],labelled,all,,
+212,Nghiên Cứu và Phát Triển Hệ Thống Reverse Proxy Tích Hợp Bảo Mật Zero Trust Trên Nền Tảng Nginx,uet_clc,"[""Computer Networks & Infrastructure"", ""Cybersecurity""]",[],[],[],labelled,all,,
+213,"Giải pháp InfraWatch phục vụ quản lý, giám sát và tăng cường bảo mật hạ tầng tính toán cho môi trường đa đám mây",uet_clc,"[""Cloud & DevOps"", ""Computer Networks & Infrastructure"", ""Cybersecurity"", ""Information & Enterprise Systems""]","[""Environment & Energy""]","[""Cloud & DevOps"", ""Information & Enterprise Systems""]","[""Environment & Energy""]",labelled,all,suggested_topic|suggested_domain,
+214,Xây dựng ứng dụng tổng hợp tin tức tích hợp mô hình khuyến nghị nội dung,neu,"[""Recommendation System""]","[""News & Media""]",[],[],labelled,all,,
+215,Khuyến nghị tin tức dựa trên session của người dùng,uit,"[""AI/ML"", ""Recommendation System""]","[""News & Media""]",[],[],labelled,all,,
+216,Xây dựng công cụ chọn lọc tin tức từ các website,uit,"[""Web Development""]","[""News & Media""]","[""Web Development""]",[],labelled,all,no_technical_topic|suggested_topic,
+217,Xây dựng hệ thống tự động tổng hợp tin tức và phân tích nội dung,uit,"[""Natural Language Processing""]","[""News & Media""]",[],[],labelled,all,,
+218,Xây dựng website báo điện tử tích hợp hệ thống khuyến nghị nội dung,uit,"[""Recommendation System"", ""Web Development""]","[""News & Media""]",[],[],labelled,all,,
+219,Xây dựng ứng dụng phân loại tin tức Covid-19 trên mạng xã hội Twitter,uit,"[""AI/ML"", ""Natural Language Processing""]","[""Healthcare"", ""News & Media""]",[],"[""Healthcare""]",labelled,all,suggested_domain,
+220,Automatic news classification for social publishing system,uit,"[""AI/ML"", ""Natural Language Processing""]","[""News & Media""]",[],[],labelled,all,,
+221,Building a supporting system for prediction of fake news,uit,"[""AI/ML"", ""Natural Language Processing""]","[""News & Media""]",[],[],labelled,all,,
+222,Event-Based Trend Detection and Analysis in Vietnamese News,uet_clc,"[""AI/ML"", ""Natural Language Processing""]","[""News & Media""]",[],[],labelled,all,,
+223,Dự đoán xu hướng chứng khoán trong rổ VN30 tại sàn HOSE dựa trên tin tức tài chính,uit,"[""AI/ML"", ""Natural Language Processing""]","[""Finance & Banking"", ""News & Media""]",[],[],labelled,all,,
+224,Nghiên cứu xây dựng hệ thống hỗ trợ xác định một số luồng dư luận về trường đại học trên mạng xã hội,ptit,"[""Natural Language Processing""]","[""News & Media""]",[],[],labelled,all,,
+225,Tìm hiểu công nghệ kiểm thử và ứng dụng vào kiểm thử website thương mại điện tử,neu,"[""Software Testing"", ""Web Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+226,NC Kiểm thử tự động Selenium và ứng dụng kiểm thử website May10.vn,neu,"[""Software Testing"", ""Web Development""]",[],[],[],labelled,all,,
+227,NC ứng dụng kiểm thử tự động trong kiểm thử phần mềm,neu,"[""Software Testing""]",[],[],[],labelled,all,,
+228,Tìm hiểu về kiểm thử tự động API và xây dựng chương trình kiểm thử tự động API,neu,"[""Software Testing""]",[],[],[],labelled,all,,
+229,Ứng dụng sinh bộ kiểm thử tự động dựa trên AI,uet_chuan,"[""AI/ML"", ""Software Testing""]",[],[],[],labelled,all,,
+230,Phương pháp sinh mã kiểm thử tự động cho giao diện ứng dụng Web sử dụng học máy,uet_chuan,"[""AI/ML"", ""Software Architecture & Engineering"", ""Software Testing"", ""Web Development""]",[],"[""Software Architecture & Engineering""]",[],labelled,all,suggested_topic,
+231,Xây dựng công cụ kiểm thử đơn vị tự động thỏa mãn độ phủ vòng lặp và tệp cho dự án sử dụng ngôn ngữ Java,uet_clc,"[""Software Testing""]",[],[],[],labelled,all,,
+232,Hệ thống hỗ trợ kiểm thử khả năng chịu tải API,uet_clc,"[""Software Testing""]",[],[],[],labelled,all,,
+233,Tạo kịch bản kiểm thử cho hệ thống xe tự hành sử dụng thuật toán di truyền đa mục tiêu,uet_clc,"[""Optimization / Operations Research"", ""Software Testing""]","[""Transportation & Logistics""]",[],"[""Transportation & Logistics""]",labelled,all,suggested_domain,
+234,Ứng dụng trí tuệ nhân tạo vào học tăng cường trong CTF và kiểm thử thâm nhập,uet_clc,"[""AI/ML"", ""Cybersecurity"", ""Software Testing""]",[],[],[],labelled,all,,
+235,Thiết kế và triển khai hệ thống dự báo nhu cầu và tối ưu tồn kho đa điểm phân phối ứng dụng Machine Learning,neu,"[""AI/ML"", ""Data Science & Analytics"", ""Optimization / Operations Research""]",[],[],[],labelled,all,,
+236,Nghiên cứu và xây dựng hệ thống tư vấn lập lịch thi tại trường ĐH Công nghệ thông tin,uit,"[""Optimization / Operations Research""]","[""Education""]",[],[],labelled,all,,
+237,Tối ưu lộ trình tham quan các địa điểm du lịch,uit,"[""Optimization / Operations Research""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+238,Resource-Constrained Project Scheduling Problems by SMT solving,uet_clc,"[""Optimization / Operations Research""]",[],[],[],labelled,all,,
+239,Employee scheduling for Car rental company by SAT solving,uet_clc,"[""Optimization / Operations Research""]",[],[],[],labelled,all,,
+240,SAT encodings for Resource-Constrained Project Scheduling Problems,uet_clc,"[""Optimization / Operations Research""]",[],[],[],labelled,all,,
+241,Phương pháp giải bài toán Knapsack Packing bằng SAT,uet_chuan,"[""Optimization / Operations Research""]",[],[],[],labelled,all,,
+242,Phương pháp encoding mới cho tập hợp ràng buộc AMONG có dạng bậc thang và Ứng dụng trong bài toán Lập lịch,uet_clc,"[""Optimization / Operations Research""]",[],[],[],labelled,all,,
+243,Xây dựng ứng dụng giao hàng áp dụng thuật toán được tối ưu hoá,uet_clc,"[""Optimization / Operations Research""]","[""Transportation & Logistics""]",[],"[""Transportation & Logistics""]",labelled,all,suggested_domain,
+244,Tìm hiểu thuật toán ACO và xây dựng ứng dụng lập kế hoạch du lịch hoàn hảo trực tuyến.,uit,"[""Optimization / Operations Research""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+245,Nghiên cứu và phát triển hệ thống phát hiện đường đi tránh ùn tắc sử dụng kỹ thuật phân cụm dựa trên mật độ kết hợp tìm kiếm tối ưu,neu,"[""AI/ML"", ""Optimization / Operations Research""]",[],[],[],labelled,all,,
+246,Xây dựng PM quản lí bệnh nhân Bệnh viện đa khoa huyện Hoa Lư,neu,"[""Information & Enterprise Systems""]","[""Healthcare""]",[],[],labelled,all,information_management_split,
+247,Thiết kế và xây dựng hệ thống website đặt lịch khám bệnh online BookingCare,neu,"[""Web Development""]","[""Healthcare""]",[],[],labelled,all,,
+248,Xây dựng hệ thống đặt lịch khám số tích hợp trí tuệ nhân tạo hỗ trợ chẩn đoán sơ bộ,duytan,"[""AI/ML""]","[""Healthcare""]",[],[],labelled,all,,
+249,Xây dựng hệ thống quản lý hỗ trợ chăm sóc sức khỏe bệnh nhân tim mạch,uit,"[""Information & Enterprise Systems""]","[""Healthcare""]",[],[],labelled,all,information_management_split,
+250,Xây dựng mô hình phân loại sớm bất thường tim mạch dựa trên tín hiệu điện tâm đồ,uit,"[""AI/ML""]","[""Healthcare""]",[],[],labelled,all,,
+251,Xây dựng ứng dụng web phát hiện bất thường trên ảnh X-Quang cột sống,uit,"[""AI/ML"", ""Computer Vision"", ""Web Development""]","[""Healthcare""]",[],[],labelled,all,,
+252,Ứng dụng mô hình học sâu cho bài toán phân loại các bất thường trên ảnh chụp X-Quang vùng ngực,uit,"[""AI/ML"", ""Computer Vision""]","[""Healthcare""]",[],[],labelled,all,,
+253,Phân đoạn và phân loại nốt trong ảnh y tế 2D: Phát triển mô hình end-to-end tích hợp,uet_chuan,"[""AI/ML"", ""Computer Vision""]","[""Healthcare""]",[],[],labelled,all,,
+254,Deep Learning-Based Approaches for 3D Medical Image Segmentation,uet_clc,"[""AI/ML"", ""Computer Vision"", ""Game Development""]","[""Healthcare""]","[""Game Development""]",[],labelled,all,suggested_topic,
+255,Develop a Business Intelligence System for Healthcare,uet_clc,"[""Data Science & Analytics""]","[""Healthcare""]",[],[],labelled,all,,
+256,Ứng dụng công nghệ RFID vào XD hệ thống điểm danh,neu,"[""IoT / Embedded""]",[],[],[],labelled,all,,
+257,Nghiên cứu và xây dựng mô hình nhà thông minh dựa trên công nghệ IoT,neu,"[""IoT / Embedded""]",[],[],[],labelled,all,,
+258,Xây dựng hệ thống theo dõi sức khỏe người già bằng cảm biến,uit,"[""IoT / Embedded""]","[""Healthcare""]",[],[],labelled,all,,
+259,Ứng dụng IoT xây dựng hệ thống thuỷ canh tự động,uit,"[""IoT / Embedded""]",[],[],[],labelled,all,,
+260,Applying IoT technology for monitoring environment,uit,"[""IoT / Embedded""]","[""Environment & Energy""]",[],"[""Environment & Energy""]",labelled,all,suggested_domain,
+261,Xây dựng hệ thống giám sát và hiển thị chỉ số không khí theo thời gian thực,neu,"[""IoT / Embedded""]",[],[],[],labelled,all,,
+262,Phát triển Front-end trên nền tảng web cho hệ thống hỗ trợ lập trình IoT tích hợp quản lý giáo dục và diễn đàn trao đổi dự án,uet_chuan,"[""Information & Enterprise Systems"", ""IoT / Embedded"", ""Web Development""]","[""Education""]","[""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+263,XD và QL website đặt tour du lịch,neu,"[""Web Development""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+264,Phát triển ứng dụng bản đồ du lịch XploreVN cho khách du lịch nước ngoài,neu,"[""Mobile Development""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+265,THIẾT KẾ VÀ XÂY DỰNG HỆ THỐNG ĐẶT TOUR DU LỊCH THÔNG MINH TÍCH HỢP AI,duytan,"[""AI/ML""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+266,Xây dựng hệ thống khuyến nghị khách sạn phù hợp cho người dùng,uit,"[""Recommendation System""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+267,"Hệ thống hỗ trợ thu thập, phân tích, dự báo hành vi của khách du lịch",uet_chuan,"[""AI/ML"", ""Data Science & Analytics""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+268,Natural language question-answering system about tourism location,uit,"[""AI/ML"", ""Natural Language Processing""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+269,Xây dựng tựa game chiến thuật theo lượt bàn cờ trên Unity,neu,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+270,Thiết kế và xây dựng game Spiderman 3D bằng Unity Engine,neu,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+271,Phát triển trò chơi 3D Rolling Ball trên nền tảng Unity,uet_clc,"[""Game Development""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+272,Ứng dụng mô hình ngôn ngữ lớn trong xây dựng nhân vật trò chơi,uet_chuan,"[""AI/ML"", ""Game Development"", ""Natural Language Processing""]","[""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+273,XÂY DỰNG VÀ PHÁT TRIỂN GAME 2D GIÁO DỤC TOÁN HỌC ONLINE TÍCH HỢP MULTIPLAYER,duytan,"[""Game Development""]","[""Education"", ""Entertainment & Gaming""]",[],"[""Entertainment & Gaming""]",labelled,all,suggested_domain,
+274,XD ứng dụng thi trắc nghiệm trên nền tảng Android,neu,"[""Mobile Development""]","[""Education""]",[],[],labelled,all,,
+275,XD ứng dụng du lịch trên mobile bằng hệ điều hành Android,neu,"[""Mobile Development""]","[""Tourism & Hospitality""]",[],[],labelled,all,,
+276,"Nghiên cứu, phát triển ứng dụng đặt đồ ăn FoodDeli trên nền tảng Android",neu,"[""Mobile Development""]","[""E-commerce & Retail""]",[],[],labelled,all,,
+277,Xây dựng ứng dụng di động hỗ trợ chăm sóc sức khoẻ cá nhân,neu,"[""Mobile Development""]","[""Healthcare""]",[],[],labelled,all,,
+278,Ứng dụng di động IcarP và hệ thống bãi gửi xe thông minh IcarP,neu,"[""Mobile Development""]",[],[],[],labelled,all,,
+279,Phát triển ứng dụng quản lý tài chính cá nhân tích hợp Chatbot và Minigame sử dụng nền tảng Flutter,neu,"[""Generative AI & LLM"", ""Information & Enterprise Systems"", ""Mobile Development""]","[""Finance & Banking""]","[""Generative AI & LLM"", ""Information & Enterprise Systems""]",[],labelled,all,suggested_topic,
+280,XÂY DỰNG ỨNG DỤNG CHAT VỚI NGƯỜI LẠ TRÊN THIẾT BỊ DI ĐỘNG TÍCH HỢP CHATBOT AI,duytan,"[""AI/ML"", ""Generative AI & LLM"", ""Mobile Development"", ""Natural Language Processing""]",[],"[""Generative AI & LLM""]",[],labelled,all,suggested_topic,
+281,"Phát triển ứng dụng di động tích hợp lên hệ thống CRM cho trường mầm non, tiểu học",uit,"[""Information & Enterprise Systems"", ""Mobile Development""]","[""Education""]",[],[],labelled,all,information_management_split,
+282,Xây dựng ứng dụng di động hỗ trợ học từ vựng tiếng Anh,uit,"[""Mobile Development""]","[""Education""]",[],[],labelled,all,,
+283,Xây dựng ứng dụng nhận dạng khuôn mặt trên smartphone,uit,"[""AI/ML"", ""Computer Vision"", ""Mobile Development""]",[],[],[],labelled,all,,
+284,Building a mobile app for fish detection,uit,"[""AI/ML"", ""Computer Vision"", ""Mobile Development""]",[],[],[],labelled,all,,
+285,Mobile Application for Health Diagnosis,uit,"[""AI/ML"", ""Mobile Development""]","[""Healthcare""]",[],[],labelled,all,,
+286,Ứng dụng trí tuệ nhân tạo trong phát hiện xâm nhập và malware trên nền tảng Android,uet_chuan,"[""AI/ML"", ""Cybersecurity"", ""Mobile Development""]",[],[],[],labelled,all,,
+287,Employee time recording system with Ibeacon technology on IOS platform,uit,"[""IoT / Embedded"", ""Mobile Development""]",[],[],[],labelled,all,,
+288,Thiết kế máy hút bụi thông minh,neu,"[""IoT / Embedded""]",[],[],[],labelled,all,,
+289,NGHIÊN CỨU ỨNG DỤNG HỌC MÁY TRONG PHÁT HIỆN VÀ DỰ ĐOÁN LỖI HỆ THỐNG ĐIỀU KHIỂN UAV THÔNG QUA LOG BAY,ptit,"[""AI/ML"", ""IoT / Embedded""]",[],[],[],labelled,all,,
+290,Sử dụng cử chỉ tay để điều khiển thiết bị,ptit,"[""AI/ML"", ""Computer Vision"", ""IoT / Embedded""]",[],[],[],labelled,all,,
+291,NC Công cụ kiểm thự tự động Selenium và ứng dụng kiểm thử website hoctestertop.com,neu,"[""Software Testing"", ""Web Development""]",[],[],[],labelled,all,,
+292,Kiểm thử ứng dụng quản lí nhà hàng Smart Restaurant trên Andorid,neu,"[""Information & Enterprise Systems"", ""Mobile Development"", ""Software Testing""]","[""Tourism & Hospitality""]","[""Information & Enterprise Systems""]","[""Tourism & Hospitality""]",labelled,all,suggested_topic|suggested_domain,
+293,NC công cụ kiểm thử và ứng dụng kiểm thử website SmartWork,neu,"[""Software Testing"", ""Web Development""]",[],[],[],labelled,all,,
+294,Công cụ kiểm thử tự động AKAAT studio và ứng dụng vào kiểm thử website Iquiz,neu,"[""Software Testing"", ""Web Development""]",[],[],[],labelled,all,,
+295,Tìm hiểu kiểm thử tự động và ứng dụng công cụ Selenium web driver để kiểm thử web Guardian.com.vn,neu,"[""Software Testing"", ""Web Development""]",[],[],[],labelled,all,,
+296,Kiểm thử tự động chức năng và hiệu năng cho hệ thống Website Velocity,ptit,"[""Software Testing"", ""Web Development""]",[],[],[],labelled,all,,
+297,Xây dựng công cụ kiểm thử API tự động,uet_chuan,"[""Software Testing""]",[],[],[],labelled,all,,
+298,Ứng dụng nhận diện hình ảnh và văn bản trong kiểm thử phần mềm tự động,uet_chuan,"[""AI/ML"", ""Computer Vision"", ""Natural Language Processing"", ""Software Testing""]",[],"[""Natural Language Processing""]",[],labelled,all,suggested_topic,
+299,Phương pháp giải kiểu dữ liệu sử dụng cây cú pháp trừu tượng cho sinh dữ liệu kiểm thử tự động các dự án C/C++,uet_clc,"[""Software Testing""]",[],[],[],labelled,all,,
+300,Phương pháp kiểm thử hồi quy đơn vị tự động hiệu quả cho dự án sử dụng ngôn ngữ Java,uet_clc,"[""Software Testing""]",[],[],[],labelled,all,,
+301,Phương pháp sinh dữ liệu kiểm thử giao diện tự động cho các dự án C++ sử dụng Qt Framework,uet_clc,"[""Software Testing""]",[],[],[],labelled,all,,
+302,Phát triển tính năng trực quan hoá độ phủ của các ca kiểm thử sử dụng đồ thị dòng điều khiển nhằm tăng hiệu quả của quá trình kiểm thử tự động cho các dự án C/C++,uet_clc,"[""Software Testing""]",[],[],[],labelled,all,,
+303,Phương pháp kiểm thử tự động cho các dự án C++ sử dụng kiểu dữ liệu con trỏ thông minh,uet_clc,"[""Software Testing""]",[],[],[],labelled,all,,
+304,Xây dựng công cụ tạo Stub tự động cho các hàm thư viện trong quá trình sinh dữ liệu kiểm thử đơn vị cho dự án sử dụng ngôn ngữ Java,uet_clc,"[""Software Testing""]",[],[],[],labelled,all,,
+305,XD HTTT quản lí bài viết tại thời báo kinh tế VN,neu,"[""Information & Enterprise Systems""]","[""News & Media""]",[],[],labelled,all,information_management_split,
+306,Xây dựng công cụ phân loại các bình luận tiêu cực trên Wikipedia,uit,"[""AI/ML"", ""Natural Language Processing""]","[""News & Media""]",[],[],labelled,all,,
+307,Xây dựng hệ thống thu thập bài viết và thảo luận từ Facebook group và tìm ra những người có ảnh hưởng nhất,uit,"[""Data Science & Analytics""]","[""News & Media""]",[],[],labelled,all,,
+308,Xây dựng website diễn đàn chia sẽ bài viết và sử dụng kỹ thuật tìm kiếm toàn văn,uit,"[""Web Development""]","[""News & Media""]",[],[],labelled,all,,
+309,Xây dựng blog lịch sử Việt Nam,neu,"[""Web Development""]","[""News & Media""]",[],[],labelled,all,,
+310,Xây dựng diễn đàn trao đổi công nghệ sử dụng spring framework,ptit,"[""Web Development""]","[""News & Media""]",[],[],labelled,all,,
+311,Xây dựng mạng xã hội hỏi đáp dành cho cộng đồng IT,uit,"[""Web Development""]","[""News & Media""]",[],[],labelled,all,,
+312,Ứng dụng học máy trong dự đoán năng suất và khuyến nghị cây trồng tối ưu,neu,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,2
+313,Chatbot ứng dụng trí tuệ nhân tạo hỗ trợ nhận diện bệnh cây trồng và tư vấn nông nghiệp,neu,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture"", ""Generative AI & LLM""]",,5
+314,Đo lường độ bất định thông qua mạng nơron bayesian “áp dụng dự đoán giá bất động sản”,neu,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,7
+315,Nghiên cứu và xây dựng hệ thống tự động xử lí và đánh giá hồ sơ ứng viên dựa trên mô hình trí tuệ nhân tạo đa tác tử,neu,"[""Generative AI & LLM""]","[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Generative AI & LLM"", ""Human Resources & Recruitment""]",,8
+316,Xây dựng trò chơi hành động - phiêu lưu Chrono Echo,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,9
+317,"Nghiên cứu, xây dựng ứng dụng quản lý thành viên cây Gia phả",neu,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,13
+318,Phân tích & dự đoán khả năng tham gia lao động phi nông nghiệp của hộ gia đình Việt Nam từ số liệu VHLSS 2014-2018,neu,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,15
+319,Xây dựng trò chơi nhập vai với cơ chế chiến đấu theo lượt,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,18
+320,Nghiên cứu một số thuật toán học máy trong dự đoán khả năng khách hàng ngưng sử dụng dịch vụ viễn thông,neu,[],"[""Telecommunications""]",[],[],annotated_partial,"[""Telecommunications""]",,19
+321,Game bắn súng Ace wings,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,27
+322,NC và XD ứng dụng Game trên Unity Engine,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,35
+323,Tổng quan về phát triển Game và tìm hiểu về Engine Unity trong xây dựng game,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,41
+324,Thiết kế và XD Game 2D One Piece: The Advanture,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,48
+325,XD HT quản lí nhân sự cho công ty Tinh Vân Consulting,neu,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,61
+326,Phân tích và XD bài toán quản lí các dịch vụ của khu chung cư,neu,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,67
+327,Phân tích và XD phần mềm quản lí nhân sự tiền lương của công ty công nghệ Hòa An,neu,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,69
+328,XD hệ thống quản lí nhân sự cho công ty Rikkeisoft,neu,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,72
+329,XD HT quản lí vận tải GoNow,neu,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,95
+330,XD Chức năng thanh toán tiền thưởng trên HT Oracle Netsuite,neu,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,96
+331,XD ứng dụng QL đặt hàng cho CT CP sản xuất TLG VN,neu,[],"[""Manufacturing & Industry""]",[],[],annotated_partial,"[""Manufacturing & Industry""]",,112
+332,XD website TMĐT cho cửa hàng Nông sản sạch Tomita,neu,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,114
+333,Bài toán QL kí túc xá trường Đại học Công nghiệp HN,neu,[],"[""Manufacturing & Industry""]",[],[],annotated_partial,"[""Manufacturing & Industry""]",,119
+334,XD website dịch vụ môi giới việc làm,neu,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,121
+335,Nhận dạng biển số xe ô tô,neu,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,130
+336,XD website sự kiện,neu,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,135
+337,XD Hệ thống quản lí thông tin tuyển dụng cho ngành CNTT,neu,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,136
+338,XD website Scan Party quản lí khách mời sự kiện,neu,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,138
+339,XD Website bất động sản Thuận Thành Land,neu,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,140
+340,XD website cho thuê nhà trọ sinh viên,neu,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,142
+341,NC ứng dụng công nghệ BlockChain để XD sàn giao dịch NFT,neu,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,144
+342,XD Game Graphic Adventure Evil Bunny,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,148
+343,XD website quản lí chung cư,neu,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,152
+344,XD HT quản lí tài liệu dự án bằng công nghệ BlockChain,neu,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,156
+345,XD website bán mỹ phẩm sử dụng Laravel và MySQL,neu,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,160
+346,NC về thiết kế trải nghiệm người dùng,neu,"[""UI/UX Design""]",[],[],[],annotated_partial,"[""UI/UX Design""]",,162
+347,NC ứng dụng CN chuỗi khối trong HT QL văn bằng tốt nghiệp tại trường ĐH KTQD,neu,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,169
+348,XD Website bán giày thể thao cho cửa hàng Dragon Shop,neu,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,170
+349,Ứng dụng công nghệ NFT và đồng tiền điện tử trong XD hệ thống TMĐT,neu,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,172
+350,XD HT phát hiện buồn ngủ của người lái ô tô và xe máy,neu,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,174
+351,XD hệ thống dự báo giá nhà đất dựa trên các mô hình học máy và học sâu,neu,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,187
+352,"NC, XD phần mềm quản lí nhân sự tại công ty cổ phần Ichiba VN",neu,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,197
+353,NC và XD Data Warehouse và trực quan hóa dữ liệu cho nền tảng khóa học trực tuyến Noron Academy,neu,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,199
+354,Nghiên cứu và phát triển hệ thống khai thác dữ liệu đa phương thức trong tài liệu tiếng anh và tiếng việt dựa trên mô hình trí tuệ nhân tạo đa tác tử,neu,"[""Generative AI & LLM""]",[],[],[],annotated_partial,"[""Generative AI & LLM""]",,211
+355,Nghiên cứu và xây dựng hệ thống đa phương thức trong xử lý thông minh tài liệu giáo dục dựa trên mô hình trí tuệ nhân tạo đa tác tử,neu,"[""Generative AI & LLM""]",[],[],[],annotated_partial,"[""Generative AI & LLM""]",,212
+356,Xây dựng game lịch sử Đinh Bộ Lĩnh dẹp loạn 12 xứ quân,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,216
+357,Phát triển hệ thống chấm điểm thực hành thể thao dựa trên công nghệ ước lượng tư thế,neu,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,226
+358,Xây dựng hệ thống chatbot AI cho quản lý tin nhắn Facebook Messenger sử dụng kiến trúc RAG và quy trình hybrid AI-Human,neu,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Generative AI & LLM"", ""Software Architecture & Engineering""]",,229
+359,Sử dụng học máy phân tích cảm xúc cộng đồng về lộ trình chuyển đổi xe xăng sang xe điện,neu,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,230
+360,Xây dựng Website bán đồ gỗ mỹ nghệ cho xưởng sản xuất mộc Thiên Long,neu,[],"[""Manufacturing & Industry""]",[],[],annotated_partial,"[""Manufacturing & Industry""]",,233
+361,Ứng dụng công nghệ thực tế ảo trong giảng dạy và thực hành thí nghiệm sắc ký lớp mỏng,neu,"[""AR/VR & Spatial Computing""]",[],[],[],annotated_partial,"[""AR/VR & Spatial Computing""]",,237
+362,Ứng dụng RAG-LLM trong phân tích xu hướng thị trường chứng khoán Việt Nam với dữ liệu Near Realtime,neu,"[""Generative AI & LLM""]",[],[],[],annotated_partial,"[""Generative AI & LLM""]",,240
+363,Nghiên cứu và xây dựng hệ thống giao thức ngữ cảnh mô hình tích hợp tăng cường truy xuất thông tin và nhận diện tài liệu dựa trên mô hình trí tuệ nhân tạo đa tác tử,neu,"[""Generative AI & LLM""]",[],[],[],annotated_partial,"[""Generative AI & LLM""]",,246
+364,Làm game 2D giải đố bằng Unity,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,249
+365,Nghiên cứu và xây dựng ứng dụng trí tuệ nhân tạo tự động giao dịch đa cổ phiếu dựa trên kiến trúc tác tử SAC cải tiến với mạng Nơron lượng tử kết hợp kỹ thuật học tăng cường sâu,neu,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Software Architecture & Engineering""]",,251
+366,Hệ thống xác thực tài liệu ứng dụng Blockchain,neu,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,265
+367,Phát triển trò chơi bắn súng góc nhìn thứ nhất,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,268
+368,Xây dựng ứng dụng quản lý quy trình sản xuất cho Đài Phát thanh Truyền hình Hải Phòng,neu,[],"[""Manufacturing & Industry""]",[],[],annotated_partial,"[""Manufacturing & Industry""]",,270
+369,Xây dựng game 2D RIFT OF LYRA,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,275
+370,Phát triển game 2D có yếu tố thần thoại Việt Nam,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,290
+371,Nghiên cứu khả năng suy luận của trí tuệ nhân tạo tạo sinh: Áp dụng cho hỗ trợ tìm kiếm việc làm cho sinh viên Đại học Kinh tế quốc dân,neu,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,291
+372,Xây dựng hệ thống phát hiện sớm tín hiệu biển báo giao thông cho lái xe dựa trên kỹ thuật học sâu,neu,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,296
+373,Xây dựng website bán hàng thể thao tích hợp hệ thống gợi ý,neu,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,297
+374,Phân tích giá nhà đất ở Việt Nam sử dụng mô hình học máy,neu,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,300
+375,Thiết kế và Xây dựng game 2D,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,309
+376,Xây dựng ứng dụng quản lý và tìm kiếm sự kiện trên điện thoại,neu,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,310
+377,Xây dựng hệ thống quản trị học tập dựa trên kiến trúc Microservice,neu,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Software Architecture & Engineering""]",,311
+378,Xây dựng website mạng xã hội tích hợp trí tuệ nhân tạo AI,neu,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,313
+379,Xây dựng website sử dụng kiến trúc microservices trong lĩnh vực du lịch,neu,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Cloud & DevOps"", ""Software Architecture & Engineering""]",,318
+380,Xây dựng Website cho trung tâm Piano có tích hợp Chatbot trong việc tự động giao tiếp và đào tạo nhân sự,neu,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Generative AI & LLM"", ""Human Resources & Recruitment""]",,328
+381,Hệ thống thu thập và phân tích dữ liệu Reddit cho Lĩnh vực Data Engineering,neu,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,329
+382,Xây dựng website cho thuê xe ô tô trực tuyến Recars,neu,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,336
+383,Thiết kế và xây dựng Game Nông trại 3D bằng Unity Engine,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,338
+384,Thiết kế và phát triển hệ thống cho thuê xe ô tô trực tuyến ứng dụng công nghệ web,neu,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,342
+385,Xây dựng ứng dụng phát hiện và nhận diện biển báo giao thông tại Việt Nam,neu,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,343
+386,Thiết kế game Ai là triệu phú,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,352
+387,Thiết kế và đánh giá hệ thống gia sư AI dựa trên RAG: Ứng dụng lý thuyết giáo dục hỗ trợ học tập từ tài liệu gốc,neu,"[""Generative AI & LLM""]",[],[],[],annotated_partial,"[""Generative AI & LLM""]",,358
+388,Nghiên cứu và phát triển chatbot dựa trên mô hình ngôn ngữ lớn kết hợp với kỹ thuật tìm kiếm tăng cường dữ liệu: Áp dụng tại Đại học Kinh tế Quốc dân,neu,"[""Generative AI & LLM""]",[],[],[],annotated_partial,"[""Generative AI & LLM""]",,364
+389,Nguyên cứu và triển khai hệ thống DevOps cho nền tảng website,neu,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,366
+390,Xây dựng game chiến thuật nhập vai theo lượt (RPG TURN BASED),neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,371
+391,Xây dựng Game Engine 2D,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,372
+392,Xây dựng website quản lý nội dung đa người dùng với kiến trúc multi-tenancy,neu,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Software Architecture & Engineering""]",,381
+393,Nghiên cứu và xây dựng giải pháp devops trong phát triển phần mềm: áp dụng với bài toán cân bằng tải và tích hợp triển khai tự động ci/cd của hệ thống quản lý kết nối gia sư tutor-connect,neu,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,388
+394,Xây dựng ứng dụng hỗ trợ tìm kiếm việc làm thời vụ,neu,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,389
+395,Xây dựng website tuyển dụng và tư vấn việc làm,neu,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,392
+396,Website học tập đa môn học thông qua các trò chơi,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,395
+397,Xây dựng ứng dụng mạng xã hội Zingo,neu,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,396
+398,Trò chơi Sinh tồn 3D,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,399
+399,Xây dựng Game Online theo lượt Adventure From Beyond,neu,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,404
+400,Xây dựng Website xem phim trực tuyến tích hợp FFmpeg và Content Delivery nhằm nâng cao hiệu suất truyễn dẫn và bảo mật nội dung kết hợp AI hỗ trợ người dùng,duytan,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,408
+401,XÂY DỰNG HỆ THỐNG HỖ TRỢ KINH DOANH NÔNG SẢN TÍCH HỢP AI,duytan,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,409
+402,XÂY DỰNG HỆ THỐNG QUẢN LÝ CĂN HỘ CHO THUÊ TÍCH HỢP CHATBOT AI GỢI Ý VÀ TƯ VẤN CHO KHÁCH HÀNG,duytan,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Generative AI & LLM"", ""Real Estate & Construction""]",,412
+403,"Phát triển hệ thống đăng tin, mua bán bất động sản tích hợp Chatbot AI và hệ thống gợi ý thông minh",duytan,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Generative AI & LLM"", ""Real Estate & Construction""]",,418
+404,XÂY DỰNG HỆ THỐNG TUYỂN DỤNG VÀ TƯ VẤN VIỆC LÀM TÍCH HỢP TRÍ TUỆ NHÂN TẠO,duytan,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,419
+405,PHÁT TRIỂN HỆ THỐNG AI PHÂN TÍCH CV VÀ ĐỀ XUẤT VIỆC LÀM PHÙ HỢP,duytan,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,426
+406,Hệ thống hỗ trợ khẩn cấp cộng đồng thời gian thực hiện trên nền tảng Web tích hợp AI,duytan,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,428
+407,XÂY DỰNG HỆ THỐNG ĐẶT VÀ QUẢN LÝ BÃI ĐỖ XE TÍCH HỢP AI TRỢ LÝ ẢO CHO NGƯỜI DÙNG VÀ CHỦ BÃI,duytan,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,433
+408,HỆ THỐNG HỒ SƠ HỌC TẬP SỐ PHI TẬP TRUNG TRÊN NỀN TẢNG BLOCKCHAIN,duytan,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,436
+409,Xây dựng hệ thống quản lý vận chuyển hàng hóa Speedyship tích hợp AI hỗ trợ khách hàng,duytan,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,437
+410,"XÂY DỰNG HỆ THỐNG QUẢN LÝ PHÒNG GYM THÔNG MINH, TÍCH HỢP AI HỖ TRỢ RA QUYẾT ĐỊNH KINH DOANH",duytan,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,439
+411,Xây dựng website FreeWork - Nền tảng kết nối Freelancer và nhà tuyển dụng tích hợp kí gửi Escrow và AI hỗ trợ tư vấn,duytan,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,448
+412,"Xây dựng website hỗ trợ tìm việc làm, tích hợp AI Recommendation",duytan,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,452
+413,XÂY DỰNG HỆ THỐNG QUẢN LÝ NHÂN SỰ TÍCH HỢP AI PHÂN TÍCH CV HỖ TRỢ TUYỂN DỤNG,duytan,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,456
+414,XÂY DỰNG HỆ THỐNG BOOKINGSPORT – WEBSITE ĐẶT SÂN THỂ THAO TÍCH HỢP CHATBOT AI,duytan,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,465
+415,DANATRIP - HỆ THỐNG DU LỊCH THÔNG MINH TÍCH HỢP THỰC TẾ ẢO CHO THÀNH PHỐ ĐÀ NẴNG,duytan,"[""AR/VR & Spatial Computing""]",[],[],[],annotated_partial,"[""AR/VR & Spatial Computing""]",,469
+416,XÂY DỰNG WEBSITE TUYỂN DỤNG THÔNG MINH TÍCH HỢP AI PHÂN TÍCH VÀ ĐÁNH GIÁ CV DỰA TRÊN MÔ TẢ CÔNG VIỆC,duytan,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,470
+417,Xây dựng hệ thống đăng tin cho thuê căn hộ đa nền tảng tích hợp ai hỗ trợ người dùng,duytan,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,478
+418,"Xây dựng website hẹn hò trực tuyến, sử dụng ai gợi ý kết bạn và đề phòng giả mao",duytan,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,489
+419,WEBSITE MẠNG XÃ HỘI DU LỊCH KHÁM PHÁ MIỀN TRUNG TÍCH HỢP AI VÀ CHECK- IN/CHECK-OUT ĐIỆN TỬ.,duytan,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,493
+420,XÂY DỰNG WEBSITE BÁN ĐỒ THỂ THAO TÍCH HỢP CÁ NHÂN HOÁ SẢN PHẨM VÀ CHATBOX AI,duytan,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,498
+421,HỆ THỐNG QUẢN LÝ VÀ ĐIỀU PHỐI NGUỒN LỰC TÌNH NGUYỆN VIÊN TRỰC TUYẾN TÍCH HỢP MÔ HÌNH HỖ TRỢ RA QUYẾT ĐỊNH,duytan,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,505
+422,Thiết kế và xây dựng website mua bán nông sản tích hợp AI gợi ý mua sắm và phân tích dữ liệu kinh doanh.,duytan,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,506
+423,XÂY DỰNG HỆ THỐNG QUẢN LÝ CANH TÁC TÍCH HỢP AI HỖ TRỢ CHẨN ĐOÁN BỆNH VÀ CHĂM SÓC CÂY TRỒNG,duytan,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,510
+424,XÂY DỰNG NỀN TẢNG MẠNG XÃ HỘI EDUCONNECT LIVE HỖ TRỢ GIAO TIẾP THỜI GIAN THỰC CHO SINH VIÊN TÍCH HỢP AI VỚI CHỨC NĂNG KIỂM DUYỆT NỘI DUNG,duytan,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,511
+425,THIẾT KẾ VÀ TRIỂN KHAI HỆ THỐNG QUẢN LÝ - ĐẶT SÂN THỂ THAO TRỰC TUYẾN TÍCH HỢP CHATBOT AI,duytan,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,515
+426,XÂY DỰNG HỆ THÓNG KẾT NỐI VIỆC LÀM FREELANCE TÍCH HỢP AI PHÂN TÍCH VÀ ĐÁNH GIÁ KỸ NĂNG CÁ NHÂN HÓA,duytan,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,520
+427,XÂY DỰNG WEBSITE TUYỂN DỤNG TRỰC TUYẾN TÍCH HỢP AI HỖ TRỢ ĐÁNH GIÁ HỒ SƠ ỨNG VIÊN,duytan,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,528
+428,XÂY DỰNG HẾ THỐNG QUẢN LÝ GIA PHẢ TRỤC TUYẾN TÍCH HỢP CHATBOT AI HỖ TRỢ NGƯỜI DÙNG,duytan,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,537
+429,"XÂY DỰNG HỆ THÓNG BÁN VÉ SỰ KIỆN ỨNG DỤNG CÔNG NGHỆ BLOCKCHAIN VÀ TRÍ TUỆ NHÂN TẠO (AI) NHẰM PHÁT HIỆN, NGĂN CHẶN HÀNH VI TỰ ĐỘNG (BOT)",duytan,"[""Blockchain""]","[""Social & Community""]",[],[],annotated_partial,"[""Blockchain"", ""Social & Community""]",,543
+430,THIẾT KẾ HỆ THỐNG THI TRỰC TUYẾN VỚI CƠ CHẾ GIÁM SÁT VÀ PHÁT HIỆN GIAN LẬN THÔNG MINH,duytan,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Software Architecture & Engineering""]",,545
+431,Phát triển nền tảng kết nối ứng viên và nhà tuyển dụng ứng dụng có Chatbot AI đề xuất việc làm,duytan,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,553
+432,XÂY DỰNG WEBSITE WRStudios ĐỂ CHO THUÊ CĂN HỘ TÍCH HƠP HỆ THỐNG BẢN ĐỒ SỐ MAPBOX VÀ AI HƯỚNG DẪN ĐƯỜNG ĐI ĐẾN CĂN HỘ,duytan,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,555
+433,WEBSITE TÌM KIẾM VIỆC LÀM (dùng Chatbox AI hỗ trợ người dùng tìm kiếm và hiển thị danh sách các việc làm phù hợp với nhu cầu tìm kiếm),duytan,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,559
+434,SHADOW WARIOR - PHÁT TRIỂN GAME BẮN SUNG 2D PIXEL THỂ LOẠI TOP DOWN,duytan,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,565
+435,PHÁT TRIỂN CÔNG CỤ ỨNG DỤNG AI TRONG VIỆC CHUYỂN ĐỔI NGÔN NGỮ TỰ NHIÊN THÀNH CÂU TRUY VẤN SQL NHẰM HỖ TRỢ TRA CỨU NHANH THÔNG TIN,ptit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,569
+436,Giải pháp cung cấp dịch vụ quản lý bán hàng trên mạng xã hội,ptit,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,598
+437,Advertisement system in Mobile platform with Augmented Reality,uit,"[""AR/VR & Spatial Computing""]",[],[],[],annotated_partial,"[""AR/VR & Spatial Computing""]",,620
+438,Building an Application Provide Real Estate Agent Features,uit,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,623
+439,Hệ thống giám sát giao thông tự động hỗ trợ đếm xe và đo tốc độ,uit,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,639
+440,Hệ thống hỗ trợ quản lý chuỗi sản xuất theo tiêu chuẩn VIETGAP,uit,[],"[""Manufacturing & Industry""]",[],[],annotated_partial,"[""Manufacturing & Industry""]",,643
+441,Hệ thống quản lý bán và giao hàng trực tuyến,uit,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,648
+442,Hệ thống truy xuất nguồn gốc hàng hóa dựa trên công nghệ Blockchain,uit,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,651
+443,Hệ thống truy xuất nguồn gốc trong chăn nuôi bằng công nghệ Blockchain,uit,"[""Blockchain""]","[""Agriculture""]",[],[],annotated_partial,"[""Agriculture"", ""Blockchain""]",,652
+444,Khai phá một số quan điểm từ mạng xã hội,uit,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,660
+445,Khai thác thông tin người dùng trên mạng xã hội,uit,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,661
+446,Nghiên cứu các phương pháp dự đoán liên kết trong mạng xã hội dựa trên đồ thị mạng nơ-ron,uit,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,666
+447,Nghiên cứu cơ sở dữ liệu NoSQL và chuyển đổi lược đồ cơ sở dữ liệu sang NoSQL,uit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,667
+448,Nghiên cứu phương pháp tối ưu hoá cây Merkle trong công nghệ chuỗi khối,uit,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,673
+449,Nâng cao hiệu quả quản lý và hỗ trợ lập kế hoạch sản xuất trong chăn nuôi,uit,[],"[""Agriculture"", ""Manufacturing & Industry""]",[],[],annotated_partial,"[""Agriculture"", ""Manufacturing & Industry""]",,680
+450,Nâng cao trải nghiệm người dùng thương mại điện tử ứng dụng thực tại tăng cường,uit,"[""UI/UX Design""]",[],[],[],annotated_partial,"[""UI/UX Design""]",,681
+451,Quản lý căn hộ chung cư-kết nối cư dân và ban quản lý,uit,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,692
+452,Thiết kế và triển khai dịch vụ nhận dạng khuôn mặt trên nền tảng đám mây,uit,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,697
+453,Thiết kế và triển khai hệ thống bảng hiệu điện tử thông minh trên nền tảng đám mây,uit,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,698
+454,Thiết kế và triển khai hệ thống quảng cáo điện tử trên nền tảng đám mây,uit,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,699
+455,Thiết kế và xây dựng hệ thống quản lý bất động sản,uit,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,700
+456,Trực quan hóa dữ liệu cho hệ thống giám sát môi trường trực tuyến.,uit,[],"[""Environment & Energy""]",[],[],annotated_partial,"[""Environment & Energy""]",,702
+457,"Tìm hiểu Alfresco ECM, áp dụng vào việc quản lý và lưu trữ văn bản hành chính tại trường ĐH CNTT",uit,[],"[""Government & Public Sector""]",[],[],annotated_partial,"[""Government & Public Sector""]",,703
+458,Tìm hiểu Google Cloud Dialogflow – và xây dựng ứng dụng chatbot minh họa,uit,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,705
+459,Xây dựng công cụ hỗ trợ tìm việc từ các website việc làm khác,uit,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,730
+460,Xây dựng game lấy bối cảnh đại dịch Covid 19,uit,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,734
+461,Xây dựng hệ thống hồ sơ cá nhân và hỗ trợ tuyển dụng cho doanh nghiệp thông qua công nghệ blockchain và trí tuệ nhân tạo,uit,"[""Blockchain""]","[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Blockchain"", ""Human Resources & Recruitment""]",,755
+462,Xây dựng hệ thống lưu trữ và tìm kiếm văn bản trên nền tảng Apache Spark,uit,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,757
+463,Xây dựng hệ thống quản lý quy trình tuyển dụng,uit,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,764
+464,"Xây dựng hệ thống thu thập, lưu trữ và tìm kiếm trên nền tảng HADOOP",uit,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,773
+465,Xây dựng hệ thống trích xuất nhật ký sự kiện từ cơ sở dữ liệu và ứng dụng web khai phá quy trình,uit,"[""Database""]","[""Social & Community""]",[],[],annotated_partial,"[""Database"", ""Social & Community""]",,775
+466,Xây dựng hệ thống tổ chức sự kiện trực tuyến,uit,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,781
+467,Xây dựng mạng kỹ năng nghề nghiệp và hỗ trợ tìm kiếm ứng viên tối ưu,uit,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,795
+468,Xây dựng mạng xã hội du lịch BIGS cho thiết bị di động,uit,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,797
+469,Xây dựng mạng xã hội du lịch và ẩm thực ZESS,uit,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,798
+470,Xây dựng mạng xã hội âm nhạc,uit,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,800
+471,Xây dựng mạng xã hội âm nhạc (Social Music),uit,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,801
+472,Xây dựng nền tảng tổ chức sự kiện ảo cho triển lãm trực tuyến,uit,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,803
+473,Xây dựng sàn giao dịch NFT,uit,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,806
+474,Xây dựng website bán hàng nông sản sạch,uit,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,811
+475,Xây dựng website tìm kiếm việc làm,uit,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,834
+476,Xây dựng website tìm kiếm và tuyển dụng việc làm. Tích hợp chức năng gợi ý việc làm phù hợp cho ứng viên,uit,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,835
+477,Xây dựng website vận hành chung cư,uit,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,836
+478,Xây dựng ứng dụng di động nhận diện biển báo giao thông thời gian thực,uit,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,843
+479,Xây dựng ứng dụng quản lý làm việc nhóm trên môi trường Windows UWP,uit,[],"[""Environment & Energy""]",[],[],annotated_partial,"[""Environment & Energy""]",,853
+480,Xây dựng ứng dụng quản lý quy trình sản xuất phần mềm dựa trên mô hình SCRUM,uit,[],"[""Manufacturing & Industry""]",[],[],annotated_partial,"[""Manufacturing & Industry""]",,855
+481,Xây dựng ứng dụng quản lý trồng trọt và chăn nuôi,uit,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,856
+482,Xây dựng ứng dụng thương mại điện tử trên nền tảng công nghệ chuỗi khối,uit,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,857
+483,Xây dựng ứng dụng web thuê nhà dựa trên kiến trúc microservices,uit,"[""Cloud & DevOps"", ""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Cloud & DevOps"", ""Software Architecture & Engineering""]",,865
+484,Xây dựng chỉ mục đồ thị và ứng dụng trong Cơ sở dữ liệu Protein,uit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,869
+485,Đề xuất các phương pháp tự động hoá thiết kế cơ sở dữ liệu và sinh ra câu lệnh truy vấn từ mô tả bằng ngôn ngữ tự nhiên,uit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,874
+486,Ứng dụng Business Automation Framework (BAF) để tự động hóa các quy trình nghiệp vụ tại bộ phận nhân sự trong các công ty dịch vụ công ích,uit,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,878
+487,Ứng dụng CSDL đồ thị trong hệ thống lưu trữ và tìm kiếm thông tin âm nhạc,uit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,879
+488,Ứng dụng Data warehouse vào khai thác dữ liệu bán lẻ,uit,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,880
+489,Ứng dụng blockchain vào hệ thống quản lý bệnh án điện tử,uit,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,883
+490,Ứng dụng công nghệ chuỗi khối trong việc xây dựng hệ thống bầu cử,uit,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,884
+491,Ứng dụng hỗ trợ tự tập gym dựa trên trí tuệ nhân tạo,uit,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,886
+492,"Ứng dụng khai phá dữ liệu phân tán để xây dựng hệ thống phân tích, đánh giá năng suất và hỗ trợ ra quyết định trong chăn nuôi.",uit,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,887
+493,A web-based management system for real estate properties,uit,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,907
+494,An automation support tool for deploying infrastructure to the cloud using Terraform and CICD,uit,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,916
+495,Analyzing and forecasting Wikipedia web traffic,uit,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,920
+496,Applying graph database for searching the most trending topics on e-journal,uit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,927
+497,Applying prediction models to forecast the real estate price in Ho Chi Minh city,uit,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,930
+498,Augmented reality application for interior furniture design – research and development,uit,"[""AR/VR & Spatial Computing""]",[],[],[],annotated_partial,"[""AR/VR & Spatial Computing""]",,936
+499,Building a cloud based quiz system for student studying,uit,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,942
+500,Building an internet-based application using blockchain technology in financial services,uit,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,956
+501,Building human resource management system for real estate company,uit,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,958
+502,Clustering and visualizing the text stream of document using topic model and graph database,uit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,961
+503,Compare query performance on non-relational database (NOSQL),uit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,962
+504,Deep learning for traffic sign recognition,uit,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,969
+505,Deploying a face recognition web application on Kubernetes,uit,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,970
+506,Design and implementation of a cloud-based Metaverse system,uit,"[""AR/VR & Spatial Computing"", ""Cloud & DevOps""]",[],[],[],annotated_partial,"[""AR/VR & Spatial Computing"", ""Cloud & DevOps""]",,971
+507,Develop an online tutoring website with microservices architecture,uit,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,974
+508,"Development of an AI-based weather forecasting system, and mobile app",uit,[],"[""Environment & Energy""]",[],[],annotated_partial,"[""Environment & Energy""]",,975
+509,Facial recognition technology in gym management.,uit,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,979
+510,Mapping relational and object relational databases NoSQL MongoDB,uit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,992
+511,Query optimization in distributed database system,uit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,1000
+512,Real estate management and posting website,uit,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,1004
+513,Real-time customer reviews analysis using machine learning on big data framework,uit,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,1005
+514,Rent me – a web-based platform for the game player community,uit,[],"[""Entertainment & Gaming"", ""Social & Community""]",[],[],annotated_partial,"[""Entertainment & Gaming"", ""Social & Community""]",,1006
+515,Research on Watermark and Implementing an application on NoSQL database,uit,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,1011
+516,Traffic jams prediction using machine learning,uit,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,1023
+517,Xây dựng ứng dụng mạng xã hội việc làm ( Phía Frontend ),uet_chuan,[],"[""Human Resources & Recruitment"", ""Social & Community""]",[],[],annotated_partial,"[""Human Resources & Recruitment"", ""Social & Community""]",,1036
+518,Xây dựng chatbot sử dụng RAG kết hợp LLM,uet_chuan,"[""Generative AI & LLM""]",[],[],[],annotated_partial,"[""Generative AI & LLM""]",,1038
+519,Hệ thống quản lý kết nối các nhà phân phối phụ tùng ô tô và người mua,uet_chuan,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,1047
+520,Tìm hiểu hệ thống Data Warehouse mã nguồn mở Apache Doris,uet_chuan,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,1061
+521,Ứng dụng thực tế ảo tăng cường trong trải nghiệm làm khảm trai truyền thống Việt Nam,uet_chuan,"[""AR/VR & Spatial Computing""]",[],[],[],annotated_partial,"[""AR/VR & Spatial Computing""]",,1082
+522,Xây Dựng Nền Tảng Hỗ Trợ Kết Nối Và Phát Triển Cộng Đồng Sinh Viên Trong Trường Đại Học,uet_chuan,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,1085
+523,Xây dựng hệ thống quản lý chấm công tự động dựa trên nhận dạng khuôn mặt tích hợp các mô hình học máy và cơ sở dữ liệu vector,uet_chuan,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,1087
+524,Ứng dụng thực tế ảo tăng cường trong trải nghiệm làm mặt nạ giấy bồi truyền thống Việt Nam,uet_chuan,"[""AR/VR & Spatial Computing""]",[],[],[],annotated_partial,"[""AR/VR & Spatial Computing""]",,1088
+525,"Phân tích, thiết kế và xây dựng hệ thống kinh doanh và khai thác dịch vụ sân thể thao",uet_chuan,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,1095
+526,Phát triển game Thế giới bí ẩn,uet_chuan,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,1096
+527,Phát triển ứng dụng di động chấm điểm bài tập thể dục sử dụng mô hình học máy,uet_chuan,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,1099
+528,Hệ thống truy xuất nguồn gốc thịt lợn áp dụng công nghệ blockchain,uet_chuan,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,1105
+529,Trò chơi ô chữ bản tiếng Việt cho ứng dụng di động,uet_chuan,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,1108
+530,Xây dựng mô-đun tạo bằng chứng ZK cho Layer 2 trên chuỗi khối Aptos dựa trên Starknet,uet_chuan,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,1111
+531,Xây dựng ứng dụng website mạng xã hội,uet_chuan,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,1113
+532,Phương pháp mô hình hóa và kiểm chứng các vấn đề an ninh phần mềm,uet_chuan,"[""Software Architecture & Engineering""]","[""Government & Public Sector""]",[],[],annotated_partial,"[""Government & Public Sector"", ""Software Architecture & Engineering""]",,1121
+533,Tìm hiểu các phương pháp phát hiện lỗi phần mềm dựa trên học máy và xây dựng công cụ tích hợp vào quy trình CI/CD,uet_chuan,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps""]",,1122
+534,Xây dựng ứng dụng di động thẻ vé giao thông cho hệ thống thẻ vé điện tử liên thông,uet_chuan,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,1134
+535,Game Blockchain,uet_chuan,"[""Blockchain""]","[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Blockchain"", ""Entertainment & Gaming""]",,1136
+536,Khám phá tính khả thi của thuật toán MuZero trong điều khiển xe tự hành,uet_chuan,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,1143
+537,Xây dựng mạng xã hội về truyện tranh,uet_chuan,[],"[""Social & Community""]",[],[],annotated_partial,"[""Social & Community""]",,1146
+538,Tối ưu và đảm bảo hệ thống Cơ sở dữ liệu của OpenStack hoạt động ổn định,uet_chuan,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,1147
+539,Sử dụng các độ đo mức độ tương đồng phù hợp để tổng hợp các cảnh báo an ninh với các định dạng khác nhau,uet_chuan,[],"[""Government & Public Sector""]",[],[],annotated_partial,"[""Government & Public Sector""]",,1150
+540,Phân loại quan hệ giữa các thực thể trong các nguồn tài liệu văn bản về thông tin hiểm họa an ninh,uet_chuan,[],"[""Government & Public Sector""]",[],[],annotated_partial,"[""Government & Public Sector""]",,1153
+541,Xây dựng quy trình pipeline DevSecOps cho dự án,uet_chuan,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,1154
+542,Bài toán dự báo sản lượng cho cây trồng,uet_chuan,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,1170
+543,An email system integrated with Blockchain and Zero-knowledge Proof technology to send Web3 assets,uet_clc,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,1180
+544,Building a tool for detecting MEV on Ethereum,uet_clc,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,1181
+545,Phát triển ứng dụng truy xuất CSDL dựa trên AI,uet_clc,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,1184
+546,"Xây dựng kho dữ liệu về giao thông đô thị và phân tích, tối ưu hóa tuyến đường",uet_clc,"[""Data Engineering""]","[""Transportation & Logistics""]",[],[],annotated_partial,"[""Data Engineering"", ""Transportation & Logistics""]",,1212
+547,Ứng dụng kiến trúc Multitenant và Event-Driven trong Hệ thống đặt vé trực tuyến,uet_clc,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Software Architecture & Engineering""]",,1216
+548,Xây dựng hệ thống ERP quản lý quy trình tuyển dụng nhân sự mới cho doanh nghiệp,uet_clc,[],"[""Human Resources & Recruitment""]",[],[],annotated_partial,"[""Human Resources & Recruitment""]",,1224
+549,KidGames: Trò chơi giáo dục dành cho học sinh lớp 1,uet_clc,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,1237
+550,"Nghiên cứu và phát triển ứng dụng di động dự báo, cảnh báo ô nhiễm không khí",uet_clc,[],"[""Environment & Energy""]",[],[],annotated_partial,"[""Environment & Energy""]",,1238
+551,2D Nut and Bolt: Trò chơi sắp xếp ốc và bu lông dựa trên Construct 3,uet_clc,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,1241
+552,MyMessage - A message application for enhancing the user experience,uet_clc,"[""UI/UX Design""]",[],[],[],annotated_partial,"[""UI/UX Design""]",,1249
+553,3DCarConnect: Nền tảng thương mại điện tử ô tô tích hợp đồ hoạ ba chiều.,uet_clc,[],"[""Transportation & Logistics""]",[],[],annotated_partial,"[""Transportation & Logistics""]",,1251
+554,Ứng dụng học liên tục vào ước lượng nồng độ ô nhiễm không khí PM2.5,uet_clc,[],"[""Environment & Energy""]",[],[],annotated_partial,"[""Environment & Energy""]",,1274
+555,Developing an Immersive Virtual Reality Application for Autism Education: Supporting Skills and Knowledge Acquisition,uet_clc,"[""AR/VR & Spatial Computing""]",[],[],[],annotated_partial,"[""AR/VR & Spatial Computing""]",,1275
+556,Designing and Implementing an Immersive Virtual Reality System for Children with Autism Spectrum Disorders,uet_clc,"[""AR/VR & Spatial Computing""]",[],[],[],annotated_partial,"[""AR/VR & Spatial Computing""]",,1277
+557,Nghiên cứu và phát triển hệ thống giám sát ô nhiễm không khí,uet_clc,[],"[""Environment & Energy""]",[],[],annotated_partial,"[""Environment & Energy""]",,1288
+558,An Efficient Agentic Workflow for Text-to-SQL,uet_clc,"[""Database""]",[],[],[],annotated_partial,"[""Database""]",,1292
+559,AI-Enhanced Interactive Game Storytelling,uet_clc,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,1294
+560,Enhancing Multimodal Bundle Construction by Intergration of Category-wise Information and Item-level User Feedbac,uet_clc,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,1300
+561,Nghiên cứu và xây dựng bản đồ nhận dạng cây trồng sử dụng dữ liệu viễn thám đa nguồn,uet_clc,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,1301
+562,Xác định lỗi trong một trận bóng đá theo thời gian thực,uet_clc,[],"[""Sports & Fitness""]",[],[],annotated_partial,"[""Sports & Fitness""]",,1304
+563,Constructing an Analytical Tool for Account Monitoring in the EVM Blockchain Environment,uet_clc,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain"", ""Environment & Energy""]",,1325
+564,Phần mềm ứng dụng giải trí dựa trên cảm xúc: Nâng cao trải nghiệm và an toàn cho người lái xe,uet_clc,[],"[""Entertainment & Gaming""]",[],[],annotated_partial,"[""Entertainment & Gaming""]",,1327
+565,"Phân tích, thiết kế và xây dựng Hệ thống phân phối và quản lý vé sự kiện với kiến trúc vi dịch vụ",uet_clc,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Software Architecture & Engineering""]",,1329
+566,Phát triển hệ thống tạo lập và quản lý giao dịch đồng tiền điện tử phi tập trung trên nền tảng đa chuỗi khối,uet_clc,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,1358
+567,Đánh giá các mẫu giao tiếp trong kiến trúc vi dịch vụ,uet_clc,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Software Architecture & Engineering""]",,1363
+568,Xây dựng hệ thống quản lí kinh doanh bất động sản cho doanh nghiệp quy mô nhỏ,uet_clc,[],"[""Real Estate & Construction""]",[],[],annotated_partial,"[""Real Estate & Construction""]",,1367
+569,UALBP - U line Assembly Line Balancing Problem,uet_clc,[],"[""Manufacturing & Industry""]",[],[],annotated_partial,"[""Manufacturing & Industry""]",,1380
+570,Nghiên cứu mô phỏng đa tác tử phân tán cho mô hình chăn nuôi lợn chính xác quy mô lớn,uet_clc,[],"[""Agriculture""]",[],[],annotated_partial,"[""Agriculture""]",,1390
+571,Xây dựng giải pháp PaaS hỗ trợ triển khai backend trò chơi dựa trên kiến trúc serverless,uet_clc,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Software Architecture & Engineering""]",,1392
+572,Xây dựng ứng dụng cung cấp dịch vụ phi máy chủ (serverless service provisioning) cho môi trường K8s trong đám mây riêng,uet_clc,"[""Cloud & DevOps""]",[],[],[],annotated_partial,"[""Cloud & DevOps"", ""Environment & Energy""]",,1394
+573,Phát hiện lỗ hổng an ninh trong ứng dụng WordPress bằng kỹ thuật fuzzing,uet_clc,[],"[""Government & Public Sector""]",[],[],annotated_partial,"[""Government & Public Sector""]",,1401
+574,Phát hiện lỗ hổng an ninh trong cơ sở dữ liệu NoSQL,uet_clc,"[""Database""]","[""Government & Public Sector""]",[],[],annotated_partial,"[""Database"", ""Government & Public Sector""]",,1403
+575,Tìm lỗ hổng an ninh trong hệ quản trị cơ sở dữ liệu quan hệ bằng kỹ thuật fuzzing,uet_clc,"[""Database""]","[""Government & Public Sector""]",[],[],annotated_partial,"[""Database"", ""Government & Public Sector""]",,1404
+576,NGHIÊN CỨU PHÁT TRIỂN HỆ THỐNG AI DỰ ĐOÁN VÀ ĐIỀU CHỈNH THÔNG SỐ MÔI TRƯỜNG TRONG TRANG TRẠI CHĂN NUÔI LỢN,uet_clc,[],"[""Agriculture"", ""Environment & Energy""]",[],[],annotated_partial,"[""Agriculture"", ""Environment & Energy""]",,1407
+577,Phát hiện lỗ hổng an ninh PHP Object Injection,uet_clc,[],"[""Government & Public Sector""]",[],[],annotated_partial,"[""Government & Public Sector""]",,1414
+578,Thuật toán chia bằng chứng không kiến thức STARK cho layer2 Zk-Rollup trên blockchain Aptos,uet_clc,"[""Blockchain""]",[],[],[],annotated_partial,"[""Blockchain""]",,1419
+579,Xây dựng hệ thống người xác minh cho mạng lớp hai trên mạng Aptos dựa trên kiến trúc của Starknet,uet_clc,"[""Software Architecture & Engineering""]",[],[],[],annotated_partial,"[""Software Architecture & Engineering""]",,1424
+580,PHÁT TRIỂN GIẢI PHÁP CỔNG THÔNG TIN QUẢN LÝ VÀ TÍCH HỢP DỮ LIỆU TỪ NHIỀU NGUỒN SỬ DỤNG,duytan,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,446
+581,"GIẢI PHÁP THU THẬP, XỬ LÝ VÀ PHÂN TÍCH DỮ LIỆU HÀNH VI CHO HỆ THỐNG MICROSERVICE",uet_chuan,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,1101
+582,Nghiên cứu nền tảng lưu trữ dữ liệu Delta Lake,uet_clc,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,1177
+583,Building an Insight Component for a University Data Platform,uet_clc,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,1205
+584,Building a Knowledge Graph-based Data Platform for Intelligent Analytics,uet_clc,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,1206
+585,Tiền xử lý dữ liệu tự động sử dụng AI Agent,uet_clc,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,1302
+586,"Xây dựng công cụ xử lý dữ liệu dựa trên mô hình ngôn ngữ lớn cho các bài toán chuẩn hóa, làm sạch, chuyển đổi định dạng và khôi phục cấu trúc",uet_clc,"[""Data Engineering""]",[],[],[],annotated_partial,"[""Data Engineering""]",,1395

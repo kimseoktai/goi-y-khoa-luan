@@ -1,0 +1,15 @@
+﻿item,weighted_jobs,job_count,share_of_labelled,n_companies,support_ok
+Finance & Banking,268.4,274,0.5284,103,True
+Manufacturing & Industry,45.78,51,0.0901,41,True
+E-commerce & Retail,43.21,49,0.0851,38,True
+Healthcare,36.23,39,0.0713,17,True
+Transportation & Logistics,31.45,37,0.0619,27,True
+Tourism & Hospitality,17.6,20,0.0346,17,True
+Entertainment & Gaming,16.5,17,0.0325,14,True
+Real Estate & Construction,16.0,16,0.0315,8,True
+Education,9.21,12,0.0181,10,True
+Agriculture,8.5,9,0.0167,6,False
+Environment & Energy,5.0,5,0.0098,2,False
+Human Resources & Recruitment,4.0,7,0.0079,4,False
+News & Media,3.54,5,0.007,5,False
+Government & Public Sector,2.57,4,0.0051,3,False

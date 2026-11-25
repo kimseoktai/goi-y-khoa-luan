@@ -1,0 +1,201 @@
+﻿skill_raw,category,aliases
+.NET,Framework / Library,dotnet|.NET Core
+3D Modeling,Design & UX,
+Adobe Creative Suite,Design & UX,
+Agentic AI,AI / ML,AI Agents
+Agile,Project & Business,
+AI,AI / ML,
+Airflow,Data & Analytics,
+Algorithms & Data Structures,Architecture & Engineering Practice,DSA
+Android,Mobile,
+Angular,Framework / Library,
+Ansible,Cloud & DevOps,
+Appium,Testing / QA,
+Application Security,Security,
+ARM Cortex,Embedded & Hardware,
+AUTOSAR,Embedded & Hardware,
+AWS,Cloud & DevOps,Amazon Web Services|AWS Cloud
+Azure,Cloud & DevOps,Microsoft Azure
+Big Data,Data & Analytics,
+BigQuery,Database,
+Blazor,Framework / Library,
+Blockchain,Architecture & Engineering Practice,
+BPMN,Project & Business,
+Business Analysis,Project & Business,
+Business Intelligence,Data & Analytics,BI
+C,Programming Language,
+C#,Programming Language,CSharp
+C++,Programming Language,
+CANoe,Embedded & Hardware,
+CI/CD,Cloud & DevOps,CICD
+Cloud Computing,Cloud & DevOps,
+Cloud Security,Security,
+Computer Vision,AI / ML,CV
+CRM,Enterprise Systems,
+Cybersecurity,Security,
+Cypress,Testing / QA,
+Dart,Programming Language,
+Data Analysis,Data & Analytics,
+Data Governance,Data & Analytics,
+Data Mining,Data & Analytics,
+Data Modeling,Data & Analytics,
+Data Privacy,Data & Analytics,
+Data Quality,Data & Analytics,
+Data Science,Data & Analytics,
+Data Warehouse,Data & Analytics,DWH
+Database,Database,
+Databricks,Data & Analytics,
+dbt,Data & Analytics,
+Deep Learning,AI / ML,DL
+Design Patterns,Architecture & Engineering Practice,
+Design Systems,Design & UX,
+DevOps,Cloud & DevOps,
+DevSecOps,Cloud & DevOps,
+Digital Forensics,Security,
+Django,Framework / Library,
+Docker,Cloud & DevOps,
+DynamoDB,Database,
+EDR,Security,
+Elasticsearch,Database,Elastic Search
+Embedded Systems,Embedded & Hardware,
+Enterprise Architecture,Architecture & Engineering Practice,
+ERP,Enterprise Systems,
+ETL,Data & Analytics,
+Express.js,Framework / Library,Express|ExpressJS
+FastAPI,Framework / Library,
+Figma,Design & UX,
+Firebase,Cloud & DevOps,
+Firewall,Security,
+Firmware,Embedded & Hardware,
+Flask,Framework / Library,
+Flutter,Framework / Library,
+Game Development,Architecture & Engineering Practice,
+GCP,Cloud & DevOps,Google Cloud Platform|Google Cloud
+Generative AI,AI / ML,GenAI|Gen AI
+Git,Cloud & DevOps,
+Go,Programming Language,Golang
+Grafana,Cloud & DevOps,
+GraphQL,Framework / Library,
+gRPC,Framework / Library,
+Hadoop,Data & Analytics,
+Hibernate,Framework / Library,
+HTML/CSS,Framework / Library,
+Hyper-V,Cloud & DevOps,
+IAM,Security,
+IDS/IPS,Security,
+Incident Response,Security,
+Infrastructure as Code,Cloud & DevOps,IaC
+Integration Testing,Testing / QA,
+iOS,Mobile,
+ISO 27001,Security,
+IT Audit,IT Operations & Networking,
+IT Governance,IT Operations & Networking,
+IT Support,IT Operations & Networking,
+ITIL,IT Operations & Networking,
+Java,Programming Language,
+JavaScript,Programming Language,JS
+Jenkins,Cloud & DevOps,
+Jira,Project & Business,
+JMeter,Testing / QA,
+Kafka,Data & Analytics,
+Kanban,Project & Business,
+Kotlin,Programming Language,
+Kubernetes,Cloud & DevOps,K8s
+Laravel,Framework / Library,
+Linux,IT Operations & Networking,
+LLM,AI / ML,Large Language Model|Large Language Models
+Machine Learning,AI / ML,ML
+MariaDB,Database,
+MATLAB,Programming Language,
+Microservices,Architecture & Engineering Practice,
+Microsoft Dynamics 365,Enterprise Systems,
+MLOps,Cloud & DevOps,
+Mobile Development,Mobile,
+MongoDB,Database,Mongo
+MVVM,Architecture & Engineering Practice,
+MySQL,Database,
+NestJS,Framework / Library,
+Networking,IT Operations & Networking,
+Next.js,Framework / Library,NextJS
+NLP,AI / ML,Natural Language Processing
+Node.js,Framework / Library,NodeJS|Node
+NoSQL,Database,
+NumPy,Framework / Library,
+Objective-C,Programming Language,
+Odoo,Enterprise Systems,
+OOP,Architecture & Engineering Practice,Object-Oriented Programming
+OpenStack,Cloud & DevOps,
+Oracle Database,Database,Oracle DB
+OWASP,Security,
+Pandas,Framework / Library,
+PCI DSS,Security,
+Penetration Testing,Security,Pentest
+Performance Testing,Testing / QA,
+PHP,Programming Language,
+PL/SQL,Programming Language,
+Playwright,Testing / QA,
+PostgreSQL,Database,Postgres
+Postman,Testing / QA,
+Power BI,Data & Analytics,PowerBI
+PowerShell,Programming Language,
+Presales,Project & Business,
+Product Management,Project & Business,
+Project Management,Project & Business,
+Prometheus,Cloud & DevOps,
+Prompt Engineering,AI / ML,
+Python,Programming Language,Python 3|Python Programming
+PyTorch,Framework / Library,
+RabbitMQ,Data & Analytics,
+RAG,AI / ML,Retrieval-Augmented Generation
+React,Framework / Library,ReactJS|React.js
+React Native,Framework / Library,
+Redis,Database,
+Requirements Documentation,Project & Business,
+REST API,Framework / Library,RESTful API
+Risk Management,IT Operations & Networking,
+Robot Framework,Testing / QA,
+RTOS,Embedded & Hardware,
+Ruby,Programming Language,
+Ruby on Rails,Framework / Library,
+Rust,Programming Language,
+Salesforce,Enterprise Systems,
+SAP,Enterprise Systems,
+Scala,Programming Language,
+Scikit-learn,Framework / Library,sklearn
+Scrum,Project & Business,
+Security Hardening,Security,
+Selenium,Testing / QA,
+ServiceNow,Enterprise Systems,
+Shell Scripting,Programming Language,
+Shopify,Enterprise Systems,
+SIEM,Security,
+Snowflake,Database,
+SOAR,Security,
+Software Architecture,Architecture & Engineering Practice,
+Software Testing,Testing / QA,
+Solution Architecture,Architecture & Engineering Practice,
+Spark,Data & Analytics,
+Spring Boot,Framework / Library,SpringBoot
+SQL,Programming Language,
+SQL Server,Database,MS SQL Server|Microsoft SQL Server
+Swift,Programming Language,
+System Administration,IT Operations & Networking,
+Tableau,Data & Analytics,
+Technical Writing,Project & Business,
+TensorFlow,Framework / Library,
+Terraform,Cloud & DevOps,
+Test Automation,Testing / QA,Automation Testing
+TestComplete,Testing / QA,
+TypeScript,Programming Language,TS
+UI/UX Design,Design & UX,UI/UX
+UML,Architecture & Engineering Practice,
+Unit Testing,Testing / QA,
+Unity,Framework / Library,
+User Story,Project & Business,
+VMware,Cloud & DevOps,
+Vue.js,Framework / Library,Vue|VueJS
+Vulnerability Management,Security,
+Waterfall,Project & Business,
+Windows Server,IT Operations & Networking,
+Wireframing,Design & UX,
+Zephyr,Testing / QA,

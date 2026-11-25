@@ -1,0 +1,12 @@
+﻿label,precision,recall,f1,support,n_rows,n_pos,n_neg_verified,n_neg_assumed,status
+Agriculture,1.0,0.789,0.882,19,327,19,0,308,evaluated
+E-commerce & Retail,0.789,0.6,0.682,25,311,25,286,0,evaluated
+Education,0.857,0.833,0.845,36,311,36,275,0,evaluated
+Entertainment & Gaming,1.0,0.979,0.989,48,341,48,0,293,evaluated
+Finance & Banking,0.786,0.524,0.629,21,311,21,290,0,evaluated
+Healthcare,0.692,0.409,0.514,22,311,22,289,0,evaluated
+Human Resources & Recruitment,0.857,0.882,0.87,34,341,34,0,307,evaluated
+News & Media,0.6,0.346,0.439,26,311,26,285,0,evaluated
+Real Estate & Construction,0.941,0.667,0.78,24,332,24,0,308,evaluated
+Tourism & Hospitality,0.8,0.667,0.727,24,311,24,287,0,evaluated
+Transportation & Logistics,0.722,0.448,0.553,29,332,29,0,303,evaluated

@@ -1,0 +1,9 @@
+﻿role,parent_role,status,reason,keep_until_count,decided_at,decided_by
+Product Owner/Manager,Project/Delivery Manager,merged,Cùng nhóm quản lý sản phẩm và dự án,27,2026-10-21T07:32:13+00:00,admin
+Database Administrator,Data Engineer,merged,Cùng nhóm làm việc với cơ sở dữ liệu,30,2026-10-21T07:32:23+00:00,admin
+IT Risk/Governance/Audit,Security Engineer,merged,Cùng nhóm rủi ro và an toàn thông tin,26,2026-10-21T07:32:10+00:00,admin
+UI/UX Designer,,merged,Chưa có nhóm cha phù hợp; để vào Nhóm khác,,,đề xuất mặc định (chưa xác nhận)
+Embedded Engineer,Software Engineer,merged,Cùng nhóm lập trình phần mềm,38,2026-10-21T07:31:46+00:00,admin
+Frontend Developer,Fullstack Developer,merged,Cùng nhóm lập trình web,29,2026-10-21T07:32:17+00:00,admin
+Game Developer,Software Engineer,merged,Cùng nhóm lập trình phần mềm,29,2026-10-21T07:31:54+00:00,admin
+Bridge Engineer,,merged,Có thể không thuộc lĩnh vực IT; nên kiểm tra lại dữ liệu,,,đề xuất mặc định (chưa xác nhận)

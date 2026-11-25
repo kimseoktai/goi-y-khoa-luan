@@ -1,0 +1,21 @@
+﻿old_label,new_type,new_id,action,note
+AI/ML,technical_topic,T01,keep,Giữ nguyên; tách riêng GenAI/LLM (T04) cần re-label thủ công
+Natural Language Processing,technical_topic,T02,keep,
+Computer Vision,technical_topic,T03,keep,
+Web Development,technical_topic,T09,keep,
+Mobile Development,technical_topic,T10,keep,
+Cybersecurity,technical_topic,T11,keep,
+Computer Networks,technical_topic,T12,rename,Mở rộng thành Computer Networks & Infrastructure
+IoT / Embedded,technical_topic,T13,keep,
+Software Testing,technical_topic,T14,keep,
+Game Development,technical_topic,T18,keep,Đồng thời có thể gắn Domain Entertainment & Gaming (D09) khi thesis là game giải trí
+Optimization / Operations Research,technical_topic,T19,keep,
+Recommendation System,technical_topic,T05,keep,
+Data Science / Analytics,technical_topic,T06,rename,Đổi thành Data Science & Analytics
+Information Management,technical_topic,T17,split,Mơ hồ: vừa là loại hệ thống (T17) vừa là domain nghiệp vụ; cần xét từng bản ghi để gắn thêm domain
+Finance,domain,D01,move_to_domain,"Là Domain, không phải Technical Topic"
+Healthcare,domain,D02,move_to_domain,
+Education / E-learning,domain,D03,move_to_domain,
+E-commerce,domain,D04,move_to_domain,
+Tourism,domain,D05,move_to_domain,Mở rộng thành Tourism & Hospitality
+News / Content,domain,D08,move_to_domain,Đổi thành News & Media

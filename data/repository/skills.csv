@@ -1,0 +1,201 @@
+﻿skill_id,skill_name,aliases,category,description,status,created_at,version
+1,.NET,dotnet|.NET Core,Framework / Library,,draft,2026-10-05,v1.0
+2,3D Modeling,,Design & UX,,draft,2026-10-05,v1.0
+3,Adobe Creative Suite,,Design & UX,,draft,2026-10-05,v1.0
+4,Agentic AI,AI Agents,AI / ML,,draft,2026-10-05,v1.0
+5,Agile,,Project & Business,,draft,2026-10-05,v1.0
+6,AI,,AI / ML,,draft,2026-10-05,v1.0
+7,Airflow,,Data & Analytics,,draft,2026-10-05,v1.0
+8,Algorithms & Data Structures,DSA,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+9,Android,,Mobile,,draft,2026-10-05,v1.0
+10,Angular,,Framework / Library,,draft,2026-10-05,v1.0
+11,Ansible,,Cloud & DevOps,,draft,2026-10-05,v1.0
+12,Appium,,Testing / QA,,draft,2026-10-05,v1.0
+13,Application Security,,Security,,draft,2026-10-05,v1.0
+14,ARM Cortex,,Embedded & Hardware,,draft,2026-10-05,v1.0
+15,AUTOSAR,,Embedded & Hardware,,draft,2026-10-05,v1.0
+16,AWS,Amazon Web Services|AWS Cloud,Cloud & DevOps,,draft,2026-10-05,v1.0
+17,Azure,Microsoft Azure,Cloud & DevOps,,draft,2026-10-05,v1.0
+18,Big Data,,Data & Analytics,,draft,2026-10-05,v1.0
+19,BigQuery,,Database,,draft,2026-10-05,v1.0
+20,Blazor,,Framework / Library,,draft,2026-10-05,v1.0
+21,Blockchain,,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+22,BPMN,,Project & Business,,draft,2026-10-05,v1.0
+23,Business Analysis,,Project & Business,,draft,2026-10-05,v1.0
+24,Business Intelligence,BI,Data & Analytics,,draft,2026-10-05,v1.0
+25,C,,Programming Language,,draft,2026-10-05,v1.0
+26,C#,CSharp,Programming Language,,draft,2026-10-05,v1.0
+27,C++,,Programming Language,,draft,2026-10-05,v1.0
+28,CANoe,,Embedded & Hardware,,draft,2026-10-05,v1.0
+29,CI/CD,CICD,Cloud & DevOps,,draft,2026-10-05,v1.0
+30,Cloud Computing,,Cloud & DevOps,,draft,2026-10-05,v1.0
+31,Cloud Security,,Security,,draft,2026-10-05,v1.0
+32,Computer Vision,CV,AI / ML,,draft,2026-10-05,v1.0
+33,CRM,,Enterprise Systems,,draft,2026-10-05,v1.0
+34,Cybersecurity,,Security,,draft,2026-10-05,v1.0
+35,Cypress,,Testing / QA,,draft,2026-10-05,v1.0
+36,Dart,,Programming Language,,draft,2026-10-05,v1.0
+37,Data Analysis,,Data & Analytics,,draft,2026-10-05,v1.0
+38,Data Governance,,Data & Analytics,,draft,2026-10-05,v1.0
+39,Data Mining,,Data & Analytics,,draft,2026-10-05,v1.0
+40,Data Modeling,,Data & Analytics,,draft,2026-10-05,v1.0
+41,Data Privacy,,Data & Analytics,,draft,2026-10-05,v1.0
+42,Data Quality,,Data & Analytics,,draft,2026-10-05,v1.0
+43,Data Science,,Data & Analytics,,draft,2026-10-05,v1.0
+44,Data Warehouse,DWH,Data & Analytics,,draft,2026-10-05,v1.0
+45,Database,,Database,,draft,2026-10-05,v1.0
+46,Databricks,,Data & Analytics,,draft,2026-10-05,v1.0
+47,dbt,,Data & Analytics,,draft,2026-10-05,v1.0
+48,Deep Learning,DL,AI / ML,,draft,2026-10-05,v1.0
+49,Design Patterns,,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+50,Design Systems,,Design & UX,,draft,2026-10-05,v1.0
+51,DevOps,,Cloud & DevOps,,draft,2026-10-05,v1.0
+52,DevSecOps,,Cloud & DevOps,,draft,2026-10-05,v1.0
+53,Digital Forensics,,Security,,draft,2026-10-05,v1.0
+54,Django,,Framework / Library,,draft,2026-10-05,v1.0
+55,Docker,,Cloud & DevOps,,draft,2026-10-05,v1.0
+56,DynamoDB,,Database,,draft,2026-10-05,v1.0
+57,EDR,,Security,,draft,2026-10-05,v1.0
+58,Elasticsearch,Elastic Search,Database,,draft,2026-10-05,v1.0
+59,Embedded Systems,,Embedded & Hardware,,draft,2026-10-05,v1.0
+60,Enterprise Architecture,,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+61,ERP,,Enterprise Systems,,draft,2026-10-05,v1.0
+62,ETL,,Data & Analytics,,draft,2026-10-05,v1.0
+63,Express.js,Express|ExpressJS,Framework / Library,,draft,2026-10-05,v1.0
+64,FastAPI,,Framework / Library,,draft,2026-10-05,v1.0
+65,Figma,,Design & UX,,draft,2026-10-05,v1.0
+66,Firebase,,Cloud & DevOps,,draft,2026-10-05,v1.0
+67,Firewall,,Security,,draft,2026-10-05,v1.0
+68,Firmware,,Embedded & Hardware,,draft,2026-10-05,v1.0
+69,Flask,,Framework / Library,,draft,2026-10-05,v1.0
+70,Flutter,,Framework / Library,,draft,2026-10-05,v1.0
+71,Game Development,,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+72,GCP,Google Cloud Platform|Google Cloud,Cloud & DevOps,,draft,2026-10-05,v1.0
+73,Generative AI,GenAI|Gen AI,AI / ML,,draft,2026-10-05,v1.0
+74,Git,,Cloud & DevOps,,draft,2026-10-05,v1.0
+75,Go,Golang,Programming Language,,draft,2026-10-05,v1.0
+76,Grafana,,Cloud & DevOps,,draft,2026-10-05,v1.0
+77,GraphQL,,Framework / Library,,draft,2026-10-05,v1.0
+78,gRPC,,Framework / Library,,draft,2026-10-05,v1.0
+79,Hadoop,,Data & Analytics,,draft,2026-10-05,v1.0
+80,Hibernate,,Framework / Library,,draft,2026-10-05,v1.0
+81,HTML/CSS,,Framework / Library,,draft,2026-10-05,v1.0
+82,Hyper-V,,Cloud & DevOps,,draft,2026-10-05,v1.0
+83,IAM,,Security,,draft,2026-10-05,v1.0
+84,IDS/IPS,,Security,,draft,2026-10-05,v1.0
+85,Incident Response,,Security,,draft,2026-10-05,v1.0
+86,Infrastructure as Code,IaC,Cloud & DevOps,,draft,2026-10-05,v1.0
+87,Integration Testing,,Testing / QA,,draft,2026-10-05,v1.0
+88,iOS,,Mobile,,draft,2026-10-05,v1.0
+89,ISO 27001,,Security,,draft,2026-10-05,v1.0
+90,IT Audit,,IT Operations & Networking,,draft,2026-10-05,v1.0
+91,IT Governance,,IT Operations & Networking,,draft,2026-10-05,v1.0
+92,IT Support,,IT Operations & Networking,,draft,2026-10-05,v1.0
+93,ITIL,,IT Operations & Networking,,draft,2026-10-05,v1.0
+94,Java,,Programming Language,,draft,2026-10-05,v1.0
+95,JavaScript,JS,Programming Language,,draft,2026-10-05,v1.0
+96,Jenkins,,Cloud & DevOps,,draft,2026-10-05,v1.0
+97,Jira,,Project & Business,,draft,2026-10-05,v1.0
+98,JMeter,,Testing / QA,,draft,2026-10-05,v1.0
+99,Kafka,,Data & Analytics,,draft,2026-10-05,v1.0
+100,Kanban,,Project & Business,,draft,2026-10-05,v1.0
+101,Kotlin,,Programming Language,,draft,2026-10-05,v1.0
+102,Kubernetes,K8s,Cloud & DevOps,,draft,2026-10-05,v1.0
+103,Laravel,,Framework / Library,,draft,2026-10-05,v1.0
+104,Linux,,IT Operations & Networking,,draft,2026-10-05,v1.0
+105,LLM,Large Language Model|Large Language Models,AI / ML,,draft,2026-10-05,v1.0
+106,Machine Learning,ML,AI / ML,,draft,2026-10-05,v1.0
+107,MariaDB,,Database,,draft,2026-10-05,v1.0
+108,MATLAB,,Programming Language,,draft,2026-10-05,v1.0
+109,Microservices,,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+110,Microsoft Dynamics 365,,Enterprise Systems,,draft,2026-10-05,v1.0
+111,MLOps,,Cloud & DevOps,,draft,2026-10-05,v1.0
+112,Mobile Development,,Mobile,,draft,2026-10-05,v1.0
+113,MongoDB,Mongo,Database,,draft,2026-10-05,v1.0
+114,MVVM,,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+115,MySQL,,Database,,draft,2026-10-05,v1.0
+116,NestJS,,Framework / Library,,draft,2026-10-05,v1.0
+117,Networking,,IT Operations & Networking,,draft,2026-10-05,v1.0
+118,Next.js,NextJS,Framework / Library,,draft,2026-10-05,v1.0
+119,NLP,Natural Language Processing,AI / ML,,draft,2026-10-05,v1.0
+120,Node.js,NodeJS|Node,Framework / Library,,draft,2026-10-05,v1.0
+121,NoSQL,,Database,,draft,2026-10-05,v1.0
+122,NumPy,,Framework / Library,,draft,2026-10-05,v1.0
+123,Objective-C,,Programming Language,,draft,2026-10-05,v1.0
+124,Odoo,,Enterprise Systems,,draft,2026-10-05,v1.0
+125,OOP,Object-Oriented Programming,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+126,OpenStack,,Cloud & DevOps,,draft,2026-10-05,v1.0
+127,Oracle Database,Oracle DB,Database,,draft,2026-10-05,v1.0
+128,OWASP,,Security,,draft,2026-10-05,v1.0
+129,Pandas,,Framework / Library,,draft,2026-10-05,v1.0
+130,PCI DSS,,Security,,draft,2026-10-05,v1.0
+131,Penetration Testing,Pentest,Security,,draft,2026-10-05,v1.0
+132,Performance Testing,,Testing / QA,,draft,2026-10-05,v1.0
+133,PHP,,Programming Language,,draft,2026-10-05,v1.0
+134,PL/SQL,,Programming Language,,draft,2026-10-05,v1.0
+135,Playwright,,Testing / QA,,draft,2026-10-05,v1.0
+136,PostgreSQL,Postgres,Database,,draft,2026-10-05,v1.0
+137,Postman,,Testing / QA,,draft,2026-10-05,v1.0
+138,Power BI,PowerBI,Data & Analytics,,draft,2026-10-05,v1.0
+139,PowerShell,,Programming Language,,draft,2026-10-05,v1.0
+140,Presales,,Project & Business,,draft,2026-10-05,v1.0
+141,Product Management,,Project & Business,,draft,2026-10-05,v1.0
+142,Project Management,,Project & Business,,draft,2026-10-05,v1.0
+143,Prometheus,,Cloud & DevOps,,draft,2026-10-05,v1.0
+144,Prompt Engineering,,AI / ML,,draft,2026-10-05,v1.0
+145,Python,Python 3|Python Programming,Programming Language,,draft,2026-10-05,v1.0
+146,PyTorch,,Framework / Library,,draft,2026-10-05,v1.0
+147,RabbitMQ,,Data & Analytics,,draft,2026-10-05,v1.0
+148,RAG,Retrieval-Augmented Generation,AI / ML,,draft,2026-10-05,v1.0
+149,React,ReactJS|React.js,Framework / Library,,draft,2026-10-05,v1.0
+150,React Native,,Framework / Library,,draft,2026-10-05,v1.0
+151,Redis,,Database,,draft,2026-10-05,v1.0
+152,Requirements Documentation,,Project & Business,,draft,2026-10-05,v1.0
+153,REST API,RESTful API,Framework / Library,,draft,2026-10-05,v1.0
+154,Risk Management,,IT Operations & Networking,,draft,2026-10-05,v1.0
+155,Robot Framework,,Testing / QA,,draft,2026-10-05,v1.0
+156,RTOS,,Embedded & Hardware,,draft,2026-10-05,v1.0
+157,Ruby,,Programming Language,,draft,2026-10-05,v1.0
+158,Ruby on Rails,,Framework / Library,,draft,2026-10-05,v1.0
+159,Rust,,Programming Language,,draft,2026-10-05,v1.0
+160,Salesforce,,Enterprise Systems,,draft,2026-10-05,v1.0
+161,SAP,,Enterprise Systems,,draft,2026-10-05,v1.0
+162,Scala,,Programming Language,,draft,2026-10-05,v1.0
+163,Scikit-learn,sklearn,Framework / Library,,draft,2026-10-05,v1.0
+164,Scrum,,Project & Business,,draft,2026-10-05,v1.0
+165,Security Hardening,,Security,,draft,2026-10-05,v1.0
+166,Selenium,,Testing / QA,,draft,2026-10-05,v1.0
+167,ServiceNow,,Enterprise Systems,,draft,2026-10-05,v1.0
+168,Shell Scripting,,Programming Language,,draft,2026-10-05,v1.0
+169,Shopify,,Enterprise Systems,,draft,2026-10-05,v1.0
+170,SIEM,,Security,,draft,2026-10-05,v1.0
+171,Snowflake,,Database,,draft,2026-10-05,v1.0
+172,SOAR,,Security,,draft,2026-10-05,v1.0
+173,Software Architecture,,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+174,Software Testing,,Testing / QA,,draft,2026-10-05,v1.0
+175,Solution Architecture,,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+176,Spark,,Data & Analytics,,draft,2026-10-05,v1.0
+177,Spring Boot,SpringBoot,Framework / Library,,draft,2026-10-05,v1.0
+178,SQL,,Programming Language,,draft,2026-10-05,v1.0
+179,SQL Server,MS SQL Server|Microsoft SQL Server,Database,,draft,2026-10-05,v1.0
+180,Swift,,Programming Language,,draft,2026-10-05,v1.0
+181,System Administration,,IT Operations & Networking,,draft,2026-10-05,v1.0
+182,Tableau,,Data & Analytics,,draft,2026-10-05,v1.0
+183,Technical Writing,,Project & Business,,draft,2026-10-05,v1.0
+184,TensorFlow,,Framework / Library,,draft,2026-10-05,v1.0
+185,Terraform,,Cloud & DevOps,,draft,2026-10-05,v1.0
+186,Test Automation,Automation Testing,Testing / QA,,draft,2026-10-05,v1.0
+187,TestComplete,,Testing / QA,,draft,2026-10-05,v1.0
+188,TypeScript,TS,Programming Language,,draft,2026-10-05,v1.0
+189,UI/UX Design,UI/UX,Design & UX,,draft,2026-10-05,v1.0
+190,UML,,Architecture & Engineering Practice,,draft,2026-10-05,v1.0
+191,Unit Testing,,Testing / QA,,draft,2026-10-05,v1.0
+192,Unity,,Framework / Library,,draft,2026-10-05,v1.0
+193,User Story,,Project & Business,,draft,2026-10-05,v1.0
+194,VMware,,Cloud & DevOps,,draft,2026-10-05,v1.0
+195,Vue.js,Vue|VueJS,Framework / Library,,draft,2026-10-05,v1.0
+196,Vulnerability Management,,Security,,draft,2026-10-05,v1.0
+197,Waterfall,,Project & Business,,draft,2026-10-05,v1.0
+198,Windows Server,,IT Operations & Networking,,draft,2026-10-05,v1.0
+199,Wireframing,,Design & UX,,draft,2026-10-05,v1.0
+200,Zephyr,,Testing / QA,,draft,2026-10-05,v1.0

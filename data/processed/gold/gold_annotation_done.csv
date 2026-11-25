@@ -1,0 +1,322 @@
+label_type,label_id,label_name,current_gold_support,thesis_id,title,source,keyword_score,decision
+technical_topic,T04,Generative AI & LLM,0,1038,Xây d?ng chatbot s? d?ng RAG k?t h?p LLM,uet_chuan,3,yes
+technical_topic,T04,Generative AI & LLM,0,240,?ng d?ng RAG-LLM trong phân tích xu h??ng th? tr??ng ch?ng khoán Vi?t Nam v?i d? li?u Near Realtime,neu,2,yes
+technical_topic,T04,Generative AI & LLM,0,229,Xây d?ng h? th?ng chatbot AI cho qu?n lý tin nh?n Facebook Messenger s? d?ng ki?n trúc RAG và quy trình hybrid AI-Human,neu,2,no
+technical_topic,T04,Generative AI & LLM,0,1175,?ng D?ng Tr? Lý ?o Giao Ti?p B?ng Gi?ng Nói D?a Trên ChatGPT,uet_clc,2,no
+technical_topic,T04,Generative AI & LLM,0,17,Xây d?ng chatbot song ng? h? tr? tra c?u thông tin môn h?c d?a trên mô hình RAG,neu,2,no
+technical_topic,T04,Generative AI & LLM,0,211,Nghiên c?u và phát tri?n h? th?ng khai thác d? li?u ?a ph??ng th?c trong tài li?u ti?ng anh và ti?ng vi?t d?a trên mô hình trí tu? nhân t?o ?a tác t?,neu,1,yes
+technical_topic,T04,Generative AI & LLM,0,53,XD chatbot h? tr? h?c toán l?p 5,neu,1,no
+technical_topic,T04,Generative AI & LLM,0,5,Chatbot ?ng d?ng trí tu? nhân t?o h? tr? nh?n di?n b?nh cây tr?ng và t? v?n nông nghi?p,neu,1,no
+technical_topic,T04,Generative AI & LLM,0,8,Nghiên c?u và xây d?ng h? th?ng t? ??ng x? lí và ?ánh giá h? s? ?ng viên d?a trên mô hình trí tu? nhân t?o ?a tác t?,neu,1,yes
+technical_topic,T04,Generative AI & LLM,0,262,Xây d?ng và phát tri?n website th??ng m?i ?i?n t? bán ?? công ngh? k?t h?p v?i chatbot,neu,1,no
+technical_topic,T04,Generative AI & LLM,0,269,Xây d?ng Website bán ?i?n tho?i di ??ng tích h?p chatbot,neu,1,no
+technical_topic,T04,Generative AI & LLM,0,293,Xây d?ng Website th??ng m?i ?i?n t? và tích h?p chatbot cho c?a hàng th?i trang Fashion Style,neu,1,no
+technical_topic,T04,Generative AI & LLM,0,328,Xây d?ng Website cho trung tâm Piano có tích h?p Chatbot trong vi?c t? ??ng giao ti?p và ?ào t?o nhân s?,neu,1,no
+technical_topic,T04,Generative AI & LLM,0,333,Nghiên c?u các k? thu?t tinh ch?nh mô hình ngôn ng? l?n hi?n ??i và ?ng d?ng xây d?ng chatbot cho ??i h?c Kinh t? Qu?c dân,neu,1,no
+technical_topic,T04,Generative AI & LLM,0,358,Thi?t k? và ?ánh giá h? th?ng gia s? AI d?a trên RAG: ?ng d?ng lý thuy?t giáo d?c h? tr? h?c t?p t? tài li?u g?c,neu,1,yes
+technical_topic,T04,Generative AI & LLM,0,212,Nghiên c?u và xây d?ng h? th?ng ?a ph??ng th?c trong x? lý thông minh tài li?u giáo d?c d?a trên mô hình trí tu? nhân t?o ?a tác t?,neu,1,yes
+technical_topic,T04,Generative AI & LLM,0,246,Nghiên c?u và xây d?ng h? th?ng giao th?c ng? c?nh mô hình tích h?p t?ng c??ng truy xu?t thông tin và nh?n di?n tài li?u d?a trên mô hình trí tu? nhân t?o ?a tác t?,neu,1,yes
+technical_topic,T04,Generative AI & LLM,0,370,Xây d?ng Website th??ng m?i ?i?n t? có tích h?p Chatbot,neu,1,no
+technical_topic,T04,Generative AI & LLM,0,364,Nghiên c?u và phát tri?n chatbot d?a trên mô hình ngôn ng? l?n k?t h?p v?i k? thu?t tìm ki?m t?ng c??ng d? li?u: Áp d?ng t?i ??i h?c Kinh t? Qu?c dân,neu,1,yes
+technical_topic,T04,Generative AI & LLM,0,377,Xây d?ng Website tích h?p Chatbot h? tr? qu?n lý ??t phòng khách s?n,neu,1,no
+technical_topic,T04,Generative AI & LLM,0,385,Xây d?ng Chatbot trò chuy?n và gi?i các phép toán ??n gi?n,neu,1,no
+technical_topic,T04,Generative AI & LLM,0,423,Xây d?ng h? th?ng qu?n tlys và ??t bàn cafebook tích h?p chatbot AI h? tr? t? v?n,duytan,1,no
+technical_topic,T04,Generative AI & LLM,0,430,XÂY D?NG H? TH?NG ??T VÉ XEM PHIM ?A R?P MOVIX TÍCH H?P CÔNG NGH? 3D VIEW VÀ CHATBOT AI,duytan,1,no
+technical_topic,T04,Generative AI & LLM,0,412,XÂY D?NG H? TH?NG QU?N LÝ C?N H? CHO THUÊ TÍCH H?P CHATBOT AI G?I Ý VÀ T? V?N CHO KHÁCH HÀNG,duytan,1,no
+technical_topic,T04,Generative AI & LLM,0,418,"Phát tri?n h? th?ng ??ng tin, mua bán b?t ??ng s?n tích h?p Chatbot AI và h? th?ng g?i ý thông minh",duytan,1,no
+technical_topic,T04,Generative AI & LLM,0,435,XÂY D?NG H? TH?NG QU?N LÝ BÁN QUÀN ÁO TÍCH H?P CHATBOT AI H? TR? T? V?N KHÁCH HÀNG,duytan,1,no
+technical_topic,T04,Generative AI & LLM,0,444,XÂY D?NG TH? VI?N H? TH?NG S? TÍCH H?P CHATBOT AI,duytan,1,no
+technical_topic,T04,Generative AI & LLM,0,453,XÂY D?NG WEBSITE POPCINEMA – H? TH?NG QU?N LÝ ??T VÉ XEM PHIM TR?C TUY?N ?NG D?NG CHATBOT AI VÀ MÔ PH?NG PHÒNG CHI?U 360°,duytan,1,no
+technical_topic,T04,Generative AI & LLM,0,457,THI?T K? VÀ TRI?N KHAI H? TH?NG TH??NG M?I ?I?N T? THÔNG MINH ?NG D?NG NH?N DI?N HÌNH ?NH VÀ CHATBOT AI TRONG ?? XU?T S?N PH?M GIÀY TH?I TRANG,duytan,1,no
+technical_topic,T04,Generative AI & LLM,0,458,Xây d?ng h? th?ng th??ng m?i ?i?n t? thông minh CentralFashion tích h?p AI Chatbot và cá nhân hóa g?i ý s?n ph?m,duytan,1,no
+technical_topic,T07,Data Engineering,0,199,NC và XD Data Warehouse và tr?c quan hóa d? li?u cho n?n t?ng khóa h?c tr?c tuy?n Noron Academy,neu,1,yes
+technical_topic,T07,Data Engineering,0,329,H? th?ng thu th?p và phân tích d? li?u Reddit cho L?nh v?c Data Engineering,neu,1,yes
+technical_topic,T07,Data Engineering,0,534,H? TR? G? L?I CI/CD PIPELINE B?NG PH??NG PHÁP PHÂN TÍCH LOG ?NG D?NG AI,duytan,1,no
+technical_topic,T07,Data Engineering,0,757,Xây d?ng h? th?ng l?u tr? và tìm ki?m v?n b?n trên n?n t?ng Apache Spark,uit,1,yes
+technical_topic,T07,Data Engineering,0,773,"Xây d?ng h? th?ng thu th?p, l?u tr? và tìm ki?m trên n?n t?ng HADOOP",uit,1,yes
+technical_topic,T07,Data Engineering,0,786,Xây d?ng kho d? li?u cho d?ch v? mua bán tr?c tuy?n và ch?m sóc khách hàng,uit,1,no
+technical_topic,T07,Data Engineering,0,802,Xây d?ng n?n t?ng streaming tr?c tuy?n,uit,1,no
+technical_topic,T07,Data Engineering,0,808,Xây d?ng và khai thác kho d? li?u nh?m ?? xu?t chi?n l??c kinh doanh cho doanh nghi?p,uit,1,no
+technical_topic,T07,Data Engineering,0,880,?ng d?ng Data warehouse vào khai thác d? li?u bán l?,uit,1,yes
+technical_topic,T07,Data Engineering,0,1005,Real-time customer reviews analysis using machine learning on big data framework,uit,1,yes
+technical_topic,T07,Data Engineering,0,1061,Tìm hi?u h? th?ng Data Warehouse mã ngu?n m? Apache Doris,uet_chuan,1,yes
+technical_topic,T07,Data Engineering,0,1154,Xây d?ng quy trình pipeline DevSecOps cho d? án,uet_chuan,1,yes
+technical_topic,T07,Data Engineering,0,1212,"Xây d?ng kho d? li?u v? giao thông ?ô th? và phân tích, t?i ?u hóa tuy?n ???ng",uet_clc,1,yes
+technical_topic,T08,Cloud & DevOps,0,388,Nghiên c?u và xây d?ng gi?i pháp devops trong phát tri?n ph?n m?m: áp d?ng v?i bài toán cân b?ng t?i và tích h?p tri?n khai t? ??ng ci/cd c?a h? th?ng qu?n lý k?t n?i gia s? tutor-connect,neu,2,yes
+technical_topic,T08,Cloud & DevOps,0,1394,Xây d?ng ?ng d?ng cung c?p d?ch v? phi máy ch? (serverless service provisioning) cho môi tr??ng K8s trong ?ám mây riêng,uet_clc,2,yes
+technical_topic,T08,Cloud & DevOps,0,916,An automation support tool for deploying infrastructure to the cloud using Terraform and CICD,uit,2,yes
+technical_topic,T08,Cloud & DevOps,0,366,Nguyên c?u và tri?n khai h? th?ng DevOps cho n?n t?ng website,neu,1,yes
+technical_topic,T08,Cloud & DevOps,0,318,Xây d?ng website s? d?ng ki?n trúc microservices trong l?nh v?c du l?ch,neu,1,no
+technical_topic,T08,Cloud & DevOps,0,698,Thi?t k? và tri?n khai h? th?ng b?ng hi?u ?i?n t? thông minh trên n?n t?ng ?ám mây,uit,1,yes
+technical_topic,T08,Cloud & DevOps,0,534,H? TR? G? L?I CI/CD PIPELINE B?NG PH??NG PHÁP PHÂN TÍCH LOG ?NG D?NG AI,duytan,1,no
+technical_topic,T08,Cloud & DevOps,0,699,Thi?t k? và tri?n khai h? th?ng qu?ng cáo ?i?n t? trên n?n t?ng ?ám mây,uit,1,yes
+technical_topic,T08,Cloud & DevOps,0,705,Tìm hi?u Google Cloud Dialogflow – và xây d?ng ?ng d?ng chatbot minh h?a,uit,1,yes
+technical_topic,T08,Cloud & DevOps,0,865,Xây d?ng ?ng d?ng web thuê nhà d?a trên ki?n trúc microservices,uit,1,yes
+technical_topic,T08,Cloud & DevOps,0,697,Thi?t k? và tri?n khai d?ch v? nh?n d?ng khuôn m?t trên n?n t?ng ?ám mây,uit,1,yes
+technical_topic,T08,Cloud & DevOps,0,942,Building a cloud based quiz system for student studying,uit,1,yes
+technical_topic,T08,Cloud & DevOps,0,970,Deploying a face recognition web application on Kubernetes,uit,1,yes
+technical_topic,T08,Cloud & DevOps,0,974,Develop an online tutoring website with microservices architecture,uit,1,yes
+technical_topic,T08,Cloud & DevOps,0,971,Design and implementation of a cloud-based Metaverse system,uit,1,yes
+technical_topic,T08,Cloud & DevOps,0,1122,Tìm hi?u các ph??ng pháp phát hi?n l?i ph?n m?m d?a trên h?c máy và xây d?ng công c? tích h?p vào quy trình CI/CD,uet_chuan,1,yes
+technical_topic,T08,Cloud & DevOps,0,1335,A Secure-by-Design Approach to CI/CD: Integrating Automated DevSecOps with GitLab and Open-Source Tools,uet_clc,1,
+technical_topic,T08,Cloud & DevOps,0,1351,Development of a Microservices-Based Shipping Management System Integrated with E-Commerce Platforms,uet_clc,1,
+technical_topic,T08,Cloud & DevOps,0,1392,Xây d?ng gi?i pháp PaaS h? tr? tri?n khai backend trò ch?i d?a trên ki?n trúc serverless,uet_clc,1,
+technical_topic,T15,Database,0,569,PHÁT TRI?N CÔNG C? ?NG D?NG AI TRONG VI?C CHUY?N ??I NGÔN NG? T? NHIÊN THÀNH CÂU TRUY V?N SQL NH?M H? TR? TRA C?U NHANH THÔNG TIN,ptit,2,yes
+technical_topic,T15,Database,0,667,Nghiên c?u c? s? d? li?u NoSQL và chuy?n ??i l??c ?? c? s? d? li?u sang NoSQL,uit,2,yes
+technical_topic,T15,Database,0,1011,Research on Watermark and Implementing an application on NoSQL database,uit,2,yes
+technical_topic,T15,Database,0,1403,Phát hi?n l? h?ng an ninh trong c? s? d? li?u NoSQL,uet_clc,2,yes
+technical_topic,T15,Database,0,962,Compare query performance on non-relational database (NOSQL),uit,2,yes
+technical_topic,T15,Database,0,992,Mapping relational and object relational databases NoSQL MongoDB,uit,2,yes
+technical_topic,T15,Database,0,1000,Query optimization in distributed database system,uit,2,yes
+technical_topic,T15,Database,0,874,?? xu?t các ph??ng pháp t? ??ng hoá thi?t k? c? s? d? li?u và sinh ra câu l?nh truy v?n t? mô t? b?ng ngôn ng? t? nhiên,uit,2,yes
+technical_topic,T15,Database,0,775,Xây d?ng h? th?ng trích xu?t nh?t ký s? ki?n t? c? s? d? li?u và ?ng d?ng web khai phá quy trình,uit,1,yes
+technical_topic,T15,Database,0,733,"Xây d?ng công c? thu th?p, x? lý, phân tích và truy v?n ??ng h? tr? d? li?u l?n",uit,1,no
+technical_topic,T15,Database,0,720,Website khuy?n ngh? h? tr? h?c t?p C? s? d? li?u,uit,1,no
+technical_topic,T15,Database,0,595,Xây d?ng h? th?ng t? v?n tìm ki?m nhà cho thuê d?a trên khai phá nh?t ký truy v?n,ptit,1,no
+technical_topic,T15,Database,0,96,XD Ch?c n?ng thanh toán ti?n th??ng trên HT Oracle Netsuite,neu,1,yes
+technical_topic,T15,Database,0,160,XD website bán m? ph?m s? d?ng Laravel và MySQL,neu,1,yes
+technical_topic,T15,Database,0,927,Applying graph database for searching the most trending topics on e-journal,uit,1,yes
+technical_topic,T15,Database,0,879,?ng d?ng CSDL ?? th? trong h? th?ng l?u tr? và tìm ki?m thông tin âm nh?c,uit,1,yes
+technical_topic,T15,Database,0,961,Clustering and visualizing the text stream of document using topic model and graph database,uit,1,yes
+technical_topic,T15,Database,0,869,Xây d?ng ch? m?c ?? th? và ?ng d?ng trong C? s? d? li?u Protein,uit,1,yes
+technical_topic,T15,Database,0,1147,T?i ?u và ??m b?o h? th?ng C? s? d? li?u c?a OpenStack ho?t ??ng ?n ??nh,uet_chuan,1,yes
+technical_topic,T15,Database,0,1087,Xây d?ng h? th?ng qu?n lý ch?m công t? ??ng d?a trên nh?n d?ng khuôn m?t tích h?p các mô hình h?c máy và c? s? d? li?u vector,uet_chuan,1,yes
+technical_topic,T15,Database,0,1184,Phát tri?n ?ng d?ng truy xu?t CSDL d?a trên AI,uet_clc,1,yes
+technical_topic,T15,Database,0,1292,An Efficient Agentic Workflow for Text-to-SQL,uet_clc,1,yes
+technical_topic,T15,Database,0,1319,Phát tri?n ph?n m?m chatbot d?a vào mô hình ngôn ng? l?n ?? truy xu?t thông tin t? c? s? d? li?u quan h? cho nghi?p v? ?ào t?o ??i h?c,uet_clc,1,no
+technical_topic,T15,Database,0,1404,Tìm l? h?ng an ninh trong h? qu?n tr? c? s? d? li?u quan h? b?ng k? thu?t fuzzing,uet_clc,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,229,Xây d?ng h? th?ng chatbot AI cho qu?n lý tin nh?n Facebook Messenger s? d?ng ki?n trúc RAG và quy trình hybrid AI-Human,neu,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,251,Nghiên c?u và xây d?ng ?ng d?ng trí tu? nhân t?o t? ??ng giao d?ch ?a c? phi?u d?a trên ki?n trúc tác t? SAC c?i ti?n v?i m?ng N?ron l??ng t? k?t h?p k? thu?t h?c t?ng c??ng sâu,neu,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,311,Xây d?ng h? th?ng qu?n tr? h?c t?p d?a trên ki?n trúc Microservice,neu,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,318,Xây d?ng website s? d?ng ki?n trúc microservices trong l?nh v?c du l?ch,neu,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,381,Xây d?ng website qu?n lý n?i dung ?a ng??i dùng v?i ki?n trúc multi-tenancy,neu,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,545,THI?T K? H? TH?NG THI TR?C TUY?N V?I C? CH? GIÁM SÁT VÀ PHÁT HI?N GIAN L?N THÔNG MINH,duytan,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,865,Xây d?ng ?ng d?ng web thuê nhà d?a trên ki?n trúc microservices,uit,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,1121,Ph??ng pháp mô hình hóa và ki?m ch?ng các v?n ?? an ninh ph?n m?m,uet_chuan,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,1216,?ng d?ng ki?n trúc Multitenant và Event-Driven trong H? th?ng ??t vé tr?c tuy?n,uet_clc,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,1329,"Phân tích, thi?t k? và xây d?ng H? th?ng phân ph?i và qu?n lý vé s? ki?n v?i ki?n trúc vi d?ch v?",uet_clc,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,1363,?ánh giá các m?u giao ti?p trong ki?n trúc vi d?ch v?,uet_clc,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,1392,Xây d?ng gi?i pháp PaaS h? tr? tri?n khai backend trò ch?i d?a trên ki?n trúc serverless,uet_clc,1,yes
+technical_topic,T16,Software Architecture & Engineering,0,1424,Xây d?ng h? th?ng ng??i xác minh cho m?ng l?p hai trên m?ng Aptos d?a trên ki?n trúc c?a Starknet,uet_clc,1,yes
+technical_topic,T20,UI/UX Design,0,162,NC v? thi?t k? tr?i nghi?m ng??i dùng,neu,1,yes
+technical_topic,T20,UI/UX Design,0,681,Nâng cao tr?i nghi?m ng??i dùng th??ng m?i ?i?n t? ?ng d?ng th?c t?i t?ng c??ng,uit,1,yes
+technical_topic,T20,UI/UX Design,0,1249,MyMessage - A message application for enhancing the user experience,uet_clc,1,yes
+technical_topic,T21,Blockchain,0,144,NC ?ng d?ng công ngh? BlockChain ?? XD sàn giao d?ch NFT,neu,2,yes
+technical_topic,T21,Blockchain,0,436,H? TH?NG H? S? H?C T?P S? PHI T?P TRUNG TRÊN N?N T?NG BLOCKCHAIN,duytan,2,yes
+technical_topic,T21,Blockchain,0,1180,An email system integrated with Blockchain and Zero-knowledge Proof technology to send Web3 assets,uet_clc,2,yes
+technical_topic,T21,Blockchain,0,1358,Phát tri?n h? th?ng t?o l?p và qu?n lý giao d?ch ??ng ti?n ?i?n t? phi t?p trung trên n?n t?ng ?a chu?i kh?i,uet_clc,2,yes
+technical_topic,T21,Blockchain,0,172,?ng d?ng công ngh? NFT và ??ng ti?n ?i?n t? trong XD h? th?ng TM?T,neu,1,yes
+technical_topic,T21,Blockchain,0,265,H? th?ng xác th?c tài li?u ?ng d?ng Blockchain,neu,1,yes
+technical_topic,T21,Blockchain,0,169,NC ?ng d?ng CN chu?i kh?i trong HT QL v?n b?ng t?t nghi?p t?i tr??ng ?H KTQD,neu,1,yes
+technical_topic,T21,Blockchain,0,156,XD HT qu?n lí tài li?u d? án b?ng công ngh? BlockChain,neu,1,yes
+technical_topic,T21,Blockchain,0,651,H? th?ng truy xu?t ngu?n g?c hàng hóa d?a trên công ngh? Blockchain,uit,1,yes
+technical_topic,T21,Blockchain,0,543,"XÂY D?NG H? THÓNG BÁN VÉ S? KI?N ?NG D?NG CÔNG NGH? BLOCKCHAIN VÀ TRÍ TU? NHÂN T?O (AI) NH?M PHÁT HI?N, NG?N CH?N HÀNH VI T? ??NG (BOT)",duytan,1,yes
+technical_topic,T21,Blockchain,0,652,H? th?ng truy xu?t ngu?n g?c trong ch?n nuôi b?ng công ngh? Blockchain,uit,1,yes
+technical_topic,T21,Blockchain,0,673,Nghiên c?u ph??ng pháp t?i ?u hoá cây Merkle trong công ngh? chu?i kh?i,uit,1,yes
+technical_topic,T21,Blockchain,0,857,Xây d?ng ?ng d?ng th??ng m?i ?i?n t? trên n?n t?ng công ngh? chu?i kh?i,uit,1,yes
+technical_topic,T21,Blockchain,0,883,?ng d?ng blockchain vào h? th?ng qu?n lý b?nh án ?i?n t?,uit,1,yes
+technical_topic,T21,Blockchain,0,755,Xây d?ng h? th?ng h? s? cá nhân và h? tr? tuy?n d?ng cho doanh nghi?p thông qua công ngh? blockchain và trí tu? nhân t?o,uit,1,yes
+technical_topic,T21,Blockchain,0,806,Xây d?ng sàn giao d?ch NFT,uit,1,yes
+technical_topic,T21,Blockchain,0,956,Building an internet-based application using blockchain technology in financial services,uit,1,yes
+technical_topic,T21,Blockchain,0,884,?ng d?ng công ngh? chu?i kh?i trong vi?c xây d?ng h? th?ng b?u c?,uit,1,yes
+technical_topic,T21,Blockchain,0,1111,Xây d?ng mô-?un t?o b?ng ch?ng ZK cho Layer 2 trên chu?i kh?i Aptos d?a trên Starknet,uet_chuan,1,yes
+technical_topic,T21,Blockchain,0,1105,H? th?ng truy xu?t ngu?n g?c th?t l?n áp d?ng công ngh? blockchain,uet_chuan,1,yes
+technical_topic,T21,Blockchain,0,1136,Game Blockchain,uet_chuan,1,yes
+technical_topic,T21,Blockchain,0,1181,Building a tool for detecting MEV on Ethereum,uet_clc,1,yes
+technical_topic,T21,Blockchain,0,1325,Constructing an Analytical Tool for Account Monitoring in the EVM Blockchain Environment,uet_clc,1,yes
+technical_topic,T21,Blockchain,0,1419,Thu?t toán chia b?ng ch?ng không ki?n th?c STARK cho layer2 Zk-Rollup trên blockchain Aptos,uet_clc,1,yes
+technical_topic,T22,AR/VR & Spatial Computing,0,237,?ng d?ng công ngh? th?c t? ?o trong gi?ng d?y và th?c hành thí nghi?m s?c ký l?p m?ng,neu,1,yes
+technical_topic,T22,AR/VR & Spatial Computing,0,469,DANATRIP - H? TH?NG DU L?CH THÔNG MINH TÍCH H?P TH?C T? ?O CHO THÀNH PH? ?À N?NG,duytan,1,yes
+technical_topic,T22,AR/VR & Spatial Computing,0,620,Advertisement system in Mobile platform with Augmented Reality,uit,1,yes
+technical_topic,T22,AR/VR & Spatial Computing,0,936,Augmented reality application for interior furniture design – research and development,uit,1,yes
+technical_topic,T22,AR/VR & Spatial Computing,0,971,Design and implementation of a cloud-based Metaverse system,uit,1,yes
+technical_topic,T22,AR/VR & Spatial Computing,0,1082,?ng d?ng th?c t? ?o t?ng c??ng trong tr?i nghi?m làm kh?m trai truy?n th?ng Vi?t Nam,uet_chuan,1,yes
+technical_topic,T22,AR/VR & Spatial Computing,0,1088,?ng d?ng th?c t? ?o t?ng c??ng trong tr?i nghi?m làm m?t n? gi?y b?i truy?n th?ng Vi?t Nam,uet_chuan,1,yes
+technical_topic,T22,AR/VR & Spatial Computing,0,1275,Developing an Immersive Virtual Reality Application for Autism Education: Supporting Skills and Knowledge Acquisition,uet_clc,1,yes
+technical_topic,T22,AR/VR & Spatial Computing,0,1277,Designing and Implementing an Immersive Virtual Reality System for Children with Autism Spectrum Disorders,uet_clc,1,yes
+domain,D06,Transportation & Logistics,0,95,XD HT qu?n lí v?n t?i GoNow,neu,1,yes
+domain,D06,Transportation & Logistics,0,130,Nh?n d?ng bi?n s? xe ô tô,neu,1,yes
+domain,D06,Transportation & Logistics,0,174,XD HT phát hi?n bu?n ng? c?a ng??i lái ô tô và xe máy,neu,1,yes
+domain,D06,Transportation & Logistics,0,296,Xây d?ng h? th?ng phát hi?n s?m tín hi?u bi?n báo giao thông cho lái xe d?a trên k? thu?t h?c sâu,neu,1,yes
+domain,D06,Transportation & Logistics,0,336,Xây d?ng website cho thuê xe ô tô tr?c tuy?n Recars,neu,1,yes
+domain,D06,Transportation & Logistics,0,342,Thi?t k? và phát tri?n h? th?ng cho thuê xe ô tô tr?c tuy?n ?ng d?ng công ngh? web,neu,1,yes
+domain,D06,Transportation & Logistics,0,343,Xây d?ng ?ng d?ng phát hi?n và nh?n di?n bi?n báo giao thông t?i Vi?t Nam,neu,1,yes
+domain,D06,Transportation & Logistics,0,408,Xây d?ng Website xem phim tr?c tuy?n tích h?p FFmpeg và Content Delivery nh?m nâng cao hi?u su?t truy?n d?n và b?o m?t n?i dung k?t h?p AI h? tr? ng??i dùng,duytan,1,yes
+domain,D06,Transportation & Logistics,0,433,XÂY D?NG H? TH?NG ??T VÀ QU?N LÝ BÃI ?? XE TÍCH H?P AI TR? LÝ ?O CHO NG??I DÙNG VÀ CH? BÃI,duytan,1,yes
+domain,D06,Transportation & Logistics,0,437,Xây d?ng h? th?ng qu?n lý v?n chuy?n hàng hóa Speedyship tích h?p AI h? tr? khách hàng,duytan,1,yes
+domain,D06,Transportation & Logistics,0,639,H? th?ng giám sát giao thông t? ??ng h? tr? ??m xe và ?o t?c ??,uit,1,yes
+domain,D06,Transportation & Logistics,0,648,H? th?ng qu?n lý bán và giao hàng tr?c tuy?n,uit,1,yes
+domain,D06,Transportation & Logistics,0,843,Xây d?ng ?ng d?ng di ??ng nh?n di?n bi?n báo giao thông th?i gian th?c,uit,1,yes
+domain,D06,Transportation & Logistics,0,920,Analyzing and forecasting Wikipedia web traffic,uit,1,yes
+domain,D06,Transportation & Logistics,0,969,Deep learning for traffic sign recognition,uit,1,yes
+domain,D06,Transportation & Logistics,0,1023,Traffic jams prediction using machine learning,uit,1,yes
+domain,D06,Transportation & Logistics,0,1047,H? th?ng qu?n lý k?t n?i các nhà phân ph?i ph? tùng ô tô và ng??i mua,uet_chuan,1,yes
+domain,D06,Transportation & Logistics,0,1134,Xây d?ng ?ng d?ng di ??ng th? vé giao thông cho h? th?ng th? vé ?i?n t? liên thông,uet_chuan,1,yes
+domain,D06,Transportation & Logistics,0,1143,Khám phá tính kh? thi c?a thu?t toán MuZero trong ?i?u khi?n xe t? hành,uet_chuan,1,yes
+domain,D06,Transportation & Logistics,0,1212,"Xây d?ng kho d? li?u v? giao thông ?ô th? và phân tích, t?i ?u hóa tuy?n ???ng",uet_clc,1,yes
+domain,D06,Transportation & Logistics,0,1251,3DCarConnect: N?n t?ng th??ng m?i ?i?n t? ô tô tích h?p ?? ho? ba chi?u.,uet_clc,1,yes
+domain,D07,Agriculture,0,5,Chatbot ?ng d?ng trí tu? nhân t?o h? tr? nh?n di?n b?nh cây tr?ng và t? v?n nông nghi?p,neu,2,yes
+domain,D07,Agriculture,0,1407,NGHIÊN C?U PHÁT TRI?N H? TH?NG AI D? ?OÁN VÀ ?I?U CH?NH THÔNG S? MÔI TR??NG TRONG TRANG TR?I CH?N NUÔI L?N,uet_clc,2,yes
+domain,D07,Agriculture,0,15,Phân tích & d? ?oán kh? n?ng tham gia lao ??ng phi nông nghi?p c?a h? gia ?ình Vi?t Nam t? s? li?u VHLSS 2014-2018,neu,1,yes
+domain,D07,Agriculture,0,2,?ng d?ng h?c máy trong d? ?oán n?ng su?t và khuy?n ngh? cây tr?ng t?i ?u,neu,1,yes
+domain,D07,Agriculture,0,409,XÂY D?NG H? TH?NG H? TR? KINH DOANH NÔNG S?N TÍCH H?P AI,duytan,1,yes
+domain,D07,Agriculture,0,506,Thi?t k? và xây d?ng website mua bán nông s?n tích h?p AI g?i ý mua s?m và phân tích d? li?u kinh doanh.,duytan,1,yes
+domain,D07,Agriculture,0,510,XÂY D?NG H? TH?NG QU?N LÝ CANH TÁC TÍCH H?P AI H? TR? CH?N ?OÁN B?NH VÀ CH?M SÓC CÂY TR?NG,duytan,1,yes
+domain,D07,Agriculture,0,114,XD website TM?T cho c?a hàng Nông s?n s?ch Tomita,neu,1,yes
+domain,D07,Agriculture,0,652,H? th?ng truy xu?t ngu?n g?c trong ch?n nuôi b?ng công ngh? Blockchain,uit,1,yes
+domain,D07,Agriculture,0,680,Nâng cao hi?u qu? qu?n lý và h? tr? l?p k? ho?ch s?n xu?t trong ch?n nuôi,uit,1,yes
+domain,D07,Agriculture,0,856,Xây d?ng ?ng d?ng qu?n lý tr?ng tr?t và ch?n nuôi,uit,1,yes
+domain,D07,Agriculture,0,811,Xây d?ng website bán hàng nông s?n s?ch,uit,1,yes
+domain,D07,Agriculture,0,887,"?ng d?ng khai phá d? li?u phân tán ?? xây d?ng h? th?ng phân tích, ?ánh giá n?ng su?t và h? tr? ra quy?t ??nh trong ch?n nuôi.",uit,1,yes
+domain,D07,Agriculture,0,1170,Bài toán d? báo s?n l??ng cho cây tr?ng,uet_chuan,1,yes
+domain,D07,Agriculture,0,1301,Nghiên c?u và xây d?ng b?n ?? nh?n d?ng cây tr?ng s? d?ng d? li?u vi?n thám ?a ngu?n,uet_clc,1,yes
+domain,D07,Agriculture,0,1390,Nghiên c?u mô ph?ng ?a tác t? phân tán cho mô hình ch?n nuôi l?n chính xác quy mô l?n,uet_clc,1,yes
+domain,D09,Entertainment & Gaming,0,9,Xây d?ng trò ch?i hành ??ng - phiêu l?u Chrono Echo,neu,1,yes
+domain,D09,Entertainment & Gaming,0,18,Xây d?ng trò ch?i nh?p vai v?i c? ch? chi?n ??u theo l??t,neu,1,yes
+domain,D09,Entertainment & Gaming,0,27,Game b?n súng Ace wings,neu,1,yes
+domain,D09,Entertainment & Gaming,0,35,NC và XD ?ng d?ng Game trên Unity Engine,neu,1,yes
+domain,D09,Entertainment & Gaming,0,41,T?ng quan v? phát tri?n Game và tìm hi?u v? Engine Unity trong xây d?ng game,neu,1,yes
+domain,D09,Entertainment & Gaming,0,48,Thi?t k? và XD Game 2D One Piece: The Advanture,neu,1,yes
+domain,D09,Entertainment & Gaming,0,148,XD Game Graphic Adventure Evil Bunny,neu,1,yes
+domain,D09,Entertainment & Gaming,0,216,Xây d?ng game l?ch s? ?inh B? L?nh d?p lo?n 12 x? quân,neu,1,yes
+domain,D09,Entertainment & Gaming,0,249,Làm game 2D gi?i ?? b?ng Unity,neu,1,yes
+domain,D09,Entertainment & Gaming,0,268,Phát tri?n trò ch?i b?n súng góc nhìn th? nh?t,neu,1,yes
+domain,D09,Entertainment & Gaming,0,275,Xây d?ng game 2D RIFT OF LYRA,neu,1,yes
+domain,D09,Entertainment & Gaming,0,290,Phát tri?n game 2D có y?u t? th?n tho?i Vi?t Nam,neu,1,yes
+domain,D09,Entertainment & Gaming,0,309,Thi?t k? và Xây d?ng game 2D,neu,1,yes
+domain,D09,Entertainment & Gaming,0,338,Thi?t k? và xây d?ng Game Nông tr?i 3D b?ng Unity Engine,neu,1,yes
+domain,D09,Entertainment & Gaming,0,352,Thi?t k? game Ai là tri?u phú,neu,1,yes
+domain,D09,Entertainment & Gaming,0,371,Xây d?ng game chi?n thu?t nh?p vai theo l??t (RPG TURN BASED),neu,1,yes
+domain,D09,Entertainment & Gaming,0,372,Xây d?ng Game Engine 2D,neu,1,yes
+domain,D09,Entertainment & Gaming,0,395,Website h?c t?p ?a môn h?c thông qua các trò ch?i,neu,1,yes
+domain,D09,Entertainment & Gaming,0,399,Trò ch?i Sinh t?n 3D,neu,1,yes
+domain,D09,Entertainment & Gaming,0,404,Xây d?ng Game Online theo l??t Adventure From Beyond,neu,1,yes
+domain,D09,Entertainment & Gaming,0,565,SHADOW WARIOR - PHÁT TRI?N GAME B?N SUNG 2D PIXEL TH? LO?I TOP DOWN,duytan,1,yes
+domain,D09,Entertainment & Gaming,0,734,Xây d?ng game l?y b?i c?nh ??i d?ch Covid 19,uit,1,yes
+domain,D09,Entertainment & Gaming,0,1006,Rent me – a web-based platform for the game player community,uit,1,yes
+domain,D09,Entertainment & Gaming,0,1096,Phát tri?n game Th? gi?i bí ?n,uet_chuan,1,yes
+domain,D09,Entertainment & Gaming,0,1108,Trò ch?i ô ch? b?n ti?ng Vi?t cho ?ng d?ng di ??ng,uet_chuan,1,yes
+domain,D09,Entertainment & Gaming,0,1136,Game Blockchain,uet_chuan,1,yes
+domain,D09,Entertainment & Gaming,0,1237,KidGames: Trò ch?i giáo d?c dành cho h?c sinh l?p 1,uet_clc,1,yes
+domain,D09,Entertainment & Gaming,0,1241,2D Nut and Bolt: Trò ch?i s?p x?p ?c và bu lông d?a trên Construct 3,uet_clc,1,yes
+domain,D09,Entertainment & Gaming,0,1294,AI-Enhanced Interactive Game Storytelling,uet_clc,1,yes
+domain,D09,Entertainment & Gaming,0,1327,Ph?n m?m ?ng d?ng gi?i trí d?a trên c?m xúc: Nâng cao tr?i nghi?m và an toàn cho ng??i lái xe,uet_clc,1,yes
+domain,D10,Real Estate & Construction,0,692,Qu?n lý c?n h? chung c?-k?t n?i c? dân và ban qu?n lý,uit,2,yes
+domain,D10,Real Estate & Construction,0,67,Phân tích và XD bài toán qu?n lí các d?ch v? c?a khu chung c?,neu,1,yes
+domain,D10,Real Estate & Construction,0,140,XD Website b?t ??ng s?n Thu?n Thành Land,neu,1,yes
+domain,D10,Real Estate & Construction,0,142,XD website cho thuê nhà tr? sinh viên,neu,1,yes
+domain,D10,Real Estate & Construction,0,7,?o l??ng ?? b?t ??nh thông qua m?ng n?ron bayesian “áp d?ng d? ?oán giá b?t ??ng s?n”,neu,1,yes
+domain,D10,Real Estate & Construction,0,152,XD website qu?n lí chung c?,neu,1,yes
+domain,D10,Real Estate & Construction,0,187,XD h? th?ng d? báo giá nhà ??t d?a trên các mô hình h?c máy và h?c sâu,neu,1,yes
+domain,D10,Real Estate & Construction,0,412,XÂY D?NG H? TH?NG QU?N LÝ C?N H? CHO THUÊ TÍCH H?P CHATBOT AI G?I Ý VÀ T? V?N CHO KHÁCH HÀNG,duytan,1,yes
+domain,D10,Real Estate & Construction,0,300,Phân tích giá nhà ??t ? Vi?t Nam s? d?ng mô hình h?c máy,neu,1,yes
+domain,D10,Real Estate & Construction,0,418,"Phát tri?n h? th?ng ??ng tin, mua bán b?t ??ng s?n tích h?p Chatbot AI và h? th?ng g?i ý thông minh",duytan,1,yes
+domain,D10,Real Estate & Construction,0,478,Xây d?ng h? th?ng ??ng tin cho thuê c?n h? ?a n?n t?ng tích h?p ai h? tr? ng??i dùng,duytan,1,yes
+domain,D10,Real Estate & Construction,0,555,XÂY D?NG WEBSITE WRStudios ?? CHO THUÊ C?N H? TÍCH H?P H? TH?NG B?N ?? S? MAPBOX VÀ AI H??NG D?N ???NG ?I ??N C?N H?,duytan,1,yes
+domain,D10,Real Estate & Construction,0,623,Building an Application Provide Real Estate Agent Features,uit,1,yes
+domain,D10,Real Estate & Construction,0,700,Thi?t k? và xây d?ng h? th?ng qu?n lý b?t ??ng s?n,uit,1,yes
+domain,D10,Real Estate & Construction,0,836,Xây d?ng website v?n hành chung c?,uit,1,yes
+domain,D10,Real Estate & Construction,0,907,A web-based management system for real estate properties,uit,1,yes
+domain,D10,Real Estate & Construction,0,930,Applying prediction models to forecast the real estate price in Ho Chi Minh city,uit,1,yes
+domain,D10,Real Estate & Construction,0,958,Building human resource management system for real estate company,uit,1,yes
+domain,D10,Real Estate & Construction,0,1004,Real estate management and posting website,uit,1,yes
+domain,D10,Real Estate & Construction,0,1300,Enhancing Multimodal Bundle Construction by Intergration of Category-wise Information and Item-level User Feedbac,uet_clc,1,yes
+domain,D10,Real Estate & Construction,0,1367,Xây d?ng h? th?ng qu?n lí kinh doanh b?t ??ng s?n cho doanh nghi?p quy mô nh?,uet_clc,1,yes
+domain,D11,Government & Public Sector,0,703,"Tìm hi?u Alfresco ECM, áp d?ng vào vi?c qu?n lý và l?u tr? v?n b?n hành chính t?i tr??ng ?H CNTT",uit,1,yes
+domain,D11,Government & Public Sector,0,1121,Ph??ng pháp mô hình hóa và ki?m ch?ng các v?n ?? an ninh ph?n m?m,uet_chuan,1,yes
+domain,D11,Government & Public Sector,0,1150,S? d?ng các ?? ?o m?c ?? t??ng ??ng phù h?p ?? t?ng h?p các c?nh báo an ninh v?i các ??nh d?ng khác nhau,uet_chuan,1,yes
+domain,D11,Government & Public Sector,0,1153,Phân lo?i quan h? gi?a các th?c th? trong các ngu?n tài li?u v?n b?n v? thông tin hi?m h?a an ninh,uet_chuan,1,yes
+domain,D11,Government & Public Sector,0,1401,Phát hi?n l? h?ng an ninh trong ?ng d?ng WordPress b?ng k? thu?t fuzzing,uet_clc,1,yes
+domain,D11,Government & Public Sector,0,1403,Phát hi?n l? h?ng an ninh trong c? s? d? li?u NoSQL,uet_clc,1,yes
+domain,D11,Government & Public Sector,0,1404,Tìm l? h?ng an ninh trong h? qu?n tr? c? s? d? li?u quan h? b?ng k? thu?t fuzzing,uet_clc,1,yes
+domain,D11,Government & Public Sector,0,1414,Phát hi?n l? h?ng an ninh PHP Object Injection,uet_clc,1,yes
+domain,D12,Manufacturing & Industry,0,112,XD ?ng d?ng QL ??t hàng cho CT CP s?n xu?t TLG VN,neu,1,yes
+domain,D12,Manufacturing & Industry,0,119,Bài toán QL kí túc xá tr??ng ??i h?c Công nghi?p HN,neu,1,yes
+domain,D12,Manufacturing & Industry,0,233,Xây d?ng Website bán ?? g? m? ngh? cho x??ng s?n xu?t m?c Thiên Long,neu,1,yes
+domain,D12,Manufacturing & Industry,0,270,Xây d?ng ?ng d?ng qu?n lý quy trình s?n xu?t cho ?ài Phát thanh Truy?n hình H?i Phòng,neu,1,yes
+domain,D12,Manufacturing & Industry,0,643,H? th?ng h? tr? qu?n lý chu?i s?n xu?t theo tiêu chu?n VIETGAP,uit,1,yes
+domain,D12,Manufacturing & Industry,0,680,Nâng cao hi?u qu? qu?n lý và h? tr? l?p k? ho?ch s?n xu?t trong ch?n nuôi,uit,1,yes
+domain,D12,Manufacturing & Industry,0,855,Xây d?ng ?ng d?ng qu?n lý quy trình s?n xu?t ph?n m?m d?a trên mô hình SCRUM,uit,1,yes
+domain,D12,Manufacturing & Industry,0,1380,UALBP - U line Assembly Line Balancing Problem,uet_clc,1,yes
+domain,D13,Environment & Energy,0,702,Tr?c quan hóa d? li?u cho h? th?ng giám sát môi tr??ng tr?c tuy?n.,uit,1,yes
+domain,D13,Environment & Energy,0,853,Xây d?ng ?ng d?ng qu?n lý làm vi?c nhóm trên môi tr??ng Windows UWP,uit,0,yes
+domain,D13,Environment & Energy,0,975,"Development of an AI-based weather forecasting system, and mobile app",uit,1,yes
+domain,D13,Environment & Energy,0,1238,"Nghiên c?u và phát tri?n ?ng d?ng di ??ng d? báo, c?nh báo ô nhi?m không khí",uet_clc,1,yes
+domain,D13,Environment & Energy,0,1274,?ng d?ng h?c liên t?c vào ??c l??ng n?ng ?? ô nhi?m không khí PM2.5,uet_clc,1,yes
+domain,D13,Environment & Energy,0,1288,Nghiên c?u và phát tri?n h? th?ng giám sát ô nhi?m không khí,uet_clc,1,yes
+domain,D13,Environment & Energy,0,1325,Constructing an Analytical Tool for Account Monitoring in the EVM Blockchain Environment,uet_clc,0,no
+domain,D13,Environment & Energy,0,1394,Xây d?ng ?ng d?ng cung c?p d?ch v? phi máy ch? (serverless service provisioning) cho môi tr??ng K8s trong ?ám mây riêng,uet_clc,0,no
+domain,D13,Environment & Energy,0,1407,NGHIÊN C?U PHÁT TRI?N H? TH?NG AI D? ?OÁN VÀ ?I?U CH?NH THÔNG S? MÔI TR??NG TRONG TRANG TR?I CH?N NUÔI L?N,uet_clc,1,yes
+domain,D14,Human Resources & Recruitment,0,528,XÂY D?NG WEBSITE TUY?N D?NG TR?C TUY?N TÍCH H?P AI H? TR? ?ÁNH GIÁ H? S? ?NG VIÊN,duytan,3,yes
+domain,D14,Human Resources & Recruitment,0,835,Xây d?ng website tìm ki?m và tuy?n d?ng vi?c làm. Tích h?p ch?c n?ng g?i ý vi?c làm phù h?p cho ?ng viên,uit,3,yes
+domain,D14,Human Resources & Recruitment,0,553,Phát tri?n n?n t?ng k?t n?i ?ng viên và nhà tuy?n d?ng ?ng d?ng có Chatbot AI ?? xu?t vi?c làm,duytan,3,yes
+domain,D14,Human Resources & Recruitment,0,8,Nghiên c?u và xây d?ng h? th?ng t? ??ng x? lí và ?ánh giá h? s? ?ng viên d?a trên mô hình trí tu? nhân t?o ?a tác t?,neu,2,yes
+domain,D14,Human Resources & Recruitment,0,1224,Xây d?ng h? th?ng ERP qu?n lý quy trình tuy?n d?ng nhân s? m?i cho doanh nghi?p,uet_clc,2,yes
+domain,D14,Human Resources & Recruitment,0,456,XÂY D?NG H? TH?NG QU?N LÝ NHÂN S? TÍCH H?P AI PHÂN TÍCH CV H? TR? TUY?N D?NG,duytan,2,yes
+domain,D14,Human Resources & Recruitment,0,392,Xây d?ng website tuy?n d?ng và t? v?n vi?c làm,neu,2,yes
+domain,D14,Human Resources & Recruitment,0,419,XÂY D?NG H? TH?NG TUY?N D?NG VÀ T? V?N VI?C LÀM TÍCH H?P TRÍ TU? NHÂN T?O,duytan,2,yes
+domain,D14,Human Resources & Recruitment,0,291,Nghiên c?u kh? n?ng suy lu?n c?a trí tu? nhân t?o t?o sinh: Áp d?ng cho h? tr? tìm ki?m vi?c làm cho sinh viên ??i h?c Kinh t? qu?c dân,neu,1,yes
+domain,D14,Human Resources & Recruitment,0,197,"NC, XD ph?n m?m qu?n lí nhân s? t?i công ty c? ph?n Ichiba VN",neu,1,yes
+domain,D14,Human Resources & Recruitment,0,136,XD H? th?ng qu?n lí thông tin tuy?n d?ng cho ngành CNTT,neu,1,yes
+domain,D14,Human Resources & Recruitment,0,389,Xây d?ng ?ng d?ng h? tr? tìm ki?m vi?c làm th?i v?,neu,1,yes
+domain,D14,Human Resources & Recruitment,0,121,XD website d?ch v? môi gi?i vi?c làm,neu,1,yes
+domain,D14,Human Resources & Recruitment,0,61,XD HT qu?n lí nhân s? cho công ty Tinh Vân Consulting,neu,1,yes
+domain,D14,Human Resources & Recruitment,0,69,Phân tích và XD ph?n m?m qu?n lí nhân s? ti?n l??ng c?a công ty công ngh? Hòa An,neu,1,yes
+domain,D14,Human Resources & Recruitment,0,72,XD h? th?ng qu?n lí nhân s? cho công ty Rikkeisoft,neu,1,yes
+domain,D14,Human Resources & Recruitment,0,452,"Xây d?ng website h? tr? tìm vi?c làm, tích h?p AI Recommendation",duytan,1,yes
+domain,D14,Human Resources & Recruitment,0,448,Xây d?ng website FreeWork - N?n t?ng k?t n?i Freelancer và nhà tuy?n d?ng tích h?p kí g?i Escrow và AI h? tr? t? v?n,duytan,1,yes
+domain,D14,Human Resources & Recruitment,0,426,PHÁT TRI?N H? TH?NG AI PHÂN TÍCH CV VÀ ?? XU?T VI?C LÀM PHÙ H?P,duytan,1,yes
+domain,D14,Human Resources & Recruitment,0,328,Xây d?ng Website cho trung tâm Piano có tích h?p Chatbot trong vi?c t? ??ng giao ti?p và ?ào t?o nhân s?,neu,1,yes
+domain,D14,Human Resources & Recruitment,0,559,WEBSITE TÌM KI?M VI?C LÀM (dùng Chatbox AI h? tr? ng??i dùng tìm ki?m và hi?n th? danh sách các vi?c làm phù h?p v?i nhu c?u tìm ki?m),duytan,1,yes
+domain,D14,Human Resources & Recruitment,0,730,Xây d?ng công c? h? tr? tìm vi?c t? các website vi?c làm khác,uit,1,yes
+domain,D14,Human Resources & Recruitment,0,520,XÂY D?NG H? THÓNG K?T N?I VI?C LÀM FREELANCE TÍCH H?P AI PHÂN TÍCH VÀ ?ÁNH GIÁ K? N?NG CÁ NHÂN HÓA,duytan,1,yes
+domain,D14,Human Resources & Recruitment,0,470,XÂY D?NG WEBSITE TUY?N D?NG THÔNG MINH TÍCH H?P AI PHÂN TÍCH VÀ ?ÁNH GIÁ CV D?A TRÊN MÔ T? CÔNG VI?C,duytan,1,yes
+domain,D14,Human Resources & Recruitment,0,764,Xây d?ng h? th?ng qu?n lý quy trình tuy?n d?ng,uit,1,yes
+domain,D14,Human Resources & Recruitment,0,755,Xây d?ng h? th?ng h? s? cá nhân và h? tr? tuy?n d?ng cho doanh nghi?p thông qua công ngh? blockchain và trí tu? nhân t?o,uit,1,yes
+domain,D14,Human Resources & Recruitment,0,834,Xây d?ng website tìm ki?m vi?c làm,uit,1,yes
+domain,D14,Human Resources & Recruitment,0,795,Xây d?ng m?ng k? n?ng ngh? nghi?p và h? tr? tìm ki?m ?ng viên t?i ?u,uit,1,yes
+domain,D14,Human Resources & Recruitment,0,878,?ng d?ng Business Automation Framework (BAF) ?? t? ??ng hóa các quy trình nghi?p v? t?i b? ph?n nhân s? trong các công ty d?ch v? công ích,uit,1,yes
+domain,D14,Human Resources & Recruitment,0,1036,Xây d?ng ?ng d?ng m?ng xã h?i vi?c làm ( Phía Frontend ),uet_chuan,1,yes
+domain,D15,Social & Community,0,13,"Nghiên c?u, xây d?ng ?ng d?ng qu?n lý thành viên cây Gia ph?",neu,1,yes
+domain,D15,Social & Community,0,135,XD website s? ki?n,neu,1,yes
+domain,D15,Social & Community,0,138,XD website Scan Party qu?n lí khách m?i s? ki?n,neu,1,yes
+domain,D15,Social & Community,0,230,S? d?ng h?c máy phân tích c?m xúc c?ng ??ng v? l? trình chuy?n ??i xe x?ng sang xe ?i?n,neu,1,yes
+domain,D15,Social & Community,0,310,Xây d?ng ?ng d?ng qu?n lý và tìm ki?m s? ki?n trên ?i?n tho?i,neu,1,yes
+domain,D15,Social & Community,0,313,Xây d?ng website m?ng xã h?i tích h?p trí tu? nhân t?o AI,neu,1,yes
+domain,D15,Social & Community,0,396,Xây d?ng ?ng d?ng m?ng xã h?i Zingo,neu,1,yes
+domain,D15,Social & Community,0,428,H? th?ng h? tr? kh?n c?p c?ng ??ng th?i gian th?c hi?n trên n?n t?ng Web tích h?p AI,duytan,1,yes
+domain,D15,Social & Community,0,489,"Xây d?ng website h?n hò tr?c tuy?n, s? d?ng ai g?i ý k?t b?n và ?? phòng gi? mao",duytan,1,yes
+domain,D15,Social & Community,0,493,WEBSITE M?NG XÃ H?I DU L?CH KHÁM PHÁ MI?N TRUNG TÍCH H?P AI VÀ CHECK- IN/CHECK-OUT ?I?N T?.,duytan,1,yes
+domain,D15,Social & Community,0,505,H? TH?NG QU?N LÝ VÀ ?I?U PH?I NGU?N L?C TÌNH NGUY?N VIÊN TR?C TUY?N TÍCH H?P MÔ HÌNH H? TR? RA QUY?T ??NH,duytan,1,yes
+domain,D15,Social & Community,0,511,XÂY D?NG N?N T?NG M?NG XÃ H?I EDUCONNECT LIVE H? TR? GIAO TI?P TH?I GIAN TH?C CHO SINH VIÊN TÍCH H?P AI V?I CH?C N?NG KI?M DUY?T N?I DUNG,duytan,1,yes
+domain,D15,Social & Community,0,537,XÂY D?NG H? TH?NG QU?N LÝ GIA PH? TR?C TUY?N TÍCH H?P CHATBOT AI H? TR? NG??I DÙNG,duytan,1,yes
+domain,D15,Social & Community,0,543,"XÂY D?NG H? THÓNG BÁN VÉ S? KI?N ?NG D?NG CÔNG NGH? BLOCKCHAIN VÀ TRÍ TU? NHÂN T?O (AI) NH?M PHÁT HI?N, NG?N CH?N HÀNH VI T? ??NG (BOT)",duytan,1,yes
+domain,D15,Social & Community,0,598,Gi?i pháp cung c?p d?ch v? qu?n lý bán hàng trên m?ng xã h?i,ptit,1,yes
+domain,D15,Social & Community,0,660,Khai phá m?t s? quan ?i?m t? m?ng xã h?i,uit,1,yes
+domain,D15,Social & Community,0,661,Khai thác thông tin ng??i dùng trên m?ng xã h?i,uit,1,yes
+domain,D15,Social & Community,0,666,Nghiên c?u các ph??ng pháp d? ?oán liên k?t trong m?ng xã h?i d?a trên ?? th? m?ng n?-ron,uit,1,yes
+domain,D15,Social & Community,0,775,Xây d?ng h? th?ng trích xu?t nh?t ký s? ki?n t? c? s? d? li?u và ?ng d?ng web khai phá quy trình,uit,1,yes
+domain,D15,Social & Community,0,781,Xây d?ng h? th?ng t? ch?c s? ki?n tr?c tuy?n,uit,1,yes
+domain,D15,Social & Community,0,797,Xây d?ng m?ng xã h?i du l?ch BIGS cho thi?t b? di ??ng,uit,1,yes
+domain,D15,Social & Community,0,798,Xây d?ng m?ng xã h?i du l?ch và ?m th?c ZESS,uit,1,yes
+domain,D15,Social & Community,0,800,Xây d?ng m?ng xã h?i âm nh?c,uit,1,yes
+domain,D15,Social & Community,0,801,Xây d?ng m?ng xã h?i âm nh?c (Social Music),uit,1,yes
+domain,D15,Social & Community,0,803,Xây d?ng n?n t?ng t? ch?c s? ki?n ?o cho tri?n lãm tr?c tuy?n,uit,1,yes
+domain,D15,Social & Community,0,1006,Rent me – a web-based platform for the game player community,uit,1,yes
+domain,D15,Social & Community,0,1036,Xây d?ng ?ng d?ng m?ng xã h?i vi?c làm ( Phía Frontend ),uet_chuan,1,yes
+domain,D15,Social & Community,0,1085,Xây D?ng N?n T?ng H? Tr? K?t N?i Và Phát Tri?n C?ng ??ng Sinh Viên Trong Tr??ng ??i H?c,uet_chuan,1,yes
+domain,D15,Social & Community,0,1113,Xây d?ng ?ng d?ng website m?ng xã h?i,uet_chuan,1,yes
+domain,D15,Social & Community,0,1146,Xây d?ng m?ng xã h?i v? truy?n tranh,uet_chuan,1,yes
+domain,D16,Telecommunications,0,19,Nghiên c?u m?t s? thu?t toán h?c máy trong d? ?oán kh? n?ng khách hàng ng?ng s? d?ng d?ch v? vi?n thông,neu,1,yes
+domain,D17,Sports & Fitness,0,170,XD Website bán giày th? thao cho c?a hàng Dragon Shop,neu,1,yes
+domain,D17,Sports & Fitness,0,226,Phát tri?n h? th?ng ch?m ?i?m th?c hành th? thao d?a trên công ngh? ??c l??ng t? th?,neu,1,yes
+domain,D17,Sports & Fitness,0,297,Xây d?ng website bán hàng th? thao tích h?p h? th?ng g?i ý,neu,1,yes
+domain,D17,Sports & Fitness,0,439,"XÂY D?NG H? TH?NG QU?N LÝ PHÒNG GYM THÔNG MINH, TÍCH H?P AI H? TR? RA QUY?T ??NH KINH DOANH",duytan,1,yes
+domain,D17,Sports & Fitness,0,465,XÂY D?NG H? TH?NG BOOKINGSPORT – WEBSITE ??T SÂN TH? THAO TÍCH H?P CHATBOT AI,duytan,1,yes
+domain,D17,Sports & Fitness,0,498,XÂY D?NG WEBSITE BÁN ?? TH? THAO TÍCH H?P CÁ NHÂN HOÁ S?N PH?M VÀ CHATBOX AI,duytan,1,yes
+domain,D17,Sports & Fitness,0,515,THI?T K? VÀ TRI?N KHAI H? TH?NG QU?N LÝ - ??T SÂN TH? THAO TR?C TUY?N TÍCH H?P CHATBOT AI,duytan,1,yes
+domain,D17,Sports & Fitness,0,886,?ng d?ng h? tr? t? t?p gym d?a trên trí tu? nhân t?o,uit,1,yes
+domain,D17,Sports & Fitness,0,979,Facial recognition technology in gym management.,uit,1,yes
+domain,D17,Sports & Fitness,0,1095,"Phân tích, thi?t k? và xây d?ng h? th?ng kinh doanh và khai thác d?ch v? sân th? thao",uet_chuan,1,yes
+domain,D17,Sports & Fitness,0,1099,Phát tri?n ?ng d?ng di ??ng ch?m ?i?m bài t?p th? d?c s? d?ng mô hình h?c máy,uet_chuan,1,yes
+domain,D17,Sports & Fitness,0,1304,Xác ??nh l?i trong m?t tr?n bóng ?á theo th?i gian th?c,uet_clc,1,yes

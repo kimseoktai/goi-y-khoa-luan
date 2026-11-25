@@ -1,0 +1,20 @@
+﻿label_type,label_id,label_name,current_gold_support,thesis_id,title,source,keyword_score,current_decision,decision,group
+technical_topic,T07,Data Engineering,10,645,Hệ thống lưu trữ và phân tích hình ảnh dựa trên các mô hình máy học,uit,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,1177,Nghiên cứu nền tảng lưu trữ dữ liệu Delta Lake,uet_clc,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,1101,"GIẢI PHÁP THU THẬP, XỬ LÝ VÀ PHÂN TÍCH DỮ LIỆU HÀNH VI CHO HỆ THỐNG MICROSERVICE",uet_chuan,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,225,Xây dựng hệ thống thu thập và phân tích thông tin tình báo mối đe dọa,neu,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,1211,"Hệ thống hỗ trợ thu thập, phân tích dữ liệu, dự báo chất lượng không khí theo thời gian thực",uet_clc,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,624,Bảo vệ quyền riêng tư cho quá trình thu thập dữ liệu,uit,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,446,PHÁT TRIỂN GIẢI PHÁP CỔNG THÔNG TIN QUẢN LÝ VÀ TÍCH HỢP DỮ LIỆU TỪ NHIỀU NGUỒN SỬ DỤNG,duytan,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,263,Nghiên cứu và phát triển ứng dụng giấu tin trong ảnh phục vụ lưu trữ ảnh số an toàn,neu,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,1302,Tiền xử lý dữ liệu tự động sử dụng AI Agent,uet_clc,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,625,Bảo vệ tính riêng tư của dữ liệu cho mô hình học phân tán,uit,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,1397,Tối ưu hoá lưu trữ trong giải pháp Ceph bằng cơ chế tự động hiệu chỉnh nhãn storage class của các đối tượng dữ liệu,uet_clc,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,1395,"Xây dựng công cụ xử lý dữ liệu dựa trên mô hình ngôn ngữ lớn cho các bài toán chuẩn hóa, làm sạch, chuyển đổi định dạng và khôi phục cấu trúc",uet_clc,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,1405,Triển khai hệ thống giả lập hướng tác tử phân tán với cụm máy tính hiệu năng cao,uet_clc,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,1206,Building a Knowledge Graph-based Data Platform for Intelligent Analytics,uet_clc,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,128,Cài đặt thử nghiệm hai thuật toán phân mảnh ngang và phân mảnh dọc trong CSLD phân tán,neu,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,1205,Building an Insight Component for a University Data Platform,uet_clc,1,,,new_candidate
+technical_topic,T07,Data Engineering,10,786,Xây dựng kho dữ liệu cho dịch vụ mua bán trực tuyến và chăm sóc khách hàng,uit,0,no,,recheck
+technical_topic,T07,Data Engineering,10,808,Xây dựng và khai thác kho dữ liệu nhằm đề xuất chiến lược kinh doanh cho doanh nghiệp,uit,0,no,,recheck
+technical_topic,T07,Data Engineering,10,1154,Xây dựng quy trình pipeline DevSecOps cho dự án,uet_chuan,0,yes,,recheck

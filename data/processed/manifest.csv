@@ -1,0 +1,14 @@
+﻿dataset,path,rows,version,sha256,created_at,note
+jobs,data/processed/jobs/jobs_clean.csv,520,v1.1,bf19c1d05856,2026-10-05,"loại 6 dòng, xem logs/jobs_removed.csv"
+skills,data/repository/skills.csv,200,v1.0,497c1c4fd82a,2026-10-05,chờ Admin duyệt
+technical_topics,data/repository/technical_topics.csv,22,taxonomy_v1.1,16440eb6f2f9,2026-10-05,"20 active, 2 candidate"
+domains,data/repository/domains.csv,17,taxonomy_v1.1,fe82bdeb1f49,2026-10-05,"14 active, 3 candidate"
+gold,data/processed/gold/gold_dataset_clean.csv,586,gold_v2.1,1a2c252cfb54,2026-10-05,311 gốc + 275 annotated_partial; 4 needs_review; Data Engineering 17 mẫu (7 mẫu chờ xác nhận)
+thesis_topic_clf,models/thesis_classifier/thesis_topic_clf_v1.0.joblib,0,model_v1.0,9430a8151779,2026-10-05,"20 nhãn, 5-fold CV micro-F1 0.762"
+thesis_domain_clf,models/domain_classifier/thesis_domain_clf_v1.0.joblib,0,model_v1.0,e75fc762b479,2026-10-05,"11 nhãn, 5-fold CV micro-F1 0.759"
+thesis_topic_clf,models/thesis_classifier/thesis_topic_clf_v1.1.joblib,0,model_v1.1,45e18f9a9141,2026-10-05,"20 nhãn, blend + cờ từ khóa; 5-fold CV micro-F1 0.851 (v1.0: 0.762)"
+thesis_domain_clf,models/domain_classifier/thesis_domain_clf_v1.1.joblib,0,model_v1.1,17ac109194da,2026-10-05,"11 nhãn, blend + cờ từ khóa; 5-fold CV micro-F1 0.930 (v1.0: 0.759)"
+thesis_processed,data/processed/thesis/thesis_processed.csv,1431,model_v1.2,e110f5782e0e,2026-10-06,"Phase 6 chính thức (topic/domain v1.2, taxonomy_v1.1); 142 thesis không có topic, 647 không có domain"
+jobs_processed,data/processed/jobs/jobs_processed.csv,520,rules_v1.2,8aaafcd503c6,2026-10-06,"thêm ánh xạ vai trò BA/Data Governance/IT Risk/IT Support; sửa lỗi topic 1 skill (NLP, CV, Blockchain); 19 job chưa có topic"
+market_demand,data/processed/market/,520,market_v1.0,3b6545ccb770,2026-10-08,Phase 8: thống kê có khoảng tin cậy; không có xu hướng thời gian
+job_thesis_matches_preview,data/processed/matching/job_thesis_matches_PREVIEW_no_semantic.csv,5200,matching_v0.1-preview,ec722deaf2da,2026-10-08,"Phase 9 sơ bộ: chỉ Topic+Domain, chưa có semantic; bản chính thức cần embedding và chạy trên máy người dùng"
